@@ -1,0 +1,775 @@
+Crystal structure of the carbapenemase OXA-24
+reveals insights into the mechanism
+of carbapenem hydrolysis
+Elena Santillana*, Alejandro Beceiro†, Germán Bou†, and Antonio Romero*‡
+*Departamento de Estructura y Función de Proteı́nas, Centro de Investigaciones Biológicas, Consejo Superior de Investigaciones Cientificas, Ramiro de
+Maeztu 9, E-28040 Madrid, Spain; and †Servicio de Microbiologı́a-Unidad de Investigación, Complejo Hospitalario Universitario Juan Canalejo,
+As Xubias 84, E-15006 La Coruña, Spain
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Edited by Gregory A. Petsko, Brandeis University, Waltham, MA, and approved February 9, 2007 (received for review August 31, 2006)
+
+Combating bacterial resistance to ␤-lactams, the most widely used
+antibiotics, is an emergent and clinically important challenge.
+OXA-24 is a class D ␤-lactamase isolated from a multiresistant
+epidemic clinical strain of Acinetobacter baumannii. We have
+investigated how OXA-24 specifically hydrolyzes the last resort
+carbapenem antibiotic, and we have determined the crystal structure of OXA-24 at a resolution of 2.5 Å. The structure shows that
+the carbapenem’s substrate specificity is determined by a hydrophobic barrier that is established through the specific arrangement
+of the Tyr-112 and Met-223 side chains, which define a tunnel-like
+entrance to the active site. The importance of these residues was
+further confirmed by mutagenesis studies. Biochemical and microbiological analyses of specific point mutants selected on the basis
+of structural criteria significantly reduced the catalytic efficiency
+(kcat/Km) against carbapenems, whereas the specificity for oxacillin
+was noticeably increased. This is the previously unrecognized
+crystal structure that has been obtained for a class D carbapenemase enzyme. Accordingly, this information may help to improve
+the development of effective new drugs to combat ␤-lactam
+resistance. More specifically, it may help to overcome carbapenem
+resistance in A. baumannii, probably one of the most worrying
+infectious threats in hospitals worldwide.
+␤-lactamases 兩 carbapenem resistance 兩 enzyme mechanism 兩
+protein crystallography 兩 Acinetobacter baumannii
+
+acteria hydrolyze ␤-lactam antibiotics primarily by using ␤-lactamases in an acylation–deacylation-based process. By inactivating peptidoglycan transpeptidases, members of the family of
+penicillin-binding proteins, ␤-lactam antibiotics have been successfully used for many years to inhibit the peptidoglycan synthesis
+responsible for the biosynthesis of the bacterial cell wall (1, 2).
+␤-lactamases can be divided into four classes (A, B, C, and D)
+according to their sequence similarities (3). On the basis of their
+different catalytic mechanisms, two groups have been established
+whereby class B enzymes are metalloproteins that require zinc for
+their activity, and class A, C, and D ␤-lactamases contain serine
+groups in their active site (4). Oxacillinases are Ambler class D
+␤-lactamases with hydrolytic activity against penicillins, extendedspectrum cephalosporins, methicillin, and aztreonam (5).
+Recently, a new type of oxacillinases with carbapenemase activity
+has been identified in different parts of the world (6–11). In contrast
+to the other oxacillinases, most of these new OXA-type carbapenemases lack hydrolytic activity against oxacillin, cloxacillin, and
+methicillin, and they display resistance to carbapenems (9, 12).
+Based on their amino acid sequence, these OXA-type carbapenemases can be grouped into eight different clusters (13). Moreover,
+these enzymes have been seen to be widely dispersed in some
+clinically relevant species, such as Acinetobacter baumannii (where
+four groups have been identified: OXA-23, OXA-24, OXA-51,
+OXA-58, and their variants) and Pseudomonas aeruginosa
+(OXA-50 family; ref. 13). Carbapenems are the remaining drug of
+choice to treat these multiresistant pathogens, which may be
+
+B
+
+5354 –5359 兩 PNAS 兩 March 27, 2007 兩 vol. 104 兩 no. 13
+
+responsible for severe nosocomial infections. Hence, the emergence
+of OXA-type carbapenemases raises a particularly disturbing problem (12, 14).
+The structures of class A and C ␤-lactamases, as well as that of
+the prototypic class D oxacillinases (OXA-1, OXA-2, OXA-10, and
+OXA-13), have been determined (15–19). Comparison of these
+active-serine enzymes has identified similarities in their overall
+folding involving one helical and one mixed ␣ /␤ domain and three
+highly conserved active site elements in a cleft located between the
+two domains that are involved in hydrolysis. Despite these similarities, important differences both adjacent to the active site and in
+the omega loop region may establish their specific hydrolytic
+profiles (17, 18). However, no structures of a class D carbapenemase are currently available.
+Here, we present a previously unrecognized three-dimensional
+structure describing a class D carbapenem-hydrolyzing oxacillinase,
+OXA-24, extracted from a clinically epidemic multidrug-resistant
+A. baumannii strain (9). In combination with mutagenesis, biochemical experiments, and modeling, these data suggest a plausible
+mechanism that may be associated with carbapenem hydrolysis of
+a class D carbapenemase enzyme. Moreover, our structural and
+biochemical studies provide the molecular basis to explain the
+acquisition of carbapenem specificity. Together this information
+could serve as a starting point for the development of new antimicrobial agents given that there is clearly a specific need for a potent
+class D ␤-lactamase inhibitor to bridge the existing therapeutic void.
+Results
+Overall Folding. The approximate dimensions of OXA-24 are 58 ⫻
+
+46 ⫻ 38 Å, and structurally it involves an ␣/␤ fold where the helices
+are exposed to the solvent surrounding the core of the central
+␤-sheet (Fig. 1a). The molecule can be separated into two domains,
+one helical and one of a mixed ␣/␤ structure containing a central
+six-stranded antiparallel ␤-sheet. The N- and C-terminal helices (␣1
+and ␣9) can be found on one side of this ␤-sheet, and there is a
+single 310 helix (␣3) on the other. The active site has an overall
+positive charge, and it lies between the interface of the ␤-sheet and
+the helical subdomain, adopting the appearance of an extended
+cleft (Fig. 1b). The catalytic-binding pocket is formed by the ␤4
+strand together with the N-terminal end of the 310 ␣3 helix and the
+Author contributions: E.S. and A.B. contributed equally to this work; G.B. and A.R. designed
+research; E.S. and A.B. performed research; E.S., A.B., G.B., and A.R. analyzed data; and E.S.,
+G.B., and A.R. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+Abbreviations: MIC, minimal inhibitory concentration; DM, double mutant.
+Data deposition: The atomic coordinates have been deposited in the Protein Data Bank,
+www.pdb.org (PDB ID code 2JC7).
+‡To
+
+whom correspondence should be addressed. E-mail: romero@cib.csic.es.
+
+This article contains supporting information online at www.pnas.org/cgi/content/full/
+0607557104/DC1.
+© 2007 by The National Academy of Sciences of the USA
+
+www.pnas.org兾cgi兾doi兾10.1073兾pnas.0607557104
+
+loop between the ␣4 and ␣5 helices. In the absence of substrate, the
+cavity is filled by a sulfate ion and a network of water molecules,
+thereby providing a set of contact points that can be encountered
+upon antibiotic accommodation.
+The structure displays an overall organization very similar to that
+found in other class A, C, and D ␤-lactamases (15–19), as well as
+in other DD-transpeptidases (20, 21). For example, the rms difference in the atomic positions for the common C␣ residues of
+OXA-24 is 1.3 Å (225 C␣ atoms) when compared with that of the
+oxacillinase class D ␤-lactamase OXA-10 (17, 19) and 2.4 Å (169 C␣
+atoms) when compared with a typical class A enzyme (Escherichia
+coli TEM-1; ref. 22). The nucleus of the ␤-sheet and almost all of
+the adjacent ␣-helices (␣1, ␣3, and ␣5 to ␣9) can be readily
+superimposed when considering this group of active-serine enzymes [supporting information (SI) Fig. 6 a and b] (23). However,
+despite the high degree of similarity mentioned above, a number of
+differences with respect to the overall folding may contribute to the
+particular specificity for ␤-lactam as well as variations in regions
+adjacent to the active site (24).
+Structural Homology to the Class D Oxacillinase Family. Protein
+
+folding is thought to be well conserved between OXA-24 and the
+oxacillinase members of class D ␤-lactamases with defined structures, namely the following: OXA-1 from E. coli (15), OXA-2 from
+Salmonella typhimurium (PDB ID code IK38), and both OXA-10
+and OXA-13 from Pseudomonas aeruginosa (17–19). Although the
+sequence identity with other members of the oxacillinase family
+only ranges from 23% with OXA-1 to 39% with OXA-10, the
+position of the secondary structural elements in the helical and the
+mixed ␣/␤ domains are highly conserved in OXA-24. However,
+significant differences were observed in several regions of OXA-24
+when compared with other OXA structures. For example, the
+biggest difference was observed at the N terminus (Fig. 2a), which
+exhibits an elongated ␣-helix (␣1) in OXA-24 instead of the
+common ␤1/␣1 motif present in the oxacillinase family. In this
+respect, OXA-24 closely resembles the N terminus of the TEM-type
+class A ␤-lactamases (Fig. 6b; ref. 22).
+The relative orientation of the short ␤3 strand at the top of the
+binding site, directly implicated in dimerization, is different from
+the topologically equivalent strand of the three dimeric oxacillinases [OXA-2 (PDB ID code IK38), -10, and -13; refs. 17–19].
+Santillana et al.
+
+Fig. 2. Details of the structure of OXA-24. (a and b) Selected views of the
+superposition of OXA-24 (cyan) and the oxacillinase members of class D ␤-lactamases of known structure, OXA-1 (yellow), OXA-2 (navy blue), OXA-10 (red), and
+OXA-13 (green), highlighting the major structural differences. OXA-24 displays
+an elongated ␣-helix (␣1) at the N terminus and the ␤3 strand implicated in
+dimerization in other oxacillinases is directed toward the C-terminal helix (␣9).
+Important differences can also be observed in the ⍀-loop. (c) Detail of the
+nonpolar region at the lower border of the active binding cleft. The hydrophobic
+core formed by several nonpolar residues (Val-78, Val-225, Val-229, and Trp-231)
+contributes to the stability of the solvent-exposed ␤4-␤5 loop and partially blocks
+the access to the bottom part of the cleft.
+
+However, it is similar to that observed in the monomeric OXA-1
+structure (15). Hence, the ␤3 strand is bent ⬇30° inward when
+compared with its position at the equivalent dimerization interface in the oxacillinase family. Thus, it is directed toward the
+C-terminal helix (␣9), disrupting a set of potentially favorable
+interactions and thereby interfering with dimer formation. Size
+exclusion chromatography and analytical centrifugation showed
+that OXA-24 exists exclusively as a monomer at concentrations
+between 0.1 and 100 ␮M.
+A further interesting difference that was observed at the lower
+border of the active binding cleft involves the loop connecting the
+␤4 and ␤5 strands (Fig. 2b). Maximum displacement was observed
+at residue Gly-224, which in comparison with the corresponding
+loop from the OXA structures is shifted toward the center of the
+binding groove in the direction of the ⍀-loop (4.6 Å in OXA-1 and
+6.8 Å in OXA-10; refs. 15, 17, and 19). Moreover, the movement of
+the ␤4-␤5 loop in OXA-24 partially blocks the bottom part of the
+groove in the cleft. Because of the lateral chains of several nonpolar
+residues (Val-78, Val-225, Val-229, and Trp-231), this movement
+probably creates a hydrophobic core, thereby contributing to the
+stability of the solvent-exposed loop (Fig. 2c). This dynamic behavior nourished the assumption that the movements of these loops
+may determine the specificity of distinct OXA variants for diverse
+␤-lactams (23).
+The ␤-Lactam Active Site. The OXA-24 ␤-lactam active site is readily
+discernible at the junction of the two domains (Fig. 1a). In
+agreement with previous studies (17–21), it comprises residues from
+the ␤4 strand together with those coming from the N-terminal end
+of the 310-helix ␣3 and a number of residues from the loop between
+helices ␣4 and ␣5 (Fig. 3a). This region includes three common
+PNAS 兩 March 27, 2007 兩 vol. 104 兩 no. 13 兩 5355
+
+BIOCHEMISTRY
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Fig. 1. Structure of OXA-24, a class D carbapenem-hydrolyzing oxacillinase.
+(a) Stereodiagram showing the overall folding of OXA-24 with the two
+domains colored differently: the ␣ helical domain is shown in navy blue and in
+the mixed ␣/␤ domain, the ␤-sheet is shown in cyan, and the ␣-helices are
+shown in orange. (b) Surface potential of the tunnel-like entrance to the active
+site, where blue is positive and red is negative. The sulfate ion and water
+molecules are shown in ball-and-stick mode.
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Fig. 3. Close-up view of the ␤-lactam active site in OXA-24. (a) Representation of the active site elements (17). The first element (gray) is located at the
+N-terminal end of the 310-helix ␣3, and it is formed by residues Ser-81-Thr-82Phe-83-Lys-84. The second motif (green), Ser-128-Ala-129-Val-130, lies in the
+loop connecting helices ␣4 and ␣5. The third active site element (cyan) is
+formed by the residues Lys-218-Ser-219-Gly-220 from the ␤4 strand. (b) Detailed interactions showing the contact network at the active site (shown as
+solid lines).
+
+motifs that converge to form the active site, and these are referred
+to as the active site elements (17).
+The first of these elements lies at the N-terminal end of the
+310-helix ␣3, and it is formed by residues Ser-81-Thr-82-Phe-83Lys-84. This element contains the catalytic serine residue Ser-81,
+which acts as the nucleophile in the acylation step of the reaction
+(17). Indeed, together with Lys-84 this residue is included in the first
+of the three signature sequences conserved within penicillinbinding proteins/␤-lactamases, the Ser-X-X-Lys motif (25). As well
+as establishing contacts with water molecules in the cleft, the
+hydroxyl group of Ser-81 establishes a weaker hydrogen bond with
+the N␨ of Lys-84 (3.35 Å) than that observed in other oxacillinases
+(2.9 Å in OXA-10; ref. 17). The relative weakness of this interaction
+is compensated by a slight movement of Lys-84 within the crevice,
+pointing to the ⍀-loop, which forms a hydrogen bond with the side
+chain nitrogen of the conserved Trp-167 (3.55 Å, Fig. 3b).
+The second active site element in class D ␤-lactamases lies in the
+loop connecting ␣4 and ␣5 helices, and it is represented by the
+conserved motif Ser-128/X/Val-Ile (Fig. 3a). The lateral hydroxyl
+chain of Ser-128 is accommodated in the direction of the activeserine Ser-81, forming hydrogen bonds with the neighboring residues: O␥ Ser-128—O␥ Ser-81 (2.92 Å), O␥ Ser-128—N␨ Lys-84
+(3.17 Å), and O␥ Ser-128—O SO4 (2.86 Å, Fig. 3b). Accordingly,
+5356 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0607557104
+
+the hydrogen bond network associated with Ser-128 presents subtle
+differences with that of the rest of the oxacillinase family. A further
+characteristic feature within this second element is the presence of
+a nonpolar residue (Val-130), which is unique to class D enzymes
+(5). The nonpolar side chain of Val-130 may contribute to the broad
+substrate specificity of the class D enzymes. Indeed, not only is this
+side chain a major determinant for cleaving substrates with bulkier
+side groups (i.e., the isoxazolyl moiety of oxacillins), but it also
+participates in hydrophobic rather than hydrogen bonding interactions (17, 19, 26). Moreover, recent studies on clinical isolates of
+carbapenem multiresistant A. baumannii reveal a new subgroup in
+the OXA carbapenemase family (27). As observed in OXA-51 (10),
+all enzymes of the novel subgroup 3 carbapenem-resistant A.
+baumannii had a conserved valine to isoleucine substitution in the
+second element of the active site S-X-V.
+Several residues from the ␤4 strand form the upper part of the
+cleft, which runs horizontally from left to right and includes the
+conserved Lys-218-Ser-219-Gly-220 sequence of the third active site
+element (Lys/X/Gly consensus sequence, Fig. 3a; ref. 25). The
+conformation of this segment is virtually identical to the Lys-205Thr-206-Gly-207 component of the oxacillinase class D ␤-lactamases. Notably, this region has also been shown to be essential for the
+binding of the carboxylate group of ␤-lactam antibiotics in penicillin-binding proteins and in class A and D ␤-lactamases (28, 29).
+Moreover, the guanidinium group of Arg-261 protruding from the
+␣9 helix is located in an area similar to Arg-250 in OXA-10 (17). In
+OXA-10, this group interacts with a sulfate ion in the active site,
+resembling the carboxylate group of the substrate in the x-ray
+structures of acyl-enzyme complexes (28, 29). Thus, the fact that
+there is close structural similarity between the ␤-lactam active site
+of OXA-24 and the oxacillinases strongly suggests that the hydrolytic mechanism used by OXA-24 is similar to that of other class D
+␤-lactamases (25).
+The differences at the ␤-lactam active site in OXA-24 are subtle.
+Nevertheless, despite the overall similarity in folding, significant
+differences must arise between OXA-24, a class D oxacillinase with
+carbapenemase activity, and structurally related oxacillinases to
+account for the functional differences (i.e., its hydrolytic activity
+toward carbapenems as well as its apparent lack of activity against
+oxacillin).
+Molecular Basis for Carbapenem Specificity. The three common
+
+motifs around the active site that are important for enzyme activity
+were identified in structural studies on both native oxacillinases
+(15–17, 19) and when it exists in a complex with meropenem and
+imipenem (18). Moreover, the mechanism by which class D ␤-lactamases hydrolyze ␤-lactam antibiotics is thought to be slightly
+different from that observed in class A and C enzymes (17).
+However, as recently pointed out (13), the structural information
+currently available does not enable us to define structure/function
+relationships that might help us to understand the mechanisms
+associated with carbapenem hydrolysis in the OXA-type carbapenemases. Likewise, we are unable to identify the key residues that
+modulate this specificity.
+Nevertheless, by more closely examining the molecular surface of
+the active site, the entrance to the cleft of OXA-24 differs significantly from that of OXA-10, a representative member of the
+oxacillinase family (Fig. 4 a and b). Indeed, direct hydrophobic
+interactions orchestrate a specific arrangement of the Tyr-112 and
+Met-223 side chains to create a hydrophobic barrier. To some extent
+this barrier restricts access to the cleft, defining a tunnel-like
+entrance to the active site. This hydrophobic environment over the
+active site is stabilized by other hydrophobic contacts, for example,
+those of Thr-111, Trp-115, and Trp-221, thereby contributing to the
+stability of the nonpolar interface.
+The tunnel has a diameter of ⬇6.3 Å, which permits it to directly
+regulate the shape and chemical nature of the antibiotics that can
+access the active site before catalysis and those that may reach the
+Santillana et al.
+
+Table 1. Antibiotic MIC values (␮g/ml) determined for A.
+baumannii* OXA-24 WT and selected structure-based mutants
+Antibiotic
+
+WT OXA24
+
+Y112A
+
+M223A
+
+OXA-24 DM
+
+pAT-RA†
+
+⬎256
+32
+64
+
+⬎256
+4
+1
+
+⬎256
+16
+16
+
+⬎256
+4
+0.5
+
+⬎256
+0.5
+0.25
+
+Ampicillin
+Imipenem
+Meropenem
+
+*A. baumannii transformed with pAT-RA with the corresponding gene and
+expressing OXA-24 WT or that with the indicated amino acid replacements.
+†A. baumannii harboring solely pAT-RA as negative control. MICs were determined in the presence of 50 ␮g/ml rifampin. Identical MICs were obtained
+with three different transformants in each case.
+
+of the hydroxyethyl moieties of imipenem and meropenem and the
+hydrophobic character of the tunnel-like channel are suitable to
+accommodate carbapenems, in accordance with the substrate affinity of OXA-24. Accordingly, we investigated the effect that point
+mutations of Tyr-112 and Met-223 had on substrate selectivity in A.
+baumannii.
+
+Fig. 4. Acquisition of carbapenem specificity in OXA-24. (a and b) Surface
+potential drawing in two different orientations of OXA-24 (Left) and OXA-10
+(Right) with positive and negative-charged regions shown in blue and red,
+respectively. Residues Tyr-112 and Met-223 and their structural equivalents in
+OXA-10, Met-99, and Gly-210 are colored green. The relative orientation of
+both key residues in OXA-24 (Left) specifically delimits access to the catalytic
+binding site, whereas the cleft is fully open in OXA-10. (c) Chemical structures
+of indicated antibiotics.
+
+catalytic Ser-81 residue. A comparison of the chemical structures of
+oxacillin and the carbapenems, imipenem, and meropenem (Fig.
+4c) should further elucidate how the selective hydrolytic behavior
+of OXA-24 arises. The bulky methylphenylisoxazolyl moiety of the
+oxacillin molecule is located at the left position of the ␤-lactam ring.
+Therefore, access of this substrate to the active site in the wild-type
+(WT) OXA-24 enzyme may be difficult, because of both steric
+restrictions and the architecture of the catalytic binding site. Interestingly, this feature may account for the relatively lower activity of
+OXA-24 toward this antibiotic when compared with other oxacillinases (kcat/Km ⬇ 200 mM⫺1 s⫺1). On the other hand, the small size
+
+hibitory concentration (MIC) values of A. baumannii JC7/04 expressing either WT OXA-24 or its single or double mutants are
+shown in Table 1. Because the A. baumannii host is intrinsically
+resistant to most ␤-lactam antibiotics (with the exception of carbapenems), the susceptibility to ampicillin and oxacillin can be
+measured only by kinetic experiments with purified OXA-enzymes.
+With carbapenems, clear imipenem and meropenem resistance was
+observed (following NCCLS breakpoints) when the WT OXA-24
+was expressed in A. baumannii (Table 1), yielding MIC values of 32
+and 64 ␮g/ml, respectively. In contrast to the M223A substitution
+that slightly decreased the carbapenem MIC values (Table 1), the
+Y112A mutation diminished both the imipenem and meropenem
+MIC values to 4 and 1, respectively (NCCLS susceptibility breakpoints were established as ⱕ4 ␮g/ml). When both amino acid
+changes were introduced into WT OXA-24 together to produce the
+OXA-24 double mutant (DM), the MIC for imipenem decreased
+to 4 ␮g/ml, whereas meropenem practically reached the basal levels
+found in A. baumannii with the pAT-RA plasmid (negative
+control).
+To further clarify the role of the Tyr-112 and Met-223 residues
+in the carbapenemase activity of OXA-24, biochemical experiments
+were carried out using purified WT OXA-24, OXA-24-Y112A
+(because this substitution seemed more important than M223A),
+and the OXA-24 DM (the overall kinetic results from these
+experiments are shown in Table 2). With regard to ampicillin, the
+kcat/Km ratio was three to six times lower in both OXA-24 mutants
+than in WT OXA-24. Indeed, although kcat was similar in each of
+the three proteins, the Km was clearly higher for the mutated
+enzymes. Thus, the reduced catalytic efficiency against ampicillin in
+
+Table 2. Kinetic parameters of WT OXA-24 and its mutants toward the indicated antibiotics*
+Ampicillin
+
+OXA-24 WT†
+OXA-24 Y112A
+M223A
+OXA-24 Y112A
+
+Oxacillin
+
+Km,
+␮M
+
+kcat,
+s⫺1
+
+kcat/Km,
+mM⫺1 s⫺1
+
+80
+(⫾ 15)
+410
+(⫾ 11)
+594
+(⫾ 60)
+
+223
+(⫾ 92.9)
+401
+(⫾ 84)
+274
+(⫾ 14)
+
+2,758
+980
+461
+
+Imipenem
+
+Meropenem
+
+Km
+
+kcat
+
+kcat/Km
+
+Km
+
+kcat
+
+kcat/Km
+
+Km
+
+kcat
+
+kcat/Km
+
+1,272
+(⫾ 222)
+1,951
+(⫾ 461)
+3,757
+(⫾ 816)
+
+0.18
+(⫾ 0.086)
+0.35
+(⫾ 0.12)
+0.055
+(⫾ 0.019)
+
+202
+
+0.58
+(⫾ 0.084)
+9
+(⫾ 0.71)
+15
+(⫾ 2.20)
+
+1
+(⫾ 0.47)
+3
+(⫾ 0.26)
+5
+(⫾ 1.21)
+
+2,786
+
+0.0099
+(⫾ 0.0014)
+3
+(⫾ 0.45)
+1
+(⫾ 0.15)
+
+0.37
+(⫾ 0.1)
+0.25
+(⫾ 0.1)
+0.22
+(⫾ 0.05)
+
+37,869
+
+645
+197
+
+342
+355
+
+83
+243
+
+*These results are the mean values of three independent experiments.
+†The specific activity of the purified OXA-24 enzymes measured with 100 ␮M nitrocefin as substrate were 0.34, 0.39, and 0.28 ␮mol/min per ␮g of protein for
+WT OXA-24, double mutant OXA-24, and Y112A OXA-24, respectively.
+
+Santillana et al.
+
+PNAS 兩 March 27, 2007 兩 vol. 104 兩 no. 13 兩 5357
+
+BIOCHEMISTRY
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Point Mutants That Altered Substrate Selectivity. The minimal in-
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+the mutated proteins was due to a reduced affinity rather than to
+changes in the turnover rate (kcat).
+With respect to oxacillin, the activity of OXA-24 toward this
+antibiotic (kcat/Km ⬇ 200) was very low when compared with other
+oxacillinases. However, the Y112A and M223A substitutions induced significant higher increase in activity of ⬎3-fold. In contrast,
+both imipenem and meropenem were readily degraded by WT
+OXA-24 with high catalytic efficiency (Table 2). The mutated
+OXA-24-Y112A and OXA-24–DM displayed weaker catalytic
+efficiency against carbapenems, although this effect was more
+drastic with meropenem (the meropenem kcat/Km ratios were 456
+and 155 times lower in the OXA-24 DM and OXA-24 Y112A,
+respectively). Interestingly, the Km for imipenem and meropenem
+was much higher in both OXA-24-Y112A and OXA-24-DM,
+whereas the kcat remained almost identical in both the WT OXA-24
+and the mutant enzymes. Although Met-223 is close to the KSG
+domain, the Tyr-112 and Met-223 residues lie outside of the active
+center, and they are not directly involved in ␤-lactam catalysis.
+Thus, the biochemical data are consistent with the structural data
+in that they suggest that the Tyr-112-Met-223 ‘‘hydrophobic barrier’’ is the main factor that dictates the biochemical properties of
+the OXA-24 enzyme. Indeed, no real change in the active center of
+the OXA-24 enzyme can be responsible for the changes in the
+kinetic parameters toward carbapenems because the kcat values of
+the mutant OXA-24 enzymes with respect to meropenem were
+almost identical to that of the WT. However, there was a clear
+reduction in the kcat/Km ratio with both Y112A and DM, suggesting
+that in the absence of this tunnel-like entrance, carbapenems are
+not correctly orientated and therefore cannot gain access to the
+active center.
+Discussion
+OXA-24 is a carbapenem-hydrolyzing class D ␤-lactamase isolated
+from a multiresistant clinical isolate of A. baumannii, which is
+naturally highly resistant to carbapenem antibiotics (9). There is a
+worldwide increase in the resistance of bacterial pathogens to
+carbapenem antibiotics associated with the production of OXAtype ␤-lactamases (9, 12, 30). Hence, these enzymes become
+interesting candidates for structural studies to determine the molecular mechanism of carbapenem resistance at the atomic level.
+From the crystal structure of OXA-24, a plausible model for its
+carbapenem binding specificity has been generated. In this model,
+a pair of amino acid residues (Tyr-112 and Met-223) emerges that
+are directly related to this resistance and that confers unique
+structural features to a carbapenemase enzyme. The relative orientation of both key residues delimits the access to the catalytic
+binding-site, underlining the importance of the appropriate positioning of the antibiotic for optimal recognition (20). Furthermore,
+a change in the conformation of the ␤4-␤5 loop toward the lower
+boundary of the cleft of the active site partially blocks the bottom
+part of the channel, acting like a flip lid, and this generates a
+hydrophobic core using the lateral chains of several nonpolar
+residues (Fig. 2c).
+The docking of imipenem and meropenem within the binding site
+fully supports the proposed role of Tyr-112 and Met-223 in establishing specificity and yields further insight into how the ␤-lactam
+antibiotic complex is formed (Fig. 5 a and b). Notably, the substrate
+is visibly anchored into the tunnel-like cavity of the active site with
+no significant displacement of the protein side-chains. Carbapenem
+molecules bind through the carboxylate and the 6␣-hydroxyethyl
+groups at the left position of the ␤-lactam ring (Fig. 4c) through two
+types of interactions: a strong salt-bridge contact between the
+carboxylate group of the antibiotic and the guanidinium moiety of
+Arg-261; and a hydrogen bond between the hydroxyl group of the
+drug and the main-chain carbonyl oxygen atom of Trp-221, as well
+as a favorable van der Waals interaction between the aliphatic
+methyl group and the nonpolar Val-130 residue. Moreover, the
+sulfur-containing side-chain at position 3 of the carbapenem ring
+5358 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0607557104
+
+Fig. 5. The effect of point mutations on substrate selectivity. (a and b)
+Docking of imipenem (a) and meropenem (b) within the active site. The
+substrate is visibly anchored into the tunnel-like cavity of the binding site.
+Models of OXA-24 with carbapenems, based on the published structures (18),
+were manually fitted onto the active site and then subjected to energy
+minimization by using the CNS program (16). (c) Schematic representation of
+the active site of OXA-24 with a hypothetical oxacillin molecule. The bulk
+side-chain of this ␤-lactam antibiotic, at position 6 of the ␤-lactam ring,
+collides with the hydrophobic barrier at the tunnel-like entrance. (d) Important catalytic residues in the active site. The Tyr-112 residue seems to be
+essential for catalytic efficiency against carbapenems because it hooks the
+6-␣-hydroxyethyl group of these ␤-lactam antibiotics before catalysis. (e) The
+hypothetical active site cavity of the OXA-24 double mutant. The binding
+modus of oxacillin in the double mutant mimics the specific binding of
+isoxazolyl penicillin derivatives to the open cleft of oxacillinases (17, 19).
+
+(aminomethylideneamino-ethyl sulfanyl of imipenem and
+5-dimethylcarbamoyl pyrrolidin-2yl sulfanyl of meropenem) runs
+almost parallel to the active site by stacking with various residues on
+the hydrophobic surface of the cleft (i.e., Tyr-112, Met-114, Trp115, and Leu-127). The derived molecular modeling interactions
+are consistent with some of the key features of the ligand binding
+properties inferred from the OXA-13-meropenem complex (18). In
+turn, this explains why carbapenems but not isoxazolyl penicillins
+such as oxacillin, with bulkier substituents at position 6 of the
+␤-lactam ring, are specifically degraded by OXA-24 (Fig. 5c).
+Finally, to validate the structural model and to clarify how the
+Tyr-112 and Met-223 residues participate in carbapenem specificity,
+structural mutants were constructed. Our structural and mutagenesis studies demonstrate that Tyr-112 and Met-223 are important
+for the carbapenemase activity of OXA-24. With carbapenems,
+clear imipenem and meropenem resistance was observed when WT
+OXA-24 was expressed in A. baumannii. Although substitution of
+Met-223 by alanine (M223A) slightly diminishes the carbapenem
+MIC values, the mutant Y112A significantly decreased imipenem
+and meropenem MIC values. When both amino acid changes were
+introduced in WT OXA-24 together, the imipenem MIC decreased
+to 4 ␮g/ml, whereas meropenem practically reached basal levels.
+Biochemical experiments also confirm the lower catalytic efficiency
+of the selected mutants against carbapenems. With either Y112A or
+the double mutant there was a clear reduction in the kcat/Km ratio,
+which suggests that in the absence of the characteristic tunnel-like
+entrance carbapenems are not correctly orientated and therefore,
+they cannot properly reach the active center. The role of Tyr-112
+seems to be essential for catalytic efficiency against carbapenems as
+it hooks the 6-␣-hydroxyethyl side chain of these ␤-lactam antibiotics (31) before catalysis (Fig. 5d). Interestingly, the substitution of
+these residues in OXA-24 confers almost a 4-fold increase in the
+hydrolytic activity for oxacillin, even though the activity of the WT
+enzyme against this ␤-lactam antibiotic is very low. This may be
+related to the abrogation of the tunnel-like entrance to the active
+site in the WT OXA-24, a phenomenon that is avoided when this
+channel is eliminated in the double mutant (Fig. 5e). In this respect,
+the binding modus of oxacillin in the double mutant mimics the way
+Santillana et al.
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Materials and Methods
+Full protocols are available in SI Text.
+Bacterial Strains and Growth Conditions. To clone the OXA-24
+
+Antimicrobial Agents and Determination of MICs. Antibiotic suscep-
+
+tibility profiles were determined by microdilution following National Committee for Clinical Laboratory Standards criteria (32).
+In addition, the MICs for the following antibiotics were confirmed
+by the E test (AB Biodisk, Solna, Sweden): ampicillin (AM),
+imipenem (IP), and meropenem (MP).
+Site-Directed Mutagenesis and Cloning Procedures. PCR was used to
+amplify the gene coding for WT and mutated oxa-24 genes (oxa24–Y112A, oxa-24–M223A, and oxa-24 DM). These WT OXA-24
+and mutated genes were then cloned into the pAT-RA plasmid, a
+previously described E. coli–A. baumannii shuttle plasmid (at the
+SmaI and EcoRI restriction sites), under the control of the CTXM-14 ␤-lactamase gene promoter.
+Purification and Kinetic Experiments. The WT OXA-24 and mutated
+genes were subcloned into pGEX-6p-1 (BamHI and EcoRI restriction sites) to generate a fusion protein between GST and the
+OXA-24 genes lacking the signal peptide. The ␤-lactamase was
+then purified to homogeneity following the manufacturer’s instructions for the GST Gene Fusion System (Amersham Pharmacia
+Biotech, Europe GmbH, Barcelona, Spain). Kinetic experiments
+were performed as described (33).
+Crystallization, Data Collection, Structure Determination, and Refinement. Crystals of recombinant OXA-24 were obtained in 2 M
+
+(NH4)2SO4 buffered with 100 mM sodium acetate (pH 4.5). Data
+were collected at the European Synchrotron Radiation Facility
+(Grenoble, France) beamline BM16 by using a single frozen crystal
+(100 K) (see SI Table 3). Data were processed and refined as
+described in SI Text.
+
+gene, an A. baumannii clinical isolate strain resistant to
+carbapenems that was previously reported to harbor this gene
+was used (RYC 52763/97; ref. 9). E. coli TG1 [genotype: F⬘
+traD36 LacI q ⌬(lacZ)M15] proA⫹B⫹/ supE ⌬(hsdMmcrB)5(rk⫺mk⫺McrB⫺) thi ⌬(lac-proAB) and E. coli BL21
+[genotype: F⫺ ompT HsdSB (rB⫺mB⫺) gal dcm] were used for
+cloning and for the expression and purification of proteins,
+respectively. A. baumannii JC7/04 was used as a host of the
+different recombinant plasmids for MIC studies.
+
+We thank the staff of beamline BM16 at the European Synchrotron
+Radiation Facility for their support, C. Fernández-Cabrera for excellent
+technical assistance, G. Rivas for ultracentrifugation studies, and P.
+Grooves and M. Sefton for critical reading of the manuscript. This work
+was supported by Grant BFU2005-05055 from the Spanish Ministry of
+Science; Grant PGIDI4BTF916028PR from Dirección Xeral I⫹D,
+Xunta de Galicia; and Grants PI040514, PI061368, and RD06/0008 from
+the Fondo de Investigaciones Sanitarias. E.S. holds a fellowship from the
+Spanish Ministry of Science. A.B. is a recipient of a scholarship from the
+Sociedad Española de Enfermedades Infecciosas y Microbiologı́a
+Clı́nica.
+
+1. Lee W, McDonough MA, Kotra L, Li ZH, Silvaggi NR, Takeda Y, Kelly JA,
+Mobashery S (2001) Proc Natl Acad Sci USA 13:1427–1431.
+2. Frère JM (1995) Mol Microbiol 16:385–395.
+3. Ambler RP (1980) Phil Trans R Soc London B 289:321–331.
+4. Majiduddin FK, Materon IC, Palzkill TG (2002) Int J Med Microbiol 292:127–137.
+5. Ledent P, Raquet X, Joris B, Van Beeumen J, Frère JM (1993) Biochem J
+292:555–562.
+6. Afzal-Shah M, Livermore DM (1998) J Antimicrob Chemother 41:576–577.
+7. Poirel L, Marque S, Heritier C, Segonds C, Chabanon G, Nordmann P (2005)
+Antimicrob Agents Chemother 49:202–208.
+8. Naas T, Levy M, Hirschauer C, Marchandin H, Nordmann P (2005) J Clin Microbiol
+43:4826–4829.
+9. Bou G, Oliver A, Martinez-Beltran J (2000) Antimicrob Agents Chemother 44:1556–
+1561.
+10. Brown S, Young HK, Amyes SG (2005) Clin Microbiol Infect 11:15–23.
+11. Girlich D, Naas T, Nordmann P (2004) Antimicrob Agents Chemother 48:2043–
+2048.
+12. Afzal-Shah M, Woodford N, Livermore DM (2001) Antimicrob Agents Chemother
+45:583–588.
+13. Walther-Rasmussen J, Høiby N (2006) J Antimicrob Chemother 57:373–383.
+14. Livermore DM (2002) Curr Opin Investig Drugs 3:218–224.
+15. Sun T, Nukaga M, Braswell EH, Knox JR (2003) Protein Sci 12:82–91.
+16. Brünger AT, Adams PD, Clore GM, DeLano WL, Gros P, Grosse-Kunstleve RW,
+Jiang JS, Kuszewski J, Nilges M, Pannu NS, et al. (1998) Acta Crystallogr D 54:905–921.
+17. Paetzel M, Danel F, de Castro L, Mosimann SC, Page MGP, Strynadka NCJ
+(2000) Nat Struct Biol 7:918–925.
+18. Pernot L, Frénois F, Rybkine T, L’Hermite G, Petrella S, Delettré J, Jarlier V,
+Collatz E, Sougakoff W (2001) J Mol Biol 310:859–874.
+
+19. Maveyraud L, Golemi D, Kotra LP, Tranier S, Vakulenko S, Mobashery S,
+Samama JP (2000) Structure Fold Des 8:1289–1298.
+20. Macheboeuf P, DiGuilmi AM, Job V, Vernet T, Dideberg O, Dessen A (2005)
+Proc Natl Acad Sci USA 102:577–582.
+21. Contreras-Martel C, Job V, Di Guilmi AM, Vernet T, Dideberg O, Dessen A
+(2006) J Mol Biol 355:684–696.
+22. Jelsch C, Mourey L, Masson J-M, Samama J-P (1993) Proteins 16:364–383.
+23. Frère JM, Dubus A, Galleni M, Matagne A, Amicosante G (1999) Biochem Soc
+Trans 27:58–63.
+24. Wilke MS, Lovering AL, Strynadka NCJ (2005) Curr Op Microbiol 8:525–533.
+25. Ghuysen JM (1994) Trends Microbiol 2:372–380.
+26. Poole K (2004) Cell Mol Life Sci 61:2200–2223.
+27. Brown S, Amyes SGB (2005) Clin Microbiol Infect 11:326–329.
+28. Strynadka NCJ, Adachi H, Jensen SE, Johns K, Sielecki A, Betzel C, Sutoh K,
+James MN (1992) Nature 359:700–705.
+29. Marrero A, Mallorqui-Fernandez G, Guevara T, Garcia-Castellanos R, GomisRuth FX (2006) J Mol Biol 361:506–521.
+30. Donald HM, Scaife W, Amyes SG, Young HK (2000) Antimicrob Agents Chemother 44:196–199.
+31. Moellering RC, Eliopoulos GM, Sentochnik DE (1989) J Antimicrob Chemother
+24(Suppl A):1–7.
+32. National Committee for Clinical Laboratory Standards (2003) Approved Standard
+M7–A6: Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow
+Aerobically (National Committee for Clinical Laboratory Standards, Wayne, PA).
+33. Hujer KM, Hamza NS, Hujer AM, Perez F, Helfand MS, Betherl CR, Thomson
+JM, Anderson VE, Barlow M, Rice LB, et al. (2005) Antimicrob Agents Chemother
+49:2941–2948.
+
+Santillana et al.
+
+PNAS 兩 March 27, 2007 兩 vol. 104 兩 no. 13 兩 5359
+
+BIOCHEMISTRY
+
+that isoxazolyl penicillin derivatives specifically bind to the open
+cleft of oxacillinases (17, 19).
+Furthermore, the structure-based multiple sequence alignment
+(see SI Fig. 7) provides additional information regarding the
+differences in the catalytic properties of these two members of the
+class D ␤-lactamases, oxacillinases, and carbapenemases. The determinants for substrate specificity of OXA-24 are shared by other
+subgroups of carbapenem-hydrolyzing class D ␤-lactamases
+(CHDLs), mainly found in A. baumannii, and represented by
+OXA-23, OXA-51, and OXA-58, which can be either plasmid- or
+chromosomally encoded (13). In fact, all CHDLs possess an aromatic residue (Tyr or Phe) at the position equivalent to Tyr-112 in
+the OXA-24 sequence, whereas the second key residue at position
+223, Met in OXA-24, may accommodate either methionine or
+tryptophan. The amino acid similarities found in these two key
+residues for carbapenem-hydrolyzing enzymes are extensive
+enough to suggest that they are crucial for the architecture of the
+tunnel-like active site that permits the specific accommodation of
+the 6␣-1R-hydroxyethyl group of carbapenems but not for antibiotics with bulkier groups at position 6 of the ␤-lactam ring (i.e.,
+oxacillin, cloxacillin, and methicillin).
+To our knowledge this is a previously unrecognized description
+of the structural and biochemical mechanisms associated with
+carbapenem hydrolysis in a class D carbapenemase enzyme. The
+findings of this study provide structural information that helps us to
+understand the molecular basis underlying the acquisition of carbapenem specificity and could serve as a starting point for the
+development of new antimicrobial agents.
+
+

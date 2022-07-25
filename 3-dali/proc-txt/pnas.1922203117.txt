@@ -1,0 +1,803 @@
+Mechanism of proton transfer in class A β-lactamase
+catalysis and inhibition by avibactam
+Orville A. Pembertona, Radwan E. Noorb, Vasantha Kumar M. V.b, Ruslan Sanishvilic, M. Trent Kempa, Fiona L. Kearnsb,
+H. Lee Woodcockb, Ioannis Gelisb,1, and Yu Chena,1
+a
+Department of Molecular Medicine, University of South Florida, Tampa, FL 33612; bDepartment of Chemistry, University of South Florida, Tampa, FL
+33620; and cGM/CA@APS, X-ray Science Division, Advanced Photon Source, Argonne National Laboratory, Argonne, IL 60439
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Edited by Shahriar Mobashery, University of Notre Dame, Notre Dame, IN, and accepted by Editorial Board Member Stephen J. Benkovic January 31, 2020
+(received for review December 29, 2019)
+
+Gram-negative bacteria expressing class A β-lactamases pose a serious health threat due to their ability to inactivate all β-lactam antibiotics. The acyl–enzyme intermediate is a central milestone in the
+hydrolysis reaction catalyzed by these enzymes. However, the protonation states of the catalytic residues in this complex have never
+been fully analyzed experimentally due to inherent difficulties. To
+help unravel the ambiguity surrounding class A β-lactamase catalysis, we have used ultrahigh-resolution X-ray crystallography and the
+recently approved β-lactamase inhibitor avibactam to trap the acyl–
+enzyme complex of class A β-lactamase CTX-M-14 at varying pHs. A
+0.83-Å-resolution CTX-M-14 complex structure at pH 7.9 revealed a
+neutral state for both Lys73 and Glu166. Furthermore, the avibactam hydroxylamine-O-sulfonate group conformation varied according to pH, and this conformational switch appeared to correspond
+to a change in the Lys73 protonation state at low pH. In conjunction
+with computational analyses, our structures suggest that Lys73 has
+a perturbed acid dissociation constant (pKa) compared with acyl–
+enzyme complexes with β-lactams, hindering its function to deprotonate Glu166 and the initiation of the deacylation reaction. Further
+NMR analysis demonstrated Lys73 pKa to be ∼5.2 to 5.6. Together
+with previous ultrahigh-resolution crystal structures, these findings
+enable us to follow the proton transfer process of the entire acylation
+reaction and reveal the critical role of Lys73. They also shed light on
+the stability and reversibility of the avibactam carbamoyl acyl–enzyme
+complex, highlighting the effect of substrate functional groups in
+influencing the protonation states of catalytic residues and subsequently the progression of the reaction.
+
+|
+
+serine beta-lactamase avibactam
+acyl–enzyme pKa perturbation
+
+|
+
+Although ultrahigh-resolution crystal structures and quantum
+mechanical/molecular mechanical (QM/MM) simulations have
+been carried out on class A β-lactamases, there is not a clear consensus on the acylation mechanism, concerning the proton transfer
+from Ser70 ultimately to the leaving group ring nitrogen during the
+progression of the acylation reaction and the subsequent transition
+into the deacylation step (12, 13). As the acyl–enzyme complex of
+class A β-lactamases is the key intermediate in this hydrolysis reaction, a detailed understanding of the molecular interactions in this
+complex is essential to elucidating the catalytic mechanism of class
+A β-lactamases. For β-lactam substrates, the acyl–enzyme complex
+is a transient intermediate. However, the recently developed
+β-lactamase inhibitor avibactam traps the enzyme in a stable carbamoyl acyl–enzyme state. Avibactam is a non–β-lactam β-lactamase
+inhibitor that exhibits excellent activity against serine β-lactamases
+mainly belonging to classes A and C (14–16). It consists of a diazabicyclooctane (DBO) core scaffold that contains an amide group
+that reacts with the nucleophilic serine of β-lactamases via a
+unique reversible carbamylation/decarbamylation reaction that
+allows the inhibitor to be recycled (Fig. 1B) (15–18). A highresolution complex crystal structure of CTX-M-15 with avibactam
+revealed valuable information about avibactam inhibition, especially a
+Significance
+The acid dissociation constant (pKa) and protonation state of
+active-site residues plays a critical role in enzyme catalysis.
+Elucidating how these properties may be influenced by substrate/inhibitor binding is crucial to a deep understanding of
+enzyme function and inhibition. In this study, we focus on class
+A β-lactamases, one of the most common mediators of β-lactam
+antibiotic resistance in gram-negative bacteria. Through a series
+of high-resolution crystal structures of the class A β-lactamase
+CTX-M-14 in complex with the β-lactamase inhibitor avibactam
+at varying pHs, combined with pKa calculations and NMR, we
+examine how this inhibitor affects active-site residues’ pKa values and proton transfer. The results offer important insights into
+the mechanism of avibactam inhibition and the substrate influence on β-lactamase catalysis.
+
+| beta-lactamase inhibitor |
+
+he β-lactamases are bacterial enzymes that catalyze the hydrolysis of β-lactam antibiotics (1, 2). Class A, C, and D β-lactamases
+belong to a broadly diverse family of enzymes known as serine
+β-lactamases (3). In contrast, the remaining class B β-lactamases are
+metalloenzymes, which require divalent zinc ions for activity (1). Class
+A β-lactamases are the most prevalent β-lactamases in multidrugresistant gram-negative bacteria, including the KPC-2 carbapenemase that inactivates nearly all β-lactam compounds, and represent
+an important target for antimicrobial drug discovery efforts (1, 4–8).
+All class A β-lactamases catalyze β-lactam hydrolysis in a twostep acylation–deacylation reaction (Fig. 1A) (9). Upon the
+formation of a precovalent enzyme-substrate complex, the acylation reaction is initiated through a general base-mediated activation of Ser70, which subsequently behaves as nucleophile to
+attack the carbonyl carbon of the β-lactam ring to form an acyl–
+enzyme intermediate. Concomitantly, a proton is transferred to
+the substrate ring nitrogen. For cephalosporins, this proton is
+subsequently lost together with the C3 side chain during the ring
+isomerization process (10). In the second step of class A β-lactamase
+catalysis, the acyl–enzyme intermediate undergoes nucleophilic attack via a general base-activated hydrolytic water molecule, leading
+to deacylation and release of a hydrolyzed and inactivated β-lactam
+product (9, 11).
+
+T
+
+5818–5825 | PNAS | March 17, 2020 | vol. 117 | no. 11
+
+Author contributions: O.A.P., H.L.W., I.G., and Y.C. designed research; O.A.P., R.E.N.,
+V.K.M.V., R.S., M.T.K., and F.L.K. performed research; O.A.P., R.E.N., V.K.M.V., M.T.K.,
+F.L.K., H.L.W., I.G., and Y.C. analyzed data; and O.A.P., I.G., and Y.C. wrote the paper.
+The authors declare no competing interest.
+This article is a PNAS Direct Submission. S.M. is a guest editor invited by the
+Editorial Board.
+Published under the PNAS license.
+Data deposition: Structure coordinates and factors have been deposited in the Protein
+Data Bank, https://www.wwpdb.org (PDB ID codes 6MZ1 [CTX-M-14/avibactam pH 5.3]
+and 6MZ2 [CTX-M-14/avibactam pH 7.9]).
+1
+
+To whom correspondence may be addressed. Email: igelis@usf.edu or ychen1@health.
+usf.edu.
+
+This article contains supporting information online at https://www.pnas.org/lookup/suppl/
+doi:10.1073/pnas.1922203117/-/DCSupplemental.
+First published March 2, 2020.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1922203117
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+protonated Glu166 (16, 19). QM/MM calculations also provided
+insights into the free energy landscape underlying the unique
+reaction involving β-lactamase and avibactam, where recyclization is favored over hydrolysis (Fig. 1B) (14, 20). However, key
+questions, particularly the lack of a clear mechanistic understanding, remain as to why the covalent carbamoyl–ester
+bond avibactam forms with serine β-lactamases is very stable
+against hydrolysis and why Glu166 remains neutral, despite the
+presence of a water molecule perfectly positioned to attack the
+covalent bond with the inhibitor and the configuration of activesite residues being almost identical to that in previous β-lactam
+acyl–enzyme complexes (16, 18). In comparison, in these other
+previously developed β-lactam inhibitors such as cefoxitin complex structures show that the water molecule is displaced or
+blocked from attacking the acyl–enzyme linkage (21–25). A deep
+understanding of the avibactam inhibition mechanism will be
+crucial to the continuing development of DBO-type compounds,
+which are currently being intensely studied as new antibacterial
+reagents not only against β-lactamases but also against penicillinbinding proteins (PBPs), the original targets of β-lactam antibiotics (26, 27).
+In this study, we probed the protonation state and acid dissociation constant (pKa) of Lys73 using high-resolution crystal
+structures of the class A β-lactamase CTX-M-14 determined at
+both basic and acidic pHs, combined with pKa determination by
+NMR. By capturing ligand conformation and protein protonation
+state not observed in previous studies, these results have shed
+important light on class A β-lactamase acylation and the mechanism of avibactam inhibition, as well as the influence of substrate
+functional groups on enzyme catalysis in general.
+Results and Discussion
+Subangstrom-Resolution Complex Structure of Avibactam and CTX-M14 at pH 7.9. The crystal structure of avibactam covalently bound
+
+to CTX-M-14 was determined to 0.83-Å resolution with a refined
+Rwork/Rfree of 0.1168/0.1267. CTX-M-14 crystallized in the P21
+Pemberton et al.
+
+Fig. 2. Complex crystal structure of avibactam and CTX-M-14 at pH 7.9. (A)
+The simulated annealing composite Fo – Fc omit map (gray) contoured at 3 σ.
+The multiple avibactam conformations (Conf 1, 2, and 3) are labeled and
+colored in green. Black dashed lines depict HBs. (B) Superimposition of the
+complex structure (gray) with apo structure (purple), showing the movement
+of K73 and Y105.
+
+PNAS | March 17, 2020 | vol. 117 | no. 11 | 5819
+
+BIOCHEMISTRY
+
+Fig. 1. General mechanism of β-lactam hydrolysis and avibactam inhibition
+of class A β-lactamases. The high-energy TSs are indicated by brackets. (A)
+Hydrolysis of β-lactam substrates such as cephalosporins proceeds through a
+precovalent enzyme–substrate complex, acylation TS, an acyl–enzyme intermediate, deacylation TS, and finally a hydrolyzed β-lactam product. (B)
+Avibactam reversibly reacts with the active site via carbamylation. The reverse decarbamylation reaction is slow but more thermodynamically favorable than the hydrolysis reaction seen for β-lactam substrates.
+
+space group with two molecules in the asymmetric unit (ASU).
+Analysis of the Fo – Fc and 2Fo – Fc maps showed three conformations of avibactam (monomer A: conformation 1, 2, and 3 at 0.52,
+0.29, and 0.19 occupancy, respectively; monomer B: 0.57, 0.17, and
+0.26 occupancy, respectively) (Fig. 2A). The major conformation,
+conformation 1, adopts an orientation similar to the previously determined CTX-M-15/avibactam complex (Protein Data Bank [PDB]
+ID code 4HBU) (16). Avibactam is covalently attached to the nucleophilic Ser70 residue, where its carbonyl oxygen atom is in the
+oxyanion hole formed by the backbone –NH of Ser70 and Ser237. As
+expected, the carboxamide group of avibactam is within hydrogen
+bond (HB) distance to the side chains of Asn104 (3.0 Å) and Asn132
+(2.8 Å). The carboxamide group also forms a weak HB (3.2 Å) with
+the backbone carbonyl oxygen of Ser237.
+One of the most striking differences between the CTX-M-14/
+avibactam complex at pH 7.9 and avibactam solved in previously
+determined class A β-lactamases (over a range of pHs, from 4.1
+to 8.5) is the conformation of the hydroxylamine-O-sulfonate
+group. Conformation 1 (refined occupancy: 0.52 [monomer A,
+same below]) positions the sulfonate moiety in a binding pocket
+to form HBs with the side chains of Thr235 and Ser237 and
+electrostatic interactions with Lys234 and Arg276. This is the
+same binding pocket that coordinates the C3/C4 carboxylate of
+β-lactam substrates (28). The N6 atom of conformation 1 is
+forming an HB (2.9 Å) with the side chain of Ser130, which is
+hypothesized to serve as the general acid to protonate the substrate leaving nitrogen during avibactam carbamylation or β-lactam
+acylation (19). The sulfonate group of conformation 2 (refined
+occupancy: 0.29) forms interactions similar to conformation 1 with
+Thr235, Ser237, Lys234, and Arg276. However, the sulfonate group
+is positioned closer to the Ser130 Oγ (3.3 Å) versus conformation 1
+(3.6 Å). In addition, the N6 atom is slightly further away from the
+Ser130 Oγ at 3.1 Å. The sulfonate group of conformation 3 (refined
+occupancy: 0.19) swings out of the active site, abolishing the HB
+contacts with Thr235 and Ser237 and weakening its interactions
+with Lys234 and Arg276. In one of the monomers in the ASU, this
+new pose allows the sulfonate group to form a potential salt bridge
+with Arg222 from the neighboring protein monomer. The N6
+atom’s HB with Ser130 Oγ has also been significantly weakened
+with the distance between the two groups at 3.3 Å. Overall, the
+presence of three conformations of the hydroxylamine-O-sulfonate
+group suggests significant flexibility of this moiety, which is most
+likely more pronounced at room temperature than the cryogenic
+conditions of X-ray diffraction data collection (∼100 K) and may
+thus impact its interactions with protein residues. On the protein
+side, the binding of avibactam induces a conformational shift in
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Tyr105, a residue that has been suggested to play a role in substrate
+recognition (Fig. 2B) (29–31). The minor Tyr105 conformation
+(refined occupancy: 0.34) has shifted toward the piperidine ring to
+form a favorable nonpolar interaction, whereas the major Tyr105
+conformation (refined occupancy: 0.66) retains the configuration
+usually seen in class A β-lactamases (Fig. 2B) (32). In comparison to
+the apo protein and similar to previous observations, Lys73 also
+moves away from Glu166 and closer to Ser130 (33, 34).
+The 0.83-Å resolution of the CTX-M-14/avibactam complex at
+pH 7.9 allowed for the visualization of hydrogen atoms on the
+catalytically important residues Lys73, Ser130, and Glu166. The
+previously determined CTX-M-15/avibactam complex solved at
+1.1 Å shows a protonated and neutral Glu166. However, the
+protonation state of Lys73 could not be clearly assigned. Based
+on its conformation, Lys73 is within HB distance (2.8 Å) to
+Ser130 (16). Our ultrahigh-resolution CTX-M-14/avibactam structure clears the ambiguity surrounding the protonation state of
+Lys73. In the structure at a basic pH of 7.9, the omit Fo – Fc
+electron density map shows that Lys73 has two protons and is in its
+neutral form (Fig. 3). One of the protons on Lys73 is engaged in an
+HB (2.9 Å) with the side chain of Asn132. The second proton has
+no hydrogen bonding partners with appropriate angles. However,
+Lys73Nζ is 2.9 and 3.0 Å away from Ser130O and Ser130C, respectively, and appears to form favorable interactions with π electrons on one side of the planar peptide bond between Ser130 and
+Asp131 (Fig. 3). Most importantly, the structure also shows a hydrogen on the Ser130Oγ, which serves as an HB (2.8 Å) donor to
+the neutral Lys73. In agreement with the 1.1-Å resolution CTX-M15/avibactam complex, Glu166 is protonated and participates with
+Ser70 and Asn170 to coordinate the catalytic water molecule.
+Complex crystal structure of avibactam with CTX-M-14 at acidic pHs. To
+investigate the influence of the crystallization buffer pH on
+the residue protonation states, we prepared the CTX-M-14/
+avibactam complex crystal in buffers with pHs 5.3, 6.3, 7.4, 8.4,
+and 10. All structures were determined at ∼1-Å resolution and
+shared the same active-site configurations as the pH 7.9 complex,
+except for the one at pH 5.3. The CTX-M-14/avibactam complex
+at pH 5.3 was solved to 1.0-Å resolution with a final Rwork/Rfree
+of 0.1420/0.1601 (Fig. 4A). Due to the lower resolution of this
+structure, hydrogen atoms were not as visible as in the 0.83-Å
+structure. Overall, the CTX-M-14/avibactam complex solved at
+pH 5.3 is similar to the CTX-M-14/avibactam complex solved at
+pH 7.9, but with some notable changes in the hydrogen bonding
+pattern between the inhibitor and active-site residues (Fig. 4B).
+The most interesting observation was the presence of a single
+inhibitor conformation versus three inhibitor conformations
+modeled at the higher pH. Under acidic condition, the negatively
+charged hydroxylamine-O-sulfonate group adopts a conformation
+that puts it within a hydrogen bonding distance of 2.6 Å to the
+hydroxyl side chain of Ser130. Ser130 maintains an HB with Lys73,
+
+Fig. 3. Hydrogen atoms revealed by subangstrom-resolution diffraction in
+stereo view. The unbiased Fo – Fc map contoured at 2 σ showing hydrogen
+atom positions on K73, S130, and E166 is colored red and the 2Fo – Fc map
+contoured at 3 σ around active-site residues is colored gray.
+
+5820 | www.pnas.org/cgi/doi/10.1073/pnas.1922203117
+
+Fig. 4. Complex crystal structures of avibactam with CTX-M-14 at pH 5.3. (A)
+The composite simulated annealing Fo – Fc omit map (gray) contoured at 3 σ
+of the CTX-M-14/avibactam complex at pH 5.3. (B) Superimposition of CTXM-14/avibactam complexes at pH 5.3 (purple) and 7.9 (gray). Red dashed
+lines represent HBs in the pH 5.3 complex and black dashed lines represent
+HBs in the pH 7.9 complex. Only the major conformation of avibactam is
+shown for the pH 7.9 complex.
+
+with a distance between the two groups now at 3.0 Å versus 2.8 Å in
+the pH 7.9 structure. Because the avibactam sulfonate group can
+only serve as an HB acceptor, this HB network suggests that Ser130
+donates an HB to the sulfonate oxygen and accepts a hydrogen in its
+HB with Lys73, reversing the donor/acceptor role compared with
+the pH 7.9 structure. Also, we observed that the HB between the
+N6 nitrogen and Ser130 had been abolished due to the flipping of
+the hydroxylamine-O-sulfonate group, with the side chain Oγ being
+3.4 Å away from the N6 nitrogen.
+The acyl–enzyme complexes between β-lactamases and avibactam have been studied extensively (18, 35–37). In most previous crystal structures with closely related class A β-lactamases,
+similar pH-dependent hydrogen bonding patterns were observed,
+that is, an HB between the sulfonate group and Ser130 occurred
+at low pH (38, 39) and was abolished at high pH (16). We hypothesize that this change of HB pattern may have originated
+from a positively charged Lys73, as compared to a neutral Lys73
+observed in the pH 7.9 structure. Lys73 is the only functional
+group that can undergo protonation state change in the active
+site between pH 7.9 and pH 5.3. Glu166 and Lys234 are both
+protonated at pH 7.9, while the pKas of avibactam’s largely
+solvent-exposed sulfonate and –NH group are far below pH 5 as
+calculated by MarvinSketch, a program commonly used to provide pKa predictions for small molecules (40). As the pH 6.3
+structure is identical to the pH 7.9 complex, this indicates the
+pKa of Lys73 is likely between pH 5.3 and 6.3, significantly lower
+than the estimate of 8.0 to 8.5 in previous studies of β-lactam
+hydrolysis (41). Additionally, computational predictions indicated similar disparity in Lys73 pKa between the acyl–enzyme
+complexes of avibactam and β-lactam inhibitor cefoxitin (6.24
+versus 7.82; SI Appendix, Table S2) (11, 42). Although these
+calculations were performed without using thermodynamic integration based on extensive explicit-solvent molecular dynamics
+simulations as done by others and were thus less accurate (41),
+they suggested that it would be of interest to further probe
+Lys73 pKa.
+CTX-M lysine protonation state and pKa probed by NMR. We sought to
+experimentally determine lysine pKa values using NMR chemical
+shifts as an independent observable. The « position of lysines in
+particular makes an excellent probe to monitor the protonation
+state of lysine side chains, because it lies adjacent to the Nζ
+group and therefore changes in Ce chemical shift as a function of
+pH report a direct effect of altered Nζ protonation states. For
+this experiment, we used a His-tagged CTX-M-9 for the ease of
+purification. As described above, CTX-M-14 and CTX-M-9 are
+identical to one another in the active-site structure, and the two
+Pemberton et al.
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Pemberton et al.
+
+BIOCHEMISTRY
+
+proteins exhibit essentially the same biochemical activity (43).
+The 1H-13C heteronuclear single-quantum correlation (HSQC)
+spectrum of free, [13Ce]-Lys selectively labeled CTX-M-9 acquired at pH 5.7 accounts for 9 of the 10 lysines expected based
+on the sequence of CTX-M-9 (SI Appendix, Fig. S1). Addition of
+avibactam results in a prominent shift for one of these signals
+(K9) and a subtle shift for a set of two signals originating from a
+single lysine (K1), while all other signals remain unaffected.
+Based on the available structure of the complex between CTXM-14 and avibactam, K9 is therefore tentatively assigned to one
+of Lys73 and Lys234, the two lysines lining the catalytic site of
+CTX-M enzymes (Fig. 2A). From the pH dependence of the 13C
+chemical shifts for signals K1 through K9 (Fig. 5 and SI Appendix, Fig. S1B), it is evident that signal K9 corresponds to a
+lysine with a pKa of 5.2 ± 0.2, which is in agreement with the
+deprotonated state of Lys73 observed in the pH >5.3 structures,
+while all other signals correspond to pKa values greater than
+10.0. To obtain site-specific information we also monitored the
+pH dependence of the Cα–Hα groups. Although the chemical
+shifts of the Cα–Hα group are not as sensitive to Nζ deprotonation as of the Ce–He group, detection of even small chemical
+shift changes that report coincidental pH titration curves, and
+thus pKa values, can be used to assign these pKa values to specific residues. Assignment for the Cα of Lys73 was obtained in a
+sequential manner using a set of triple resonance experiments,
+while the position of its Cα–Hα on a 1H-13C HSQC was identified again through a comparison with the spectrum of free CTXM-9 acquired at the same pH (SI Appendix, Fig. S2). Using the
+pH dependence of the Hα chemical shift as a reporter, a pKa of
+5.6 ± 0.2 is obtained for Lys73, which is consistent with the pKa
+determined using the Ce chemical shift, as well as the pHdependent crystal structures.
+Mechanism of proton transfer in class A β-lactamases catalysis. The highresolution crystal structures of class A β-lactamases trapped with
+avibactam have allowed us to visualize the protonation states of
+key catalytic residues in the acyl–enzyme complex of a wild-type
+class A β-lactamase. Together with previous subangstrom-resolution
+crystal structures, we can now track the changes of residue protonation states throughout the entire acylation process and gain deep
+insights into the proton transfer mechanism of these enzymes (Fig.
+6). In combination with the biochemical analyses and the QM/MM
+calculations by Mobashery and coworkers (44), these data demonstrate the central role of Lys73, acting concertedly with Glu166, in
+activating both Ser70 in the acylation step and subsequently the
+catalytic water in the deacylation reaction.
+In the apo protein, both Lys73 and Glu166 are charged (Fig. 6,
+stage I). The binding of the substrate initiates proton transfers
+from Ser70 to the catalytic water and from the water to Glu166.
+Both experimental and computational data suggest that a third,
+at least partial proton transfer also takes place between the
+positively charged Lys73 and the negatively charged Ser70, before the formation of the transition state (TS). In the QM/MM
+calculations, a complete proton transfer leads to a neutral Lys73
+and a neutral Ser70, enabling Lys73 to be the general base for
+the acylation reaction (Fig. 6, stage II) (44). Meanwhile, in a
+noncovalent complex crystal structure with CTX-M-14, a lowbarrier HB (LBHB) is observed between Lys73 and Ser70, with
+an HB length of 2.53 Å and the hydrogen atom equally shared
+between the two (45).
+An LBHB is a special type of HB occurring between polar
+functional groups with comparable pKas and has been proposed
+to play an important role in enzyme catalysis, including general
+acid/base catalysis due to their extraordinary strength compared
+with standard HBs (46–49). An LBHB between Lys73 and Ser70
+can significantly lower the energy of the TS, allowing Lys73 to
+carry out the role of a general base where the proton transfer is
+en route at the acylation TS (Fig. 6, state III). In comparison, the
+deprotonation of Ser70 by Glu166 and the catalytic water is most
+
+Fig. 5. NMR titration data of CTX-M-9 in complex with avibactam. (A)
+1
+H-13C HSQC spectrum of avibactam-bound [13Ce]-Lys–labeled CTX-M-9 at pH
+4.5 (black), 5.3 (red), 5.7 (blue), and 6.5 (orange). The boxed signal is expanded in D (Top) and is tentatively assigned to the Ce–He group of Lys73.
+(B) The chemical shift dependence for the Ce of lysine “9” (magenta) and for
+the tentatively assigned Hα of Lys73 (orange). The curves are nonlinear least
+square fits to Eq. 1. (C) The Cα–Hα region of avibactam-bound [U-13C]-Lys–
+labeled CTX-M-9 at pH 4.5 (black), 5.1 (red), 5.7 (green), 6.3 (yellow), 6.9
+(magenta), and 7.5 (cyan). The boxed signal, which is tentatively assigned to
+the Cα–Hα group of Lys73, is expanded in D (Bottom) and is broadened
+beyond detection at pH 8.7. The signal corresponding to the Cα–Hα group of
+Lys111 is also shown at higher pH. It shifts throughout the titration (pH 4.5
+to 9.9) and it does not follow a monophasic pH dependence, presumably due
+to the presence of other ionizable groups in its vicinity (SI Appendix, Fig.
+S2C). (D) Expanded regions shown boxed in A (Top) and C (Bottom).
+
+likely completed before the TS. The hydrogen shared between
+Lys73 and Ser70 is ultimately transferred to Lys73, resulting
+again in a positively charged Lys73 during the collapse of the
+acylation TS (Fig. 6, stage III), as shown by the 0.83-Å-resolution
+crystal structure of CTX-M-14 with a boronic acid TS analog
+(45). In this TS analog structure, both Lys234 and Lys73 serve as
+HB donors to Ser130, which in turn donates a hydrogen in an HB
+with the boronic acid oxygen mimicking the ring nitrogen. The
+structures of the TS analog and of our latest avibactam complex
+captures the stages immediately before and after the proton
+transfer from Ser130 to the ring nitrogen, respectively (Fig. 6,
+PNAS | March 17, 2020 | vol. 117 | no. 11 | 5821
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Fig. 6. A proposed mechanism of proton transfer for the class A β-lactamase catalysis. A cephalosporin is used as a representative β-lactam substrate. Electron
+transfers are indicated by arrows. Based on QM/MM calculations and experimental data, the reaction of class A β-lactamases follows a concerted base catalysis
+mechanism involving Lys73 and Glu166. (I) Substrate binding triggers a series of proton transfers, changing the protonation states of both Lys73 and Glu166
+from being charged to neutral. (II) A neutral Lys73 deprotonates and activates Ser70 for nucleophilic attack on the β-lactam ring. (III) The reaction proceeds to
+a high-energy tetrahedral intermediate, where Ser70 is covalently attached to the substrate while being stabilized by a potential LBHB with Lys73 (indicated
+by red dashed lines). The shared proton of the LBHB is subsequently transferred to Lys73, which protonates Ser130 after the serine residue transfers its own
+proton to the ring nitrogen atom. Isomerization of the cephalosporin dihydrothiazine ring results in cleavage of the C3 side chain, a reaction unique for many
+cephalosporins. (IV) A neutral Lys73 takes a proton from Glu166. A negatively charged Glu166 serves as the base for the deacylation process and activates the
+catalytic water molecule for its attack on the acyl–enzyme linkage. (V) Lys73 protonates Ser70 during the collapse of the tetrahedral deacylation TS and then
+takes a proton from Glu166. (VI) The protonation states of Lys73 and Glu166 return to those of the free enzyme, and the hydrolyzed product is released.
+
+stages III and IV). Whereas it has been debated whether Lys234
+or Lys73 replenishes the proton on Ser130 (50), our structure
+clearly shows that it is the latter. In addition, the avibactam
+structure supports previous QM/MM calculations showing that a
+neutral Lys73 is also in a commanding position to initiate the
+deacylation process by activating Glu166 (Fig. 6, state IV) (44),
+although the proton transfer from Glu166 to Lys73 is impeded in
+the avibactam complex (51). For β-lactam substrates, a negatively charged Glu166 would then deprotonate the catalytic water, which attacks and cleaves the acyl–enzyme linkage. This
+results in a second tetrahedral TS where Lys73 protonates Ser70
+while taking a proton from Glu166 (Fig. 6, state V). The collapse
+of this deacylation TS leads to the formation of the hydrolyzed
+product and the regeneration of the free enzyme (Fig. 6, state VI).
+Class A β-lactamases have evolved from PBPs, acquiring
+Glu166 to help catalyze the deacylation reaction (52–54). Previous subangstrom-resolution acyl–enzyme and product complex
+structures using E166A mutants demonstrate a similar HB network involving the substrate, Ser130 and Lys73 (Fig. 7A) (11,
+55). Together with the apo PBP structures, they suggest that
+Lys73 may play a similar role in the β-lactam acylation process in
+PBPs in the absence of Glu166.
+
+Compared with β-lactam substrates, the acyl–enzyme complexes
+of avibactam and β-lactamases are more stable against hydrolysis.
+This originates at least partially from the chemical difference of
+the two acyl–enzyme linkages, a carbamoyl for avibactam and an
+ester for β-lactams (38). However, previous QM/MM calculations
+also suggest that in the acyl–enzyme complex with avibactam, the
+proton transfer from Glu166 to Lys73 has an activation barrier of
+∼30 kcal/mol (51), in comparison to a spontaneous and barrierless
+process in the complexes with β-lactam substrates (44). The higher
+proton transfer barrier could make it more difficult for Lys73 to
+activate Glu166, and subsequently the catalytic water, for the
+deacylation reaction. Our analyses provide a mechanistic understanding for this difference between avibactam and β-lactams.
+
+Influence of substrate on catalytic residue pKa and enzymatic reaction.
+
+The pKa of the catalytic residues in class A β-lactamases has
+been studied both experimentally and computationally using
+TEM-1 as a model system (34, 41, 44, 56). It is hypothesized that
+the binding of a β-lactam substrate can influence the pKa of
+active-site residues. Although earlier computational studies did
+not show such effect (41), it was later supported by the protonation state changes of Lys73 and Glu166 upon ligand binding,
+captured by both computational and experimental studies, as
+described above (11, 44, 45). Our studies herein have shed
+light on how the deacylation process can also be subjected to the
+influence of substrate/inhibitor functional groups on catalytic
+residue pKa.
+5822 | www.pnas.org/cgi/doi/10.1073/pnas.1922203117
+
+Fig. 7. Comparison of acyl–enzyme complexes with β-lactams and avibactam. (A) Superimposition of CTX-M-14/avibactam at pH 7.9 (gray) with
+Toho-1/cefotaxime E166A (purple) (PDB ID code 5A92). (B) Superimposition
+of CTX-M-14/avibactam at pH 7.9 (gray) with CTX-M-9/cefoxitin (purple) (PDB
+ID code 1YMX).
+
+Pemberton et al.
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Conclusion
+The 0.83-Å-resolution complex crystal structure of CTX-M-14
+and avibactam captures the acyl–enzyme at a state where both
+Lys73 and Glu166 are neutral. Compared with β-lactam acyl–
+enzyme complexes, the proton transfer from Glu166 to Lys73 is
+hindered by avibactam. Based on multiple crystals at both basic
+and acidic pHs, as well as computations and NMR, our results
+suggest that the unique hydroxylamine-O-sulfonate side chain of
+Pemberton et al.
+
+avibactam may perturb the pKa of Lys73 differently than the C3/
+4 carboxylate group of β-lactam compounds, making Lys73 a
+weaker base in the avibactam acyl–enzyme complex. By elucidating the residue protonation states of a key intermediate of
+class A β-lactamase catalysis, these studies offer important insights into the proton transfer mechanism of β-lactam hydrolysis
+and the influence of substrate functional groups on the progression of enzymatic reactions in general. In particular, together
+with previous results, we now have a complete experimental picture of the central role of Lys73, acting concertedly with Glu166,
+in activating both the acylation and deacylation steps of the reaction, as suggested by previous QM/MM calculations (44). Finally, whereas X-ray crystallography, computational predictions
+and NMR are in overall agreement about Lys73 pKa in the avibactam complex, future investigation into the small differences
+among these methods, especially by using more sophisticated
+calculations, will offer additional insights into the interpretation of
+residue protonation states in crystal structures and the development
+of new computational approaches.
+Materials and Methods
+Construct Design. The CTX-M-14 gene (residues 23 to 284) was cloned into a
+modified plasmid vector pET-9a. The ligation product was transformed into
+NEB 5-alpha–competent Escherichia coli and plated onto lysogeny broth (LB)
+agar containing 50 μg/mL kanamycin. A single colony was isolated and
+grown overnight at 37 °C in LB media containing 50 μg/mL kanamycin. Cells
+were harvested, and plasmid DNA was obtained using a miniprep kit. The
+CTX-M-14 gene sequence was verified.
+Protein Expression and Purification. BL21(DE3) E. coli cells transformed with
+the plasmid pET-blaCTX-M-14 were cultured in LB broth containing kanamycin at 100 μg/mL at 37 °C for 5 h. Overexpression of CTX-M-14 was induced with 0.5 mM isopropyl β-D-1-thiogalactopyranoside (IPTG) overnight
+at 20 °C. Cells were harvested by centrifugation (10,000 × g for 10 min at
+4 °C) and then disrupted by ultrasonic treatment (four times for 30 s, each
+time at 20 W). The extract was clarified by centrifugation at 48,000 × g for 60
+min at 4 °C. After addition of 2 μg of DNase I (Roche), the supernatant was
+dialyzed overnight against 20 mM MES–NaOH (pH 6.0). The purification was
+carried out by ion-exchange chromatography on a fast-flow CM column
+(Amersham Pharmacia Biotech) in 20 mM MES buffer (pH 6.0) and eluted
+with a linear 0 to 0.15 M NaCl gradient. The enzyme was more than 95%
+homogeneous as judged by Coomassie blue staining after sodium dodecyl
+sulfate polyacrylamide gel electrophoresis. The purified protein was dialyzed
+against 5 mM Tri·HCl buffer (pH 7.0) and concentrated to 20 mg/mL for
+crystallization.
+Protein Crystallization. CTX-M-14 crystals were grown in 1.0 M potassium
+phosphate. A 200 mM stock of avibactam in dimethyl sulfoxide was used to
+make a soaking solution of 5 mM avibactam in 1.0 M potassium phosphate.
+Crystals were soaked for 30 min in different pH ranges then cryoprotected
+with 1.0 M potassium phosphate and 30% (wt/vol) sucrose before flash cooling
+in liquid nitrogen.
+Data Collection and Structure Determination. Data for the CTX-M-14 avibactam complex structures were collected at the Advanced Photon Source
+beamlines SBC 19-ID-D and GM/CA 23-ID-B. Diffraction data were indexed
+and integrated with iMosflm (58) or HKL2000 (59) and scaled with Aimless
+(60) from the CCP4 suite (61) or HKL2000. Phasing was performed using
+molecular replacement with the program Phaser (62). Structure refinement
+was performed using phenix.refine (63) of the PHENIX suite (64) and model
+building in WinCoot (65). The program eLBOW in PHENIX was used to obtain
+geometry restraint information (66). For data collection and refinement
+statistics see SI Appendix, Table S1.
+Protein Expression and Purification for NMR. Isotopically labeled CTX-M-9 for
+NMR measurements was expressed from a pODc29 vector encoding for an Nterminal His-tag using BL21(DE3) E. coli cells. U-[13C/15N] labeling was performed in M9 media supplemented with U-13C glucose and 15N-NH4Cl as the
+sole carbon and nitrogen source. Protein expression was induced at an optical
+density at 600 nm of ∼0.7 by the addition of 0.5 mM IPTG and was allowed to
+proceed overnight at 20 °C. Selectively [13Ce]- or U-[13C]-Lys–labeled CTX-M-9
+was produced in unlabeled M9. The [13Ce]- or U-[13C]–labeled lysine was added
+
+PNAS | March 17, 2020 | vol. 117 | no. 11 | 5823
+
+BIOCHEMISTRY
+
+We propose that the proton transfer is impaired due to the
+particular properties of avibactam’s hydroxylamine-O-sulfonate
+side chain, compared with β-lactams, through both direct influence of electrostatic interactions and indirect effect via Ser130.
+Lys73Nζ is ∼5 to 6 Å away from the negatively charged oxygen
+atoms of Glu166 and β-lactam C3/4 carboxylate group in the
+acyl–enzyme complex (Fig. 7). Previous studies have shown that
+the introduction of Glu166 increases the pKa of Lys73 from 6 to
+8, making it a stronger base (41, 44, 50, 57). The β-lactam carboxylate group is likely to have a similar effect on Lys73 pKa, but
+such influence by the avibactam sulfonate would be significantly
+diminished. Both the β-lactam carboxylate group and the avibactam sulfonate group have one net negative charge, distributed between the two oxygen atoms of a carboxylate group, and
+the three oxygens in the sulfonate group. Comparing the major
+conformation of the avibactam crystal structure with β-lactam
+complexes, the sulfonate group is more solvent-exposed, which
+could further affect the localization of the negative charge (Fig.
+7). Furthermore, the position of the avibactam sulfonate group
+in the active site is relatively unstable due to the flexibility of the
+hydroxylamine chain. Most notably, in the avibactam complex
+structure, one of the sulfonate conformations resides outside the
+active-site pocket and away from Lys73. Such a conformation
+further decreases the electrostatic influence of the sulfonate
+charge on Lys73 and is mostly likely much more dominant at
+37 °C in solution compared with −170 °C cryogenic conditions
+and the crystalline environment. All these effects could potentially reduce the influence of the sulfonate group on the pKa of
+Lys73, compared with the β-lactam carboxylate group.
+Aside from direct electrostatic influence, the ligand may affect
+Lys73 pKa through Ser130. In the avibactam conformation
+with the sulfonate inside the active site, the N6 nitrogen of the
+hydroxylamine-O-sulfonate group functions as a HB donor in its
+interaction with Ser130, which in turn donates a hydrogen in its
+HB with Lys73. Such interactions may also favor a neutral Lys73,
+particularly considering the N6 hydrogen may have more positive
+partial charge than the β-lactam ring –NH group in acyl–enzyme
+complexes with penicillins or monobactams. In acyl–enzyme complexes with cephalosporins, the ring nitrogen loses the hydrogen
+during dihydrothiazine ring isomerization (Fig. 6, step III). Interestingly, in the acyl–enzyme complexes of Toho-1 E166A mutant Lys73 adopts two conformations in the cefotaxime complex
+lacking the HB between the ring nitrogen and Ser130 (55), in
+comparison to one conformation for the penicillin-G (31) and
+aztreonam (11) structures with such an HB. Similar observations
+were also made in the CTX-M-9 acyl–enzyme complex structure
+with cefoxitin, a cephalosporin, suggesting a potential influence of
+the substrate –NH group on Lys73 through Ser130, particularly in
+the avibactam complex (21, 56). Similarly, the avibactam sulfonate
+group and the β-lactam carboxylate moiety can potentially affect
+the position of the hydrogen on the Ser130 hydroxyl group to
+varied extents, and indirectly influence Lys73 pKa as well, as
+demonstrated by the different hydrogen bonding network involving the sulfonate group, Ser130, and Lys73 in the avibactam
+complex crystal structures determined at different pHs. Taken
+together, the charge distribution, flexibility, and HB capability of
+the avibactam side chain may ultimately be responsible for perturbing Lys73’s pKa, making it an unfavorable process to accept a
+proton from Glu166.
+
+15 min prior to induction and overexpression was allowed to proceed for 3 h
+at 20 °C. Cells were resuspended in 20 mM Tris, pH 8.4, 300 mM NaCl, 20 mM
+imidazole, 10% glycerol, and 5 mM 2-mercaptoethanol and lysed by sonication. The lysate was clarified by centrifugation and loaded on a Ni Sepharose
+column. After extensive washing the protein was eluted in the same buffer at
+a 400 mM imidazole concentration and the tag was removed by tobacco etch
+virus cleavage and a second affinity column. The protein was finally purified
+through a Superdex 200 gel-filtration column.
+
+Data Availability. Structure coordinates and factors have been deposited in
+the Protein Data Bank (PDB), https://www.wwpdb.org/, under ID codes 6MZ1
+(CTX-M-14/avibactam pH 5.3) and 6MZ2 (CTX-M-14/avibactam pH 7.9).
+
+where δU is the chemical of the deprotonated state and Δδ is the chemical
+shift difference between the protonated and deprotonated states. n, the Hill
+coefficient commonly introduced to account for interactions between titratable residues was held constant to 1, because of the lack of a clear
+
+ACKNOWLEDGMENTS. Support for this project was given by National
+Institutes of Health grants AI103158 and AI147654 (Y.C.), GM129519
+(H.L.W.), and GM115854 (I.G.) and NSF grant CHE-1464946 (H.L.W.). F.L.K.
+thanks the NSF Graduate Research Fellowship Program (project number
+3900101301) for support. We thank Forest Research Institute for the kind
+gift of avibactam, Dr. Thomas Durand-Reville for insightful discussion, and
+Dr. Eric Lewandowski for assistance with manuscript preparation. Diffraction
+data were collected at the Advanced Photon Source (APS), Argonne National
+Laboratory, particularly at the 19-ID-D beamline of the Structural Biology
+Center (SBC) and 23-ID-B beamline of GM/CA@APS. The use of beamlines at
+SBC was supported in part by the US Department of Energy, Office of Biological and Environmental Research grant DE-AC02-06CH11357. GM/
+CA@APS has been funded in whole or in part with federal funds from the
+National Cancer Institute (ACB-12002) and the National Institute of General
+Medical Sciences (AGM-12006). Computations were performed at the University of South Florida Research Computing Center and using Extreme Science and Engineering Discovery Environment computational resources
+(MCB120133); both centers are greatly appreciated. The Materials and Methods section on protein purification for crystallization was previously included
+in the graduate thesis of O.A.P.
+
+1. K. Bush, G. A. Jacoby, Updated functional classification of beta-lactamases. Antimicrob. Agents Chemother. 54, 969–976 (2010).
+2. A. M. Queenan, K. Bush, Carbapenemases: The versatile beta-lactamases. Clin. Microbiol. Rev. 20, 440–458 (2007).
+3. A. Philippon, P. Slama, P. Dény, R. Labia, A structure-based classification of class A
+β-lactamases, a broadly diverse family of enzymes. Clin. Microbiol. Rev. 29, 29–57
+(2016).
+4. K. Bush, New beta-lactamases in gram-negative bacteria: Diversity and impact on the
+selection of antimicrobial therapy. Clin. Infect. Dis. 32, 1085–1089 (2001).
+5. A. El Salabi, T. R. Walsh, C. Chouchani, Extended spectrum β-lactamases, carbapenemases and mobile genetic elements responsible for antibiotics resistance in Gramnegative bacteria. Crit. Rev. Microbiol. 39, 113–122 (2013).
+6. I. Massova, P. A. Kollman, pKa, MM, and QM studies of mechanisms of beta-lactamases and penicillin-binding proteins: acylation step. J. Comput. Chem. 23, 1559–1576
+(2002).
+7. S. C. Mehta, K. Rice, T. Palzkill, Natural variants of the KPC-2 carbapenemase have
+evolved increased catalytic efficiency for ceftazidime hydrolysis at the cost of enzyme
+stability. PLoS Pathog. 11, e1004949 (2015).
+8. N. C. Strynadka et al., Molecular structure of the acyl-enzyme intermediate in betalactam hydrolysis at 1.7 A resolution. Nature 359, 700–705 (1992).
+9. S. J. Tomanicek et al., Neutron and X-ray crystal structures of a perdeuterated enzyme
+inhibitor complex reveal the catalytic proton network of the Toho-1 β-lactamase for
+the acylation reaction. J. Biol. Chem. 288, 4715–4722 (2013).
+10. M. I. Page, P. Proctor, Mechanism of. beta.-lactam ring opening in cephalosporins. J.
+Am. Chem. Soc. 106, 3820–3825 (1984).
+11. V. G. Vandavasi et al., Active-site protonation states in an acyl-enzyme intermediate
+of a class A β-lactamase with a Monobactam substrate. Antimicrob. Agents Chemother. 61, e01636-16 (2016).
+12. S. Chakraborty, Enumerating pathways of proton abstraction based on a spatial and
+electrostatic analysis of residues in the catalytic site. PLoS One 7, e39577 (2012).
+13. X. Pan, Y. He, J. Lei, X. Huang, Y. Zhao, Crystallographic snapshots of class A
+β-lactamase catalysis reveal structural changes that facilitate β-lactam hydrolysis. J.
+Biol. Chem. 292, 4022–4033 (2017).
+14. S. D. Lahiri et al., Avibactam and class C β-lactamases: Mechanism of inhibition,
+conservation of the binding pocket, and implications for resistance. Antimicrob.
+Agents Chemother. 58, 5704–5713 (2014).
+15. K. Coleman, Diazabicyclooctanes (DBOs): A potent new class of non-β-lactam
+β-lactamase inhibitors. Curr. Opin. Microbiol. 14, 550–555 (2011).
+16. S. D. Lahiri et al., Structural insight into potent broad-spectrum inhibition with reversible recyclization mechanism: Avibactam in complex with CTX-M-15 and Pseudomonas aeruginosa AmpC β-lactamases. Antimicrob. Agents Chemother. 57, 2496–
+2505 (2013).
+17. D. E. Ehmann et al., Avibactam is a covalent, reversible, non-β-lactam β-lactamase
+inhibitor. Proc. Natl. Acad. Sci. U.S.A. 109, 11663–11668 (2012).
+18. D. T. King, A. M. King, S. M. Lal, G. D. Wright, N. C. Strynadka, Molecular mechanism
+of avibactam-mediated β-lactamase inhibition. ACS Infect. Dis. 1, 175–184 (2015).
+19. M. L. Winkler, K. M. Papp-Wallace, M. A. Taracila, R. A. Bonomo, Avibactam and inhibitor-resistant SHV β-lactamases. Antimicrob. Agents Chemother. 59, 3700–3709
+(2015).
+20. H. Choi, R. S. Paton, H. Park, C. J. Schofield, Investigations on recyclisation and hydrolysis in avibactam mediated serine β-lactamase inhibition. Org. Biomol. Chem. 14,
+4116–4128 (2016).
+
+21. Y. Chen, B. Shoichet, R. Bonnet, Structure, function, and inhibition along the reaction
+coordinate of CTX-M beta-lactamases. J. Am. Chem. Soc. 127, 5423–5434 (2005).
+22. M. Nukaga et al., Inhibition of class A beta-lactamases by carbapenems: Crystallographic observation of two conformations of meropenem in SHV-1. J. Am. Chem. Soc.
+130, 12656–12662 (2008).
+23. F. Fonseca et al., The basis for carbapenem hydrolysis by class A β-lactamases: A
+combined investigation using crystallography and simulations. J. Am. Chem. Soc. 134,
+18275–18285 (2012).
+24. C. A. Smith et al., Structural basis for progression toward the carbapenemase activity
+in the GES family of β-lactamases. J. Am. Chem. Soc. 134, 19512–19515 (2012).
+25. Y. Tsuey-Ching, D. Hecht, J. J. Tsai, R. M. Hu, Cefoxitin is both an inhibitor of class A
+beta-lactamase of Xanthomonas campestris pv. campestris str. 17 and an inducer of its
+gene. Res. Microbiol. 163, 550–556 (2012).
+26. T. F. Durand-Réville et al., ETX2514 is a broad-spectrum β-lactamase inhibitor for the
+treatment of drug-resistant Gram-negative bacteria including Acinetobacter baumannii. Nat. Microbiol. 2, 17104 (2017).
+27. N. Levy et al., Structural basis for E. coli penicillin binding protein (PBP) 2 inhibition, a
+platform for drug design. J. Med. Chem. 62, 4742–4754 (2019).
+28. D. Tondi et al., Targeting class A and C serine β-lactamases with a broad-spectrum
+boronic acid derivative. J. Med. Chem. 57, 5449–5458 (2014).
+29. N. Doucet, P. Y. De Wals, J. N. Pelletier, Site-saturation mutagenesis of Tyr-105 reveals
+its importance in substrate stabilization and discrimination in TEM-1 beta-lactamase.
+J. Biol. Chem. 279, 46295–46303 (2004).
+30. N. Doucet, P. Y. Savard, J. N. Pelletier, S. M. Gagné, NMR investigation of Tyr105
+mutants in TEM-1 beta-lactamase: Dynamics are correlated with function. J. Biol.
+Chem. 282, 21448–21459 (2007).
+31. P. S. Langan et al., The structure of Toho1 β-lactamase in complex with penicillin
+reveals the role of Tyr105 in substrate recognition. FEBS Open Bio 6, 1170–1177
+(2016).
+32. P. S. Langan et al., Substrate binding induces conformational changes in a class A
+beta-lactamase that prime it for catalysis. ACS Catal. 8, 2428–2437 (2018).
+33. Y. Chen, R. Bonnet, B. K. Shoichet, The acylation mechanism of CTX-M beta-lactamase
+at 0.88 a resolution. J. Am. Chem. Soc. 129, 5378–5380 (2007).
+34. J. C. Hargis, J. K. White, Y. Chen, H. L. Woodcock, Can molecular dynamics and QM/
+MM solve the penicillin binding protein protonation puzzle? J. Chem. Inf. Model. 54,
+1412–1424 (2014).
+35. K. Calvopiña et al., Structural/mechanistic insights into the efficacy of nonclassical
+β-lactamase inhibitors against extensively drug resistant Stenotrophomonas maltophilia clinical isolates. Mol. Microbiol. 106, 492–504 (2017).
+36. M. Nukaga et al., Probing the mechanism of inactivation of the FOX-4 Cephamycinase
+by avibactam. Antimicrob. Agents Chemother. 62, e02371-17 (2018).
+37. C. T. Lohans et al., 13C-Carbamylation as a mechanistic probe for the inhibition of class
+D β-lactamases by avibactam and halide ions. Org. Biomol. Chem. 15, 6024–6032
+(2017).
+38. H. Xu, S. Hazra, J. S. Blanchard, NXL104 irreversibly inhibits the β-lactamase from
+Mycobacterium tuberculosis. Biochemistry 51, 4551–4557 (2012).
+39. N. P. Krishnan, N. Q. Nguyen, K. M. Papp-Wallace, R. A. Bonomo, F. van den Akker,
+Inhibition of Klebsiella β-lactamases (SHV-1 and KPC-2) by avibactam: A structural
+study. PLoS One 10, e0136813 (2015).
+40. ChemAxon, MarvinSketch (version 18.16, ChemAxon, Budapest, Hungary, 2018).
+
+NMR Spectroscopy. NMR pH titrations of avibactam-bound [13Ce]- or U-[13C]–
+labeled CTX-M-9 were followed by acquiring 1H-13C HSQC spectra; 14 pH
+points were acquired for the [13Ce]-Lys–labeled (4.5, 4.9, 5.3, 5.7, 6.1, 6.5, 6.9,
+7.3, 7.7, 8.1, 9.1, 10.1, 11.1, and 12.1) and 13 pH points (4.5, 5.1, 5.7, 6.3, 6.9,
+7.5, 8.1, 8.7, 9.3, 9.9, 10.65, 11.7, and 12.3) for the U-[13C]-Lys–labeled sample. Sequence-specific backbone resonance assignment of CTX-M-9 in the
+avibactam-bound state at pH 5.5 was transferred from a partial resonance
+assignment of free CTX-M-9 obtained at the same pH, using a set of HNCA
+and HNCOCA experiments. pKa values were calculated by three-parameter
+least-square fitting of the chemical shift data (δobs) obtained from the titration experiments into the following equation:
+δobs = δU +
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+plateau at low pH values. Only pH titration data below pH 10.0 were used to
+determine pKa values as a significant amount of precipitation was observed
+at pH >10.0.
+
+Δδ
+,
+1 + 10nðpKa−pHÞ
+
+5824 | www.pnas.org/cgi/doi/10.1073/pnas.1922203117
+
+[1]
+
+Pemberton et al.
+
+Pemberton et al.
+
+PNAS | March 17, 2020 | vol. 117 | no. 11 | 5825
+
+BIOCHEMISTRY
+
+53. J. F. Fisher, S. Mobashery, Three decades of the class A beta-lactamase acyl-enzyme.
+Curr. Protein Pept. Sci. 10, 401–407 (2009).
+54. I. Massova, S. Mobashery, Kinship and diversification of bacterial penicillin-binding
+proteins and beta-lactamases. Antimicrob. Agents Chemother. 42, 1–17 (1998).
+55. V. G. Vandavasi et al., Exploring the mechanism of β-Lactam ring protonation in the
+class A β-lactamase acylation mechanism using neutron and X-ray crystallography. J.
+Med. Chem. 59, 474–479 (2016).
+56. J. C. Hargis, S. L. Vankayala, J. K. White, H. L. Woodcock, Identification and characterization of noncovalent interactions that drive binding and specificity in DD-peptidases
+and β-lactamases. J. Chem. Theory Comput. 10, 855–864 (2014).
+57. W. Zhang, Q. Shi, S. O. Meroueh, S. B. Vakulenko, S. Mobashery, Catalytic mechanism
+of penicillin-binding protein 5 of Escherichia coli. Biochemistry 46, 10113–10121
+(2007).
+58. T. G. Battye, L. Kontogiannis, O. Johnson, H. R. Powell, A. G. Leslie, iMOSFLM: A new
+graphical interface for diffraction-image processing with MOSFLM. Acta Crystallogr.
+D Biol. Crystallogr. 67, 271–281 (2011).
+59. Z. Otwinowski, W. Minor, Processing of X-ray diffraction data collected in oscillation
+mode. Methods Enzymol. 276, 307–326 (1997).
+60. P. Evans, Scaling and assessment of data quality. Acta Crystallogr. D Biol. Crystallogr.
+62, 72–82 (2006).
+61. M. D. Winn et al., Overview of the CCP4 suite and current developments. Acta Crystallogr. D Biol. Crystallogr. 67, 235–242 (2011).
+62. A. J. McCoy et al., Phaser crystallographic software. J. Appl. Cryst. 40, 658–674 (2007).
+63. P. V. Afonine et al., Towards automated crystallographic structure refinement with
+phenix.refine. Acta Crystallogr. D Biol. Crystallogr. 68, 352–367 (2012).
+64. P. D. Adams et al., PHENIX: A comprehensive python-based system for macromolecular structure solution. Acta Crystallogr. D Biol. Crystallogr. 66, 213–221 (2010).
+65. P. Emsley, B. Lohkamp, W. G. Scott, K. Cowtan, Features and development of Coot.
+Acta Crystallogr. D Biol. Crystallogr. 66, 486–501 (2010).
+66. N. W. Moriarty, R. W. Grosse-Kunstleve, P. D. Adams, Electronic Ligand Builder and
+Optimization Workbench (eLBOW): A tool for ligand coordinate and restraint generation. Acta Crystallogr. D Biol. Crystallogr. 65, 1074–1080 (2009).
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+41. D. Golemi-Kotra et al., The importance of a critical protonation state and the fate of
+the catalytic steps in class A beta-lactamases and penicillin-binding proteins. J. Biol.
+Chem. 279, 34665–34673 (2004).
+42. T. Shimamura et al., Acyl-intermediate structures of the extended-spectrum class A
+beta-lactamase, Toho-1, in complex with cefotaxime, cephalothin, and benzylpenicillin. J. Biol. Chem. 277, 46601–46608 (2002).
+43. Y. Chen, J. Delmas, J. Sirot, B. Shoichet, R. Bonnet, Atomic resolution structures of
+CTX-M beta-lactamases: Extended spectrum activities from increased mobility and
+decreased stability. J. Mol. Biol. 348, 349–362 (2005).
+44. S. O. Meroueh, J. F. Fisher, H. B. Schlegel, S. Mobashery, Ab initio QM/MM study of
+class A beta-lactamase acylation: Dual participation of Glu166 and Lys73 in a concerted base promotion of Ser70. J. Am. Chem. Soc. 127, 15397–15407 (2005).
+45. D. A. Nichols et al., Ligand-induced proton transfer and low-barrier hydrogen bond
+revealed by X-ray crystallography. J. Am. Chem. Soc. 137, 8086–8095 (2015).
+46. W. W. Cleland, M. M. Kreevoy, Low-barrier hydrogen bonds and enzymic catalysis.
+Science 264, 1887–1890 (1994).
+47. J. D. Graham, A. M. Buytendyk, D. Wang, K. H. Bowen, K. D. Collins, Strong, lowbarrier hydrogen bonds may be available to enzymes. Biochemistry 53, 344–349
+(2014).
+48. P. A. Frey, S. A. Whitt, J. B. Tobin, A low-barrier hydrogen bond in the catalytic triad
+of serine proteases. Science 264, 1927–1930 (1994).
+49. M. Nadal-Ferret, R. Gelabert, M. Moreno, J. M. Lluch, Are there really low-barrier
+hydrogen bonds in proteins? The case of photoactive yellow protein. J. Am. Chem.
+Soc. 136, 3542–3552 (2014).
+50. E. M. Lewandowski et al., Mechanisms of proton relay and product release by Class A
+β-lactamase at ultrahigh resolution. FEBS J. 285, 87–100 (2018).
+51. J. Sgrignani, G. Grazioso, M. De Amici, G. Colombo, Inactivation of TEM-1 by avibactam (NXL-104): Insights from quantum mechanics/molecular mechanics metadynamics simulations. Biochemistry 53, 5174–5185 (2014).
+52. K. Bush, G. A. Jacoby, A. A. Medeiros, A functional classification scheme for betalactamases and its correlation with molecular structure. Antimicrob. Agents Chemother. 39, 1211–1233 (1995).
+
+

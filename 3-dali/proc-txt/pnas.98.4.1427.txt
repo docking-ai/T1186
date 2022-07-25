@@ -1,0 +1,471 @@
+A 1.2-Å snapshot of the final step of bacterial cell
+wall biosynthesis
+Wenlin Lee*, Michael A. McDonough†, Lakshmi P. Kotra*, Zhi-Hong Li*, Nicholas R. Silvaggi†, Yoshifumi Takeda*,
+Judith A. Kelly†‡, and Shahriar Mobashery*‡
+†Department
+
+of Molecular and Cell Biology and Institute of Materials Science, University of Connecticut, Storrs, CT 06269-3125; and *Institute for Drug
+Design and the Department of Chemistry, Wayne State University, Detroit, MI 48202-3489
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+The cell wall imparts structural strength and shape to bacteria. It is
+made up of polymeric glycan chains with peptide branches that are
+cross-linked to form the cell wall. The cross-linking reaction, catalyzed by transpeptidases, is the last step in cell wall biosynthesis.
+These enzymes are members of the family of penicillin-binding
+proteins, the targets of ␤-lactam antibiotics. We report herein the
+structure of a penicillin-binding protein complexed with a cephalosporin designed to probe the mechanism of the cross-linking
+reaction catalyzed by transpeptidases. The 1.2-Å resolution x-ray
+structure of this cephalosporin bound to the active site of the
+bifunctional serine type D-alanyl-D-alanine carboxypeptidase兾
+transpeptidase (EC 3.4.16.4) from Streptomyces sp. strain R61
+reveals how the two peptide strands from the polymeric substrates
+are sequestered in the active site of a transpeptidase. The structure
+of this complex provides a snapshot of the enzyme and the bound
+cell wall components poised for the final and critical cross-linking
+step of cell wall biosynthesis.
+
+S
+
+ince their clinical introduction more than 50 years ago,
+␤-lactam antibiotics have been essential drugs in combating
+bacterial infections. To date, ␤-lactams constitute approximately
+60% of all clinically used antibiotics. These antibiotics interfere
+with cell wall biosynthesis. All bacteria, with very few exceptions,
+have a cross-linked cell wall (1, 2). The cross-linking takes place
+as the last step in biosynthesis of cell wall, a reaction that is
+catalyzed by bacterial transpeptidases (1, 3–6), enzymes that rely
+on an active-site serine for their reactions. The activated serine
+of transpeptidase attacks the carbonyl of the penultimate D-Ala
+of the peptidoglycan precursor, with concomitant departure of
+the terminal D-Ala, to give rise to an acyl-enzyme intermediate
+(Fig. 1A). An amine from the side chain of another peptidoglycan (diaminopimelate, modified lysine, or ornithine derivative)
+reacts with the ester of the acyl-enzyme intermediate to give the
+cross-linked species.
+It was suggested by Tipper and Strominger (7) that a ␤-lactam
+antibiotic, such as a penicillin or a cephalosporin, mimics the
+conformation of the acyl-D-Ala-D-Ala portion of the bacterial
+peptidoglycan. It also was found that ␤-lactam antibiotics covalently modify the active-site serine of transpeptidase via the
+␤-lactam carbonyl group, which spatially corresponds to the
+carbonyl of the penultimate D-Ala of the pentapeptide. The
+penicillin structure in its entirety remains tethered to the enzyme
+as an integral part of the long-lived acyl-enzyme species, presenting a steric barrier to the approach of the second strand of
+peptidoglycan at the ester carbonyl (8). With the active site
+covalently modified by the antibiotic, the enzyme is no longer
+available for its normal function, transpeptidation is prevented,
+and bacterial death ensues.
+We designed and synthesized cephalosporin 1, which incorporates components of the cell wall in its structure (Fig. 1B). We
+envisioned that cephalosporin 1 would modify the active-site
+serine of the transpeptidase, as would other ␤-lactams, by
+mimicking the acyl-D-Ala-D-Ala portion of the peptidoglycan
+(the portions of 1 in red in Fig. 1B). But, the portion to the right
+
+of the acylated species with our cephalosporin (in green; complex 2, Fig. 1B) would mimic the approaching nucleophile,
+diaminopimelate, from the second strand of the peptidoglycan.
+Hence, cephalosporin 1 was expected to be an inhibitor of
+transpeptidases, albeit a unique one with structural characteristics of the two strands of peptidoglycan. Complex 2 represents
+a snapshot of the two peptidoglycan strands just before the
+cross-linking reaction, when diaminopimelate from the second
+strand approaches the ester of the acyl-enzyme intermediate
+formed by the transpeptidase bound to the first strand of
+peptidoglycan. Although there are some variations in the structures for the cross-links of peptidoglycans in different types of
+bacteria, the structure of peptidoglycan that is incorporated into
+cephalosporin 1 is seen for all Gram-negative bacteria and occurs
+in many Gram-positive organisms (1). Therefore, the mechanistic conclusions drawn from complex 2 would be valid for the
+majority of bacteria. We hasten to add that the two ‘‘strands of
+peptidoglycan’’ would be tethered to each other in complex 2. It
+turns out that this reduction in the degrees of freedom for the
+two strands is absolutely necessary for the structure determination, in light of the fact that numerous attempts at binding
+derivatives of peptidoglycan into the PBP active sites have so far
+failed to reveal any structural information. We report herein the
+synthesis of cephalosporin 1, the complex of a transpeptidase
+modified by 1 and its mechanistic implications for the crosslinking of the bacterial cell wall.
+Methods
+The synthetic procedures for the preparation of cephalosporin 1
+and each of the intermediates, and their characterization by
+high-field 13C and 1H NMR, IR, and high-resolution mass
+spectra can be found in the supplemental material and Tables 2
+and 3, which are published on the PNAS web site, www.pnas.org.
+All compounds containing the oxazolidine moiety exhibited two
+sets or broadening of NMR signals at room temperature, due to
+the presence of a dynamic equilibrium between two conformers
+in solution in the absence of enzyme (9, 10). Additionally,
+compounds with peptide chains attached to the cephalosporin
+moiety also exhibited additional conformers. These conformational states were studied either by recording the spectra at
+higher temperatures or by reducing the concentration to minimize such conformational states that may be induced in an
+intermolecular set of interactions.
+
+This paper was submitted directly (Track II) to the PNAS office.
+Abbreviations: PBP, penicillin binding protein; DAP, diaminopimelate; NAM, N-acetylmuramic acid.
+Data deposition: The coordinates of the complex reported in this paper have been deposited in the Protein Data Bank, www.rcsb.org (PDB ID code 1HVB).
+See commentary on page 1319.
+‡To
+
+whom reprint requests should be addressed. E-mail: som@chem.wayne.edu or
+kelly@uconnvm.uconn.edu.
+
+The publication costs of this article were defrayed in part by page charge payment. This
+article must therefore be hereby marked “advertisement” in accordance with 18 U.S.C.
+§1734 solely to indicate this fact.
+
+PNAS 兩 February 13, 2001 兩 vol. 98 兩 no. 4 兩 1427–1431
+
+BIOCHEMISTRY
+
+Edited by Gregory A. Petsko, Brandeis University, Waltham, MA, and approved November 14, 2000 (received for review August 11, 2000)
+
+Initial refinement was carried out by using CNS (12). The
+refined model was fitted to 2 Fo⫺Fc and Fo⫺Fc electron density
+maps by using CHAIN (13). Several rounds of refinement and
+fitting were performed. Solvent molecules, with reasonable
+hydrogen bond distances and geometry, were added except in
+the region of the ligand-binding site. The agreement between
+the model of the complex and the diffraction data are measured by the R factor, which converged in CNS to 0.214. After
+CNS refinement, SHELX-97 (14) was used to refine the molecule
+anisotropically, which resulted in a 0.035 drop in Rfree, an
+independent measure of the progress of the refinement. The
+program O (15) was used to analyze and fit electron density
+maps from SHELX-97. At this stage, the ligand and alternate
+side-chain conformations were added. When the R factor
+converged in SHELX-97, hydrogen atoms were added that
+appeared as 3-␴ difference density peaks.
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Energy Minimizations and Molecular Dynamics Simulations. Energy
+
+Fig. 1. (A) A representative transpeptidation reaction for Gram-negative
+bacteria and some Gram-positives catalyzed by certain penicillin-binding
+proteins (PBPs), beginning with acylation of the active-site serine of the
+enzyme by the peptide of one strand of peptidoglycan (E denotes the
+enzyme). Reaction of the second strand of the peptidoglycan with the ester
+of the acyl-enzyme intermediate results in the cross-linked cell wall. (B) The
+backbone of cephalosporin 1 (in red) mimics the terminal acyl-D-Ala-D-Ala
+portion of the peptide branch of the first strand of the peptidoglycan. The
+C-7 acyl moiety, the phenylacetyl group, is that seen in penicillin G.
+Cephalosporin 1 acylates the active site serine of the transpeptidase, as
+would the peptide from the first strand of peptidoglycan, concomitant
+with the departure of the terminal D-Ala. The ␤-lactam nitrogen and its
+adjacent carbon and carboxylate collectively serve as a surrogate for the
+departing D-Ala, and the same atoms constitute a portion of the incoming
+DAP surrogate in strand 2 in complex 2. The acyl-enzyme species 2 depicts
+the first enzyme-bound ‘‘peptidoglycan’’ strand (shown in red) poised to
+receive the amine of DAP from the second strand of peptidoglycan (shown
+in green).
+
+Crystallization and Refinement. A 0.30 ⫻ 0.20 ⫻ 0.15-mm native
+
+R61 DD-peptidase兾transpeptidase cr ystal (space group
+P212121, cell dimensions a ⫽ 51.8, b ⫽ 66.4, and c ⫽ 100.1 Å,
+one 37.5-kDa molecule per asymmetric unit) was soaked for 4
+days in a 30 mM solution of cephalosporin 1, 28% PEG-8000,
+50 mM sodium phosphate at pH 6.8. The crystal then was
+dipped in cryoprotectant, made up of the soak solution plus
+20% glycerol, and f lash-cooled in a nitrogen gas stream. Data
+were collected at beamline X12C of the National Synchrotron
+Light Source at Brookhaven National L aborator y,
+Brookhaven, New York and processed by using HKL (11).
+
+1428 兩 www.pnas.org
+
+minimizations and molecular dynamics simulations were performed by using the AMBER 5.0 suite of software (16, 17).
+Graphical and molecular database analyses were performed by
+using the SYBYL software (version 6.5, Tripos Associates, St.
+Louis). For cephalosporin 1 and for all other residues, MNDO
+electrostatic potential charges and standard AMBER parameter
+set were used, respectively. Carbohydrate residues, Nacetylglucosamine and N-acetylmuramic acid (NAM), were
+treated by using the GLYCAM force field parameter set (18). The
+1.2-Å resolution crystal structure of the Streptomyces R61 PBP
+complexed with the cephalosporin 1 was used for the starting
+coordinates. Initially, the protein molecule and its crystallographic symmetry counterpart, including the crystallographic
+water molecules, were solvated with 25,692 TIP3 waters and
+subjected to energy minimization for 5,000 iterations. Subsequently, molecular dynamics simulations were carried out on the
+assembly at constant volume for 10 ps at 300 K in the time steps
+of 2 fs by using periodic boundary conditions. The system was
+then further equilibrated at constant pressure of 1 atm for 40 ps
+at 300 K by using periodic boundary conditions with nonbonded
+cut-off of 12 Å. After 50 ps, snapshots of the molecular dynamics
+simulations were collected at every picosecond for up to 248 ps.
+The average rms deviation of C␣ atoms was 1.28 ⫾ 0.18 Å.
+Coordinates of the energy-minimized inhibitor in the presence
+and absence of the symmetry-related protein molecule were
+extracted and overlapped to compare the conformational
+differences.
+Results and Discussion
+Compound 1 was synthesized according to Scheme 1. The key
+intermediate 5 was obtained by a Stille coupling between
+stannane 3 and trif late 4. Several other attempts, including the
+Wittig reaction, Suzuki coupling, Heck coupling, and Zncatalyzed Reformatsky-type coupling, to form the COC bond
+between cephalosporin derivatives and appropriate oxazolidines were not successful. Subsequent hydrogenation of 5 in
+excess Pd兾C gave the alcohol 6. The isopropylidene moiety was
+removed presumably by the slight acidity present in the
+commercial Pd兾C. A two-step Dess-Martin兾Jones oxidation of
+6 afforded the acid 8 in high yield. Compound 8 then was
+coupled to the protected D-Ala-D-Ala 9 by dicyclohexylcarbodiimide (DCC) and 1-hydroxybenzotriazole (HOBt) to give
+10. The Boc group of 10 was removed in the presence of
+chlorotrimethylsilane (TMSCl)兾NaI. Another DCC coupling
+of the resultant 11 with protected D-Glu yielded the desired 13.
+Subsequent global deprotection of all of the acid-sensitive
+protecting groups and conversion of the resultant carboxylic
+acids into sodium salts gave the desired 1.
+Cephalosporin 1 acylated the bifunctional serine type Dalanyl-D-alanine carboxypeptidase兾transpeptidase (EC 3.4.16.4)
+Lee et al.
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+from Streptomyces sp. strain R61 readily, because incubation of
+cephalosporin 1 and the enzyme in crystalline form gave a stable
+acyl-enzyme species that was detectable by using x-ray crystallographic techniques. The position of cephalosporin 1 in the
+active site was determined by fitting 1.2-Å difference electron
+density maps. Statistics for the data collection and refinement
+show that this is a well-determined structure (Table 1).
+Fig. 2A shows the details of binding of cephalosporin 1 in the
+active site pocket of the enzyme, for which a schematic is
+presented in Fig. 2B. Cephalosporin 1 is bound between the
+all-helical and the ␣兾␤ domains of the PBP. PBPs have three
+signature sequences with eight conserved residues: Ser62–x–x–
+Lys, which contains the catalytic serine residue; Ser兾Tyr159–x–
+Asn, on a loop below the active site; and Lys兾His298–Thr–Gly–
+Thr兾Ser, which occurs on the inner strand of the ␤-sheet that
+flanks the active site. Both strands 1 and 2 of cephalosporin 1 are
+oriented antiparallel to the inner ␤-strand of the antiparallel ␤
+sheet of the enzyme. The catalytic serine residue is somewhat
+buried in a pocket formed below the grooves on the surface of
+the enzyme, where the bulk of the peptidoglycan analogs bind.
+The strands are anchored by 11 hydrogen bonds in the acylated
+enzyme species, five associated with strand 1 and six associated
+with strand 2. Seven of these interactions involve residues that
+are conserved in all known PBPs (see Fig. 2).
+Several key features are revealed by the structure of the
+complex. Serine-62 is positioned on a helix dipole, and it is likely
+that the pKa of its side-chain hydroxyl is somewhat lowered. The
+side chain of Lys-65 is in contact with the Ser-62 hydroxyl (3.04
+Å) in the absence of any ligand and it is believed to activate it
+for the enzyme acylation event (5, 8). The N␧ of the diaminopimelate (DAP) surrogate in the inhibitor is located on the
+␤-side of the ␤-lactam, 2.6 Å from the carbonyl of the ester bond
+linking the compound to the enzyme. This positioning is ideally
+suited for the subsequent addition to the ester carbonyl that
+would result in the natural cross-linked cell wall. Tyrosine-159,
+assuming that its side chain is deprotonated, is the likely
+active-site base positioned for activation of the incoming DAP
+amine (at 4.0 Å) for the addition reaction. The DAP amine,
+Lee et al.
+
+Table 1. Crystallographic data
+Resolution limit
+Number of reflections
+Measured
+Unique
+Reflections, F ⬎ 4 ␴
+Completeness
+All data
+Highest resolution shell (1.21–1.17 Å)
+Rsym* (on I)
+具I兾Sigma (I)典 overall
+Refinement
+Resolution
+R factor (no cutoff)
+R free (no cutoff)
+Data in test set
+Nonhydrogen atoms
+rms
+Bond lengths (Å)
+Angle distances (Å)
+Average B(iso) of ligand
+
+1.2 Å
+2,333,719
+111,373
+93,339
+96%
+73%
+0.040
+25.0
+⬁ ⫺ 1.17 Å
+0.115
+0.154
+5,560
+3,337
+0.015
+0.030
+33.3 Å2
+
+*Rsym ⫽ ⌺兩Iobs ⫺ 具I典兩兾⌺ 具I典.
+PNAS 兩 February 13, 2001 兩 vol. 98 兩 no. 4 兩 1429
+
+BIOCHEMISTRY
+
+Scheme 1.
+
+Tyr-159, and Lys-65 could function as a relay mechanism for
+transfer of a proton from the incoming peptidoglycan to the
+departing Ser-62.
+Crystallographic studies have shown little change in the
+enzyme structure on binding ␤-lactams. One exception is the side
+chain of Thr-301, which rotates to hydrogen bond with a
+side-chain nitrogen in bulky cephalosporins (8). This rotation
+also is observed with cephalosporin 1. Interestingly, with cephalosporin 1 there is also an unusual rotation of the ␤-sheet
+carbonyl of Thr-301, moving it 3.3 Å away from the active site.
+This movement is no doubt necessary for steric reasons to allow
+proper positioning of the peptidoglycan analog. The only other
+shift of the enzyme to accommodate the ligand is a movement
+of the side chain of Asn-161, which moves into a hydrogenbonding orientation, with N␦2 positioned 2.9 Å from the oxygen
+of the C-7 side-chain amide of cephalosporin 1.
+Crystal packing positions a second copy of the enzyme
+molecule near the active site of the first, and three interactions
+occur between the bound ligand and the symmetry-related copy
+of the enzyme. One interaction is a strong hydrogen bond (2.7
+Å) between oxygen of the side chain in D-Glu of cephalosporin
+1 and the main-chain amide of Asp-98 on the symmetry-related
+molecule. The other two contacts are at distances of 3.7 and 3.3
+Å, representing weak interactions. The effect of this symmetryrelated copy of the enzyme on binding of cephalosporin 1 was
+investigated by using molecular dynamics simulations. No difference in binding of cephalosporin 1 was observed with or
+without the inclusion of the symmetry-related copy of the
+enzyme molecule. Within the simulation period of 198 ps (after
+equilibration), the inhibitor in both situations behaved similarly.
+The average rms deviations of all of the atoms of the cephalosporin inhibitor in the presence and absence of the symmetryrelated enzyme molecule were 1.62 ⫾ 0.41 and 1.49 ⫾ 0.80 Å,
+respectively. This shows that the movement of cephalosporin 1
+after acylation of the active site serine residue is not influenced
+by the inclusion of the symmetry-related enzyme molecule.
+Therefore, the structure depicts a realistic conformation, unaffected by crystallographic packing.
+In solving the structure of this complex, we were able to
+consider the position of the polysaccharide portions of the cell
+wall. We have extended the structures of the peptidoglycan
+portions from the crystallographically determined positions for
+cephalosporin 1 up to NAM–N-acetylglucosamine (NAG) res-
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Fig. 2. (A) Stereoview of the active site
+of Streptomyces R61 DD-carboxypeptidase兾transpeptidase acylated by cephalosporin 1, generated by using MOLSCRIPT
+(22) and RASTER3D (23, 24). The ligand is
+rendered as ball and stick with CPK atom
+colors. Hydrogen bonds between the enzyme and the ligand are shown as dotted
+white lines. Residues labeled in red are
+conserved among PBPs and ␤-lactamases.
+(B) A schematic of interactions shown in
+A; the red and green segments correspond with those of the same colors for
+species 2 shown in Fig. 1B. (C) Energyminimized computational model of peptidoglycan strands bound to Streptomyces R61 PBP extended from the x-ray
+structure of species 2. The orientation of
+the enzyme is the same as in A. The electrostatic enzyme surface was computed
+in GRASP (25) with blue representing positive surface charge and red representing
+negative surface charge. The peptidoglycan model is shown in the ball-and-stick
+representation, color-coded according to
+the atom type (N, blue; C, white; O, red; S,
+yellow). The positions of polymer extensions of the N-acetylglucosamine–NAM
+chains are shown by green arrows for the
+first strand and by yellow arrows for the
+second strand.
+
+1430 兩 www.pnas.org
+
+Lee et al.
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+This manuscript is dedicated to Koji Nakanishi on the occasion of his
+75th birthday as a testimonial of my esteem for his numerous contributions to the field of chemistry (S.M.). We thank Robert T. Vinopal and
+James R. Knox for their critical reading of the manuscript. A sample of
+the cephalosporin starting material for preparation of triflate 4 was
+generously provided by the Otsuka Chemical Co. (Osaka, Japan).
+Jean-Marie Frère of the Université de Liège generously provided the
+purified R61 DD-peptidase兾transpeptidase for crystallization. Diffraction data were collected at Brookhaven National Laboratory at beamline
+X12-C in the National Synchrotron Light Source, supported by the U.S.
+Department of Energy (DE-AC02–98CH10886), National Science
+Foundation, and National Institutes of Health (1P41 RR12408–01A1).
+This research was supported by a grant from the State of Connecticut
+Critical Technologies Program in Drug Design (to J.A.K.) and a National
+Institutes of Health grant (to S.M.).
+
+1. Schleifer, K. H. & Kandler, O. (1972) Bacteriol. Rev. 36, 407–477.
+2. Labischinski, H. & Maidhof, H. (1994) in Bacterial Cell Wall, eds. Ghuysen,
+J.-M. & Hakenbeck, J. (Elsevier, Amsterdam), pp. 23–39.
+3. Bugg, T. D. H. & Walsh, C. T. (1992) Nat. Prod. Rep. 9, 199–215.
+4. Kelly, J. A., Kuzin, A. P., Charlier, P. & Fonze, E. (1998) Cell. Mol. Life Sci.
+54, 353–358.
+5. Massova, I. & Mobashery, S. (1998) Antimicrob. Agents Chemother. 42, 1–17.
+6. Ghuysen, J. M. (1997) Int. J. Antimicrob. Agents 8, 45–60.
+7. Tipper, D. J. & Strominger, J. L. (1965) Proc. Natl. Acad. Sci. USA 54,
+1133–1141.
+8. Kuzin, A., Liu, H., Kelly, J. A. & Knox, J. R. (1995) Biochemistry 34, 9532–9540.
+9. Garner, P. & Park, J. M. (1987) J. Org. Chem. 52, 2361–2364.
+10. Delle Monache, G., Di Giovanni, M. C., Maggio, F., Misiti, D. & Zappia, G.
+(1995) Synthesis 1155–1158.
+11. Otwinowski, Z. & Minor, W. (1997) Methods Enzymol. 276, 307–326.
+12. Brügner, A. T., Adams, P. D., Clore, G. M., DeLano, W. L., Gros, P.,
+Grosse-Kunstleve, R. W., Jiang, J. S., Kuszewski, J., Nilges, M., Pannu, N. S.,
+et al. (1998) Acta Crystallogr. D 54, 905–921.
+13. Sack, J. S. (1988) J. Mol. Graphics 6, 224–225.
+14. Sheldrick, G. M. & Schneider, T. R. (1997) Methods Enzymol. 277, 319–343.
+
+15. Jones, T. A., Zou, J. Y., Cowan, S. W. & Kjeldgaard, M. (1991) Acta Crystallogr.
+A 47, 110–119.
+16. Case, D. A., Pearlman, D. A., Caldwell, J. W., Cheatham, T. E., III & Ross,
+W. S. (1997) AMBER 5 (Univ. of California, San Francisco).
+17. Pearlman, D. A., Case, D. A., Caldwell, J. W., Ross, W. S., Cheatham, T. E.,
+Debolt, S., Ferguson, D., Seibel, G. & Kollman, P. (1995) Comp. Phys.
+Commun. 91, 1–41.
+18. Woods, R. J., Dwek, R. A., Edge, C. J. & Fraser-Reid, B. (1995) J. Phys. Chem.
+99, 3832–3846.
+19. Pares, S., Mouz, N., Pétillot, Y., Hakenbeck, R. & Dideberg, O. (1996) Nat.
+Struct. Biol. 3, 284–289.
+20. Kelly, J. A., Moews, P. C., Knox, J. R., Frére, J. M. & Ghuysen, J. M. (1982)
+Science 218, 479–481.
+21. Bush, K. & Mobashery, S. (1998) in Resolving the Antibiotic Paradox: Progress
+in Understanding Drug Resistance and Development of New Antibiotics, eds.
+Rosen, B. P. & Mobashery, S. (Plenum, New York), pp. 71–98.
+22. Kraulis, P. J. (1991) J. Appl. Crystallogr. 24, 946–950.
+23. Bacon, D. J. & Anderson, W. F. (1988) J. Mol. Graphics 6, 219–220.
+24. Merritt, E. A. & Murphy, M. E. P. (1994) Acta Crystallogr. D 50, 869–873.
+25. Nicholls, A., Sharp, K. & Honig, B. (1991) Proteins Struct. Funct. Genet. 11,
+281–296.
+
+Lee et al.
+
+PNAS 兩 February 13, 2001 兩 vol. 98 兩 no. 4 兩 1431
+
+BIOCHEMISTRY
+
+C ␤-lactamases are known to have descended from different
+PBPs (5), so these independent evolutionary adaptations are
+plausible. Furthermore, the surface of the transpeptidase that
+interacts with peptidoglycan strand 1 (at six o’clock in Fig. 2C)
+is entirely absent in the two classes of ␤-lactamases. Therefore,
+␤-lactamases have lost the structural surface for binding to both
+peptidoglycan strands, so as to be able to specialize exclusively
+as enzymes of antibiotic resistance.
+These structural studies show the positions of the peptidoglycan components poised for the cross-linking step of cell wall
+biosynthesis, providing a unique glimpse of how this critical step
+takes place in bacteria. These data, together with the extension
+of the crystallographic structure to model the glycan positions,
+provide valuable information to aid in the design of novel
+antibacterials that would bind to these enzymic subsites.
+
+idues of the peptidoglycan strands. Eight crystallographic water
+molecules were removed in building the extensions onto the x-ray
+structure of cephalosporin 1. The model of the crystallographic
+structure with the NAG–NAM extensions was solvated and
+energy-minimized by using the AMBER 5.0 package. Energy
+minimization showed stable glycan strands aligned in welldefined grooves on the surface of the enzyme (Fig. 2C). These
+hydrophilic grooves, which are 18 Å apart at the peptide
+branching points in NAM, would accommodate the polymeric
+backbone of the sugar residues in peptidoglycan. We note that
+Pares et al. (19) built a model of the peptidoglycan into the active
+site of their 3.5-Å resolution structure of the PBP2x from
+Streptococcus pneumoniae. Although a direct comparison of their
+model and ours is not entirely possible, it is clear that the putative
+saccharide-binding grooves in that report do not agree with the
+positioning developed in our work.
+There is mechanistic and structural evidence that ␤-lactamases, enzymes that confer resistance to ␤-lactam antibiotics,
+evolved from PBPs (5, 20, 21). The two classes of enzymes have
+similar overall structural folds, yet neither can effectively catalyze the reaction of its kin. The structure of Fig. 2C reveals why
+this is the case. The groove that accommodates peptidoglycan
+strand 2 is obliterated by an insertion in ␤-lactamases (residues
+214–224 and 285–296 in class A and class C ␤-lactamases,
+respectively) at that site. It is interesting that the local folds for
+the two peptide insertions are distinct in the two classes of
+␤-lactamases. Hence, it would appear that nature adopted this
+ploy on two separate occasions in evolution of ␤-lactamases to
+prevent interactions with strand 2 of peptidoglycan. Class A and
+
+

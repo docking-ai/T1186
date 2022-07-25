@@ -1,0 +1,680 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 90, pp. 11257-11261, December 1993
+Biochemistry
+
+Evolution of an enzyme activity: Crystallographic structure at 2-A
+resolution of cephalosporinase from the ampC gene of Enterobacter
+cloacae P99 and comparison with a class A penicillinase
+(3-lactamase/protein folding/bacterial 3lactam resistance)
+
+EMIL LOBKOVSKY*, PAUL C. MOEWS*, HANSONG LIu*, HAICHING ZHAO*, JEAN-MARIE FREREt,
+JAMES R. KNOX*t
+
+AND
+
+*Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT 06269-3125; and tLaboratoire d'Enzymologie, Universite de Liege, B-4000
+Sart Tilman, Liege 1, Belgium
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+Communicated by Frederic M. Richards, August 30, 1993 (receivedfor review June 16, 1993)
+
+The structure of the class C ampC 3lactamABSTRACT
+ase (cephalosporinase) from Enterobacter cloacae strain P99
+has been established by x-ray crystallography to 2- resolution
+and compared to a class A ,B-lactamase (penicillinase) structure. The binding site for .lactam antibiotics is generally more
+open than that in penicillinases, in agreement with the ability
+of the class C 3lactamases to better bind third-generation
+cephalosporins. Four corresponding catalytic residues (Ser64/70, Lys-67/73, Lys-315/234, and Tyr-150/Ser-130 in
+dass C/A) lie in equivalent positions within 0.4 . Significant
+differences in positions and accessibilities of Arg-349/244 may
+explain the inability of clavulanate-type inhibitors to effectively
+inactivate the class C j-lactamases. Glu-166, required for
+deacylation of the 3-lactamoyl intermediate in class A penicillinases, has no counterpart in this cephalosporinase; the nearest candidate, Asp-217, Is 10 A from the reactive Ser-64. A
+comparison of overall tertary folding shows that the cephalosporinase, more than the penicillinase, is broadly similar to the
+ancestral 3lactam-inhibited enzymes of bacterial cell wall
+synthesis. On this basis, it is proposed that the cephalosporinase is the older of the two 3lactamases, and, therefore, that
+a local refolding in the active site, rather than a simple point
+mutation, was required for the primordial class C &3-lactamase
+to evolve to the dass A -lactamase having an improved ability
+to catalyze the deacylation step of 3lactam hydrolysis.
+
+Only since the late 1970s have the Enterobacter species
+become resistant to ,B-lactam antibiotics (penicillins and
+cephalosporins), so that now they are the third greatest cause
+of Gram-negative nosocomial infections in the United States
+(1). The primary cause of this resistance is the constitutive or
+,B-lactam-inducible overproduction of 83-lactamase (EC
+3.5.2.6), which catalyzes, via a serine-bound acyl intermediate, the hydrolysis of the ,B-lactam to an inactive acid:
+OH
+RlC-N
+T >C
+
+,C-NJ%
+
+R2
+
+S
+
+H20
+SER-0-C
+
+6
+
+-
+
+N>
+
+H
+
+-C
+
+s3
+
+HO-C Ns
+
+O-O
+
+cephalosporins such as cefotaxime, the clinical significance
+of this class is growing rapidly (5). Their rather low catalytic
+activity against these cephalosporins is offset by their high
+overproduction. Especially troublesome is the class C 3-lactamase from the ampC gene of Enterobacter cloacae, as it is
+only weakly inactivated by mechanism-based inhibitors such
+as clavulanic acid, and it is expected to develop activity
+against a currently effective carbapenem, imipenem (1).
+To provide structural details for mechanistic proposals,
+and hopefully for the design of inhibitors and new cephalosporins, we present here the crystal structure of the class C
+3-lactamase from Ent. cloacae strain P99, with a comparison
+of the class A and class C 3-lactamases at the levels of
+polypeptide folding and active site architecture.
+RESULTS
+Crystallization and Data Collection. The ampC 3-lactamase
+from Ent. cloacae strain P99 (6) was crystallized at room
+temperature from 11% (vol/vol) polyethylene-glycol 8000 at
+pH 6.5-8.5 in 50 mM sodium cacodylate buffer containing 1
+mM MgCl2 and 1 mM NaN3. The crystals have space group
+P21 with two molecules in the asymmetric unit. Cell dimensions are a = 46.50 A, b = 83.47 A, c = 95.46 A, and , =
+90.00. Diffraction data (Table 1) were collected at room
+temperature on a Siemens area x-ray detector with a Rigaku
+12-kW rotating anode source with graphite-monochromatized Cu Ka radiation. Intensities were reduced and scaled
+with the Xengen programs (7).
+Structure Determination. The structure was solved by the
+multiple isomorphous replacement method with the inclusion
+of anomalous scattering (MIRAS). Protein phases calculated
+from one heavy atom derivative were used to refine parameters of the other (35). With the mercury derivative contributing usefully only to 4.5-A resolution, the figure-of-merit for
+13,749 reflections to 3-A resolution is 0.80. Fitting of maps
+with the sequence of 361 residues (6) was done with FRODO
+(8) on an Evans and Sutherland PS330 graphics system. The
+two molecules of the asymmetric unit were traced and fitted
+independently. Later, a map to 2-A resolution was calculated
+with model-based phases and coefficients 2mFo DF, (9).
+Structure Refinement. The 722-residue model was built by
+using energy minimization and simulated annealing with
+XPLOR (10). Refinement was done with the restrained leastsquares crystallographic program PROLSQ (11). The resulting
+R factor for a model excluding water molecules and terminal
+residues Thr-1 and Gln-361 is 0.217 for 41,710 reflections (F
+- 3o-F) from 10.0- to 2.0-A resolution. Covalent bonds and
+angles in the model deviate 0.018 A and 3.20 from ideal
+values. Coordinate errors in the model are estimated (12) to
+be 0.25 A. The two molecules in the asymmetric unit differ by
+-
+
+The 3-lactamases have been grouped into classes A through
+D (2) or groups 1 through 4 (3). Most studied have been the
+class A /-lactamases (group 2), whose members are commonly called penicillinases and use a non-classical serine
+mechanism (4). The body of data on the class C enzymes, the
+so-called cephalosporinases or group 1 /3-lactamases, is considerably smaller than that for class A. Because these 3-lactamases can destroy the once-dependable third-generation
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+*To whom reprint requests should be addressed.
+
+11257
+
+11258
+
+Biochemistry: Lobkovsky et al.
+
+Proc. Natl. Acad Sci. USA 90 (1993)
+
+Table 1. Data from native and derivative crystals
+Native
+K3UO2F5
+Parameter
+Hg(SO3CH3)2
+1.86 (2.0) 2.26 (2.3)
+2.33 (2.6)
+dmin (d3)), A
+23,843
+125,514
+170,149
+No. observations
+15,574
+30,676
+51,415
+No. unique reflections
+0.051, 27
+0.050, 20
+0.040, 24
+Rsym(I), I/ao(I)
+
+only 0.21 A (rms) in the positions of backbone atoms of all
+residues, even though a twofold noncrystallographic symmetry was never imposed during the refinement. The largest
+differences approach 2 A in a protruding loop region from
+residue 203 to residue 207.§
+Description of the Structure. The ,3-lactamase is a mixed a-,B
+structure with an all-helical domain on the left and a mixed a/13
+domain on the right (Fig. 1A). Residues in the helical and P
+conformations total 34% and 22% of the polypeptide, respec-
+
+§The atomic coordinates and structure factors have been deposited
+
+in the Protein Data Bank, Chemistry Department, Brookhaven
+National Laboratory, Upton, NY 11973 (reference 1BLT). This
+information is embargoed for 1 year (coordinates) from the date of
+publication.
+
+tively. The class C (-lactamase from Citrobacterfreundii has
+75% sequence homology with the title enzyme, and a brief
+report of its crystal structure has appeared (14). However, its
+atomic coordinates are not available for a comparison.
+Comparison with a Class A Penicillinase. The folding of this
+39,200-Da class C cephalosporinase is compared in Fig. 1 B
+and C with the folding of a class A penicillinase, the
+29,500-Da 3-lactamase from Bacillus licheniformis (ref. 15,
+Protein Data Bank ref. 4BLM). Four additional p,-strands in
+the class C molecule (Fig. 2A) form a small antiparallel sheet
+which is considerably twisted (60-90°) with respect to the
+major five-stranded sheet common to both types of P-lactamase. For more detailed comparison of secondary structures, we use the unified nomenclature for penicillinrecognizing enzymes (16), in which the class A numbers are
+expanded as necessary with letters a, b, c, . . . to denote
+additional secondary structure elements not present in
+smaller class A l3-lactamases. The result is seen in Fig. 2B,
+where the spatial correspondence between the elements of
+the two molecules is diagrammed, based on Fig. 1C.
+An important difference between the tertiary structures of
+the two types of f-lactamase occurs at the bottom of the
+catalytic site in the vicinity of helix H7 (Fig. 3). This
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+A
+
+B
+
+2
+
+N
+
+A'
+
+*"
+
+,
+
+4
+
+V
+L
+, -'
+(C r- "' :'L l;:. Pi. P;r .l..
+I_
+
+L '. ',% &',
+
+"I
+
+L
+
+'.-
+
+C
+
+FIG. 1. (A) Stereoview of a ribbon representation of the ampC cephalosporinase of Ent. cloacae P99. The N terminus is on the helix at right,
+and the cephalosporin binding site is in lower center. (B) Molscript (13) drawings of the class C cephalosporinase (Left) and the smaller class
+A penicillinase of Bacillus licheniformis (Protein Data Bank ref. 4BLM). Cefotaxime is positioned in the binding site. (C) Superposition of the
+a-carbon traces of the cephalosporinase (solid line) and penicillinase (broken line). They are oriented as in B.
+
+Biochemistry: Lobkovsky et al.
+
+Proc. Natl. Acad. Sci. USA 90 (1993)
+
+A
+
+11259
+
+CLASS A
+
+B
+
+50
+
+Hl
+
+32
+
+B1
+
+43
+
+B2
+
+56
+
+150
+
+100
+
+n1 nnF
+B2a
+
+69
+
+H2
+
+H3a H3b
+H3
+H4
+H2a
+
+119
+
+200
+
+250
+
+300
+
+350
+
+11i
+
+H4a
+
+B2d
+H5
+
+132
+
+H6 B2b
+
+..159
+....
+...145
+
+H7 B2c H8
+
+1'68
+
+H9
+
+e
+
+f
+
+H1Oa
+H10
+
+g
+
+B3
+
+B4 B5
+
+Hll
+
+277-83
+
+201
+
+218
+
+230
+
+243 259
+
+277
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+FIG. 2. (A) Comparison of the secondary structure domains of cephalosporinase (Left) and penicillinase (Right). Rectangles and arrows are
+a-helices and ,3-strands, respectively. (B) Spatial equivalence of secondary structure in the class C cephalosporinase (Upper) and class A
+penicillinase of B. licheniformis (Lower) based on the three-dimensional alignment in Fig. 1C. Helices (H), /3-strands (B), and deletions are
+indicated by large rectangles, small rectangles, and dotted lines, respectively. Numbering for the smaller B. licheniformis enzyme is
+discontinuous; the first residue in each element is numbered. The class C enzyme contains four major insertions in the minimal class A motif
+at residues 120-150, 190-215, 264-277, and 290-310. Helices H10 run in opposite directions in the folded structures.
+
+difference arises because the paths of the two polypeptide
+chains diverge after the common B-strand B2b, with the class
+C enzyme taking a much longer path from the rear of the
+molecule to the catalytic site. Here, each chain forms a short
+helix (H7) which contains an invariant acid residue, Glu-166
+and Asp-217 in class A and C enzymes, respectively. The
+chains come together again at 1-strand B2c. These two loops
+are approximately related by a 1800 twist which places the
+two acid residues in very different positions relative to the
+three catalytic residues common to the two enzymes.
+
+FIG. 3. A difference in polypeptide folding in the 3-lactam
+binding sites of class A (broken line) and class C (solid line)
+/3-lactamases. The two loops at bottom are related by an approximately 1800 twist.
+
+The 18-Lactam Binding Site. Between the a domain on the
+left and the a/f8 domain on the right lies the site of ,B-lactam
+binding (Fig. 4A), as observed in crystallographic studies of
+1-lactam binding in 13-lactamases (14, 17-19) and in the
+,B3lactam-inhibited Streptomyces R61 D-Ala-D-Ala-peptidase
+(20). The reactive Ser-64 is at the N terminus of the H2 helix
+and is adjacent to invariant Lys-67. A second conserved
+lysine, Lys-315, lies on 1-strand B3 and is part of a signature
+K(H)T(S)G tripeptide seen in all penicillin-recognizing enzymes (21, 22). Modeling of 1-lactam binding to 13-lactamases
+(14, 23, 24) suggests that a /3-lactam substrate is likely to be
+oriented with the carbonyl group of the /3lactam ring hydrogen-bonded in an oxyanion binding pocket between helix H2
+(NH of Ser-64) and 3-strand B3 (NH of Ser-318). The variable
+318 residue also supplies a carbonyl group to hydrogen bond
+to the amide of the 1-lactam's acylamide linkage. Hydrogen
+bonds are possible from the acylamide carbonyl group to the
+amides of Gln-120 and Asn-152. The carboxylic acid group of
+a dihydrothiazine ring of cephalosporins would lie near
+Thr-316 and conserved Asn-346 from the C-terminal helix
+Hil. R2 substituents on the ring would lie at the top of the
+binding site near residues 287-289, which are hydrophilic in
+all class C sequences. Significantly, a rather open space
+exists at the bottom for R1 substituents.
+Comparison of (3-Lactam Binding Sites in Class A and C
+Enzymes. In Fig. 4 A and B it is seen that the three conserved
+functionalities common to both classes, Ser-64/70 and Lys67/73 on helix H2 and Lys-315/234 on 13-strand B3, lie in
+equivalent positions. Tyr-150 exists in the position occupied
+by Ser-130 in class A enzymes. The functional atoms of the
+four side chains are within 0.4 A of their counterpart on the
+other enzyme; simple alteration of their crystallographic
+conformation would put them even closer. Only the interresidue distance A is significantly different in the two active
+sites. Two other residues with counterparts in class A enzymes are Gln-120 and Asn-152. As in the class A enzymes,
+Asn-152 is strongly hydrogen bonded to Lys-67 on the H2
+helix. It is significant that the residue required for deacylation
+
+11260
+
+Biochemistry: Lobkovsky et al.
+
+Proc. Natl. Acad Sci. USA 90 (1993)
+
+A
+
+5
+
+B
+
+LYSARG9
+
+ARG
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+T.as
+acu S .2gA9RAR
+'.
+%n ^},
+
+9 ARG
+
+ru 52 tSN
+
+X
+
+/ SER4
+
+FIG. 4. (A) ,B-Lactam binding sites
+of class A and class C ,B-lactamases.
+Residue numbers in parentheses and
+side chains represented by broken
+lines refer to the class A B. licheniformis enzyme. Averaged distances
+(A) in the class A/C enzymes are A =
+2.67/3.11, B = 3.18/3.08, C = 3.21/
+3.13, D = 2.91/3.09, E = 2.57/2.53,
+and F = 2.91/3.01. (B) Stereoview of
+side chains in the ,B-lactam binding
+sites of the Ent. cloacae andB. licheniformis (broken lines) ,B-lactamases.
+
+R
+
+~~~,l
+52,AISN~~~
+
+bN
+C/
+'.,
+
+I2I
+II
+
+1
+
+66 G L Y
+
+.
+
+1 70 ASN
+'-170 ASN
+,.
+
+I..
+
+in class A
+
+enzymes
+
+(4, 25, 26), Glu-166, is without
+
+a coun-
+
+terpart in this and other (14) class C ,B-lactamases. The
+nearest acid residue, Asp-217, is 10 A away from Ser-64, and
+
+its carboxylate group is directed away from Ser-64 (Fig. 3).
+Asn-152 lies about 3 A from the virtual Glu-166 and 4.8 A
+from Ser-64. Nor is there a counterpart for Asn-170, which is
+thought to assist hydrolysis, albeit poorly, in class A mutants
+lacking Glu-166 (18). On the right side of the binding site is a
+buried arginine (Arg-349) conserved in the class C ,B-lactamases. The side chain is well stabilized by multiple interactions
+with Ser-318 and Ser-343. This Arg-349 is unlikely to be the
+counterpart of the class A Arg-244 (27-29), however, because
+the two guanidinium groups are separated 4.5 A and the side
+chains differ greatly in solvent accessibility (2.5 A3 vs. 24.5
+A3 for Arg-244). It is more likely that nearby Asn-346 (Fig.
+4A) is a hydrogen-bonding counterpart of Arg-244 and helps
+to bind the carboxylic acid group of ,3-lactams.
+Interaction with Clavulanic Acid Inhibitors of (-Lactamases.
+Clavulanic acid irreversibly inactives most class A (3-lactamases, but it is generally ineffective in binding to and inhibiting
+the class C f3lactamases (1, 30). In the class A enzymes, an
+initial acylation by the reactive serine
+C-N0
+o
+
+N
+SER-0-C
+o
+
+is followed by protonation of the double bond, which leads to
+opening of the oxazolidine ring followed by various rearrangements. From modeling, it has been proposed that the
+protonation step is inadvertently enzyme catalyzed (31, 32).
+A crystallographic water molecule, held by Arg-244, was said
+to be the source of the proton necessary for oxazolidine ring
+opening. For this class C ,B-lactamase, acylation is probably
+very slow (30). Nevertheless, once acylation is achieved, a
+similar modeling of the acylated intermediate (Fig. 5) shows
+that Arg-349 is too distant for interaction with the clavulanate
+carboxylic acid group. Instead, the clavulanate acid group
+hydrogen bonds to Asn-346 and also to a water molecule
+(Wll). Unlike the water molecule in the class A case, Wll is
+distant from the nascent carbanion in the double bond of the
+W9
+
+L-
+
+.\V YR150
+
+THR316
+
+SEPR6
+
+I~ ~
+
+~
+
+y_
+
+, r W t,
+
+~
+
+\ "
+
+ASN346
+
+FIG. 5. Modeled Ser-64-bound clavulanic acid intermediate in the
+binding site of the Ent. cloacae ,B lactamase. Its position was
+optimized by energy minimization.
+
+Biochemistry: Lobkovsky et al.
+intermediate, and it is unlikely to provide a proton for the
+ring-opening step. Thus, the inefficiency of the clavulanate
+inactivation process appears to rest both on the low acylation
+rate and on a deficient protonation of the double bond.
+
+DISCUSSION
+This comparison of the topology and catalytic geometry of
+two distantly related /-lactamases has shown broad anatomical similarities but also localized differences in folding which
+confer catalytic uniqueness to each enzyme. When the active
+site of the class C Ent. cloacae ,B-lactamase is overlaid with
+that of a representative class A ,-lactamase, four residues
+implicated in ,B-lactam binding or catalysis easily coincide.
+All interresidue distances are equivalent except that between
+the reactive Ser-64/70 and its adjacent Lys-67/73 on helix
+H2. The longer Ser * * Lys separation in this class C enzyme
+would reduce any influence of Lys-67 on the activation of
+Ser-64 prior to acylation. For the class C C. freundii enzyme,
+an acylation and deacylation mechanism was proposed (14)
+which utilizes an anionic Tyr-150, activated by nearby Lys-67
+and Lys-315. However, the rather long distances seen here
+(>3 A) involving Tyr-150 and the very strong binding of
+Lys-67 with Asn-152 (2.5 A), make questionable this role for
+Tyr-150. Without a Glu-166 counterpart, perhaps hydrolytic
+deacylation of the acyl intermediate is simply not enzymatically catalyzed in class C 3-lactamases.
+Another residue in class A enzymes, a generally conserved
+Arg-244 thought to assist substrate binding and turnover (27,
+28), clearly does not have an exact counterpart in the class C
+enzyme. In the class A 3-lactamases, this Arg-244 is adventitiously placed to assist the enzyme's inactivation by mechanism-based clavulanic acid inhibitors (31, 32). We find an
+arginine (Arg-349) near the binding site, but it is improperly
+oriented for strong hydrogen bonding to the ,B-lactam carboxylate group. A better positional counterpart of Arg-244,
+Asn-346, might weakly bind the carboxylic acid groups of
+,3lactam substrates and clavulanic acid. However, modeling
+indicates that Asn-346 does not adequately position a water
+molecule for interaction with the acylated clavulanate intermediate. It appears, therefore, that an enzymatic catalysis of
+the protonation step of the clavulanate mechanism, as proposed for the clavulanate-sensitive class A enzymes, is
+unlikely in this class C binding site.
+The class A and C tertiary structures differ markedly at the
+bottom of the binding site, where acylamide substituents of
+,3lactams would lie. From an analysis of mutant class A
+,-lactamases, Huletsky et al. (33) proposed how a displacement of the B3 p-strand, to produce a larger space at the
+bottom of the binding site, helps account for the extended
+activity of recent SHV- and TEM-type mutants toward
+third-generation cephalosporins such as cefotaxime and ceftazidime. This class C ,B-lactamase, with its inherently larger
+space near the bottom of the 3-strand, is already better
+configured to interact with 3-lactams with rigid and branched
+R1 substituents.
+Comparison of &3lactamases with an ancestral penicillinsensitive D-Ala-D-Ala carboxypeptidase-transpeptidase (DDpeptidase) has been discussed in terms of function (34) and
+secondary structure (16), and now a detailed comparison of
+the three-dimensional structures of all three types of &3lactam-recognizing enzymes will be possible. Preliminary comparison reveals the folding of the class C ,3lactamase is much
+closer to that of the parent DD-peptidase than is the folding
+of the class A ,B-lactamase. This difference in folding now
+becomes the basis for a conjecture that a catalytic general
+base, the Glu-166 unique to the class A enzymes, had to arise
+not by simple point mutation in the precursor class C enzyme
+but by a local refolding (Fig. 3) which moved an existing acid
+
+Downloaded from https://www.pnas.org by 108.172.119.208 on July 24, 2022 from IP address 108.172.119.208.
+
+-
+
+Proc. Natl. Acad. Sci. USA 90 (1993)
+
+11261
+
+residue, perhaps Asp-217, to an optimal position to activate
+a water molecule for a catalyzed deacylation of the acyl
+intermediate. This mutational refolding produced a modified
+,B-lactamase (class A) having the ability to hydrolytically
+deacylate ,B3lactamoyl intermediates much more rapidly than
+the primordial class C /3lactamase.
+We thank Eric Billings for assistance with computations. Work in
+Connecticut was supported, in part, by Eli Lilly and Company.
+Computations were performed at the University ofConnecticut Computing Center and at the Pittsburgh Supercomputing Center.
+1. Neu, H. C. (1992) Science 257, 1064-1072.
+2. Ambler, R. P., Frere, J.-M., Ghuysen, J.-M., Joris, B., Levesque,
+R. C., Tiraby, G., Waley, S. G. & Coulson, A. F. W. (1991) Biochem. J. 276, 269-272.
+3. Bush, K. (1989) Antimicrob. Agents Chemother. 33, 264-270.
+4. Escobar, W. A., Tan, A. K. & Fink, A. L. (1991) Biochemistry 30,
+10783-10787.
+5. Jacoby, G. A. & Archer, G. L. (1991) N. Engl. J. Med. 324,
+601-612.
+6. Galleni, M., Lindberg, F., Normark, S., Cole, S., Honore, N., Joris,
+B. & Frere, J.-M. (1988) Biochem. J. 250, 753-760.
+7. Howard, A. J., Gilliland, G. L., Finzel, B. C., Poulos, T. L.,
+Ohlendorf, D. H. & Salemme, F. R. (1987) J. Appl. Crystallogr. 20,
+383-387.
+8. Jones, T. A. (1985) Methods Enzymol. 115, 157-170.
+9. Read, R. J. (1986) Acta Crystallogr. Sect. A 42, 140-149.
+10. Brunger, A. T. (1990) X-PLOR Manual, Version 2.1, Yale University, New Haven, CT.
+11. Konnert, J. H. & Hendrickson, W. A. (1980) Acta Crystallogr.
+Sect. A 36, 344-349.
+12. Luzzati, V. (1952) Acta Crystallogr. 5, 802-810.
+13. Kraulis, P. (1991) J. Appl. Crystallogr. 24, 946-950.
+14. Oefner, C., D'Arcy, A., Daly, J. J., Gubernator, K., Charnas,
+R. L., Heinze, I., Hubschwerfen, C. & Winkler, F. K. (1990)
+Nature 343, 284-288.
+15. Knox, J. R. & Moews, P. C. (1991) J. Mol. Biol. 220, 435-455.
+16. Joris, B., Ledent, P., Dideberg, O., Fonze, E., Lamotte-Brasseur,
+J., Kelly, J. A., Ghuysen, J.-M. & Frere, J.-M. (1991) Antimicrob.
+Agents Chemother. 35, 2294-2301.
+17. Strynadka, N. C. J., Adachi, H., Jensen, S. E., Johns, K., Sielecki,
+A., Betzel, C., Sutoh, K. & James, M. N. G. (1992) Nature (London) 359, 700-705.
+18. Knox, J. R., Moews, P. C., Escobar, W. A. & Fink, A. L. (1993)
+Protein Eng. 6, 11-18.
+19. Chen, C. C. H. & Herzberg, 0. (1992)J. Mol. Biol. 224, 1103-1113.
+20. Kelly, J. A., Knox, J. R., Zhao, H., Frere, J.-M. & Ghuysen, J.-M.
+(1989) J. Mol. Biol. 209, 281-295.
+21. Kelly, J. A., Boyington, J. C., Moews, P. C., Knox, J. R., Dide-
+
+berg, O., Charlier, P., Libert, M., Wery, J.-P.,-Duez, C., Joris, B.,
+Frere, J.-M. & Ghuysen, J.-M. (1987) in Frontiers of Antibiotic
+Research, ed. Umezawa, H. (Academic, New York), pp. 327-337.
+22. Herzberg, 0. & Moult, J. (1991) Curr. Opin. Struct. Biol. 1,
+
+946-953.
+23. Lamotte-Brasseur, J., Dive, G., Dideberg, O., Charlier, P., Frere,
+J.-M. & Ghuysen, J.-M. (1991) Biochem. J. 279, 213-221.
+24. Juteau, J.-M., Billings, E., Knox, J. R. & Levesque, R. C. (1992)
+Protein Eng. 5, 693-701.
+25. Delaire, M., Lenfant, F., Labia, R. & Masson, J.-M. (1991) Protein
+Eng. 4, 805-810.
+26. Adachi, H., Ohta, T. & Matsuzawa, H. (1991) J. Biol. Chem. 266,
+3186-3191.
+27. Moews, P. C., Knox, J. R., Dideberg, O., Charlier, P. & Frere,
+J.-M. (1990) Proteins Struct. Funct. Genet. 7, 156-171.
+28. Zafaralla, G., Manavathu, E. K., Lerner, S. A. & Mobashery, S.
+(1992) Biochemistry 31, 3847-3852.
+29. Delaire, M., Labia, R., Samama, J.-P. & Masson, J.-M. (1992) J.
+Biol. Chem. 267, 20600-20606.
+30. Reading, C. & Farmer, T. (1981) Biochem. J. 199, 779-787.
+31. Imtiaz, U., Billings, E., Knox, J. R., Manavathu, E. K., Lerner,
+S. A. & Mobashery, S. (1993) J. Am. Chem. Soc. 115, 4435-4442.
+32. Knox, J. R. (1993) in Recent Advances in the Chemistry of Antiinfective Agents, eds. Bentley, P. H. & Ponsford, R. (R. Soc.
+Chem., London), Spec. Publ. no. 119, pp. 37-49.
+33. Huletsky, A., Knox, J. R. & Levesque, R. C. (1993) J. Biol. Chem.
+268, 3690-3697.
+34. Pazhanisamy, S. & Pratt, R. F. (1989) Biochemistry 28, 6875-6882.
+35. Furey, W. & Swaminathan, S. (1990) Am. Crystallogr. Assn. Mtg.
+Abstr. 18, 73.
+
+
