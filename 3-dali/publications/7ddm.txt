@@ -12,7 +12,7 @@
         </head>
         <body>
             <h1>Error: 500 Internal Server Error</h1>
-            <p>Sorry, the requested URL <tt>&#039;https://www.ebi.ac.uk/pdbe/api/pdb/entry/publications/6v5e&#039;</tt>
+            <p>Sorry, the requested URL <tt>&#039;https://www.ebi.ac.uk/pdbe/api/pdb/entry/publications/7ddm&#039;</tt>
                caused an error:</p>
             <pre>Internal Server Error</pre>
         </body>
