@@ -1,0 +1,102 @@
+:PROPERTIES:
+:ID:       9f27a533-9b8c-4053-b77c-b3cf4f18137d
+:END:
+#+title: tem
+in:
+Transition state analogue boronic acid inhibitors mimicking the structures and
+interactions of good penicillin substrates for the TEM-1 beta lactamase of
+Escherchia coli were designed using graphic analyses.
+
+out0:
+We designed a drug that blocks a part of a bacteria that is important for it to
+live, and can also be used to treat human diseases. The "graphic analyses" means
+we looked at how penicillin works in the body, and designed a drug that could
+block the same thing in a different type of bacteria. See also
+
+out1:
+One of four oxygen atoms (oxygen is a gas that gives us energy) in the molecule
+binds to Ser70 and Ala237. This arrangement causes a highly ordered
+hydrogen-bond network in the protein called the oxyanion hole to become
+disordered. This change makes the enzyme work much more efficiently.
+
+This paper is a great example of scientific jargon being converted into plain
+english by using everyday examples. The authors use plain english to describe
+their research and also cite their prior work so that it can be easily
+understood. The paper begins with a concise description of what happened in the
+experiment. It then goes into further detail about the specific procedures and
+tools used in the experiment. Finally, the paper ends with a conclusion based on
+the results obtained from the experiment. Overall, this paper provides a clear
+and concise understanding of the experiment conducted and the meaning behind the
+jargon within the context of the experiment.
+
+
+###
+
+in:
+As designed, the tetrahedral boronic acid-enzyme adduct positions one oxygen
+(OH1) in the oxyanion hole formed by the main chain nitrogens of Ser70 and
+Ala237, displacing a highly ordered water.
+
+out0:
+The boron group (boronic acid) and the part of the enzyme that manages water,
+called the apoenzyme, form a complex that has oxygen atoms in positions that
+would normally be filled by hydrogen atoms. This actually displaces water that
+should be in those positions, so that there is no water in between the two
+groups of molecules.
+
+Some more jargon to plain English translations:
+
+out1:
+When you put the right chemical on an enzyme, it can interact with it in a way
+that causes one of the water molecules in the protein to move out of the way,
+and leave a space for the chemical you put on the enzyme.
+
+out2:
+When you put the boron-based molecule on the enzyme, it puts a hole in the place
+where normally water would be, and water moves out of the way.
+
+out3:
+The tetrahedral boronate-enzyme adduct is designed to sit in a hole that is
+formed by the main chain (the most important) nitrogen of Ser70 and Ala237, and
+displace highly ordered water.
+
+out4:
+One oxygen atom, which is part of a water molecule, is forced out of place by
+the boronic acid-enzyme adduct, because it is too small. This opens up a space
+within the main chain of amino acids (the building blocks of proteins) between
+Ser70 and Ala237, which is where one oxygen atom would fit if it was not pushed
+out of place.
+
+out5:
+The boron that is part of the molecule we designed attaches to a certain spot on
+the enzyme, where there was a highly ordered water molecule (a molecule of water
+that is lined up neatly with its neighbors).
+
+out6:
+When we designed a chemical that attaches to the enzyme that makes stuff into
+urine, it could only fit into the perfect spot if an oxygen (a group of atoms
+related to water) was moved out of the way. This made the place it worked much
+better than it did before!.
+
+out7:
+The structure of the enzyme we studied is like a triangle. We found that the
+molecules that block this enzyme fit into the empty space in the middle of the
+triangle (a very organized part of the enzyme). This causes the water molecule
+to move out of the way. This allows the enzyme to do what it does best (break
+down chemicals).
+
+out8:
+When you put the enzyme you want to modify into a chemical called tetrahedral
+boronate, it will affect one oxygen (OH1) in the oxyanion hole. This is a part
+of the enzyme that forms from the main chain nitrogens of Ser70 and Ala237. It
+will displace water, which is highly ordered.
+
+The main strengths of this model are that it provides the reader with a map of
+the jargon-to-plain-english conversion process and it can be applied to a wide
+range of scientific fields. The main weakness of this model is that it does not
+acknowledge that scientific jargon is often used for many purposes other than
+just converting complex scientific concepts to plain english. For example,
+scientific jargon can be used to emphasize the importance of a finding or to
+criticize the idea that a finding is significant. It is also used to claim
+intellectual property over an idea by using special words to describe it and
+thereby setting up a marker that makes the idea unique.
