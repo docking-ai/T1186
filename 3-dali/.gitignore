@@ -2,3 +2,5 @@ mmcif
 proc-pdf
 pdb
 trans
+trans-hetatm
+trans-hetatm-nohoh
