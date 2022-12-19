@@ -1,0 +1,5 @@
+==== Secondary Structure Definition by the program DSSP, updated CMBI version by ElmK / April 1,2000 ==== DATE=26-JUN-2022     .
+REFERENCE W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637                                                              .
+HEADER    RNA                                     14-APR-95   205D                                                             .
+COMPND   2 MOLECULE: RNA (5'-R(*GP*GP*AP*CP*UP*UP*UP*GP*GP*UP*CP*C)-                                                           .
+AUTHOR    K.J.BAEYENS,H.L.DE BONDT,S.R.HOLBROOK                                                                                .

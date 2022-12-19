@@ -1,0 +1,6 @@
+==== Secondary Structure Definition by the program DSSP, updated CMBI version by ElmK / April 1,2000 ==== DATE=26-JUN-2022     .
+REFERENCE W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637                                                              .
+HEADER    DNA                                     02-JUN-98   401D                                                             .
+COMPND   2 MOLECULE: DNA (5'-D(*GP*AP*CP*CP*GP*CP*GP*GP*TP*C)-3');                                                             .
+SOURCE   2 SYNTHETIC: YES                                                                                                      .
+AUTHOR    M.LUO,J.B.FINLEY                                                                                                     .

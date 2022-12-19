@@ -1,0 +1,6 @@
+==== Secondary Structure Definition by the program DSSP, updated CMBI version by ElmK / April 1,2000 ==== DATE=26-JUN-2022     .
+REFERENCE W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637                                                              .
+HEADER    RIBOZYME                                14-DEC-96   300D                                                             .
+COMPND   2 MOLECULE: RNA HAMMERHEAD RIBOZYME;                                                                                  .
+SOURCE   2 SYNTHETIC: YES;                                                                                                     .
+AUTHOR    W.G.SCOTT,J.B.MURRAY,J.R.P.ARNOLD,B.L.STODDARD,A.KLUG                                                                .

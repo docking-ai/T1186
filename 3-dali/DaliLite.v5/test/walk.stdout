@@ -1,0 +1,1093 @@
+# dalicon iteration=1 cd1=5cnbA cd3=1emyA z12=31.6 z23=28.5 x=152 n_cd3=1
+# dalicon iteration=1 cd1=5cnbA cd3=1aziA z12=31.6 z23=28.5 x=152 n_cd3=2
+# dalicon iteration=1 cd1=5cnbA cd3=2jhoA z12=27.7 z23=27.9 x=152 n_cd3=3
+# dalicon iteration=1 cd1=5cnbA cd3=2mya z12=27.7 z23=27.8 x=152 n_cd3=4
+# dalicon iteration=1 cd1=5cnbA cd3=2myc z12=27.7 z23=27.8 x=152 n_cd3=5
+# dalicon iteration=1 cd1=5cnbA cd3=5mbn z12=27.7 z23=27.8 x=152 n_cd3=6
+# dalicon iteration=1 cd1=5cnbA cd3=2mb5 z12=27.7 z23=27.8 x=152 n_cd3=7
+# dalicon iteration=1 cd1=5cnbA cd3=4mbn z12=27.7 z23=27.9 x=152 n_cd3=8
+# dalicon iteration=1 cd1=5cnbA cd3=2myb z12=27.7 z23=27.8 x=152 n_cd3=9
+# dalicon iteration=1 cd1=5cnbA cd3=2myd z12=27.7 z23=27.9 x=152 n_cd3=10
+# dalicon iteration=1 cd1=5cnbA cd3=2mye z12=27.7 z23=27.6 x=152 n_cd3=11
+# dalicon iteration=1 cd1=5cnbA cd3=5ilmA z12=27.2 z23=29.1 x=152 n_cd3=12
+# dalicon iteration=1 cd1=5cnbA cd3=2ekuA z12=27.7 z23=27.2 x=152 n_cd3=13
+# dalicon iteration=1 cd1=5cnbA cd3=5ileA z12=27.2 z23=29.2 x=152 n_cd3=14
+# dalicon iteration=1 cd1=5cnbA cd3=2mgm z12=27.1 z23=30.5 x=152 n_cd3=15
+# dalicon iteration=1 cd1=5cnbA cd3=2mgk z12=27.1 z23=30.6 x=152 n_cd3=16
+# dalicon iteration=1 cd1=5cnbA cd3=1abs z12=27.1 z23=29.9 x=152 n_cd3=17
+# dalicon iteration=1 cd1=5cnbA cd3=1tes z12=27.1 z23=30.8 x=152 n_cd3=18
+# dalicon iteration=1 cd1=5cnbA cd3=1j52A z12=27.1 z23=30.5 x=152 n_cd3=19
+# dalicon iteration=1 cd1=5cnbA cd3=111m z12=27.1 z23=30.6 x=152 n_cd3=20
+# dalicon iteration=1 cd1=5cnbA cd3=2mgl z12=27.1 z23=30.4 x=152 n_cd3=21
+# dalicon iteration=1 cd1=5cnbA cd3=112m z12=27.1 z23=30.2 x=152 n_cd3=22
+# dalicon iteration=1 cd1=5cnbA cd3=2mbw z12=27.1 z23=30.5 x=152 n_cd3=23
+# dalicon iteration=1 cd1=5cnbA cd3=2mgh z12=27.0 z23=30.3 x=152 n_cd3=24
+# dalicon iteration=1 cd1=5cnbA cd3=2oh9A z12=27.0 z23=30.0 x=152 n_cd3=25
+# dalicon iteration=1 cd1=5cnbA cd3=107m z12=27.0 z23=30.5 x=152 n_cd3=26
+# dalicon iteration=1 cd1=5cnbA cd3=103m z12=27.0 z23=30.3 x=152 n_cd3=27
+# dalicon iteration=1 cd1=5cnbA cd3=1mlj z12=27.0 z23=29.9 x=152 n_cd3=28
+# dalicon iteration=1 cd1=5cnbA cd3=2mgi z12=27.0 z23=30.8 x=152 n_cd3=29
+# dalicon iteration=1 cd1=5cnbA cd3=1mll z12=27.0 z23=30.0 x=152 n_cd3=30
+# dalicon iteration=1 cd1=5cnbA cd3=1mob z12=27.0 z23=29.8 x=152 n_cd3=31
+# dalicon iteration=1 cd1=5cnbA cd3=1mod z12=27.0 z23=30.5 x=152 n_cd3=32
+# dalicon iteration=1 cd1=5cnbA cd3=2mga z12=27.0 z23=29.7 x=152 n_cd3=33
+# dalicon iteration=1 cd1=5cnbA cd3=102m z12=27.0 z23=31.8 x=152 n_cd3=34
+# dalicon iteration=1 cd1=5cnbA cd3=108m z12=27.0 z23=30.2 x=152 n_cd3=35
+# dalicon iteration=1 cd1=5cnbA cd3=2mgb z12=27.0 z23=30.2 x=152 n_cd3=36
+# dalicon iteration=1 cd1=5cnbA cd3=1mlk z12=27.0 z23=29.9 x=152 n_cd3=37
+# dalicon iteration=1 cd1=5cnbA cd3=1mlq z12=27.0 z23=30.5 x=152 n_cd3=38
+# dalicon iteration=1 cd1=5cnbA cd3=2mgj z12=27.0 z23=30.5 x=152 n_cd3=39
+# dalicon iteration=1 cd1=5cnbA cd3=1mls z12=27.0 z23=30.4 x=152 n_cd3=40
+# dalicon iteration=1 cd1=5cnbA cd3=106m z12=27.0 z23=31.7 x=152 n_cd3=41
+# dalicon iteration=1 cd1=5cnbA cd3=1mlr z12=27.0 z23=30.4 x=152 n_cd3=42
+# dalicon iteration=1 cd1=5cnbA cd3=1moc z12=27.0 z23=30.6 x=152 n_cd3=43
+# dalicon iteration=1 cd1=5cnbA cd3=1mym z12=26.8 z23=30.6 x=152 n_cd3=44
+# dalicon iteration=1 cd1=5cnbA cd3=101m z12=26.8 z23=31.7 x=152 n_cd3=45
+# dalicon iteration=1 cd1=5cnbA cd3=1mtj z12=26.8 z23=30.6 x=152 n_cd3=46
+# dalicon iteration=1 cd1=5cnbA cd3=1mti z12=26.8 z23=30.4 x=152 n_cd3=47
+# dalicon iteration=1 cd1=5cnbA cd3=1mtk z12=26.8 z23=30.6 x=152 n_cd3=48
+# dalicon iteration=1 cd1=5cnbA cd3=1mnjA z12=22.3 z23=22.4 x=145 n_cd3=49
+# dalicon iteration=1 cd1=5cnbA cd3=5cndA z12=22.3 z23=22.4 x=145 n_cd3=50
+# dalicon iteration=1 cd1=5cnbA cd3=3qmaA z12=22.3 z23=28.5 x=145 n_cd3=51
+# dalicon iteration=1 cd1=5cnbA cd3=3rj6B z12=22.3 z23=22.4 x=143 n_cd3=52
+# dalicon iteration=1 cd1=5cnbA cd3=3wfuA z12=22.3 z23=22.3 x=143 n_cd3=53
+# dalicon iteration=1 cd1=5cnbA cd3=1mz0A z12=22.3 z23=22.3 x=143 n_cd3=54
+# dalicon iteration=1 cd1=5cnbA cd3=1mlnA z12=22.3 z23=22.7 x=143 n_cd3=55
+# dalicon iteration=1 cd1=5cnbA cd3=2o5oX z12=22.3 z23=22.3 x=143 n_cd3=56
+# dalicon iteration=1 cd1=5cnbA cd3=5cngA z12=22.3 z23=22.3 x=143 n_cd3=57
+# dalicon iteration=1 cd1=5cnbA cd3=4nxaA z12=22.3 z23=22.4 x=144 n_cd3=58
+# dalicon iteration=1 cd1=5cnbA cd3=3a2gA z12=22.3 z23=22.6 x=145 n_cd3=59
+# dalicon iteration=1 cd1=5cnbA cd3=2zsqA z12=22.3 z23=23.0 x=145 n_cd3=60
+# dalicon iteration=1 cd1=5cnbA cd3=3ed9A z12=22.3 z23=22.9 x=145 n_cd3=61
+# dalicon iteration=1 cd1=5cnbA cd3=4pqbA z12=22.3 z23=22.3 x=145 n_cd3=62
+# dalicon iteration=1 cd1=5cnbA cd3=2v1gA z12=22.3 z23=22.3 x=143 n_cd3=63
+# dalicon iteration=1 cd1=5cnbA cd3=3eczA z12=22.3 z23=22.9 x=145 n_cd3=64
+# dalicon iteration=1 cd1=5cnbA cd3=3henA z12=22.3 z23=22.5 x=143 n_cd3=65
+# dalicon iteration=1 cd1=5cnbA cd3=1pmbB z12=22.3 z23=22.6 x=145 n_cd3=66
+# dalicon iteration=1 cd1=5cnbA cd3=2g0rA z12=22.3 z23=22.4 x=143 n_cd3=67
+# dalicon iteration=1 cd1=5cnbA cd3=4qauA z12=22.3 z23=22.3 x=143 n_cd3=68
+# dalicon iteration=1 cd1=5cnbA cd3=1mlkA z12=22.3 z23=22.3 x=143 n_cd3=69
+# dalicon iteration=1 cd1=5cnbA cd3=1mlqA z12=22.3 z23=22.3 x=145 n_cd3=70
+# dalicon iteration=1 cd1=5cnbA cd3=3edbA z12=22.3 z23=22.9 x=143 n_cd3=71
+# dalicon iteration=1 cd1=5cnbA cd3=5cn4A z12=22.3 z23=22.3 x=145 n_cd3=72
+# dalicon iteration=1 cd1=5cnbA cd3=5cn9A z12=22.3 z23=22.3 x=145 n_cd3=73
+# dalicon iteration=1 cd1=5cnbA cd3=4h0bA z12=22.3 z23=22.3 x=145 n_cd3=74
+# dalicon iteration=1 cd1=5cnbA cd3=2g0sA z12=22.3 z23=22.4 x=143 n_cd3=75
+# dalicon iteration=1 cd1=5cnbA cd3=5cn5A z12=22.3 z23=22.3 x=145 n_cd3=76
+# dalicon iteration=1 cd1=5cnbA cd3=2zsnA z12=22.3 z23=23.0 x=145 n_cd3=77
+# dalicon iteration=1 cd1=5cnbA cd3=2w6wA z12=22.3 z23=22.7 x=143 n_cd3=78
+# dalicon iteration=1 cd1=5cnbA cd3=4lpiA z12=22.3 z23=22.5 x=145 n_cd3=79
+# dalicon iteration=1 cd1=5cnbA cd3=4pnjA z12=22.3 z23=22.5 x=145 n_cd3=80
+# dalicon iteration=1 cd1=5cnbA cd3=3qm7A z12=22.3 z23=27.4 x=144 n_cd3=81
+# dalicon iteration=1 cd1=5cnbA cd3=2zt1A z12=22.3 z23=23.1 x=145 n_cd3=82
+# dalicon iteration=1 cd1=5cnbA cd3=1mboA z12=22.3 z23=22.5 x=145 n_cd3=83
+# dalicon iteration=1 cd1=5cnbA cd3=4it8A z12=22.3 z23=22.4 x=143 n_cd3=84
+# dalicon iteration=1 cd1=5cnbA cd3=2w6xA z12=22.3 z23=22.5 x=145 n_cd3=85
+# dalicon iteration=1 cd1=5cnbA cd3=2o5lX z12=22.3 z23=22.3 x=143 n_cd3=86
+# dalicon iteration=1 cd1=5cnbA cd3=1mlsA z12=22.3 z23=22.4 x=145 n_cd3=87
+# dalicon iteration=1 cd1=5cnbA cd3=3rj6A z12=22.3 z23=22.3 x=145 n_cd3=88
+# dalicon iteration=1 cd1=5cnbA cd3=2w6yA z12=22.3 z23=22.6 x=145 n_cd3=89
+# dalicon iteration=1 cd1=5cnbA cd3=3e5iA z12=22.3 z23=22.8 x=145 n_cd3=90
+# dalicon iteration=1 cd1=5cnbA cd3=1u7rA z12=22.3 z23=22.4 x=143 n_cd3=91
+# dalicon iteration=1 cd1=5cnbA cd3=4ns2A z12=22.3 z23=22.8 x=144 n_cd3=92
+# dalicon iteration=1 cd1=5cnbA cd3=2zszA z12=22.3 z23=23.1 x=143 n_cd3=93
+# dalicon iteration=1 cd1=5cnbA cd3=2in4A z12=22.3 z23=22.7 x=143 n_cd3=94
+# dalicon iteration=1 cd1=5cnbA cd3=1mcyA z12=22.3 z23=22.4 x=145 n_cd3=95
+# dalicon iteration=1 cd1=5cnbA cd3=1mlrA z12=22.3 z23=22.4 x=143 n_cd3=96
+# dalicon iteration=1 cd1=5cnbA cd3=1mlmA z12=22.3 z23=22.6 x=145 n_cd3=97
+# dalicon iteration=1 cd1=5cnbA cd3=2zt3A z12=22.3 z23=22.9 x=145 n_cd3=98
+# dalicon iteration=1 cd1=5cnbA cd3=1cq2A z12=22.3 z23=22.9 x=145 n_cd3=99
+# dalicon iteration=1 cd1=5cnbA cd3=3aseA z12=22.3 z23=22.4 x=145 n_cd3=100
+# dalicon iteration=1 cd1=5cnbA cd3=4dc8A z12=22.3 z23=22.3 x=143 n_cd3=101
+# 101 seed alignments sent to 5cnbA dalicon
+# dalicon iteration=2 cd1=5cnbA cd3=4h07A z12=22.3 z23=22.3 x=145 n_cd3=1
+# dalicon iteration=2 cd1=5cnbA cd3=3vauA z12=22.3 z23=22.4 x=144 n_cd3=2
+# dalicon iteration=2 cd1=5cnbA cd3=3m3aA z12=22.3 z23=22.3 x=145 n_cd3=3
+# dalicon iteration=2 cd1=5cnbA cd3=3lr7A z12=22.3 z23=22.3 x=142 n_cd3=4
+# dalicon iteration=2 cd1=5cnbA cd3=1mlgA z12=22.3 z23=22.4 x=145 n_cd3=5
+# dalicon iteration=2 cd1=5cnbA cd3=4dc7A z12=22.3 z23=22.3 x=145 n_cd3=6
+# dalicon iteration=2 cd1=5cnbA cd3=3e5oA z12=22.3 z23=23.0 x=145 n_cd3=7
+# dalicon iteration=2 cd1=5cnbA cd3=2zsyA z12=22.3 z23=23.1 x=143 n_cd3=8
+# dalicon iteration=2 cd1=5cnbA cd3=2zsxA z12=22.3 z23=23.1 x=145 n_cd3=9
+# dalicon iteration=2 cd1=5cnbA cd3=2zt4A z12=22.3 z23=23.0 x=143 n_cd3=10
+# dalicon iteration=2 cd1=5cnbA cd3=3v2vA z12=22.3 z23=22.3 x=145 n_cd3=11
+# dalicon iteration=2 cd1=5cnbA cd3=3edaA z12=22.3 z23=23.1 x=143 n_cd3=12
+# dalicon iteration=2 cd1=5cnbA cd3=4of9A z12=22.3 z23=22.6 x=145 n_cd3=13
+# dalicon iteration=2 cd1=5cnbA cd3=2zt2A z12=22.3 z23=22.9 x=145 n_cd3=14
+# dalicon iteration=2 cd1=5cnbA cd3=4oodA z12=22.3 z23=22.4 x=143 n_cd3=15
+# dalicon iteration=2 cd1=5cnbA cd3=3h58A z12=22.3 z23=22.3 x=145 n_cd3=16
+# dalicon iteration=2 cd1=5cnbA cd3=3v2zA z12=22.3 z23=22.8 x=145 n_cd3=17
+# dalicon iteration=2 cd1=5cnbA cd3=2o5sX z12=22.3 z23=22.3 x=143 n_cd3=18
+# dalicon iteration=2 cd1=5cnbA cd3=3qm9A z12=22.3 z23=26.6 x=144 n_cd3=19
+# dalicon iteration=2 cd1=5cnbA cd3=5c6yA z12=22.3 z23=22.5 x=145 n_cd3=20
+# dalicon iteration=2 cd1=5cnbA cd3=3qm5A z12=22.3 z23=27.8 x=145 n_cd3=21
+# dalicon iteration=2 cd1=5cnbA cd3=1mllA z12=22.3 z23=22.3 x=145 n_cd3=22
+# dalicon iteration=2 cd1=5cnbA cd3=5cneA z12=22.3 z23=22.4 x=145 n_cd3=23
+# dalicon iteration=2 cd1=5cnbA cd3=1gjnA z12=22.3 z23=22.4 x=143 n_cd3=24
+# dalicon iteration=2 cd1=5cnbA cd3=2zsoA z12=22.3 z23=23.0 x=145 n_cd3=25
+# dalicon iteration=2 cd1=5cnbA cd3=2zt0A z12=22.3 z23=23.1 x=145 n_cd3=26
+# dalicon iteration=2 cd1=5cnbA cd3=2zspA z12=22.3 z23=22.9 x=145 n_cd3=27
+# dalicon iteration=2 cd1=5cnbA cd3=3hc9A z12=22.3 z23=22.6 x=143 n_cd3=28
+# dalicon iteration=2 cd1=5cnbA cd3=5azrA z12=22.3 z23=22.3 x=145 n_cd3=29
+# dalicon iteration=2 cd1=5cnbA cd3=3hepA z12=22.3 z23=22.6 x=143 n_cd3=30
+# dalicon iteration=2 cd1=5cnbA cd3=2vm0A z12=22.3 z23=22.3 x=143 n_cd3=31
+# dalicon iteration=2 cd1=5cnbA cd3=3heoA z12=22.3 z23=22.5 x=143 n_cd3=32
+# dalicon iteration=2 cd1=5cnbA cd3=3e55A z12=22.3 z23=23.0 x=145 n_cd3=33
+# dalicon iteration=2 cd1=5cnbA cd3=1mnhA z12=22.3 z23=22.5 x=145 n_cd3=34
+# dalicon iteration=2 cd1=5cnbA cd3=5cnfA z12=22.3 z23=22.4 x=145 n_cd3=35
+# dalicon iteration=2 cd1=5cnbA cd3=3obdA z12=22.3 z23=22.3 x=145 n_cd3=36
+# dalicon iteration=2 cd1=5cnbA cd3=3rjnB z12=22.3 z23=22.7 x=144 n_cd3=37
+# dalicon iteration=2 cd1=5cnbA cd3=5cncA z12=22.3 z23=22.3 x=145 n_cd3=38
+# dalicon iteration=2 cd1=5cnbA cd3=3eclA z12=22.3 z23=23.0 x=143 n_cd3=39
+# dalicon iteration=2 cd1=5cnbA cd3=3qm8A z12=22.3 z23=27.5 x=145 n_cd3=40
+# dalicon iteration=2 cd1=5cnbA cd3=3qm6A z12=22.3 z23=27.7 x=145 n_cd3=41
+# dalicon iteration=2 cd1=5cnbA cd3=2v1fA z12=22.3 z23=22.3 x=145 n_cd3=42
+# dalicon iteration=2 cd1=5cnbA cd3=3nmlA z12=22.3 z23=22.3 x=143 n_cd3=43
+# dalicon iteration=2 cd1=5cnbA cd3=3ecxA z12=22.3 z23=23.1 x=143 n_cd3=44
+# dalicon iteration=2 cd1=5cnbA cd3=3o89A z12=22.3 z23=22.4 x=143 n_cd3=45
+# dalicon iteration=2 cd1=5cnbA cd3=1mytA z12=22.3 z23=25.9 x=145 n_cd3=46
+# dalicon iteration=2 cd1=5cnbA cd3=1mloA z12=22.3 z23=22.8 x=145 n_cd3=47
+# dalicon iteration=2 cd1=5cnbA cd3=1mlfA z12=22.3 z23=22.4 x=145 n_cd3=48
+# dalicon iteration=2 cd1=5cnbA cd3=5cmvA z12=22.3 z23=22.3 x=145 n_cd3=49
+# dalicon iteration=2 cd1=5cnbA cd3=3e4nA z12=22.3 z23=22.9 x=145 n_cd3=50
+# dalicon iteration=2 cd1=5cnbA cd3=1pmbA z12=22.3 z23=22.5 x=145 n_cd3=51
+# dalicon iteration=2 cd1=5cnbA cd3=4nxcA z12=22.3 z23=22.5 x=145 n_cd3=52
+# dalicon iteration=2 cd1=5cnbA cd3=2zsrA z12=22.3 z23=22.9 x=145 n_cd3=53
+# dalicon iteration=2 cd1=5cnbA cd3=5cn8A z12=22.3 z23=22.3 x=145 n_cd3=54
+# dalicon iteration=2 cd1=5cnbA cd3=3h57A z12=22.3 z23=22.3 x=145 n_cd3=55
+# dalicon iteration=2 cd1=5cnbA cd3=2zstA z12=22.3 z23=23.1 x=145 n_cd3=56
+# dalicon iteration=2 cd1=5cnbA cd3=1mlhA z12=22.3 z23=22.4 x=145 n_cd3=57
+# dalicon iteration=2 cd1=5cnbA cd3=3ockA z12=22.3 z23=22.4 x=143 n_cd3=58
+# dalicon iteration=2 cd1=5cnbA cd3=3u3eA z12=22.3 z23=22.5 x=145 n_cd3=59
+# dalicon iteration=2 cd1=5cnbA cd3=2nrlA z12=22.3 z23=28.5 x=145 n_cd3=60
+# dalicon iteration=2 cd1=5cnbA cd3=4pq6A z12=22.3 z23=22.3 x=145 n_cd3=61
+# dalicon iteration=2 cd1=5cnbA cd3=2zssA z12=22.3 z23=23.1 x=143 n_cd3=62
+# dalicon iteration=2 cd1=5cnbA cd3=2nx0A z12=22.3 z23=27.5 x=145 n_cd3=63
+# dalicon iteration=2 cd1=5cnbA cd3=1u7sA z12=22.3 z23=22.3 x=143 n_cd3=64
+# dalicon iteration=2 cd1=5cnbA cd3=1mnkA z12=22.3 z23=22.2 x=144 n_cd3=65
+# dalicon iteration=2 cd1=5cnbA cd3=2o5mX z12=22.3 z23=22.2 x=145 n_cd3=66
+# dalicon iteration=2 cd1=5cnbA cd3=3wftA z12=22.3 z23=22.2 x=145 n_cd3=67
+# dalicon iteration=2 cd1=5cnbA cd3=2v1eA z12=22.3 z23=22.2 x=145 n_cd3=68
+# dalicon iteration=2 cd1=5cnbA cd3=1mljA z12=22.3 z23=22.2 x=145 n_cd3=69
+# dalicon iteration=2 cd1=5cnbA cd3=2vlyA z12=22.3 z23=22.2 x=145 n_cd3=70
+# dalicon iteration=2 cd1=5cnbA cd3=2mm1 z12=22.3 z23=22.2 x=145 n_cd3=71
+# dalicon iteration=2 cd1=5cnbA cd3=2vlxA z12=22.3 z23=22.2 x=145 n_cd3=72
+# dalicon iteration=2 cd1=5cnbA cd3=2o5tX z12=22.3 z23=22.2 x=145 n_cd3=73
+# dalicon iteration=2 cd1=5cnbA cd3=1mnkB z12=22.3 z23=22.2 x=144 n_cd3=74
+# dalicon iteration=2 cd1=5cnbA cd3=2o5qX z12=22.3 z23=22.2 x=145 n_cd3=75
+# dalicon iteration=2 cd1=5cnbA cd3=2ektA z12=22.3 z23=22.2 x=145 n_cd3=76
+# dalicon iteration=2 cd1=5cnbA cd3=4pqcA z12=22.3 z23=22.2 x=145 n_cd3=77
+# dalicon iteration=2 cd1=5cnbA cd3=2vlzA z12=22.3 z23=22.2 x=145 n_cd3=78
+# dalicon iteration=2 cd1=5cnbA cd3=1mnjB z12=22.3 z23=22.2 x=144 n_cd3=79
+# dalicon iteration=2 cd1=5cnbA cd3=3lr9A z12=22.3 z23=22.2 x=145 n_cd3=80
+# dalicon iteration=2 cd1=5cnbA cd3=2o58X z12=22.3 z23=22.2 x=145 n_cd3=81
+# dalicon iteration=2 cd1=5cnbA cd3=5azqA z12=22.3 z23=22.1 x=145 n_cd3=82
+# dalicon iteration=2 cd1=5cnbA cd3=3ogbA z12=22.3 z23=22.1 x=143 n_cd3=83
+# dalicon iteration=2 cd1=5cnbA cd3=2o5bX z12=22.3 z23=22.1 x=145 n_cd3=84
+# dalicon iteration=2 cd1=5cnbA cd3=4fwxA z12=22.3 z23=22.1 x=143 n_cd3=85
+# dalicon iteration=2 cd1=5cnbA cd3=3rgkA z12=22.3 z23=22.1 x=141 n_cd3=86
+# dalicon iteration=2 cd1=5cnbA cd3=4mxkA z12=22.3 z23=22.1 x=145 n_cd3=87
+# dalicon iteration=2 cd1=5cnbA cd3=1lhs z12=22.3 z23=22.0 x=143 n_cd3=88
+# dalicon iteration=2 cd1=5cnbA cd3=3wi8A z12=22.3 z23=22.0 x=144 n_cd3=89
+# dalicon iteration=2 cd1=5cnbA cd3=1lhsA z12=22.3 z23=22.0 x=143 n_cd3=90
+# dalicon iteration=2 cd1=5cnbA cd3=3m39A z12=22.3 z23=22.0 x=143 n_cd3=91
+# dalicon iteration=2 cd1=5cnbA cd3=4fwzA z12=22.3 z23=21.9 x=145 n_cd3=92
+# dalicon iteration=2 cd1=5cnbA cd3=5havA z12=22.3 z23=21.9 x=143 n_cd3=93
+# dalicon iteration=2 cd1=5cnbA cd3=1lht z12=22.3 z23=21.9 x=144 n_cd3=94
+# dalicon iteration=2 cd1=5cnbA cd3=3m38A z12=22.3 z23=21.9 x=143 n_cd3=95
+# dalicon iteration=2 cd1=5cnbA cd3=4fwyA z12=22.3 z23=21.9 x=145 n_cd3=96
+# dalicon iteration=2 cd1=5cnbA cd3=1lhtA z12=22.3 z23=21.9 x=144 n_cd3=97
+# dalicon iteration=2 cd1=5cnbA cd3=4tyxA z12=22.3 z23=21.8 x=145 n_cd3=98
+# dalicon iteration=2 cd1=5cnbA cd3=3k9zA z12=22.3 z23=21.8 x=143 n_cd3=99
+# dalicon iteration=2 cd1=5cnbA cd3=3mn0A z12=22.3 z23=21.8 x=145 n_cd3=100
+# dalicon iteration=2 cd1=5cnbA cd3=4mxlA z12=22.3 z23=21.7 x=143 n_cd3=101
+# 101 seed alignments sent to 5cnbA dalicon
+# dalicon iteration=3 cd1=5cnbA cd3=3m3bA z12=22.3 z23=21.7 x=143 n_cd3=1
+# dalicon iteration=3 cd1=5cnbA cd3=3sdnA z12=22.3 z23=21.7 x=145 n_cd3=2
+# dalicon iteration=3 cd1=5cnbA cd3=2blhA z12=22.3 z23=21.5 x=145 n_cd3=3
+# dalicon iteration=3 cd1=5cnbA cd3=5jnzA z12=26.8 z23=21.1 x=141 n_cd3=4
+# dalicon iteration=3 cd1=5cnbA cd3=2dc3A z12=31.6 z23=21.1 x=152 n_cd3=5
+# dalicon iteration=3 cd1=5cnbA cd3=1o1pA z12=26.8 z23=20.5 x=141 n_cd3=6
+# dalicon iteration=3 cd1=5cnbA cd3=1x3kA z12=26.8 z23=18.8 x=141 n_cd3=7
+# dalicon iteration=3 cd1=5cnbA cd3=1mbsA z12=22.3 z23=18.2 x=144 n_cd3=8
+# dalicon iteration=3 cd1=5cnbA cd3=2yrsK z12=22.3 z23=18.1 x=137 n_cd3=9
+# dalicon iteration=3 cd1=5cnbA cd3=2yrsD z12=22.3 z23=18.0 x=138 n_cd3=10
+# dalicon iteration=3 cd1=5cnbA cd3=2yrsB z12=22.3 z23=17.9 x=137 n_cd3=11
+# dalicon iteration=3 cd1=5cnbA cd3=2yrsO z12=22.3 z23=17.8 x=137 n_cd3=12
+# dalicon iteration=3 cd1=5cnbA cd3=4b4yA z12=26.8 z23=17.8 x=143 n_cd3=13
+# dalicon iteration=3 cd1=5cnbA cd3=2yrsC z12=22.3 z23=17.7 x=133 n_cd3=14
+# dalicon iteration=3 cd1=5cnbA cd3=2yrsM z12=22.3 z23=17.7 x=134 n_cd3=15
+# dalicon iteration=3 cd1=5cnbA cd3=2yrsI z12=22.3 z23=17.6 x=133 n_cd3=16
+# dalicon iteration=3 cd1=5cnbA cd3=2yrsA z12=22.3 z23=17.6 x=135 n_cd3=17
+# dalicon iteration=3 cd1=5cnbA cd3=3s1iA z12=26.8 z23=17.3 x=128 n_cd3=18
+# dalicon iteration=3 cd1=5cnbA cd3=1dxdA z12=13.7 z23=14.5 x=128 n_cd3=19
+# dalicon iteration=3 cd1=5cnbA cd3=1gcwC z12=13.7 z23=14.7 x=128 n_cd3=20
+# dalicon iteration=3 cd1=5cnbA cd3=1g08A z12=13.7 z23=14.0 x=130 n_cd3=21
+# dalicon iteration=3 cd1=5cnbA cd3=1binB z12=13.7 z23=28.4 x=133 n_cd3=22
+# dalicon iteration=3 cd1=5cnbA cd3=3qqqB z12=13.7 z23=20.1 x=131 n_cd3=23
+# dalicon iteration=3 cd1=5cnbA cd3=2wy4A z12=13.7 z23=13.7 x=125 n_cd3=24
+# dalicon iteration=3 cd1=5cnbA cd3=1jf3A z12=13.7 z23=14.0 x=128 n_cd3=25
+# dalicon iteration=3 cd1=5cnbA cd3=1fslA z12=13.7 z23=26.5 x=133 n_cd3=26
+# dalicon iteration=3 cd1=5cnbA cd3=3qqrA z12=13.7 z23=20.1 x=130 n_cd3=27
+# dalicon iteration=3 cd1=5cnbA cd3=1myhA z12=13.7 z23=14.5 x=133 n_cd3=28
+# dalicon iteration=3 cd1=5cnbA cd3=1ch4A z12=13.7 z23=14.1 x=131 n_cd3=29
+# dalicon iteration=3 cd1=5cnbA cd3=3zhwA z12=13.7 z23=20.1 x=129 n_cd3=30
+# dalicon iteration=3 cd1=5cnbA cd3=1a4fB z12=13.7 z23=14.4 x=131 n_cd3=31
+# dalicon iteration=3 cd1=5cnbA cd3=1i3eA z12=13.7 z23=13.8 x=130 n_cd3=32
+# dalicon iteration=3 cd1=5cnbA cd3=1ch5A z12=13.7 z23=15.0 x=133 n_cd3=33
+# dalicon iteration=3 cd1=5cnbA cd3=1hdaA z12=13.7 z23=13.9 x=130 n_cd3=34
+# dalicon iteration=3 cd1=5cnbA cd3=1g0bB z12=13.7 z23=13.9 x=131 n_cd3=35
+# dalicon iteration=3 cd1=5cnbA cd3=2lh7 z12=13.7 z23=19.7 x=133 n_cd3=36
+# dalicon iteration=3 cd1=5cnbA cd3=1bz6A z12=13.7 z23=14.4 x=131 n_cd3=37
+# dalicon iteration=3 cd1=5cnbA cd3=2pghD z12=13.7 z23=13.8 x=131 n_cd3=38
+# dalicon iteration=3 cd1=5cnbA cd3=2gdmA z12=13.7 z23=22.6 x=133 n_cd3=39
+# dalicon iteration=3 cd1=5cnbA cd3=1d8uA z12=13.7 z23=19.8 x=131 n_cd3=40
+# dalicon iteration=3 cd1=5cnbA cd3=1duoA z12=13.7 z23=14.4 x=129 n_cd3=41
+# dalicon iteration=3 cd1=5cnbA cd3=2mhbB z12=13.7 z23=14.1 x=131 n_cd3=42
+# dalicon iteration=3 cd1=5cnbA cd3=1gdiA z12=13.7 z23=22.5 x=133 n_cd3=43
+# dalicon iteration=3 cd1=5cnbA cd3=1hbrD z12=13.7 z23=14.4 x=131 n_cd3=44
+# dalicon iteration=3 cd1=5cnbA cd3=1gcwA z12=13.7 z23=15.2 x=129 n_cd3=45
+# dalicon iteration=3 cd1=5cnbA cd3=4hhbA z12=13.7 z23=14.0 x=130 n_cd3=46
+# dalicon iteration=3 cd1=5cnbA cd3=1nz3A z12=13.7 z23=14.5 x=133 n_cd3=47
+# dalicon iteration=3 cd1=5cnbA cd3=3qqqA z12=13.7 z23=20.4 x=131 n_cd3=48
+# dalicon iteration=3 cd1=5cnbA cd3=1fhjB z12=13.7 z23=14.0 x=131 n_cd3=49
+# dalicon iteration=3 cd1=5cnbA cd3=1emy z12=13.7 z23=14.9 x=133 n_cd3=50
+# dalicon iteration=3 cd1=5cnbA cd3=2lh3 z12=13.7 z23=19.6 x=133 n_cd3=51
+# dalicon iteration=3 cd1=5cnbA cd3=3qqrB z12=13.7 z23=20.0 x=131 n_cd3=52
+# dalicon iteration=3 cd1=5cnbA cd3=1fslB z12=13.7 z23=26.5 x=133 n_cd3=53
+# dalicon iteration=3 cd1=5cnbA cd3=1jebA z12=13.7 z23=14.8 x=130 n_cd3=54
+# dalicon iteration=3 cd1=5cnbA cd3=3zhwB z12=13.7 z23=19.8 x=129 n_cd3=55
+# dalicon iteration=3 cd1=5cnbA cd3=1a4fA z12=13.7 z23=14.2 x=130 n_cd3=56
+# dalicon iteration=3 cd1=5cnbA cd3=1gvhA z12=13.7 z23=14.0 x=123 n_cd3=57
+# dalicon iteration=3 cd1=5cnbA cd3=1t1nB z12=13.7 z23=13.8 x=128 n_cd3=58
+# dalicon iteration=3 cd1=5cnbA cd3=1dtiA z12=13.7 z23=14.4 x=128 n_cd3=59
+# dalicon iteration=3 cd1=5cnbA cd3=12e8P z12=13.7 z23=22.6 x=133 n_cd3=60
+# dalicon iteration=3 cd1=5cnbA cd3=1babA z12=13.7 z23=14.0 x=130 n_cd3=61
+# dalicon iteration=3 cd1=5cnbA cd3=2lh6 z12=13.7 z23=19.4 x=133 n_cd3=62
+# dalicon iteration=3 cd1=5cnbA cd3=1dxcA z12=13.7 z23=14.4 x=128 n_cd3=63
+# dalicon iteration=3 cd1=5cnbA cd3=1oj6B z12=13.7 z23=14.7 x=126 n_cd3=64
+# dalicon iteration=3 cd1=5cnbA cd3=1jw8A z12=13.7 z23=15.1 x=133 n_cd3=65
+# dalicon iteration=3 cd1=5cnbA cd3=1gcvA z12=13.7 z23=14.6 x=132 n_cd3=66
+# dalicon iteration=3 cd1=5cnbA cd3=1v75A z12=13.7 z23=15.3 x=131 n_cd3=67
+# dalicon iteration=3 cd1=5cnbA cd3=1tu9A z12=13.7 z23=14.6 x=120 n_cd3=68
+# dalicon iteration=3 cd1=5cnbA cd3=1qpwA z12=13.7 z23=13.9 x=130 n_cd3=69
+# dalicon iteration=3 cd1=5cnbA cd3=1cg8B z12=13.7 z23=13.8 x=131 n_cd3=70
+# dalicon iteration=3 cd1=5cnbA cd3=1wmuB z12=13.7 z23=14.1 x=131 n_cd3=71
+# dalicon iteration=3 cd1=5cnbA cd3=1abwA z12=13.7 z23=14.0 x=130 n_cd3=72
+# dalicon iteration=3 cd1=5cnbA cd3=1gdjA z12=13.7 z23=22.5 x=133 n_cd3=73
+# dalicon iteration=3 cd1=5cnbA cd3=1cg5A z12=13.7 z23=13.8 x=130 n_cd3=74
+# dalicon iteration=3 cd1=5cnbA cd3=1c7dA z12=13.7 z23=14.1 x=130 n_cd3=75
+# dalicon iteration=3 cd1=5cnbA cd3=1mwcA z12=13.7 z23=13.8 x=133 n_cd3=76
+# dalicon iteration=3 cd1=5cnbA cd3=1bz1A z12=13.7 z23=14.1 x=130 n_cd3=77
+# dalicon iteration=3 cd1=5cnbA cd3=1hbrA z12=13.7 z23=14.8 x=132 n_cd3=78
+# dalicon iteration=3 cd1=5cnbA cd3=2gdm z12=13.7 z23=22.6 x=133 n_cd3=79
+# dalicon iteration=3 cd1=5cnbA cd3=2lh5 z12=13.7 z23=19.8 x=133 n_cd3=80
+# dalicon iteration=3 cd1=5cnbA cd3=1c40A z12=13.7 z23=14.2 x=130 n_cd3=81
+# dalicon iteration=3 cd1=5cnbA cd3=1gcvC z12=13.7 z23=14.5 x=128 n_cd3=82
+# dalicon iteration=3 cd1=5cnbA cd3=1cg8A z12=13.7 z23=13.8 x=130 n_cd3=83
+# dalicon iteration=3 cd1=5cnbA cd3=1ch1A z12=13.7 z23=15.0 x=133 n_cd3=84
+# dalicon iteration=3 cd1=5cnbA cd3=1wmuA z12=13.7 z23=15.4 x=131 n_cd3=85
+# dalicon iteration=3 cd1=5cnbA cd3=2lh2 z12=13.7 z23=19.7 x=133 n_cd3=86
+# dalicon iteration=3 cd1=5cnbA cd3=1nz4A z12=13.7 z23=14.6 x=133 n_cd3=87
+# dalicon iteration=3 cd1=5cnbA cd3=1i3dA z12=13.7 z23=13.7 x=131 n_cd3=88
+# dalicon iteration=3 cd1=5cnbA cd3=1jebD z12=13.7 z23=13.7 x=129 n_cd3=89
+# dalicon iteration=3 cd1=5cnbA cd3=1hbrB z12=13.7 z23=13.6 x=126 n_cd3=90
+# dalicon iteration=3 cd1=5cnbA cd3=2pghA z12=13.7 z23=13.6 x=130 n_cd3=91
+# dalicon iteration=3 cd1=5cnbA cd3=2pghB z12=13.7 z23=13.6 x=131 n_cd3=92
+# dalicon iteration=3 cd1=5cnbA cd3=1ouuA z12=13.7 z23=13.5 x=132 n_cd3=93
+# dalicon iteration=3 cd1=5cnbA cd3=1g09D z12=13.7 z23=13.5 x=131 n_cd3=94
+# dalicon iteration=3 cd1=5cnbA cd3=1a9wE z12=13.7 z23=13.4 x=128 n_cd3=95
+# dalicon iteration=3 cd1=5cnbA cd3=1la6A z12=13.7 z23=13.4 x=130 n_cd3=96
+# dalicon iteration=3 cd1=5cnbA cd3=1thbA z12=13.7 z23=13.4 x=128 n_cd3=97
+# dalicon iteration=3 cd1=5cnbA cd3=1spgA z12=13.7 z23=13.4 x=132 n_cd3=98
+# dalicon iteration=3 cd1=5cnbA cd3=1hbhD z12=13.7 z23=13.3 x=133 n_cd3=99
+# dalicon iteration=3 cd1=5cnbA cd3=1umoA z12=13.7 z23=13.3 x=132 n_cd3=100
+# dalicon iteration=3 cd1=5cnbA cd3=1spgB z12=13.7 z23=13.3 x=130 n_cd3=101
+# 101 seed alignments sent to 5cnbA dalicon
+# dalicon iteration=4 cd1=5cnbA cd3=1ouuD z12=13.7 z23=13.2 x=130 n_cd3=1
+# dalicon iteration=4 cd1=5cnbA cd3=1sctH z12=13.7 z23=13.2 x=129 n_cd3=2
+# dalicon iteration=4 cd1=5cnbA cd3=1v4wA z12=13.7 z23=13.2 x=131 n_cd3=3
+# dalicon iteration=4 cd1=5cnbA cd3=1s5xA z12=13.7 z23=13.2 x=130 n_cd3=4
+# dalicon iteration=4 cd1=5cnbA cd3=1g0aB z12=13.7 z23=13.2 x=131 n_cd3=5
+# dalicon iteration=4 cd1=5cnbA cd3=1dxtD z12=13.7 z23=13.1 x=131 n_cd3=6
+# dalicon iteration=4 cd1=5cnbA cd3=2vhbA z12=13.7 z23=13.1 x=121 n_cd3=7
+# dalicon iteration=4 cd1=5cnbA cd3=1v4xA z12=13.7 z23=13.1 x=130 n_cd3=8
+# dalicon iteration=4 cd1=5cnbA cd3=4vhbA z12=13.7 z23=13.0 x=118 n_cd3=9
+# dalicon iteration=4 cd1=5cnbA cd3=1cg5B z12=13.7 z23=13.0 x=130 n_cd3=10
+# dalicon iteration=4 cd1=5cnbA cd3=1dxtB z12=13.7 z23=13.0 x=131 n_cd3=11
+# dalicon iteration=4 cd1=5cnbA cd3=1outA z12=13.7 z23=13.0 x=132 n_cd3=12
+# dalicon iteration=4 cd1=5cnbA cd3=5oheB z12=26.8 z23=12.9 x=134 n_cd3=13
+# dalicon iteration=4 cd1=5cnbA cd3=5ohfB z12=26.8 z23=12.9 x=134 n_cd3=14
+# dalicon iteration=4 cd1=5cnbA cd3=5oheC z12=26.8 z23=12.8 x=132 n_cd3=15
+# dalicon iteration=4 cd1=5cnbA cd3=1sctA z12=13.7 z23=12.8 x=129 n_cd3=16
+# dalicon iteration=4 cd1=5cnbA cd3=2fal z12=13.7 z23=12.8 x=128 n_cd3=17
+# dalicon iteration=4 cd1=5cnbA cd3=5ohfE z12=26.8 z23=12.8 x=133 n_cd3=18
+# dalicon iteration=4 cd1=5cnbA cd3=5oheG z12=26.8 z23=12.7 x=133 n_cd3=19
+# dalicon iteration=4 cd1=5cnbA cd3=1hdsA z12=13.7 z23=12.7 x=129 n_cd3=20
+# dalicon iteration=4 cd1=5cnbA cd3=5oheE z12=26.8 z23=12.7 x=133 n_cd3=21
+# dalicon iteration=4 cd1=5cnbA cd3=5ohfA z12=26.8 z23=12.6 x=133 n_cd3=22
+# dalicon iteration=4 cd1=5cnbA cd3=5ohfD z12=26.8 z23=12.6 x=133 n_cd3=23
+# dalicon iteration=4 cd1=5cnbA cd3=1mbs z12=13.7 z23=12.6 x=131 n_cd3=24
+# dalicon iteration=4 cd1=5cnbA cd3=5ohfF z12=26.8 z23=12.6 x=133 n_cd3=25
+# dalicon iteration=4 cd1=5cnbA cd3=1gcvB z12=13.7 z23=12.6 x=124 n_cd3=26
+# dalicon iteration=4 cd1=5cnbA cd3=1vrfA z12=13.7 z23=12.5 x=127 n_cd3=27
+# dalicon iteration=4 cd1=5cnbA cd3=1dm1A z12=13.7 z23=12.5 x=127 n_cd3=28
+# dalicon iteration=4 cd1=5cnbA cd3=5oheA z12=26.8 z23=12.5 x=133 n_cd3=29
+# dalicon iteration=4 cd1=5cnbA cd3=5oheD z12=26.8 z23=12.5 x=133 n_cd3=30
+# dalicon iteration=4 cd1=5cnbA cd3=5ohfH z12=26.8 z23=12.5 x=133 n_cd3=31
+# dalicon iteration=4 cd1=5cnbA cd3=5oheH z12=26.8 z23=12.4 x=132 n_cd3=32
+# dalicon iteration=4 cd1=5cnbA cd3=5oheF z12=26.8 z23=12.4 x=134 n_cd3=33
+# dalicon iteration=4 cd1=5cnbA cd3=1flp z12=13.7 z23=12.4 x=122 n_cd3=34
+# dalicon iteration=4 cd1=5cnbA cd3=1jzlA z12=13.7 z23=12.3 x=127 n_cd3=35
+# dalicon iteration=4 cd1=5cnbA cd3=5ohfG z12=26.8 z23=12.3 x=128 n_cd3=36
+# dalicon iteration=4 cd1=5cnbA cd3=5ohfC z12=26.8 z23=12.3 x=128 n_cd3=37
+# dalicon iteration=4 cd1=5cnbA cd3=1nwnA z12=13.7 z23=12.2 x=126 n_cd3=38
+# dalicon iteration=4 cd1=5cnbA cd3=1it3A z12=13.7 z23=12.2 x=120 n_cd3=39
+# dalicon iteration=4 cd1=5cnbA cd3=1it2A z12=13.7 z23=12.0 x=122 n_cd3=40
+# dalicon iteration=4 cd1=5cnbA cd3=3sdhA z12=13.7 z23=12.0 x=126 n_cd3=41
+# dalicon iteration=4 cd1=5cnbA cd3=1jzmA z12=13.7 z23=12.0 x=125 n_cd3=42
+# dalicon iteration=4 cd1=5cnbA cd3=1ash z12=13.7 z23=11.7 x=121 n_cd3=43
+# dalicon iteration=4 cd1=5cnbA cd3=1hdsD z12=13.7 z23=11.7 x=126 n_cd3=44
+# dalicon iteration=4 cd1=5cnbA cd3=1ithA z12=13.7 z23=11.5 x=124 n_cd3=45
+# dalicon iteration=4 cd1=5cnbA cd3=4aveA z12=22.3 z23=11.3 x=107 n_cd3=46
+# dalicon iteration=4 cd1=5cnbA cd3=2xkhA z12=22.3 z23=11.2 x=107 n_cd3=47
+# dalicon iteration=4 cd1=5cnbA cd3=2xkiA z12=22.3 z23=11.2 x=107 n_cd3=48
+# dalicon iteration=4 cd1=5cnbA cd3=4avdA z12=22.3 z23=11.2 x=107 n_cd3=49
+# dalicon iteration=4 cd1=5cnbA cd3=4f69A z12=22.3 z23=11.2 x=107 n_cd3=50
+# dalicon iteration=4 cd1=5cnbA cd3=4f68A z12=22.3 z23=11.2 x=107 n_cd3=51
+# dalicon iteration=4 cd1=5cnbA cd3=2vyyA z12=22.3 z23=11.1 x=107 n_cd3=52
+# dalicon iteration=4 cd1=5cnbA cd3=2xkgA z12=22.3 z23=11.0 x=107 n_cd3=53
+# dalicon iteration=4 cd1=5cnbA cd3=3zjhB z12=26.8 z23=10.7 x=136 n_cd3=54
+# dalicon iteration=4 cd1=5cnbA cd3=1eca z12=13.7 z23=10.5 x=124 n_cd3=55
+# dalicon iteration=4 cd1=5cnbA cd3=1or4A z12=13.7 z23=10.4 x=122 n_cd3=56
+# dalicon iteration=4 cd1=5cnbA cd3=1ewaA z12=13.7 z23=10.3 x=111 n_cd3=57
+# dalicon iteration=4 cd1=5cnbA cd3=4fh6A z12=13.7 z23=10.3 x=113 n_cd3=58
+# dalicon iteration=4 cd1=5cnbA cd3=1ew6A z12=13.7 z23=10.3 x=114 n_cd3=59
+# dalicon iteration=4 cd1=5cnbA cd3=1kr7A z12=13.7 z23=8.9 x=98 n_cd3=60
+# dalicon iteration=4 cd1=5cnbA cd3=2bnlC z12=26.8 z23=8.6 x=120 n_cd3=61
+# dalicon iteration=4 cd1=5cnbA cd3=1idrA z12=13.7 z23=8.3 x=113 n_cd3=62
+# dalicon iteration=4 cd1=5cnbA cd3=1dlyA z12=13.7 z23=8.2 x=103 n_cd3=63
+# dalicon iteration=4 cd1=5cnbA cd3=1b33A z12=13.7 z23=8.2 x=113 n_cd3=64
+# dalicon iteration=4 cd1=5cnbA cd3=3vm9B z12=22.3 z23=7.9 x=74 n_cd3=65
+# dalicon iteration=4 cd1=5cnbA cd3=1mwbA z12=13.7 z23=7.7 x=101 n_cd3=66
+# dalicon iteration=4 cd1=5cnbA cd3=3vm9A z12=22.3 z23=7.6 x=77 n_cd3=67
+# dalicon iteration=4 cd1=5cnbA cd3=3wyoD z12=22.3 z23=7.6 x=65 n_cd3=68
+# dalicon iteration=4 cd1=5cnbA cd3=3wyoC z12=22.3 z23=7.5 x=65 n_cd3=69
+# dalicon iteration=4 cd1=5cnbA cd3=3wyoA z12=22.3 z23=7.5 x=65 n_cd3=70
+# dalicon iteration=4 cd1=5cnbA cd3=3wyoB z12=22.3 z23=7.4 x=65 n_cd3=71
+# dalicon iteration=4 cd1=5cnbA cd3=1b8dA z12=13.7 z23=7.4 x=113 n_cd3=72
+# dalicon iteration=4 cd1=5cnbA cd3=1allB z12=13.7 z23=7.2 x=114 n_cd3=73
+# dalicon iteration=4 cd1=5cnbA cd3=4nk2A z12=26.8 z23=6.9 x=113 n_cd3=74
+# dalicon iteration=4 cd1=5cnbA cd3=1ux8A z12=26.8 z23=6.7 x=102 n_cd3=75
+# dalicon iteration=4 cd1=5cnbA cd3=1phnB z12=13.7 z23=6.7 x=108 n_cd3=76
+# dalicon iteration=4 cd1=5cnbA cd3=1cpcA z12=13.7 z23=6.7 x=115 n_cd3=77
+# dalicon iteration=4 cd1=5cnbA cd3=3wfxA z12=13.7 z23=6.6 x=63 n_cd3=78
+# dalicon iteration=4 cd1=5cnbA cd3=1qgwD z12=13.7 z23=6.5 x=117 n_cd3=79
+# dalicon iteration=4 cd1=5cnbA cd3=1cpcB z12=13.7 z23=6.4 x=108 n_cd3=80
+# dalicon iteration=4 cd1=5cnbA cd3=5o1lA z12=26.8 z23=6.4 x=125 n_cd3=81
+# dalicon iteration=4 cd1=5cnbA cd3=3wfwA z12=26.8 z23=6.4 x=72 n_cd3=82
+# dalicon iteration=4 cd1=5cnbA cd3=1b8dL z12=13.7 z23=6.3 x=111 n_cd3=83
+# dalicon iteration=4 cd1=5cnbA cd3=5o1mB z12=26.8 z23=6.3 x=123 n_cd3=84
+# dalicon iteration=4 cd1=5cnbA cd3=1qgwC z12=13.7 z23=6.1 x=108 n_cd3=85
+# dalicon iteration=4 cd1=5cnbA cd3=1o20A z12=26.8 z23=5.8 x=75 n_cd3=86
+# dalicon iteration=4 cd1=5cnbA cd3=1phnA z12=5.7 z23=21.4 x=105 n_cd3=87
+# dalicon iteration=4 cd1=5cnbA cd3=2vmlC z12=5.7 z23=21.4 x=106 n_cd3=88
+# dalicon iteration=4 cd1=5cnbA cd3=2uunF z12=5.7 z23=21.3 x=106 n_cd3=89
+# dalicon iteration=4 cd1=5cnbA cd3=3jbbI z12=5.7 z23=25.4 x=106 n_cd3=90
+# dalicon iteration=4 cd1=5cnbA cd3=2vmlG z12=5.7 z23=21.4 x=106 n_cd3=91
+# dalicon iteration=4 cd1=5cnbA cd3=1hdsB z12=5.7 z23=8.9 x=99 n_cd3=92
+# dalicon iteration=4 cd1=5cnbA cd3=2vmlB z12=5.7 z23=21.8 x=106 n_cd3=93
+# dalicon iteration=4 cd1=5cnbA cd3=2uumE z12=5.7 z23=21.7 x=105 n_cd3=94
+# dalicon iteration=4 cd1=5cnbA cd3=1b33H z12=5.7 z23=26.3 x=106 n_cd3=95
+# dalicon iteration=4 cd1=5cnbA cd3=2vmlJ z12=5.7 z23=21.8 x=106 n_cd3=96
+# dalicon iteration=4 cd1=5cnbA cd3=2vjhD z12=5.7 z23=20.8 x=106 n_cd3=97
+# dalicon iteration=4 cd1=5cnbA cd3=1gh0X z12=5.7 z23=21.2 x=106 n_cd3=98
+# dalicon iteration=4 cd1=5cnbA cd3=1ns9B z12=5.7 z23=10.6 x=99 n_cd3=99
+# dalicon iteration=4 cd1=5cnbA cd3=1v07A z12=5.7 z23=7.3 x=72 n_cd3=100
+# dalicon iteration=4 cd1=5cnbA cd3=4xxiA z12=5.7 z23=18.3 x=97 n_cd3=101
+# 101 seed alignments sent to 5cnbA dalicon
+# dalicon iteration=5 cd1=5cnbA cd3=1or4A z12=12.1 z23=19.7 x=6 n_cd3=1
+# dalicon iteration=5 cd1=5cnbA cd3=5lfgA z12=12.1 z23=13.1 x=131 n_cd3=2
+# dalicon iteration=5 cd1=5cnbA cd3=5ksiB z12=12.1 z23=12.1 x=129 n_cd3=3
+# dalicon iteration=5 cd1=5cnbA cd3=1abwA z12=12.1 z23=13.0 x=2 n_cd3=4
+# dalicon iteration=5 cd1=5cnbA cd3=4uiqA z12=12.1 z23=17.7 x=129 n_cd3=5
+# dalicon iteration=5 cd1=5cnbA cd3=4hrrA z12=12.1 z23=11.5 x=126 n_cd3=6
+# dalicon iteration=5 cd1=5cnbA cd3=1yhuU z12=12.1 z23=11.5 x=126 n_cd3=7
+# dalicon iteration=5 cd1=5cnbA cd3=5lfgB z12=12.1 z23=10.3 x=125 n_cd3=8
+# dalicon iteration=5 cd1=5cnbA cd3=2zfoD z12=12.1 z23=9.0 x=117 n_cd3=9
+# dalicon iteration=5 cd1=5cnbA cd3=1hlbA z12=12.1 z23=8.5 x=115 n_cd3=10
+# dalicon iteration=5 cd1=5cnbA cd3=2uulA z12=5.7 z23=21.5 x=104 n_cd3=11
+# dalicon iteration=5 cd1=5cnbA cd3=1gh0F z12=5.7 z23=21.2 x=106 n_cd3=12
+# dalicon iteration=5 cd1=5cnbA cd3=4f0uA z12=5.7 z23=25.9 x=106 n_cd3=13
+# dalicon iteration=5 cd1=5cnbA cd3=1gcvD z12=5.7 z23=9.6 x=101 n_cd3=14
+# dalicon iteration=5 cd1=5cnbA cd3=1eyxA z12=5.7 z23=7.6 x=87 n_cd3=15
+# dalicon iteration=5 cd1=5cnbA cd3=1xq5A z12=5.7 z23=8.8 x=103 n_cd3=16
+# dalicon iteration=5 cd1=5cnbA cd3=3fewX z12=5.7 z23=7.8 x=92 n_cd3=17
+# dalicon iteration=5 cd1=5cnbA cd3=1b8dB z12=5.7 z23=21.0 x=106 n_cd3=18
+# dalicon iteration=5 cd1=5cnbA cd3=2vj4A z12=5.7 z23=6.5 x=73 n_cd3=19
+# dalicon iteration=5 cd1=5cnbA cd3=2mhbA z12=5.7 z23=8.7 x=103 n_cd3=20
+# dalicon iteration=5 cd1=5cnbA cd3=3jbbG z12=5.7 z23=25.4 x=106 n_cd3=21
+# dalicon iteration=5 cd1=5cnbA cd3=1gh0N z12=5.7 z23=20.9 x=106 n_cd3=22
+# dalicon iteration=5 cd1=5cnbA cd3=1eyxL z12=5.7 z23=20.7 x=106 n_cd3=23
+# dalicon iteration=5 cd1=5cnbA cd3=1ktpA z12=5.7 z23=21.5 x=105 n_cd3=24
+# dalicon iteration=5 cd1=5cnbA cd3=4po5C z12=5.7 z23=25.4 x=106 n_cd3=25
+# dalicon iteration=5 cd1=5cnbA cd3=4xxkA z12=5.7 z23=17.5 x=97 n_cd3=26
+# dalicon iteration=5 cd1=5cnbA cd3=2v8aA z12=5.7 z23=27.3 x=106 n_cd3=27
+# dalicon iteration=5 cd1=5cnbA cd3=2uumD z12=5.7 z23=21.4 x=106 n_cd3=28
+# dalicon iteration=5 cd1=5cnbA cd3=1a87A z12=5.7 z23=7.3 x=90 n_cd3=29
+# dalicon iteration=5 cd1=5cnbA cd3=1b33F z12=5.7 z23=8.0 x=89 n_cd3=30
+# dalicon iteration=5 cd1=5cnbA cd3=3f2eA z12=5.7 z23=6.4 x=62 n_cd3=31
+# dalicon iteration=5 cd1=5cnbA cd3=3jbbC z12=5.7 z23=25.4 x=106 n_cd3=32
+# dalicon iteration=5 cd1=5cnbA cd3=2vmlI z12=5.7 z23=21.4 x=106 n_cd3=33
+# dalicon iteration=5 cd1=5cnbA cd3=2uulB z12=5.7 z23=21.1 x=105 n_cd3=34
+# dalicon iteration=5 cd1=5cnbA cd3=1ouuB z12=5.7 z23=10.1 x=99 n_cd3=35
+# dalicon iteration=5 cd1=5cnbA cd3=1eyxB z12=5.7 z23=20.8 x=106 n_cd3=36
+# dalicon iteration=5 cd1=5cnbA cd3=2c0kA z12=5.7 z23=8.9 x=102 n_cd3=37
+# dalicon iteration=5 cd1=5cnbA cd3=2uunD z12=5.7 z23=21.3 x=106 n_cd3=38
+# dalicon iteration=5 cd1=5cnbA cd3=1gh0E z12=5.7 z23=21.6 x=105 n_cd3=39
+# dalicon iteration=5 cd1=5cnbA cd3=1ngkB z12=5.7 z23=6.9 x=84 n_cd3=40
+# dalicon iteration=5 cd1=5cnbA cd3=4f0uC z12=5.7 z23=26.3 x=106 n_cd3=41
+# dalicon iteration=5 cd1=5cnbA cd3=1ha7A z12=5.7 z23=21.6 x=105 n_cd3=42
+# dalicon iteration=5 cd1=5cnbA cd3=2uulC z12=5.7 z23=21.5 x=104 n_cd3=43
+# dalicon iteration=5 cd1=5cnbA cd3=1b33E z12=5.7 z23=26.5 x=106 n_cd3=44
+# dalicon iteration=5 cd1=5cnbA cd3=1lh7 z12=5.7 z23=9.6 x=98 n_cd3=45
+# dalicon iteration=5 cd1=5cnbA cd3=4xxkB z12=5.7 z23=17.9 x=97 n_cd3=46
+# dalicon iteration=5 cd1=5cnbA cd3=3jbbA z12=5.7 z23=25.4 x=106 n_cd3=47
+# dalicon iteration=5 cd1=5cnbA cd3=3lhbA z12=5.7 z23=10.0 x=98 n_cd3=48
+# dalicon iteration=5 cd1=5cnbA cd3=1ktpB z12=5.7 z23=21.2 x=106 n_cd3=49
+# dalicon iteration=5 cd1=5cnbA cd3=1kn1A z12=5.7 z23=26.0 x=106 n_cd3=50
+# dalicon iteration=5 cd1=5cnbA cd3=1ux9A z12=5.7 z23=10.4 x=101 n_cd3=51
+# dalicon iteration=5 cd1=5cnbA cd3=3qzzA z12=5.7 z23=6.8 x=96 n_cd3=52
+# dalicon iteration=5 cd1=5cnbA cd3=4po5A z12=5.7 z23=25.4 x=106 n_cd3=53
+# dalicon iteration=5 cd1=5cnbA cd3=1a9wF z12=5.7 z23=9.4 x=103 n_cd3=54
+# dalicon iteration=5 cd1=5cnbA cd3=4xxiB z12=5.7 z23=18.0 x=97 n_cd3=55
+# dalicon iteration=5 cd1=5cnbA cd3=1ns9A z12=5.7 z23=8.7 x=101 n_cd3=56
+# dalicon iteration=5 cd1=5cnbA cd3=1mniA z12=5.7 z23=9.1 x=97 n_cd3=57
+# dalicon iteration=5 cd1=5cnbA cd3=2vmlL z12=5.7 z23=21.8 x=106 n_cd3=58
+# dalicon iteration=5 cd1=5cnbA cd3=2vixB z12=5.7 z23=5.8 x=81 n_cd3=59
+# dalicon iteration=5 cd1=5cnbA cd3=4rmpA z12=5.7 z23=27.5 x=106 n_cd3=60
+# dalicon iteration=5 cd1=5cnbA cd3=1cpcL z12=5.7 z23=20.9 x=106 n_cd3=61
+# dalicon iteration=5 cd1=5cnbA cd3=1gh0D z12=5.7 z23=21.0 x=106 n_cd3=62
+# dalicon iteration=5 cd1=5cnbA cd3=2uunE z12=5.7 z23=21.7 x=105 n_cd3=63
+# dalicon iteration=5 cd1=5cnbA cd3=2d2mD z12=5.7 z23=6.9 x=97 n_cd3=64
+# dalicon iteration=5 cd1=5cnbA cd3=1hdaB z12=5.7 z23=9.4 x=103 n_cd3=65
+# dalicon iteration=5 cd1=5cnbA cd3=2vmlA z12=5.7 z23=21.4 x=106 n_cd3=66
+# dalicon iteration=5 cd1=5cnbA cd3=1b33M z12=5.7 z23=21.9 x=105 n_cd3=67
+# dalicon iteration=5 cd1=5cnbA cd3=2w31A z12=5.7 z23=10.4 x=97 n_cd3=68
+# dalicon iteration=5 cd1=5cnbA cd3=1outB z12=5.7 z23=10.0 x=99 n_cd3=69
+# dalicon iteration=5 cd1=5cnbA cd3=2uumA z12=5.7 z23=21.6 x=105 n_cd3=70
+# dalicon iteration=5 cd1=5cnbA cd3=1f99L z12=5.7 z23=21.2 x=106 n_cd3=71
+# dalicon iteration=5 cd1=5cnbA cd3=2vjtA z12=5.7 z23=26.0 x=106 n_cd3=72
+# dalicon iteration=5 cd1=5cnbA cd3=3ztaA z12=5.7 z23=11.4 x=81 n_cd3=73
+# dalicon iteration=5 cd1=5cnbA cd3=1liaL z12=5.7 z23=20.6 x=106 n_cd3=74
+# dalicon iteration=5 cd1=5cnbA cd3=1rtxA z12=5.7 z23=7.6 x=82 n_cd3=75
+# dalicon iteration=5 cd1=5cnbA cd3=2vmlF z12=5.7 z23=21.8 x=106 n_cd3=76
+# dalicon iteration=5 cd1=5cnbA cd3=2uulD z12=5.7 z23=21.1 x=105 n_cd3=77
+# dalicon iteration=5 cd1=5cnbA cd3=2vjrA z12=5.7 z23=21.2 x=106 n_cd3=78
+# dalicon iteration=5 cd1=5cnbA cd3=3zjrA z12=5.7 z23=6.0 x=93 n_cd3=79
+# dalicon iteration=5 cd1=5cnbA cd3=2uunC z12=5.7 z23=21.7 x=105 n_cd3=80
+# dalicon iteration=5 cd1=5cnbA cd3=1i7yB z12=5.7 z23=21.1 x=106 n_cd3=81
+# dalicon iteration=5 cd1=5cnbA cd3=2uunB z12=5.7 z23=21.3 x=106 n_cd3=82
+# dalicon iteration=5 cd1=5cnbA cd3=1a87 z12=5.7 z23=7.5 x=92 n_cd3=83
+# dalicon iteration=5 cd1=5cnbA cd3=1xq5D z12=5.7 z23=9.7 x=99 n_cd3=84
+# dalicon iteration=5 cd1=5cnbA cd3=1liaA z12=5.7 z23=20.8 x=105 n_cd3=85
+# dalicon iteration=5 cd1=5cnbA cd3=1f99A z12=5.7 z23=21.5 x=105 n_cd3=86
+# dalicon iteration=5 cd1=5cnbA cd3=1uvyA z12=5.7 z23=6.4 x=78 n_cd3=87
+# dalicon iteration=5 cd1=5cnbA cd3=1gh0B z12=5.7 z23=21.1 x=106 n_cd3=88
+# dalicon iteration=5 cd1=5cnbA cd3=1h97A z12=5.7 z23=9.3 x=101 n_cd3=89
+# dalicon iteration=5 cd1=5cnbA cd3=1hdaD z12=5.7 z23=10.2 x=99 n_cd3=90
+# dalicon iteration=5 cd1=5cnbA cd3=1on7B z12=5.7 z23=21.5 x=106 n_cd3=91
+# dalicon iteration=5 cd1=5cnbA cd3=1b33J z12=5.7 z23=26.3 x=106 n_cd3=92
+# dalicon iteration=5 cd1=5cnbA cd3=2vmlH z12=5.7 z23=21.8 x=106 n_cd3=93
+# dalicon iteration=5 cd1=5cnbA cd3=4f0uE z12=5.7 z23=26.3 x=106 n_cd3=94
+# dalicon iteration=5 cd1=5cnbA cd3=2uulE z12=5.7 z23=21.5 x=104 n_cd3=95
+# dalicon iteration=5 cd1=5cnbA cd3=1gh0C z12=5.7 z23=21.5 x=105 n_cd3=96
+# dalicon iteration=5 cd1=5cnbA cd3=2vjhA z12=5.7 z23=21.2 x=105 n_cd3=97
+# dalicon iteration=5 cd1=5cnbA cd3=1b33C z12=5.7 z23=26.5 x=106 n_cd3=98
+# dalicon iteration=5 cd1=5cnbA cd3=4c0eA z12=5.7 z23=5.7 x=62 n_cd3=99
+# dalicon iteration=5 cd1=5cnbA cd3=4xdiA z12=5.7 z23=5.9 x=84 n_cd3=100
+# dalicon iteration=5 cd1=5cnbA cd3=1xkpA z12=5.7 z23=6.0 x=75 n_cd3=101
+# 101 seed alignments sent to 5cnbA dalicon
+# dalicon iteration=6 cd1=5cnbA cd3=2vjhB z12=5.7 z23=20.8 x=106 n_cd3=1
+# dalicon iteration=6 cd1=5cnbA cd3=2vywA z12=5.7 z23=9.3 x=102 n_cd3=2
+# dalicon iteration=6 cd1=5cnbA cd3=4bjaA z12=5.7 z23=10.0 x=103 n_cd3=3
+# dalicon iteration=6 cd1=5cnbA cd3=4po5E z12=5.7 z23=25.5 x=106 n_cd3=4
+# dalicon iteration=6 cd1=5cnbA cd3=3jbbE z12=5.7 z23=25.5 x=106 n_cd3=5
+# dalicon iteration=6 cd1=5cnbA cd3=2vjhC z12=5.7 z23=21.1 x=105 n_cd3=6
+# dalicon iteration=6 cd1=5cnbA cd3=4c0eB z12=5.7 z23=5.8 x=64 n_cd3=7
+# dalicon iteration=6 cd1=5cnbA cd3=1on7A z12=5.7 z23=21.1 x=105 n_cd3=8
+# dalicon iteration=6 cd1=5cnbA cd3=1hbhA z12=5.7 z23=8.8 x=101 n_cd3=9
+# dalicon iteration=6 cd1=5cnbA cd3=1qpwB z12=5.7 z23=10.0 x=99 n_cd3=10
+# dalicon iteration=6 cd1=5cnbA cd3=1gh0A z12=5.7 z23=21.6 x=105 n_cd3=11
+# dalicon iteration=6 cd1=5cnbA cd3=1gh0T z12=5.7 z23=21.1 x=106 n_cd3=12
+# dalicon iteration=6 cd1=5cnbA cd3=2vmlD z12=5.7 z23=21.8 x=106 n_cd3=13
+# dalicon iteration=6 cd1=5cnbA cd3=1cqxA z12=5.7 z23=7.2 x=84 n_cd3=14
+# dalicon iteration=6 cd1=5cnbA cd3=1b33L z12=5.7 z23=26.8 x=106 n_cd3=15
+# dalicon iteration=6 cd1=5cnbA cd3=7hbiA z12=5.7 z23=6.5 x=99 n_cd3=16
+# dalicon iteration=6 cd1=5cnbA cd3=3qzxA z12=5.7 z23=7.1 x=100 n_cd3=17
+# dalicon iteration=6 cd1=5cnbA cd3=2vmlK z12=5.7 z23=21.3 x=106 n_cd3=18
+# dalicon iteration=6 cd1=5cnbA cd3=1x9fA z12=5.7 z23=5.9 x=99 n_cd3=19
+# dalicon iteration=6 cd1=5cnbA cd3=1uc3A z12=5.7 z23=10.1 x=98 n_cd3=20
+# dalicon iteration=6 cd1=5cnbA cd3=2vjrB z12=5.7 z23=21.9 x=106 n_cd3=21
+# dalicon iteration=6 cd1=5cnbA cd3=1yhuN z12=5.7 z23=8.6 x=100 n_cd3=22
+# dalicon iteration=6 cd1=5cnbA cd3=1f99B z12=5.7 z23=21.2 x=106 n_cd3=23
+# dalicon iteration=6 cd1=5cnbA cd3=4zvbA z12=5.7 z23=12.2 x=99 n_cd3=24
+# dalicon iteration=6 cd1=5cnbA cd3=1i7yA z12=5.7 z23=21.5 x=105 n_cd3=25
+# dalicon iteration=6 cd1=5cnbA cd3=2uunA z12=5.7 z23=21.7 x=105 n_cd3=26
+# dalicon iteration=6 cd1=5cnbA cd3=2qrwA z12=5.7 z23=7.0 x=85 n_cd3=27
+# dalicon iteration=6 cd1=5cnbA cd3=1liaB z12=5.7 z23=20.4 x=106 n_cd3=28
+# dalicon iteration=6 cd1=5cnbA cd3=2vmlE z12=5.7 z23=21.4 x=106 n_cd3=29
+# dalicon iteration=6 cd1=5cnbA cd3=2dhbA z12=5.7 z23=8.8 x=98 n_cd3=30
+# dalicon iteration=6 cd1=5cnbA cd3=3fblA z12=5.7 z23=5.8 x=61 n_cd3=31
+# dalicon iteration=6 cd1=5cnbA cd3=1iwhB z12=5.7 z23=9.6 x=103 n_cd3=32
+# dalicon iteration=6 cd1=5cnbA cd3=3jbbK z12=5.7 z23=25.5 x=106 n_cd3=33
+# dalicon iteration=6 cd1=5cnbA cd3=1kfrA z12=5.7 z23=9.5 x=101 n_cd3=34
+# dalicon iteration=6 cd1=5cnbA cd3=3mvcA z12=5.7 z23=6.0 x=97 n_cd3=35
+# dalicon iteration=6 cd1=5cnbA cd3=2uumC z12=5.7 z23=21.7 x=105 n_cd3=36
+# dalicon iteration=6 cd1=5cnbA cd3=2vjtB z12=5.7 z23=22.2 x=105 n_cd3=37
+# 37 seed alignments sent to 5cnbA dalicon
+7	1	1pmbB	.	22.6	145	145	.	2nrmA	.
+7	2	1on7B	.	21.5	106	106	.	1allA	.
+7	3	4qauA	.	22.3	143	143	.	2nrmA	.
+7	4	2g0rA	.	22.4	143	143	.	2nrmA	.
+7	5	1qpwA	.	13.9	130	130	.	1binA	.
+7	6	3eczA	.	22.9	145	145	.	2nrmA	.
+7	7	3henA	.	22.5	143	143	.	2nrmA	.
+7	8	2vmlH	.	21.8	106	106	.	1allA	.
+7	9	1b33J	.	26.3	106	106	.	1allA	.
+7	10	1lhtA	.	21.9	144	144	.	2nrmA	.
+7	11	1gh0B	.	21.1	106	106	.	1allA	.
+7	12	5o1mB	.	6.3	123	123	.	101mA	.
+7	13	2oh9A	.	30.0	152	152	.	106mA	.
+7	14	2xkgA	.	11.0	107	107	.	2nrmA	.
+7	15	1hdaD	.	10.2	99	99	.	1allA	.
+7	16	1mlkA	.	22.3	143	143	.	2nrmA	.
+7	17	1h97A	.	9.3	101	101	.	1allA	.
+7	18	5ksiB	.	12.1	129	129	.	5oheA	.
+7	19	1gh0C	.	21.5	105	105	.	1allA	.
+7	20	5ohfD	.	12.6	133	133	.	101mA	.
+7	21	2zfoD	.	9.0	117	117	.	5oheA	.
+7	22	2pghA	.	13.6	130	130	.	1binA	.
+7	23	1mlqA	.	22.3	145	145	.	2nrmA	.
+7	24	1wmuB	.	14.1	131	131	.	1binA	.
+7	25	3sdhA	.	12.0	126	126	.	1binA	.
+7	26	5cn4A	.	22.3	145	145	.	2nrmA	.
+7	27	4f0uE	.	26.3	106	106	.	1allA	.
+7	28	1cg8B	.	13.8	131	131	.	1binA	.
+7	29	2uulE	.	21.5	104	104	.	1allA	.
+7	30	3edbA	.	22.9	143	143	.	2nrmA	.
+7	31	1lhsA	.	22.0	143	143	.	2nrmA	.
+7	32	5cn9A	.	22.3	145	145	.	2nrmA	.
+7	33	2mgm	.	30.5	152	152	.	109mA	.
+7	34	1mwcA	.	13.8	133	133	.	1binA	.
+7	35	3rgkA	.	22.1	141	141	.	2nrmA	.
+7	36	4h0bA	.	22.3	145	145	.	2nrmA	.
+7	37	2vjhA	.	21.2	105	105	.	1allA	.
+7	38	1cg5A	.	13.8	130	130	.	1binA	.
+7	39	1abwA	.	13.0	132	132	.	5oheA	.
+7	40	1gdjA	.	22.5	133	133	.	1binA	.
+7	41	1c7dA	.	14.1	130	130	.	1binA	.
+7	42	4avdA	.	11.2	107	107	.	2nrmA	.
+7	43	1b33C	.	26.5	106	106	.	1allA	.
+7	44	4lpiA	.	22.5	145	145	.	2nrmA	.
+7	45	5ilmA	.	29.1	152	152	.	103mA	.
+7	46	2jhoA	.	27.9	152	152	.	105mA	.
+7	47	5oheH	.	12.4	132	132	.	101mA	.
+7	48	4pnjA	.	22.5	145	145	.	2nrmA	.
+7	49	2g0sA	.	22.4	143	143	.	2nrmA	.
+7	50	5cn5A	.	22.3	145	145	.	2nrmA	.
+7	51	2zsnA	.	23.0	145	145	.	2nrmA	.
+7	52	5jnzA	.	21.1	141	141	.	101mA	.
+7	53	2w6wA	.	22.7	143	143	.	2nrmA	.
+7	54	3m39A	.	22.0	143	143	.	2nrmA	.
+7	55	2zt1A	.	23.1	145	145	.	2nrmA	.
+7	56	3wfwA	.	6.4	72	72	.	101mA	.
+7	57	1xkpA	.	6.0	75	75	.	1allA	.
+7	58	3qm7A	.	27.4	144	144	.	2nrmA	.
+7	59	4xdiA	.	5.9	84	84	.	1allA	.
+7	60	4it8A	.	22.4	143	143	.	2nrmA	.
+7	61	4c0eA	.	5.7	62	62	.	1allA	.
+7	62	2mya	.	27.8	152	152	.	105mA	.
+7	63	1bz1A	.	14.1	130	130	.	1binA	.
+7	64	1mboA	.	22.5	145	145	.	2nrmA	.
+7	65	1mym	.	30.6	152	152	.	101mA	.
+7	66	2mye	.	27.6	152	152	.	105mA	.
+7	67	2uumA	.	21.6	105	105	.	1allA	.
+7	68	5oheF	.	12.4	134	134	.	101mA	.
+7	69	3lr9A	.	22.2	145	145	.	2nrmA	.
+7	70	1mnjA	.	22.4	145	145	.	2nrmA	.
+7	71	1jzmA	.	12.0	125	125	.	1binA	.
+7	72	2vyyA	.	11.1	107	107	.	2nrmA	.
+7	73	3qmaA	.	28.5	145	145	.	2nrmA	.
+7	74	1hbrB	.	13.6	126	126	.	1binA	.
+7	75	2w31A	.	10.4	97	97	.	1allA	.
+7	76	4f69A	.	11.2	107	107	.	2nrmA	.
+7	77	3rj6B	.	22.4	143	143	.	2nrmA	.
+7	78	3wfuA	.	22.3	143	143	.	2nrmA	.
+7	79	1sctH	.	13.2	129	129	.	1binA	.
+7	80	5cndA	.	22.4	145	145	.	2nrmA	.
+7	81	1outB	.	10.0	99	99	.	1allA	.
+7	82	1babA	.	14.0	130	130	.	1binA	.
+7	83	1mlnA	.	22.7	143	143	.	2nrmA	.
+7	84	2o5oX	.	22.3	143	143	.	2nrmA	.
+7	85	1yhuU	.	11.5	126	126	.	5oheA	.
+7	86	5cngA	.	22.3	143	143	.	2nrmA	.
+7	87	1oj6B	.	14.7	126	126	.	1binA	.
+7	88	3mn0A	.	21.8	145	145	.	2nrmA	.
+7	89	1mz0A	.	22.3	143	143	.	2nrmA	.
+7	90	5cnbA	1	22.4	152	0	31.6	5cnbA	.
+7	91	1liaL	.	20.6	106	106	.	1allA	.
+7	92	1dlyA	.	8.2	103	103	.	1binA	.
+7	93	2vjtA	.	26.0	106	106	.	1allA	.
+7	94	4nxaA	.	22.4	144	144	.	2nrmA	.
+7	95	3m3bA	.	21.7	143	143	.	2nrmA	.
+7	96	2lh6	.	19.4	133	133	.	1binA	.
+7	97	1f99L	.	21.2	106	106	.	1allA	.
+7	98	1dxcA	.	14.4	128	128	.	1binA	.
+7	99	1x3kA	.	18.8	141	141	.	101mA	.
+7	100	3a2gA	.	22.6	145	145	.	2nrmA	.
+7	101	4mxkA	.	22.1	145	145	.	2nrmA	.
+7	102	3ztaA	.	11.4	81	81	.	1allA	.
+7	103	1umoA	.	13.3	132	132	.	1binA	.
+7	104	2mgh	.	30.3	152	152	.	102mA	.
+7	105	5ohfE	.	12.8	133	133	.	101mA	.
+7	106	2uunC	.	21.7	105	105	.	1allA	.
+7	107	4vhbA	.	13.0	118	118	.	1binA	.
+7	108	1ouuD	.	13.2	130	130	.	1binA	.
+7	109	1v4xA	.	13.1	130	130	.	1binA	.
+7	110	1tu9A	.	14.6	120	120	.	1binA	.
+7	111	1gcvA	.	14.6	132	132	.	1binA	.
+7	112	2yrsO	.	17.8	137	137	.	2nrmA	.
+7	113	1v75A	.	15.3	131	131	.	1binA	.
+7	114	3ed9A	.	22.9	145	145	.	2nrmA	.
+7	115	1rtxA	.	7.6	82	82	.	1allA	.
+7	116	3zjrA	.	6.0	93	93	.	1allA	.
+7	117	2uulD	.	21.1	105	105	.	1allA	.
+7	118	2vjrA	.	21.2	106	106	.	1allA	.
+7	119	2zsqA	.	23.0	145	145	.	2nrmA	.
+7	120	1qgwC	.	6.1	108	108	.	1binA	.
+7	121	2vmlF	.	21.8	106	106	.	1allA	.
+7	122	1jw8A	.	15.1	133	133	.	1binA	.
+7	123	1spgA	.	13.4	132	132	.	1binA	.
+7	124	1f99A	.	21.5	105	105	.	1allA	.
+7	125	2o58X	.	22.2	145	145	.	2nrmA	.
+7	126	1uvyA	.	6.4	78	78	.	1allA	.
+7	127	4pqbA	.	22.3	145	145	.	2nrmA	.
+7	128	101m	.	31.7	152	152	.	101mA	.
+7	129	2v1gA	.	22.3	143	143	.	2nrmA	.
+7	130	2uunB	.	21.3	106	106	.	1allA	.
+7	131	1a87	.	7.5	92	92	.	1allA	.
+7	132	1i7yB	.	21.1	106	106	.	1allA	.
+7	133	1liaA	.	20.8	105	105	.	1allA	.
+7	134	2fal	.	12.8	128	128	.	1binA	.
+7	135	1xq5D	.	9.7	99	99	.	1allA	.
+7	136	1hdsD	.	11.7	126	126	.	1binA	.
+7	137	1qpwB	.	10.0	99	99	.	1allA	.
+7	138	5cmvA	.	22.3	145	145	.	2nrmA	.
+7	139	1hbhA	.	8.8	101	101	.	1allA	.
+7	140	3e4nA	.	22.9	145	145	.	2nrmA	.
+7	141	1emyA	.	28.5	152	152	.	5cnbA	.
+7	142	1pmbA	.	22.5	145	145	.	2nrmA	.
+7	143	1mbs	.	12.6	131	131	.	1binA	.
+7	144	1on7A	.	21.1	105	105	.	1allA	.
+7	145	1mlfA	.	22.4	145	145	.	2nrmA	.
+7	146	2vmlD	.	21.8	106	106	.	1allA	.
+7	147	1s5xA	.	13.2	130	130	.	1binA	.
+7	148	1dxtB	.	13.0	131	131	.	1binA	.
+7	149	1gh0T	.	21.1	106	106	.	1allA	.
+7	150	4nk2A	.	6.9	113	113	.	101mA	.
+7	151	1v4wA	.	13.2	131	131	.	1binA	.
+7	152	2mga	.	29.7	152	152	.	102mA	.
+7	153	1gh0A	.	21.6	105	105	.	1allA	.
+7	154	2vlzA	.	22.2	145	145	.	2nrmA	.
+7	155	1b33L	.	26.8	106	106	.	1allA	.
+7	156	3qzxA	.	7.1	100	100	.	1allA	.
+7	157	7hbiA	.	6.5	99	99	.	1allA	.
+7	158	5cn8A	.	22.3	145	145	.	2nrmA	.
+7	159	1wmuA	.	15.4	131	131	.	1binA	.
+7	160	2yrsM	.	17.7	134	134	.	2nrmA	.
+7	161	4fh6A	.	10.3	113	113	.	1binA	.
+7	162	2pghB	.	13.6	131	131	.	1binA	.
+7	163	1cqxA	.	7.2	84	84	.	1allA	.
+7	164	1ch1A	.	15.0	133	133	.	1binA	.
+7	165	1cg8A	.	13.8	130	130	.	1binA	.
+7	166	4nxcA	.	22.5	145	145	.	2nrmA	.
+7	167	102m	.	31.8	152	152	.	102mA	.
+7	168	2vmlK	.	21.3	106	106	.	1allA	.
+7	169	2zsrA	.	22.9	145	145	.	2nrmA	.
+7	170	3m38A	.	21.9	143	143	.	2nrmA	.
+7	171	5mbn	.	27.8	152	152	.	105mA	.
+7	172	5ohfH	.	12.5	133	133	.	101mA	.
+7	173	1i3dA	.	13.7	131	131	.	1binA	.
+7	174	1cg5B	.	13.0	130	130	.	1binA	.
+7	175	2yrsD	.	18.0	138	138	.	2nrmA	.
+7	176	3ockA	.	22.4	143	143	.	2nrmA	.
+7	177	2vywA	.	9.3	102	102	.	1allA	.
+7	178	5oheD	.	12.5	133	133	.	101mA	.
+7	179	3wi8A	.	22.0	144	144	.	2nrmA	.
+7	180	2vjhB	.	20.8	106	106	.	1allA	.
+7	181	1nz4A	.	14.6	133	133	.	1binA	.
+7	182	3zjhB	.	10.7	136	136	.	101mA	.
+7	183	3h57A	.	22.3	145	145	.	2nrmA	.
+7	184	2zstA	.	23.1	145	145	.	2nrmA	.
+7	185	1mlhA	.	22.4	145	145	.	2nrmA	.
+7	186	2lh2	.	19.7	133	133	.	1binA	.
+7	187	1idrA	.	8.3	113	113	.	1binA	.
+7	188	4bjaA	.	10.0	103	103	.	1allA	.
+7	189	4po5E	.	25.5	106	106	.	1allA	.
+7	190	2zssA	.	23.1	143	143	.	2nrmA	.
+7	191	2o5bX	.	22.1	145	145	.	2nrmA	.
+7	192	2yrsK	.	18.1	137	137	.	2nrmA	.
+7	193	2nx0A	.	27.5	145	145	.	2nrmA	.
+7	194	108m	.	30.2	152	152	.	106mA	.
+7	195	3jbbE	.	25.5	106	106	.	1allA	.
+7	196	4fwxA	.	22.1	143	143	.	2nrmA	.
+7	197	3u3eA	.	22.5	145	145	.	2nrmA	.
+7	198	1flp	.	12.4	122	122	.	1binA	.
+7	199	4pq6A	.	22.3	145	145	.	2nrmA	.
+7	200	4fwyA	.	21.9	145	145	.	2nrmA	.
+7	201	2nrlA	.	28.5	145	145	.	2nrmA	.
+7	202	1b33A	.	8.2	113	113	.	1binA	.
+7	203	4uiqA	.	17.7	129	129	.	5oheA	.
+7	204	1nwnA	.	12.2	126	126	.	1binA	.
+7	205	4c0eB	.	5.8	64	64	.	1allA	.
+7	206	2vjhC	.	21.1	105	105	.	1allA	.
+7	207	1jebD	.	13.7	129	129	.	1binA	.
+7	208	2o5lX	.	22.3	143	143	.	2nrmA	.
+7	209	2mgk	.	30.6	152	152	.	109mA	.
+7	210	1mnjB	.	22.2	144	144	.	2nrmA	.
+7	211	2dhbA	.	8.8	98	98	.	1allA	.
+7	212	2w6xA	.	22.5	145	145	.	2nrmA	.
+7	213	107m	.	30.5	152	152	.	106mA	.
+7	214	1iwhB	.	9.6	103	103	.	1allA	.
+7	215	1outA	.	13.0	132	132	.	1binA	.
+7	216	2w6yA	.	22.6	145	145	.	2nrmA	.
+7	217	3e5iA	.	22.8	145	145	.	2nrmA	.
+7	218	3fblA	.	5.8	61	61	.	1allA	.
+7	219	1mlsA	.	22.4	145	145	.	2nrmA	.
+7	220	1hbrA	.	14.8	132	132	.	1binA	.
+7	221	2gdm	.	22.6	133	133	.	1binA	.
+7	222	1abs	.	29.9	152	152	.	109mA	.
+7	223	3rj6A	.	22.3	145	145	.	2nrmA	.
+7	224	2mgi	.	30.8	152	152	.	102mA	.
+7	225	1kfrA	.	9.5	101	101	.	1allA	.
+7	226	5oheE	.	12.7	133	133	.	101mA	.
+7	227	1u7rA	.	22.4	143	143	.	2nrmA	.
+7	228	103m	.	30.3	152	152	.	102mA	.
+7	229	3jbbK	.	25.5	106	106	.	1allA	.
+7	230	1mlj	.	29.9	152	152	.	106mA	.
+7	231	1ithA	.	11.5	124	124	.	1binA	.
+7	232	4b4yA	.	17.8	143	143	.	101mA	.
+7	233	2zszA	.	23.1	143	143	.	2nrmA	.
+7	234	2in4A	.	22.7	143	143	.	2nrmA	.
+7	235	2ekuA	.	27.2	152	152	.	105mA	.
+7	236	3wfxA	.	6.6	63	63	.	1binA	.
+7	237	2vjtB	.	22.2	105	105	.	1allA	.
+7	238	2uumC	.	21.7	105	105	.	1allA	.
+7	239	4ns2A	.	22.8	144	144	.	2nrmA	.
+7	240	1ew6A	.	10.3	114	114	.	1binA	.
+7	241	3mvcA	.	6.0	97	97	.	1allA	.
+7	242	2dc3A	.	21.1	152	152	.	5cnbA	.
+7	243	1mlrA	.	22.4	143	143	.	2nrmA	.
+7	244	1mtj	.	30.6	152	152	.	101mA	.
+7	245	1x9fA	.	5.9	99	99	.	1allA	.
+7	246	1c40A	.	14.2	130	130	.	1binA	.
+7	247	1mll	.	30.0	152	152	.	106mA	.
+7	248	1mcyA	.	22.4	145	145	.	2nrmA	.
+7	249	2vjrB	.	21.9	106	106	.	1allA	.
+7	250	3sdnA	.	21.7	145	145	.	2nrmA	.
+7	251	1spgB	.	13.3	130	130	.	1binA	.
+7	252	1mlmA	.	22.6	145	145	.	2nrmA	.
+7	253	2zt3A	.	22.9	145	145	.	2nrmA	.
+7	254	1gcvB	.	12.6	124	124	.	1binA	.
+7	255	1uc3A	.	10.1	98	98	.	1allA	.
+7	256	1tes	.	30.8	152	152	.	109mA	.
+7	257	1mob	.	29.8	152	152	.	102mA	.
+7	258	2lh5	.	19.8	133	133	.	1binA	.
+7	259	3aseA	.	22.4	145	145	.	2nrmA	.
+7	260	1hlbA	.	8.5	115	115	.	5oheA	.
+7	261	1cq2A	.	22.9	145	145	.	2nrmA	.
+7	262	1f99B	.	21.2	106	106	.	1allA	.
+7	263	1gcvC	.	14.5	128	128	.	1binA	.
+7	264	1it3A	.	12.2	120	120	.	1binA	.
+7	265	1g09D	.	13.5	131	131	.	1binA	.
+7	266	3wyoD	.	7.6	65	65	.	2nrmA	.
+7	267	1g0aB	.	13.2	131	131	.	1binA	.
+7	268	1yhuN	.	8.6	100	100	.	1allA	.
+7	269	5ohfF	.	12.6	133	133	.	101mA	.
+7	270	1mod	.	30.5	152	152	.	102mA	.
+7	271	2qrwA	.	7.0	85	85	.	1allA	.
+7	272	5ileA	.	29.2	152	152	.	103mA	.
+7	273	1liaB	.	20.4	106	106	.	1allA	.
+7	274	1u7sA	.	22.3	143	143	.	2nrmA	.
+7	275	2vmlE	.	21.4	106	106	.	1allA	.
+7	276	4f68A	.	11.2	107	107	.	2nrmA	.
+7	277	4dc8A	.	22.3	143	143	.	2nrmA	.
+7	278	2uunA	.	21.7	105	105	.	1allA	.
+7	279	2myc	.	27.8	152	152	.	105mA	.
+7	280	4zvbA	.	12.2	99	99	.	1allA	.
+7	281	1i7yA	.	21.5	105	105	.	1allA	.
+7	282	2yrsB	.	17.9	137	137	.	2nrmA	.
+7	283	3hc9A	.	22.6	143	143	.	2nrmA	.
+7	284	2zspA	.	22.9	145	145	.	2nrmA	.
+7	285	1gh0X	.	21.2	106	106	.	1allA	.
+7	286	3ogbA	.	22.1	143	143	.	2nrmA	.
+7	287	1myhA	.	14.5	133	133	.	1binA	.
+7	288	1lht	.	21.9	144	144	.	2nrmA	.
+7	289	5oheB	.	12.9	134	134	.	101mA	.
+7	290	1jf3A	.	14.0	128	128	.	1binA	.
+7	291	4mbn	.	27.9	152	152	.	105mA	.
+7	292	3qqrA	.	20.1	130	130	.	1binA	.
+7	293	2vjhD	.	20.8	106	106	.	1allA	.
+7	294	1fslA	.	26.5	133	133	.	1binA	.
+7	295	2zsoA	.	23.0	145	145	.	2nrmA	.
+7	296	1gjnA	.	22.4	143	143	.	2nrmA	.
+7	297	1v07A	.	7.3	72	72	.	1allA	.
+7	298	5oheG	.	12.7	133	133	.	101mA	.
+7	299	1ns9B	.	10.6	99	99	.	1allA	.
+7	300	2zt0A	.	23.1	145	145	.	2nrmA	.
+7	301	2wy4A	.	13.7	125	125	.	1binA	.
+7	302	1mlk	.	29.9	152	152	.	106mA	.
+7	303	1mlq	.	30.5	152	152	.	106mA	.
+7	304	1b33H	.	26.3	106	106	.	1allA	.
+7	305	2vmlJ	.	21.8	106	106	.	1allA	.
+7	306	1i3eA	.	13.8	130	130	.	1binA	.
+7	307	2uumE	.	21.7	105	105	.	1allA	.
+7	308	1la6A	.	13.4	130	130	.	1binA	.
+7	309	1a4fB	.	14.4	131	131	.	1binA	.
+7	310	1mnkB	.	22.2	144	144	.	2nrmA	.
+7	311	2mgj	.	30.5	152	152	.	102mA	.
+7	312	2yrsC	.	17.7	133	133	.	2nrmA	.
+7	313	111m	.	30.6	152	152	.	109mA	.
+7	314	5azrA	.	22.3	145	145	.	2nrmA	.
+7	315	5oheC	.	12.8	132	132	.	101mA	.
+7	316	1ch4A	.	14.1	131	131	.	1binA	.
+7	317	3zhwA	.	20.1	129	129	.	1binA	.
+7	318	1lhs	.	22.0	143	143	.	2nrmA	.
+7	319	3heoA	.	22.5	143	143	.	2nrmA	.
+7	320	1hdsB	.	8.9	99	99	.	1allA	.
+7	321	1g0bB	.	13.9	131	131	.	1binA	.
+7	322	2vmlG	.	21.4	106	106	.	1allA	.
+7	323	2blhA	.	21.5	145	145	.	2nrmA	.
+7	324	2vm0A	.	22.3	143	143	.	2nrmA	.
+7	325	1mti	.	30.4	152	152	.	101mA	.
+7	326	1hdaA	.	13.9	130	130	.	1binA	.
+7	327	1allB	.	7.2	114	114	.	1binA	.
+7	328	1ch5A	.	15.0	133	133	.	1binA	.
+7	329	2vmlB	.	21.8	106	106	.	1allA	.
+7	330	2mgl	.	30.4	152	152	.	109mA	.
+7	331	3hepA	.	22.6	143	143	.	2nrmA	.
+7	332	1dxtD	.	13.1	131	131	.	1binA	.
+7	333	2vmlC	.	21.4	106	106	.	1allA	.
+7	334	1phnA	.	21.4	105	105	.	1allA	.
+7	335	1thbA	.	13.4	128	128	.	1binA	.
+7	336	5ohfA	.	12.6	133	133	.	101mA	.
+7	337	2xkhA	.	11.2	107	107	.	2nrmA	.
+7	338	2o5qX	.	22.2	145	145	.	2nrmA	.
+7	339	1mwbA	.	7.7	101	101	.	1binA	.
+7	340	1or4A	.	19.7	128	128	.	5oheA	.
+7	341	2pghD	.	13.8	131	131	.	1binA	.
+7	342	3e55A	.	23.0	145	145	.	2nrmA	.
+7	343	1mtk	.	30.6	152	152	.	101mA	.
+7	344	3jbbI	.	25.4	106	106	.	1allA	.
+7	345	1cpcB	.	6.4	108	108	.	1binA	.
+7	346	1bz6A	.	14.4	131	131	.	1binA	.
+7	347	2lh7	.	19.7	133	133	.	1binA	.
+7	348	1mnhA	.	22.5	145	145	.	2nrmA	.
+7	349	2uunF	.	21.3	106	106	.	1allA	.
+7	350	1eca	.	10.5	124	124	.	1binA	.
+7	351	3rjnB	.	22.7	144	144	.	2nrmA	.
+7	352	5cncA	.	22.3	145	145	.	2nrmA	.
+7	353	3eclA	.	23.0	143	143	.	2nrmA	.
+7	354	1eyxA	.	7.6	87	87	.	1allA	.
+7	355	1ouuA	.	13.5	132	132	.	1binA	.
+7	356	5lfgB	.	10.3	125	125	.	5oheA	.
+7	357	5cnfA	.	22.4	145	145	.	2nrmA	.
+7	358	2uulA	.	21.5	104	104	.	1allA	.
+7	359	1gcvD	.	9.6	101	101	.	1allA	.
+7	360	3wyoC	.	7.5	65	65	.	2nrmA	.
+7	361	3obdA	.	22.3	145	145	.	2nrmA	.
+7	362	4f0uA	.	25.9	106	106	.	1allA	.
+7	363	1jzlA	.	12.3	127	127	.	1binA	.
+7	364	1gh0F	.	21.2	106	106	.	1allA	.
+7	365	2ektA	.	22.2	145	145	.	2nrmA	.
+7	366	3qm6A	.	27.7	145	145	.	2nrmA	.
+7	367	1b8dB	.	21.0	106	106	.	1allA	.
+7	368	2mhbA	.	8.7	103	103	.	1allA	.
+7	369	3wyoB	.	7.4	65	65	.	2nrmA	.
+7	370	1ux8A	.	6.7	102	102	.	101mA	.
+7	371	1dxdA	.	14.5	128	128	.	1binA	.
+7	372	2vj4A	.	6.5	73	73	.	1allA	.
+7	373	3qm8A	.	27.5	145	145	.	2nrmA	.
+7	374	1xq5A	.	8.8	103	103	.	1allA	.
+7	375	2mgb	.	30.2	152	152	.	102mA	.
+7	376	4hrrA	.	11.5	126	126	.	5oheA	.
+7	377	2yrsI	.	17.6	133	133	.	2nrmA	.
+7	378	3vm9B	.	7.9	74	74	.	2nrmA	.
+7	379	3fewX	.	7.8	92	92	.	1allA	.
+7	380	1g08A	.	14.0	130	130	.	1binA	.
+7	381	1j52A	.	30.5	152	152	.	109mA	.
+7	382	1gcwC	.	14.7	128	128	.	1binA	.
+7	383	4pqcA	.	22.2	145	145	.	2nrmA	.
+7	384	1aziA	.	28.5	152	152	.	5cnbA	.
+7	385	1ktpA	.	21.5	105	105	.	1allA	.
+7	386	2uumD	.	21.4	106	106	.	1allA	.
+7	387	2v8aA	.	27.3	106	106	.	1allA	.
+7	388	4xxkA	.	17.5	97	97	.	1allA	.
+7	389	4po5C	.	25.4	106	106	.	1allA	.
+7	390	3s1iA	.	17.3	128	128	.	101mA	.
+7	391	3o89A	.	22.4	143	143	.	2nrmA	.
+7	392	3jbbG	.	25.4	106	106	.	1allA	.
+7	393	1o20A	.	5.8	75	75	.	101mA	.
+7	394	1eyxL	.	20.7	106	106	.	1allA	.
+7	395	3ecxA	.	23.1	143	143	.	2nrmA	.
+7	396	1a9wE	.	13.4	128	128	.	1binA	.
+7	397	1gh0N	.	20.9	106	106	.	1allA	.
+7	398	3nmlA	.	22.3	143	143	.	2nrmA	.
+7	399	2v1fA	.	22.3	145	145	.	2nrmA	.
+7	400	2bnlC	.	8.6	120	120	.	101mA	.
+7	401	3qqqB	.	20.1	131	131	.	1binA	.
+7	402	2vmlI	.	21.4	106	106	.	1allA	.
+7	403	1mloA	.	22.8	145	145	.	2nrmA	.
+7	404	101mA	1	12.5	131	0	26.8	5oheA	.
+7	405	2mb5	.	27.8	152	152	.	105mA	.
+7	406	4xxiA	.	18.3	97	97	.	1allA	.
+7	407	3f2eA	.	6.4	62	62	.	1allA	.
+7	408	1b33F	.	8.0	89	89	.	1allA	.
+7	409	1mytA	.	25.9	145	145	.	2nrmA	.
+7	410	1a87A	6	7.3	109	90	5.5	5cnbA	.
+7	411	3k9zA	.	21.8	143	143	.	2nrmA	.
+7	412	3jbbC	.	25.4	106	106	.	1allA	.
+7	413	1binB	.	28.4	133	133	.	1binA	.
+7	414	5oheA	5	12.5	133	133	12.1	5cnbA	.
+7	415	1fslB	.	26.5	133	133	.	1binA	.
+7	416	2lh3	.	19.6	133	133	.	1binA	.
+7	417	3qqrB	.	20.0	131	131	.	1binA	.
+7	418	1mbsA	.	18.2	144	144	.	2nrmA	.
+7	419	1fhjB	.	14.0	131	131	.	1binA	.
+7	420	2yrsA	.	17.6	135	135	.	2nrmA	.
+7	421	5o1lA	.	6.4	125	125	.	101mA	.
+7	422	2vmlL	.	21.8	106	106	.	1allA	.
+7	423	2xkiA	.	11.2	107	107	.	2nrmA	.
+7	424	1emy	.	14.9	133	133	.	1binA	.
+7	425	4h07A	.	22.3	145	145	.	2nrmA	.
+7	426	1mniA	.	9.1	97	97	.	1allA	.
+7	427	1ns9A	.	8.7	101	101	.	1allA	.
+7	428	3m3aA	.	22.3	145	145	.	2nrmA	.
+7	429	3vauA	.	22.4	144	144	.	2nrmA	.
+7	430	1a4fA	.	14.2	130	130	.	1binA	.
+7	431	1mlgA	.	22.4	145	145	.	2nrmA	.
+7	432	4rmpA	.	27.5	106	106	.	1allA	.
+7	433	4dc7A	.	22.3	145	145	.	2nrmA	.
+7	434	4aveA	.	11.3	107	107	.	2nrmA	.
+7	435	1cpcL	.	20.9	106	106	.	1allA	.
+7	436	3lr7A	.	22.3	142	142	.	2nrmA	.
+7	437	1o1pA	.	20.5	141	141	.	101mA	.
+7	438	1jebA	.	14.8	130	130	.	1binA	.
+7	439	3zhwB	.	19.8	129	129	.	1binA	.
+7	440	1mnkA	.	22.2	144	144	.	2nrmA	.
+7	441	2vixB	.	5.8	81	81	.	1allA	.
+7	442	3e5oA	.	23.0	145	145	.	2nrmA	.
+7	443	1hdsA	.	12.7	129	129	.	1binA	.
+7	444	1hbhD	.	13.3	133	133	.	1binA	.
+7	445	2uunE	.	21.7	105	105	.	1allA	.
+7	446	1gh0D	.	21.0	106	106	.	1allA	.
+7	447	5ohfC	.	12.3	128	128	.	101mA	.
+7	448	1dm1A	.	12.5	127	127	.	1binA	.
+7	449	1t1nB	.	13.8	128	128	.	1binA	.
+7	450	2vmlA	.	21.4	106	106	.	1allA	.
+7	451	2vhbA	.	13.1	121	121	.	1binA	.
+7	452	1b33M	.	21.9	105	105	.	1allA	.
+7	453	1allA	1	29.7	106	0	5.7	1allA	.
+7	454	1hdaB	.	9.4	103	103	.	1allA	.
+7	455	2d2mD	.	6.9	97	97	.	1allA	.
+7	456	1gvhA	.	14.0	123	123	.	1binA	.
+7	457	5ohfB	.	12.9	134	134	.	101mA	.
+7	458	2zsxA	.	23.1	145	145	.	2nrmA	.
+7	459	2nrmA	1	22.4	143	0	22.3	5cnbA	.
+7	460	1vrfA	.	12.5	127	127	.	1binA	.
+7	461	2zt4A	.	23.0	143	143	.	2nrmA	.
+7	462	1phnB	.	6.7	108	108	.	1binA	.
+7	463	4mxlA	.	21.7	143	143	.	2nrmA	.
+7	464	12e8P	.	22.6	133	133	.	1binA	.
+7	465	5ohfG	.	12.3	128	128	.	101mA	.
+7	466	1cpcA	.	6.7	115	115	.	1binA	.
+7	467	1dtiA	.	14.4	128	128	.	1binA	.
+7	468	2zsyA	.	23.1	143	143	.	2nrmA	.
+7	469	2mbw	.	30.5	152	152	.	109mA	.
+7	470	1d8uA	.	19.8	131	131	.	1binA	.
+7	471	1eyxB	.	20.8	106	106	.	1allA	.
+7	472	1ash	.	11.7	121	121	.	1binA	.
+7	473	1ouuB	.	10.1	99	99	.	1allA	.
+7	474	2zt2A	.	22.9	145	145	.	2nrmA	.
+7	475	4oodA	.	22.4	143	143	.	2nrmA	.
+7	476	1ewaA	.	10.3	111	111	.	1binA	.
+7	477	3h58A	.	22.3	145	145	.	2nrmA	.
+7	478	3wftA	.	22.2	145	145	.	2nrmA	.
+7	479	2c0kA	.	8.9	102	102	.	1allA	.
+7	480	2o5mX	.	22.2	145	145	.	2nrmA	.
+7	481	106m	.	31.7	152	152	.	106mA	.
+7	482	3edaA	.	23.1	143	143	.	2nrmA	.
+7	483	3v2vA	.	22.3	145	145	.	2nrmA	.
+7	484	2uulB	.	21.1	105	105	.	1allA	.
+7	485	5lfgA	.	13.1	131	131	.	5oheA	.
+7	486	2gdmA	.	22.6	133	133	.	1binA	.
+7	487	4of9A	.	22.6	145	145	.	2nrmA	.
+7	488	1mls	.	30.4	152	152	.	106mA	.
+7	489	4tyxA	.	21.8	145	145	.	2nrmA	.
+7	490	1kr7A	.	8.9	98	98	.	1binA	.
+7	491	2mhbB	.	14.1	131	131	.	1binA	.
+7	492	3wyoA	.	7.5	65	65	.	2nrmA	.
+7	493	4f0uC	.	26.3	106	106	.	1allA	.
+7	494	1duoA	.	14.4	129	129	.	1binA	.
+7	495	1mljA	.	22.2	145	145	.	2nrmA	.
+7	496	2uulC	.	21.5	104	104	.	1allA	.
+7	497	1ha7A	.	21.6	105	105	.	1allA	.
+7	498	1b8dA	.	7.4	113	113	.	1binA	.
+7	499	1qgwD	.	6.5	117	117	.	1binA	.
+7	500	1gh0E	.	21.6	105	105	.	1allA	.
+7	501	3vm9A	.	7.6	77	77	.	2nrmA	.
+7	502	2uunD	.	21.3	106	106	.	1allA	.
+7	503	2v1eA	.	22.2	145	145	.	2nrmA	.
+7	504	1it2A	.	12.0	122	122	.	1binA	.
+7	505	3v2zA	.	22.8	145	145	.	2nrmA	.
+7	506	4fwzA	.	21.9	145	145	.	2nrmA	.
+7	507	1ngkB	.	6.9	84	84	.	1allA	.
+7	508	5havA	.	21.9	143	143	.	2nrmA	.
+7	509	1mlr	.	30.4	152	152	.	106mA	.
+7	510	3jbbA	.	25.4	106	106	.	1allA	.
+7	511	4xxkB	.	17.9	97	97	.	1allA	.
+7	512	5c6yA	.	22.5	145	145	.	2nrmA	.
+7	513	1mllA	.	22.3	145	145	.	2nrmA	.
+7	514	2vlxA	.	22.2	145	145	.	2nrmA	.
+7	515	1ux9A	.	10.4	101	101	.	1allA	.
+7	516	3qm5A	.	27.8	145	145	.	2nrmA	.
+7	517	1kn1A	.	26.0	106	106	.	1allA	.
+7	518	1ktpB	.	21.2	106	106	.	1allA	.
+7	519	1sctA	.	12.8	129	129	.	1binA	.
+7	520	3lhbA	.	10.0	98	98	.	1allA	.
+7	521	1hbrD	.	14.4	131	131	.	1binA	.
+7	522	3qm9A	.	26.6	144	144	.	2nrmA	.
+7	523	2vlyA	.	22.2	145	145	.	2nrmA	.
+7	524	2o5sX	.	22.3	143	143	.	2nrmA	.
+7	525	5azqA	.	22.1	145	145	.	2nrmA	.
+7	526	2myb	.	27.8	152	152	.	105mA	.
+7	527	1lh7	.	9.6	98	98	.	1allA	.
+7	528	1gdiA	.	22.5	133	133	.	1binA	.
+7	529	1b33E	.	26.5	106	106	.	1allA	.
+7	530	2mm1	.	22.2	145	145	.	2nrmA	.
+7	531	2myd	.	27.9	152	152	.	105mA	.
+7	532	4xxiB	.	18.0	97	97	.	1allA	.
+7	533	2o5tX	.	22.2	145	145	.	2nrmA	.
+7	534	112m	.	30.2	152	152	.	109mA	.
+7	535	3qqqA	.	20.4	131	131	.	1binA	.
+7	536	1a9wF	.	9.4	103	103	.	1allA	.
+7	537	1moc	.	30.6	152	152	.	102mA	.
+7	538	4po5A	.	25.4	106	106	.	1allA	.
+7	539	3qzzA	.	6.8	96	96	.	1allA	.
+7	540	1binA	1	8.1	96	0	13.7	1allA	.
+7	541	5cneA	.	22.4	145	145	.	2nrmA	.
+7	542	1b8dL	.	6.3	111	111	.	1binA	.
+7	543	1gcwA	.	15.2	129	129	.	1binA	.
+7	544	4hhbA	.	14.0	130	130	.	1binA	.
+7	545	1nz3A	.	14.5	133	133	.	1binA	.
