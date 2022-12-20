@@ -1,0 +1,99 @@
+{
+    "5cgs": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2015,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Lefurgy",
+                    "full_name": "Lefurgy ST",
+                    "initials": "ST"
+                },
+                {
+                    "last_name": "Malashkevich",
+                    "full_name": "Malashkevich VN",
+                    "initials": "VN"
+                },
+                {
+                    "last_name": "Aguilan",
+                    "full_name": "Aguilan JT",
+                    "initials": "JT"
+                },
+                {
+                    "last_name": "Nieves",
+                    "full_name": "Nieves E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Mundorff",
+                    "full_name": "Mundorff EC",
+                    "initials": "EC"
+                },
+                {
+                    "last_name": "Biju",
+                    "full_name": "Biju B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Noel",
+                    "full_name": "Noel MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Toro",
+                    "full_name": "Toro R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Baiwir",
+                    "full_name": "Baiwir D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Papp-Wallace",
+                    "full_name": "Papp-Wallace KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Almo",
+                    "full_name": "Almo SC",
+                    "initials": "SC"
+                },
+                {
+                    "last_name": "Frere",
+                    "full_name": "Frere JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Bou",
+                    "full_name": "Bou G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                }
+            ],
+            "title": "FOX-4 cephamycinase: an analysis of structure and function.",
+            "pubmed_id": "26525784",
+            "type": "J",
+            "associated_entries": "5cgw, 5cgx",
+            "doi": "10.1128/AAC.01887-15"
+        }
+    ]
+}

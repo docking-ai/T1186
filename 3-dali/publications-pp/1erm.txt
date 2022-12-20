@@ -1,0 +1,119 @@
+{
+    "1erm": [
+        {
+            "journal_info": {
+                "volume": "39",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2000,
+                "issue": "18",
+                "pages": "5312-21"
+            },
+            "doi": "10.1021/bi992505b",
+            "associated_entries": "1ero, 1erq",
+            "title": "Structure-based design guides the improved efficacy of deacylation transition state analogue inhibitors of TEM-1 beta-Lactamase(,).",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Ness",
+                    "full_name": "Ness S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Martin",
+                    "full_name": "Martin R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Kindler",
+                    "full_name": "Kindler AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Paetzel",
+                    "full_name": "Paetzel M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Gold",
+                    "full_name": "Gold M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Jensen",
+                    "full_name": "Jensen SE",
+                    "initials": "SE"
+                },
+                {
+                    "last_name": "Jones",
+                    "full_name": "Jones JB",
+                    "initials": "JB"
+                },
+                {
+                    "last_name": "Strynadka",
+                    "full_name": "Strynadka NC",
+                    "initials": "NC"
+                }
+            ],
+            "pubmed_id": "10820001",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "3",
+                "pdb_abbreviation": "Nat. Struct. Biol.",
+                "ISO_abbreviation": "Nat. Struct. Biol.",
+                "year": 1996,
+                "issue": "8",
+                "pages": "688-95"
+            },
+            "doi": "10.1038/nsb0896-688",
+            "associated_entries": "1ero, 1erq",
+            "title": "Structure-based design of a potent transition state analogue for TEM-1 beta-lactamase.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Strynadka",
+                    "full_name": "Strynadka NC",
+                    "initials": "NC"
+                },
+                {
+                    "last_name": "Martin",
+                    "full_name": "Martin R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Jensen",
+                    "full_name": "Jensen SE",
+                    "initials": "SE"
+                },
+                {
+                    "last_name": "Gold",
+                    "full_name": "Gold M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Jones",
+                    "full_name": "Jones JB",
+                    "initials": "JB"
+                }
+            ],
+            "pubmed_id": "8756327",
+            "type": "J"
+        }
+    ]
+}

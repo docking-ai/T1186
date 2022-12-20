@@ -1,0 +1,59 @@
+{
+    "4p85": [
+        {
+            "journal_info": {
+                "volume": "70",
+                "pdb_abbreviation": "Acta Crystallogr. D Biol. Crystallogr.",
+                "ISO_abbreviation": "Acta Crystallogr. D Biol. Crystallogr.",
+                "year": 2014,
+                "issue": "Pt 9",
+                "pages": "2455-66"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Ngo",
+                    "full_name": "Ngo TD",
+                    "initials": "TD"
+                },
+                {
+                    "last_name": "Ryu",
+                    "full_name": "Ryu BH",
+                    "initials": "BH"
+                },
+                {
+                    "last_name": "Ju",
+                    "full_name": "Ju H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Jang",
+                    "full_name": "Jang EJ",
+                    "initials": "EJ"
+                },
+                {
+                    "last_name": "Kim",
+                    "full_name": "Kim KK",
+                    "initials": "KK"
+                },
+                {
+                    "last_name": "Kim",
+                    "full_name": "Kim TD",
+                    "initials": "TD"
+                }
+            ],
+            "title": "Crystallographic analysis and biochemical applications of a novel penicillin-binding protein/\ufffd\ufffd-lactamase homologue from a metagenomic library.",
+            "pubmed_id": "25195758",
+            "type": "J",
+            "associated_entries": "4p6b, 4p87",
+            "doi": "10.1107/S1399004714015272"
+        }
+    ]
+}

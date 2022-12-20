@@ -1,0 +1,54 @@
+{
+    "5df8": [
+        {
+            "journal_info": {
+                "volume": "590",
+                "pdb_abbreviation": "FEBS Lett.",
+                "ISO_abbreviation": "FEBS Lett.",
+                "year": 2016,
+                "issue": "2",
+                "pages": "288-97"
+            },
+            "doi": "10.1002/1873-3468.12054",
+            "associated_entries": "5df7, 5df9",
+            "title": "Crystal structures of penicillin-binding protein 3 in complexes with azlocillin and cefoperazone in both acylated and deacylated forms.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Ren",
+                    "full_name": "Ren J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Nettleship",
+                    "full_name": "Nettleship JE",
+                    "initials": "JE"
+                },
+                {
+                    "last_name": "Males",
+                    "full_name": "Males A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Stuart",
+                    "full_name": "Stuart DI",
+                    "initials": "DI"
+                },
+                {
+                    "last_name": "Owens",
+                    "full_name": "Owens RJ",
+                    "initials": "RJ"
+                }
+            ],
+            "pubmed_id": "26823174",
+            "type": "J"
+        }
+    ]
+}

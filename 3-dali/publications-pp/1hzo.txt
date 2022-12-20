@@ -1,0 +1,49 @@
+{
+    "1hzo": [
+        {
+            "journal_info": {
+                "volume": "317",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2002,
+                "issue": "1",
+                "pages": "109-17"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Nukaga",
+                    "full_name": "Nukaga M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Mayama",
+                    "full_name": "Mayama K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Crichlow",
+                    "full_name": "Crichlow GV",
+                    "initials": "GV"
+                },
+                {
+                    "last_name": "Knox",
+                    "full_name": "Knox JR",
+                    "initials": "JR"
+                }
+            ],
+            "title": "Structure of an extended-spectrum class A beta-lactamase from Proteus vulgaris K1.",
+            "pubmed_id": "11916382",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1006/jmbi.2002.5420"
+        }
+    ]
+}

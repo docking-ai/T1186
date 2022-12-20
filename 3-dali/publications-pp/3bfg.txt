@@ -1,0 +1,84 @@
+{
+    "3bfg": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Pernot, L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Petrella, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Sougakoff, W.",
+                    "initials": null
+                }
+            ],
+            "title": "acyl-intermediate structures of the class A beta-lactamase SED-G238C",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        },
+        {
+            "journal_info": {
+                "volume": "60",
+                "pdb_abbreviation": "Acta Crystallogr. D Biol. Crystallogr.",
+                "ISO_abbreviation": "Acta Crystallogr. D Biol. Crystallogr.",
+                "year": 2004,
+                "issue": "Pt 1",
+                "pages": "125-8"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Petrella",
+                    "full_name": "Petrella S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Pernot",
+                    "full_name": "Pernot L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Sougakoff",
+                    "full_name": "Sougakoff W",
+                    "initials": "W"
+                }
+            ],
+            "title": "Crystallization and preliminary X-ray diffraction study of the class A beta-lactamase SED-1 and its mutant SED-G238C from Citrobacter sedlakii.",
+            "pubmed_id": "14684905",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1107/s0907444903022765"
+        }
+    ]
+}

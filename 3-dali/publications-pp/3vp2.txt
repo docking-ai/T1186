@@ -1,0 +1,74 @@
+{
+    "3vp2": [
+        {
+            "journal_info": {
+                "volume": "109",
+                "pdb_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "ISO_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "year": 2012,
+                "issue": "20",
+                "pages": "7705-10"
+            },
+            "doi": "10.1073/pnas.1116573109",
+            "associated_entries": "3czd, 3voy, 3voz, 3vp0, 3vp1, 3vp3, 3vp4",
+            "title": "Structural basis for the allosteric inhibitory mechanism of human kidney-type glutaminase (KGA) and its regulation by Raf-Mek-Erk signaling in cancer cell metabolism.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Thangavelu",
+                    "full_name": "Thangavelu K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Pan",
+                    "full_name": "Pan CQ",
+                    "initials": "CQ"
+                },
+                {
+                    "last_name": "Karlberg",
+                    "full_name": "Karlberg T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Balaji",
+                    "full_name": "Balaji G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Uttamchandani",
+                    "full_name": "Uttamchandani M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Suresh",
+                    "full_name": "Suresh V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Sch\u00fcler",
+                    "full_name": "Sch\u00fcler H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Low",
+                    "full_name": "Low BC",
+                    "initials": "BC"
+                },
+                {
+                    "last_name": "Sivaraman",
+                    "full_name": "Sivaraman J",
+                    "initials": "J"
+                }
+            ],
+            "pubmed_id": "22538822",
+            "type": "J"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "1iki": [
+        {
+            "journal_info": {
+                "volume": "322",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2002,
+                "issue": "1",
+                "pages": "111-22"
+            },
+            "doi": "10.1016/s0022-2836(02)00742-8",
+            "associated_entries": "1cef, 1ceg, 1hvb, 1ikg, 3pte",
+            "title": "Structures of two kinetic intermediates reveal species specificity of penicillin-binding proteins.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "McDonough",
+                    "full_name": "McDonough MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Anderson",
+                    "full_name": "Anderson JW",
+                    "initials": "JW"
+                },
+                {
+                    "last_name": "Silvaggi",
+                    "full_name": "Silvaggi NR",
+                    "initials": "NR"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                },
+                {
+                    "last_name": "Knox",
+                    "full_name": "Knox JR",
+                    "initials": "JR"
+                },
+                {
+                    "last_name": "Kelly",
+                    "full_name": "Kelly JA",
+                    "initials": "JA"
+                }
+            ],
+            "pubmed_id": "12215418",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "98",
+                "pdb_abbreviation": "Proc Natl Acad Sci U S A",
+                "ISO_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "year": 2001,
+                "issue": "4",
+                "pages": "1427-31"
+            },
+            "doi": "10.1073/pnas.98.4.1427",
+            "associated_entries": "1cef, 1ceg, 1hvb, 1ikg, 3pte",
+            "title": "A 1.2-A snapshot of the final step of bacterial cell wall biosynthesis.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Lee",
+                    "full_name": "Lee W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "McDonough",
+                    "full_name": "McDonough MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Kotra",
+                    "full_name": "Kotra L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Li",
+                    "full_name": "Li ZH",
+                    "initials": "ZH"
+                },
+                {
+                    "last_name": "Silvaggi",
+                    "full_name": "Silvaggi NR",
+                    "initials": "NR"
+                },
+                {
+                    "last_name": "Takeda",
+                    "full_name": "Takeda Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Kelly",
+                    "full_name": "Kelly JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Mobashery",
+                    "full_name": "Mobashery S",
+                    "initials": "S"
+                }
+            ],
+            "pubmed_id": "11171967",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "34",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 1995,
+                "issue": "29",
+                "pages": "9532-40"
+            },
+            "doi": "10.1021/bi00029a030",
+            "associated_entries": "1cef, 1ceg, 1hvb, 1ikg, 3pte",
+            "title": "Binding of cephalothin and cefotaxime to D-ala-D-ala-peptidase reveals a functional basis of a natural mutation in a low-affinity penicillin-binding protein and in extended-spectrum beta-lactamases.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Kuzin",
+                    "full_name": "Kuzin AP",
+                    "initials": "AP"
+                },
+                {
+                    "last_name": "Liu",
+                    "full_name": "Liu H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Kelly",
+                    "full_name": "Kelly JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Knox",
+                    "full_name": "Knox JR",
+                    "initials": "JR"
+                }
+            ],
+            "pubmed_id": "7626623",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "254",
+                "pdb_abbreviation": "J Mol Biol",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 1995,
+                "issue": "2",
+                "pages": "223-36"
+            },
+            "doi": "10.1006/jmbi.1995.0613",
+            "associated_entries": "1cef, 1ceg, 1hvb, 1ikg, 3pte",
+            "title": "The refined crystallographic structure of a DD-peptidase penicillin-target enzyme at 1.6 A resolution.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Kelly",
+                    "full_name": "Kelly JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Kuzin",
+                    "full_name": "Kuzin AP",
+                    "initials": "AP"
+                }
+            ],
+            "pubmed_id": "7490745",
+            "type": "B"
+        }
+    ]
+}

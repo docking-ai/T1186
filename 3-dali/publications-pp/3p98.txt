@@ -1,0 +1,54 @@
+{
+    "3p98": [
+        {
+            "journal_info": {
+                "volume": "67",
+                "pdb_abbreviation": "Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun.",
+                "ISO_abbreviation": "Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun.",
+                "year": 2011,
+                "issue": "Pt 3",
+                "pages": "303-6"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Docquier",
+                    "full_name": "Docquier JD",
+                    "initials": "JD"
+                },
+                {
+                    "last_name": "Benvenuti",
+                    "full_name": "Benvenuti M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Calderone",
+                    "full_name": "Calderone V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Rossolini",
+                    "full_name": "Rossolini GM",
+                    "initials": "GM"
+                },
+                {
+                    "last_name": "Mangani",
+                    "full_name": "Mangani S",
+                    "initials": "S"
+                }
+            ],
+            "title": "Structure of the extended-spectrum \ufffd\ufffd-lactamase TEM-72 inhibited by citrate.",
+            "pubmed_id": "21393831",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1107/S1744309110054680"
+        }
+    ]
+}

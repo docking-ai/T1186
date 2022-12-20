@@ -1,0 +1,159 @@
+{
+    "1ome": [
+        {
+            "journal_info": {
+                "volume": "37",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 1998,
+                "issue": "10",
+                "pages": "3286-96"
+            },
+            "doi": "10.1021/bi972127f",
+            "associated_entries": null,
+            "title": "Role of the omega-loop in the activity, substrate specificity, and structure of class A beta-lactamase.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Banerjee",
+                    "full_name": "Banerjee S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Pieper",
+                    "full_name": "Pieper U",
+                    "initials": "U"
+                },
+                {
+                    "last_name": "Kapadia",
+                    "full_name": "Kapadia G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Pannell",
+                    "full_name": "Pannell LK",
+                    "initials": "LK"
+                },
+                {
+                    "last_name": "Herzberg",
+                    "full_name": "Herzberg O",
+                    "initials": "O"
+                }
+            ],
+            "pubmed_id": "9521648",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "8",
+                "pdb_abbreviation": "Protein Eng.",
+                "ISO_abbreviation": null,
+                "year": 1995,
+                "issue": null,
+                "pages": "1275-"
+            },
+            "doi": null,
+            "associated_entries": null,
+            "title": "An Engineered Staphylococcus Aureus Pc1 Beta-Lactamase that Hydrolyses Third-Generation Cephalosporins",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Zawadzke, L.E.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Smith, T.J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Herzberg, O.",
+                    "initials": null
+                }
+            ],
+            "pubmed_id": null,
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "217",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": null,
+                "year": 1991,
+                "issue": null,
+                "pages": "701-"
+            },
+            "doi": null,
+            "associated_entries": null,
+            "title": "Refined Crystal Structure of Beta-Lactamase from Staphylococcus Aureus Pc1 at 2.0 A Resolution",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Herzberg, O.",
+                    "initials": null
+                }
+            ],
+            "pubmed_id": null,
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "236",
+                "pdb_abbreviation": "Science",
+                "ISO_abbreviation": null,
+                "year": 1987,
+                "issue": null,
+                "pages": "694-"
+            },
+            "doi": null,
+            "associated_entries": null,
+            "title": "Bacterial Resistance to Beta-Lactam Antibiotics: Crystal Structure of Beta-Lactamase from Staphylococcus Aureus Pc1 at 2.5 A Resolution",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Herzberg, O.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Moult, J.",
+                    "initials": null
+                }
+            ],
+            "pubmed_id": null,
+            "type": "J"
+        }
+    ]
+}

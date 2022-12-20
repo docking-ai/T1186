@@ -1,0 +1,54 @@
+{
+    "3e2l": [
+        {
+            "journal_info": {
+                "volume": "48",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2009,
+                "issue": "39",
+                "pages": "9185-93"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Hanes",
+                    "full_name": "Hanes MS",
+                    "initials": "MS"
+                },
+                {
+                    "last_name": "Jude",
+                    "full_name": "Jude KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Berger",
+                    "full_name": "Berger JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Handel",
+                    "full_name": "Handel TM",
+                    "initials": "TM"
+                }
+            ],
+            "title": "Structural and biochemical characterization of the interaction between KPC-2 beta-lactamase and beta-lactamase inhibitor protein.",
+            "pubmed_id": "19731932",
+            "type": "J",
+            "associated_entries": "3e2k",
+            "doi": "10.1021/bi9007963"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "3m6b": [
+        {
+            "journal_info": {
+                "volume": "49",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2010,
+                "issue": "17",
+                "pages": "3766-73"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Tremblay",
+                    "full_name": "Tremblay LW",
+                    "initials": "LW"
+                },
+                {
+                    "last_name": "Fan",
+                    "full_name": "Fan F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Blanchard",
+                    "full_name": "Blanchard JS",
+                    "initials": "JS"
+                }
+            ],
+            "title": "Biochemical and structural characterization of Mycobacterium tuberculosis beta-lactamase with the carbapenems ertapenem and doripenem.",
+            "pubmed_id": "20353175",
+            "type": "J",
+            "associated_entries": "3iqa, 3m6h",
+            "doi": "10.1021/bi100232q"
+        }
+    ]
+}

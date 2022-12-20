@@ -1,0 +1,69 @@
+{
+    "6txd": [
+        {
+            "journal_info": {
+                "volume": "11",
+                "pdb_abbreviation": "Chem Sci",
+                "ISO_abbreviation": "Chem Sci",
+                "year": 2020,
+                "issue": "24",
+                "pages": "6134-6148"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Risso",
+                    "full_name": "Risso VA",
+                    "initials": "VA"
+                },
+                {
+                    "last_name": "Romero-Rivera",
+                    "full_name": "Romero-Rivera A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Gutierrez-Rus",
+                    "full_name": "Gutierrez-Rus LI",
+                    "initials": "LI"
+                },
+                {
+                    "last_name": "Ortega-Mu\u00f1oz",
+                    "full_name": "Ortega-Mu\u00f1oz M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Santoyo-Gonzalez",
+                    "full_name": "Santoyo-Gonzalez F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Gavira",
+                    "full_name": "Gavira JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Sanchez-Ruiz",
+                    "full_name": "Sanchez-Ruiz JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Kamerlin",
+                    "full_name": "Kamerlin SCL",
+                    "initials": "SCL"
+                }
+            ],
+            "title": "Enhancing a <i>de novo</i> enzyme activity by computationally-focused ultra-low-throughput screening.",
+            "pubmed_id": "32832059",
+            "type": "J",
+            "associated_entries": "6tww, 6ty6",
+            "doi": "10.1039/d0sc01935f"
+        }
+    ]
+}

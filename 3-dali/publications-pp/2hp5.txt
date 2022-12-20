@@ -1,0 +1,94 @@
+{
+    "2hp5": [
+        {
+            "journal_info": {
+                "volume": "48",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2009,
+                "issue": "47",
+                "pages": "11252-63"
+            },
+            "doi": "10.1021/bi901548c",
+            "associated_entries": "2hp6, 2hp9, 2hpb, 2rl3, 2wgi",
+            "title": "Critical role of tryptophan 154 for the activity and stability of class D beta-lactamases.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Baurin",
+                    "full_name": "Baurin S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Vercheval",
+                    "full_name": "Vercheval L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Bouillenne",
+                    "full_name": "Bouillenne F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Falzone",
+                    "full_name": "Falzone C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Brans",
+                    "full_name": "Brans A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Jacquamet",
+                    "full_name": "Jacquamet L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Ferrer",
+                    "full_name": "Ferrer JL",
+                    "initials": "JL"
+                },
+                {
+                    "last_name": "Sauvage",
+                    "full_name": "Sauvage E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Dehareng",
+                    "full_name": "Dehareng D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Fr\u00e8re",
+                    "full_name": "Fr\u00e8re JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Galleni",
+                    "full_name": "Galleni M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Kerff",
+                    "full_name": "Kerff F",
+                    "initials": "F"
+                }
+            ],
+            "pubmed_id": "19860471",
+            "type": "J"
+        }
+    ]
+}

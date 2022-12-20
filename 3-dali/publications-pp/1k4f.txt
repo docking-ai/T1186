@@ -1,0 +1,54 @@
+{
+    "1k4f": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Kerff, F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Fonze, E.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Bouillene, F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Frere, J.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Charlier, P.",
+                    "initials": null
+                }
+            ],
+            "title": "Structure of the class D beta-lactamase OXA-2",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

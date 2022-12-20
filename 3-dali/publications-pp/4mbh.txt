@@ -1,0 +1,64 @@
+{
+    "4mbh": [
+        {
+            "journal_info": {
+                "volume": "9",
+                "pdb_abbreviation": "PLoS ONE",
+                "ISO_abbreviation": "PLoS ONE",
+                "year": 2014,
+                "issue": "1",
+                "pages": "e85892"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Rodkey",
+                    "full_name": "Rodkey EA",
+                    "initials": "EA"
+                },
+                {
+                    "last_name": "Winkler",
+                    "full_name": "Winkler ML",
+                    "initials": "ML"
+                },
+                {
+                    "last_name": "Bethel",
+                    "full_name": "Bethel CR",
+                    "initials": "CR"
+                },
+                {
+                    "last_name": "Pagadala",
+                    "full_name": "Pagadala SR",
+                    "initials": "SR"
+                },
+                {
+                    "last_name": "Buynak",
+                    "full_name": "Buynak JD",
+                    "initials": "JD"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "van den Akker",
+                    "full_name": "van den Akker F",
+                    "initials": "F"
+                }
+            ],
+            "title": "Penam sulfones and \ufffd\ufffd-lactamase inhibition: SA2-13 and the importance of the C2 side chain length and composition.",
+            "pubmed_id": "24454944",
+            "type": "J",
+            "associated_entries": "4mbf, 4mbk",
+            "doi": "10.1371/journal.pone.0085892"
+        }
+    ]
+}

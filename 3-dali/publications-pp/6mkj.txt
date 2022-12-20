@@ -1,0 +1,79 @@
+{
+    "6mkj": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J. Biol. Chem.",
+                "year": 2018,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Moon",
+                    "full_name": "Moon TM",
+                    "initials": "TM"
+                },
+                {
+                    "last_name": "D'Andr\u00e9a",
+                    "full_name": "D'Andr\u00e9a \u00c9D",
+                    "initials": "\u00c9D"
+                },
+                {
+                    "last_name": "Lee",
+                    "full_name": "Lee CW",
+                    "initials": "CW"
+                },
+                {
+                    "last_name": "Soares",
+                    "full_name": "Soares A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Jakoncic",
+                    "full_name": "Jakoncic J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Desbonnet",
+                    "full_name": "Desbonnet C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Garcia-Solache",
+                    "full_name": "Garcia-Solache M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Rice",
+                    "full_name": "Rice LB",
+                    "initials": "LB"
+                },
+                {
+                    "last_name": "Page",
+                    "full_name": "Page R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Peti",
+                    "full_name": "Peti W",
+                    "initials": "W"
+                }
+            ],
+            "title": "The structures of penicillin binding protein 4 (PBP4) and PBP5 from Enterococci provide structural insights into \ufffd\ufffd-lactam resistance.",
+            "pubmed_id": "30355734",
+            "type": "J",
+            "associated_entries": "6bsq, 6bsr, 6mka, 6mkf, 6mkg, 6mkh, 6mki",
+            "doi": "10.1074/jbc.RA118.006052"
+        }
+    ]
+}

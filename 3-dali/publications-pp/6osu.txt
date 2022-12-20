@@ -1,0 +1,59 @@
+{
+    "6osu": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "doi": null,
+            "associated_entries": null,
+            "title": "Crystal Structure of the D-alanyl-D-alanine carboxypeptidase DacD from  Francisella tularensis",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Kim, Y.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Stogios, P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Skarina, T.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Di, R.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Joachimiak, A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Center for Structural Genomics of Infectious Diseases (CSGID)",
+                    "initials": null
+                }
+            ],
+            "pubmed_id": null,
+            "type": "U"
+        }
+    ]
+}

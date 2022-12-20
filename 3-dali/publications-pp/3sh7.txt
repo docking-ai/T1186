@@ -1,0 +1,69 @@
+{
+    "3sh7": [
+        {
+            "journal_info": {
+                "volume": "286",
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J. Biol. Chem.",
+                "year": 2011,
+                "issue": "36",
+                "pages": "31771-80"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Wong",
+                    "full_name": "Wong WT",
+                    "initials": "WT"
+                },
+                {
+                    "last_name": "Chan",
+                    "full_name": "Chan KC",
+                    "initials": "KC"
+                },
+                {
+                    "last_name": "So",
+                    "full_name": "So PK",
+                    "initials": "PK"
+                },
+                {
+                    "last_name": "Yap",
+                    "full_name": "Yap HK",
+                    "initials": "HK"
+                },
+                {
+                    "last_name": "Chung",
+                    "full_name": "Chung WH",
+                    "initials": "WH"
+                },
+                {
+                    "last_name": "Leung",
+                    "full_name": "Leung YC",
+                    "initials": "YC"
+                },
+                {
+                    "last_name": "Wong",
+                    "full_name": "Wong KY",
+                    "initials": "KY"
+                },
+                {
+                    "last_name": "Zhao",
+                    "full_name": "Zhao Y",
+                    "initials": "Y"
+                }
+            ],
+            "title": "Increased structural flexibility at the active site of a fluorophore-conjugated beta-lactamase distinctively impacts its binding toward diverse cephalosporin antibiotics.",
+            "pubmed_id": "21705325",
+            "type": "J",
+            "associated_entries": "3sh8, 3sh9",
+            "doi": "10.1074/jbc.m110.198895"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "7llh": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J Biol Chem",
+                "year": 2021,
+                "issue": null,
+                "pages": "100799"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Furey",
+                    "full_name": "Furey IM",
+                    "initials": "IM"
+                },
+                {
+                    "last_name": "Mehta",
+                    "full_name": "Mehta SC",
+                    "initials": "SC"
+                },
+                {
+                    "last_name": "Sankaran",
+                    "full_name": "Sankaran B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Hu",
+                    "full_name": "Hu L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Prasad",
+                    "full_name": "Prasad BVV",
+                    "initials": "BVV"
+                },
+                {
+                    "last_name": "Palzkill",
+                    "full_name": "Palzkill T",
+                    "initials": "T"
+                }
+            ],
+            "title": "Local Interactions with the Glu166 Base and the Conformation of an Active Site Loop Play Key Roles in Carbapenem Hydrolysis by the KPC-2 \ufffd\ufffd-lactamase.",
+            "pubmed_id": "34022225",
+            "type": "J",
+            "associated_entries": "6b1f, 6b1h, 6b1j, 6b1w, 6b1x, 6b1y, 6b22, 7ljk, 7lk8, 7llb, 7lnl",
+            "doi": "10.1016/j.jbc.2021.100799"
+        },
+        {
+            "journal_info": {
+                "volume": "61",
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2018,
+                "issue": "9",
+                "pages": "4067-4086"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Papp-Wallace",
+                    "full_name": "Papp-Wallace KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Nguyen",
+                    "full_name": "Nguyen NQ",
+                    "initials": "NQ"
+                },
+                {
+                    "last_name": "Jacobs",
+                    "full_name": "Jacobs MR",
+                    "initials": "MR"
+                },
+                {
+                    "last_name": "Bethel",
+                    "full_name": "Bethel CR",
+                    "initials": "CR"
+                },
+                {
+                    "last_name": "Barnes",
+                    "full_name": "Barnes MD",
+                    "initials": "MD"
+                },
+                {
+                    "last_name": "Kumar",
+                    "full_name": "Kumar V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Bajaksouzian",
+                    "full_name": "Bajaksouzian S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Rudin",
+                    "full_name": "Rudin SD",
+                    "initials": "SD"
+                },
+                {
+                    "last_name": "Rather",
+                    "full_name": "Rather PN",
+                    "initials": "PN"
+                },
+                {
+                    "last_name": "Bhavsar",
+                    "full_name": "Bhavsar S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Ravikumar",
+                    "full_name": "Ravikumar T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Deshpande",
+                    "full_name": "Deshpande PK",
+                    "initials": "PK"
+                },
+                {
+                    "last_name": "Patil",
+                    "full_name": "Patil V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Yeole",
+                    "full_name": "Yeole R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Bhagwat",
+                    "full_name": "Bhagwat SS",
+                    "initials": "SS"
+                },
+                {
+                    "last_name": "Patel",
+                    "full_name": "Patel MV",
+                    "initials": "MV"
+                },
+                {
+                    "last_name": "van den Akker",
+                    "full_name": "van den Akker F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                }
+            ],
+            "title": "Strategic Approaches to Overcome Resistance against Gram-Negative Pathogens Using \ufffd\ufffd-Lactamase Inhibitors and \ufffd\ufffd-Lactam Enhancers: Activity of Three Novel Diazabicyclooctanes WCK 5153, Zidebactam (WCK 5107), and WCK 4234.",
+            "pubmed_id": "29627985",
+            "type": "J",
+            "associated_entries": "6b1f, 6b1h, 6b1j, 6b1w, 6b1x, 6b1y, 6b22, 7ljk, 7lk8, 7llb, 7lnl",
+            "doi": "10.1021/acs.jmedchem.8b00091"
+        }
+    ]
+}

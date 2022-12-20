@@ -1,0 +1,49 @@
+{
+    "5hx9": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Conrady, D.G.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Abendroth, J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Lorimer, D.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Edwards, T.E.",
+                    "initials": null
+                }
+            ],
+            "title": "Crystal structure of Beta-lactamase from Burkholderia vietnamiensis",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

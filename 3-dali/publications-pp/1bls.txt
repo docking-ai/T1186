@@ -1,0 +1,114 @@
+{
+    "1bls": [
+        {
+            "journal_info": {
+                "volume": "33",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 1994,
+                "issue": "22",
+                "pages": "6762-72"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Lobkovsky",
+                    "full_name": "Lobkovsky E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Billings",
+                    "full_name": "Billings EM",
+                    "initials": "EM"
+                },
+                {
+                    "last_name": "Moews",
+                    "full_name": "Moews PC",
+                    "initials": "PC"
+                },
+                {
+                    "last_name": "Rahil",
+                    "full_name": "Rahil J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                },
+                {
+                    "last_name": "Knox",
+                    "full_name": "Knox JR",
+                    "initials": "JR"
+                }
+            ],
+            "title": "Crystallographic structure of a phosphonate derivative of the Enterobacter cloacae P99 cephalosporinase: mechanistic interpretation of a beta-lactamase transition-state analog.",
+            "pubmed_id": "8204611",
+            "type": "J",
+            "associated_entries": "1xx2",
+            "doi": "10.1021/bi00188a004"
+        },
+        {
+            "journal_info": {
+                "volume": "90",
+                "pdb_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "ISO_abbreviation": null,
+                "year": 1993,
+                "issue": null,
+                "pages": "11257-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Lobkovsky, E.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Moews, P.C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Liu, H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Zhao, H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Frere, J.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Knox, J.R.",
+                    "initials": null
+                }
+            ],
+            "title": "Evolution of an Enzyme Activity: Crystallographic Structure at 2 Angstroms Resolution of the Cephalosporinase from the Ampc Gene of Enterobacter Cloacae P99 and Comparison with a Class a Penicillinase",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": "1xx2",
+            "doi": null
+        }
+    ]
+}

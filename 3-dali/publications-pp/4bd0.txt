@@ -1,0 +1,64 @@
+{
+    "4bd0": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J. Biol. Chem.",
+                "year": 2012,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Tomanicek",
+                    "full_name": "Tomanicek SJ",
+                    "initials": "SJ"
+                },
+                {
+                    "last_name": "Standaert",
+                    "full_name": "Standaert RF",
+                    "initials": "RF"
+                },
+                {
+                    "last_name": "Weiss",
+                    "full_name": "Weiss KL",
+                    "initials": "KL"
+                },
+                {
+                    "last_name": "Ostermann",
+                    "full_name": "Ostermann A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Schrader",
+                    "full_name": "Schrader TE",
+                    "initials": "TE"
+                },
+                {
+                    "last_name": "Ng",
+                    "full_name": "Ng JD",
+                    "initials": "JD"
+                },
+                {
+                    "last_name": "Coates",
+                    "full_name": "Coates L",
+                    "initials": "L"
+                }
+            ],
+            "title": "Neutron and X-ray crystal structures of a perdeuterated enzyme inhibitor complex reveal the catalytic proton network of the Toho-1 \ufffd\ufffd-lactamase for the acylation reaction.",
+            "pubmed_id": "23255594",
+            "type": "J",
+            "associated_entries": "4bd1",
+            "doi": "10.1074/jbc.m112.436238"
+        }
+    ]
+}

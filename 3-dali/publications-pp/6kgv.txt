@@ -1,0 +1,79 @@
+{
+    "6kgv": [
+        {
+            "journal_info": {
+                "volume": "97",
+                "pdb_abbreviation": "Mol. Pharmacol.",
+                "ISO_abbreviation": "Mol. Pharmacol.",
+                "year": 2020,
+                "issue": "4",
+                "pages": "287-294"
+            },
+            "doi": "10.1124/mol.119.118042",
+            "associated_entries": "6kgh, 6kgs, 6kgt, 6kgu, 6kgw",
+            "title": "Structures of <i>Mycobacterium tuberculosis</i> Penicillin-Binding Protein 3 in Complex with Five <i>\ufffd\ufffd</i>-Lactam Antibiotics Reveal Mechanism of Inactivation.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Lu",
+                    "full_name": "Lu Z",
+                    "initials": "Z"
+                },
+                {
+                    "last_name": "Wang",
+                    "full_name": "Wang H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Zhang",
+                    "full_name": "Zhang A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Liu",
+                    "full_name": "Liu X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Zhou",
+                    "full_name": "Zhou W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Yang",
+                    "full_name": "Yang C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Guddat",
+                    "full_name": "Guddat L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Yang",
+                    "full_name": "Yang H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Schofield",
+                    "full_name": "Schofield CJ",
+                    "initials": "CJ"
+                },
+                {
+                    "last_name": "Rao",
+                    "full_name": "Rao Z",
+                    "initials": "Z"
+                }
+            ],
+            "pubmed_id": "32086254",
+            "type": "J"
+        }
+    ]
+}

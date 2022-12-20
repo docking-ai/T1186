@@ -1,0 +1,64 @@
+{
+    "2vgj": [
+        {
+            "journal_info": {
+                "volume": "381",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2008,
+                "issue": "2",
+                "pages": "383-93"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Sauvage",
+                    "full_name": "Sauvage E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Powell",
+                    "full_name": "Powell AJ",
+                    "initials": "AJ"
+                },
+                {
+                    "last_name": "Heilemann",
+                    "full_name": "Heilemann J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Josephine",
+                    "full_name": "Josephine HR",
+                    "initials": "HR"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Davies",
+                    "full_name": "Davies C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                }
+            ],
+            "title": "Crystal structures of complexes of bacterial DD-peptidases with peptidoglycan-mimetic ligands: the substrate specificity puzzle.",
+            "pubmed_id": "18602645",
+            "type": "J",
+            "associated_entries": "2vgk, 3beb, 3bec",
+            "doi": "10.1016/j.jmb.2008.06.012"
+        }
+    ]
+}

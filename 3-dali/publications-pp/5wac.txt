@@ -1,0 +1,84 @@
+{
+    "5wac": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "ACS Infect Dis",
+                "ISO_abbreviation": "ACS Infect Dis",
+                "year": 2017,
+                "issue": null,
+                "pages": null
+            },
+            "doi": "10.1021/acsinfecdis.7b00152",
+            "associated_entries": "5wad, 5wae, 5waf, 5wag",
+            "title": "Structure-based analysis of boronic acids as inhibitors of Acinetobacter-derived cephalosporinase-7 (ADC-7), a unique class C \ufffd\ufffd-lactamase.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Bouza",
+                    "full_name": "Bouza AA",
+                    "initials": "AA"
+                },
+                {
+                    "last_name": "Swanson",
+                    "full_name": "Swanson HC",
+                    "initials": "HC"
+                },
+                {
+                    "last_name": "Smolen",
+                    "full_name": "Smolen KA",
+                    "initials": "KA"
+                },
+                {
+                    "last_name": "VanDine",
+                    "full_name": "VanDine AL",
+                    "initials": "AL"
+                },
+                {
+                    "last_name": "Taracila",
+                    "full_name": "Taracila MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Romagnoli",
+                    "full_name": "Romagnoli C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Caselli",
+                    "full_name": "Caselli E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Powers",
+                    "full_name": "Powers RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Wallar",
+                    "full_name": "Wallar BJ",
+                    "initials": "BJ"
+                }
+            ],
+            "pubmed_id": "29144724",
+            "type": "J"
+        }
+    ]
+}

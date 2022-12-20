@@ -1,0 +1,69 @@
+{
+    "3oc2": [
+        {
+            "journal_info": {
+                "volume": "405",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2011,
+                "issue": "1",
+                "pages": "173-84"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Sainsbury",
+                    "full_name": "Sainsbury S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Bird",
+                    "full_name": "Bird L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Rao",
+                    "full_name": "Rao V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Shepherd",
+                    "full_name": "Shepherd SM",
+                    "initials": "SM"
+                },
+                {
+                    "last_name": "Stuart",
+                    "full_name": "Stuart DI",
+                    "initials": "DI"
+                },
+                {
+                    "last_name": "Hunter",
+                    "full_name": "Hunter WN",
+                    "initials": "WN"
+                },
+                {
+                    "last_name": "Owens",
+                    "full_name": "Owens RJ",
+                    "initials": "RJ"
+                },
+                {
+                    "last_name": "Ren",
+                    "full_name": "Ren J",
+                    "initials": "J"
+                }
+            ],
+            "title": "Crystal structures of penicillin-binding protein 3 from Pseudomonas aeruginosa: comparison of native and antibiotic-bound forms.",
+            "pubmed_id": "20974151",
+            "type": "J",
+            "associated_entries": "3ocl, 3ocn",
+            "doi": "10.1016/j.jmb.2010.10.024"
+        }
+    ]
+}

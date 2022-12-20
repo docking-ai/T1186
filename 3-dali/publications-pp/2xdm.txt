@@ -1,0 +1,59 @@
+{
+    "2xdm": [
+        {
+            "journal_info": {
+                "volume": "49",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2010,
+                "issue": "30",
+                "pages": "6411-9"
+            },
+            "doi": "10.1021/bi100757c",
+            "associated_entries": null,
+            "title": "Crystal structure of a complex between the Actinomadura R39 DD-peptidase and a peptidoglycan-mimetic boronate inhibitor: interpretation of a transition state analogue in terms of catalytic mechanism.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Dzhekieva",
+                    "full_name": "Dzhekieva L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Rocaboy",
+                    "full_name": "Rocaboy M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Kerff",
+                    "full_name": "Kerff F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Sauvage",
+                    "full_name": "Sauvage E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                }
+            ],
+            "pubmed_id": "20608745",
+            "type": "J"
+        }
+    ]
+}

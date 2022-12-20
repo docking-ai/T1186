@@ -1,0 +1,64 @@
+{
+    "5fdh": [
+        {
+            "journal_info": {
+                "volume": "8",
+                "pdb_abbreviation": "Microorganisms",
+                "ISO_abbreviation": "Microorganisms",
+                "year": 2019,
+                "issue": "1",
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Oueslati",
+                    "full_name": "Oueslati S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Retailleau",
+                    "full_name": "Retailleau P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Marchini",
+                    "full_name": "Marchini L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Dortet",
+                    "full_name": "Dortet L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Bonnin",
+                    "full_name": "Bonnin RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Iorga",
+                    "full_name": "Iorga BI",
+                    "initials": "BI"
+                },
+                {
+                    "last_name": "Naas",
+                    "full_name": "Naas T",
+                    "initials": "T"
+                }
+            ],
+            "title": "Biochemical and Structural Characterization of OXA-405, an OXA-48 Variant with Extended-Spectrum \ufffd\ufffd-Lactamase Activity.",
+            "pubmed_id": "31877796",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.3390/microorganisms8010024"
+        }
+    ]
+}

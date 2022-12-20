@@ -1,0 +1,49 @@
+{
+    "6u58": [
+        {
+            "journal_info": {
+                "volume": "76",
+                "pdb_abbreviation": "Acta Crystallogr. D Biol. Crystallogr.",
+                "ISO_abbreviation": "Acta Crystallogr D Struct Biol",
+                "year": 2020,
+                "issue": "Pt 2",
+                "pages": "118-123"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Langan",
+                    "full_name": "Langan PS",
+                    "initials": "PS"
+                },
+                {
+                    "last_name": "Sullivan",
+                    "full_name": "Sullivan B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Weiss",
+                    "full_name": "Weiss KL",
+                    "initials": "KL"
+                },
+                {
+                    "last_name": "Coates",
+                    "full_name": "Coates L",
+                    "initials": "L"
+                }
+            ],
+            "title": "Probing the role of the conserved residue Glu166 in a class A \ufffd\ufffd-lactamase using neutron and X-ray protein crystallography.",
+            "pubmed_id": "32038042",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1107/s2059798319016334"
+        }
+    ]
+}

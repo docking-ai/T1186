@@ -1,0 +1,59 @@
+{
+    "6unb": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2019,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Sacco",
+                    "full_name": "Sacco MD",
+                    "initials": "MD"
+                },
+                {
+                    "last_name": "Kroeck",
+                    "full_name": "Kroeck KG",
+                    "initials": "KG"
+                },
+                {
+                    "last_name": "Kemp",
+                    "full_name": "Kemp MT",
+                    "initials": "MT"
+                },
+                {
+                    "last_name": "Zhang",
+                    "full_name": "Zhang X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Andrews",
+                    "full_name": "Andrews LD",
+                    "initials": "LD"
+                },
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Y",
+                    "initials": "Y"
+                }
+            ],
+            "title": "Influence of the \ufffd\ufffd-methoxy group on the reaction of temocillin with <i>Pseudomonas aeruginosa</i> PBP3 and CTX-M-14 \ufffd\ufffd-lactamase.",
+            "pubmed_id": "31685462",
+            "type": "J",
+            "associated_entries": "6un1, 6un3",
+            "doi": "10.1128/AAC.01473-19"
+        }
+    ]
+}

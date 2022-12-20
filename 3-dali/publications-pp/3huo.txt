@@ -1,0 +1,64 @@
+{
+    "3huo": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Delmas, J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Leyssene, D.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Dubois, D.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Birck, C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Samama, J.-P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Robin, F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Bonnet, R.",
+                    "initials": null
+                }
+            ],
+            "title": "Dynamic view of the early and late steps of the catalytic mechanism mediated by the emerging enzymes CTX-M.",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

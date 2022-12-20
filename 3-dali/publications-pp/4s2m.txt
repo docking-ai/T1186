@@ -1,0 +1,74 @@
+{
+    "4s2m": [
+        {
+            "journal_info": {
+                "volume": "54",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2015,
+                "issue": "21",
+                "pages": "3370-80"
+            },
+            "doi": "10.1021/acs.biochem.5b00298",
+            "associated_entries": "4s2l",
+            "title": "Structural Basis for Different Substrate Profiles of Two Closely Related Class D \ufffd\ufffd-Lactamases and Their Inhibition by Halogens.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Stojanoski",
+                    "full_name": "Stojanoski V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Chow",
+                    "full_name": "Chow DC",
+                    "initials": "DC"
+                },
+                {
+                    "last_name": "Fryszczyn",
+                    "full_name": "Fryszczyn B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Hu",
+                    "full_name": "Hu L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Nordmann",
+                    "full_name": "Nordmann P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Poirel",
+                    "full_name": "Poirel L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Sankaran",
+                    "full_name": "Sankaran B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Prasad",
+                    "full_name": "Prasad BV",
+                    "initials": "BV"
+                },
+                {
+                    "last_name": "Palzkill",
+                    "full_name": "Palzkill T",
+                    "initials": "T"
+                }
+            ],
+            "pubmed_id": "25938261",
+            "type": "J"
+        }
+    ]
+}

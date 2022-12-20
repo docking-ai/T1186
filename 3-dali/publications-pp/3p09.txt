@@ -1,0 +1,54 @@
+{
+    "3p09": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Kim, Y.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Makowska-Grzyska, M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Hasseman, J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Anderson, W.F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Joachimiak, A.",
+                    "initials": null
+                }
+            ],
+            "title": "Crystal Structure of Beta-Lactamase from Francisella tularensis",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

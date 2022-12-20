@@ -1,0 +1,139 @@
+{
+    "1w5d": [
+        {
+            "journal_info": {
+                "volume": "371",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2007,
+                "issue": "2",
+                "pages": "528-39"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Sauvage",
+                    "full_name": "Sauvage E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Duez",
+                    "full_name": "Duez C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Herman",
+                    "full_name": "Herman R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Kerff",
+                    "full_name": "Kerff F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Petrella",
+                    "full_name": "Petrella S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Anderson",
+                    "full_name": "Anderson JW",
+                    "initials": "JW"
+                },
+                {
+                    "last_name": "Adediran",
+                    "full_name": "Adediran SA",
+                    "initials": "SA"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                },
+                {
+                    "last_name": "Fr\u00e8re",
+                    "full_name": "Fr\u00e8re JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                }
+            ],
+            "title": "Crystal structure of the Bacillus subtilis penicillin-binding protein 4a, and its complex with a peptidoglycan mimetic peptide.",
+            "pubmed_id": "17582436",
+            "type": "J",
+            "associated_entries": "2j9p",
+            "doi": "10.1016/j.jmb.2007.05.071"
+        },
+        {
+            "journal_info": {
+                "volume": "183",
+                "pdb_abbreviation": "J. Bacteriol.",
+                "ISO_abbreviation": "J. Bacteriol.",
+                "year": 2001,
+                "issue": "5",
+                "pages": "1595-9"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Duez",
+                    "full_name": "Duez C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Vanhove",
+                    "full_name": "Vanhove M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Gallet",
+                    "full_name": "Gallet X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Bouillenne",
+                    "full_name": "Bouillenne F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Docquier",
+                    "full_name": "Docquier J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Brans",
+                    "full_name": "Brans A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Fr\ufffd\ufffdre",
+                    "full_name": "Fr\ufffd\ufffdre J",
+                    "initials": "J"
+                }
+            ],
+            "title": "Purification and characterization of PBP4a, a new low-molecular-weight penicillin-binding protein from Bacillus subtilis.",
+            "pubmed_id": "11160090",
+            "type": "J",
+            "associated_entries": "2j9p",
+            "doi": "10.1128/jb.183.5.1595-1599.2001"
+        }
+    ]
+}

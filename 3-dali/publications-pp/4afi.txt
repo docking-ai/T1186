@@ -1,0 +1,69 @@
+{
+    "4afi": [
+        {
+            "journal_info": {
+                "volume": "22",
+                "pdb_abbreviation": "Dev. Cell",
+                "ISO_abbreviation": "Dev. Cell",
+                "year": 2012,
+                "issue": "5",
+                "pages": "979-88"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Kent",
+                    "full_name": "Kent HM",
+                    "initials": "HM"
+                },
+                {
+                    "last_name": "Evans",
+                    "full_name": "Evans PR",
+                    "initials": "PR"
+                },
+                {
+                    "last_name": "Sch\ufffd\ufffdfer",
+                    "full_name": "Sch\ufffd\ufffdfer IB",
+                    "initials": "IB"
+                },
+                {
+                    "last_name": "Gray",
+                    "full_name": "Gray SR",
+                    "initials": "SR"
+                },
+                {
+                    "last_name": "Sanderson",
+                    "full_name": "Sanderson CM",
+                    "initials": "CM"
+                },
+                {
+                    "last_name": "Luzio",
+                    "full_name": "Luzio JP",
+                    "initials": "JP"
+                },
+                {
+                    "last_name": "Peden",
+                    "full_name": "Peden AA",
+                    "initials": "AA"
+                },
+                {
+                    "last_name": "Owen",
+                    "full_name": "Owen DJ",
+                    "initials": "DJ"
+                }
+            ],
+            "title": "Structural basis of the intracellular sorting of the SNARE VAMP7 by the AP3 adaptor complex.",
+            "pubmed_id": "22521722",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1016/j.devcel.2012.01.018"
+        }
+    ]
+}

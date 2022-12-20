@@ -1,0 +1,49 @@
+{
+    "1zg6": [
+        {
+            "journal_info": {
+                "volume": "61",
+                "pdb_abbreviation": "Acta Crystallogr. D Biol. Crystallogr.",
+                "ISO_abbreviation": "Acta Crystallogr. D Biol. Crystallogr.",
+                "year": 2005,
+                "issue": "Pt 8",
+                "pages": "1072-9"
+            },
+            "doi": "10.1107/S0907444905014356",
+            "associated_entries": "1zg4",
+            "title": "Structure of the wild-type TEM-1 beta-lactamase at 1.55 A and the mutant enzyme Ser70Ala at 2.1 A suggest the mode of noncovalent catalysis for the mutant enzyme.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Stec",
+                    "full_name": "Stec B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Holtz",
+                    "full_name": "Holtz KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Wojciechowski",
+                    "full_name": "Wojciechowski CL",
+                    "initials": "CL"
+                },
+                {
+                    "last_name": "Kantrowitz",
+                    "full_name": "Kantrowitz ER",
+                    "initials": "ER"
+                }
+            ],
+            "pubmed_id": "16041072",
+            "type": "J"
+        }
+    ]
+}

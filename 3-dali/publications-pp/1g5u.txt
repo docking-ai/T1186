@@ -1,0 +1,339 @@
+{
+    "1g5u": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be Published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Fedorov, A.A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Fedorov, E.V.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ganglberger, E.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Breiteneder, H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Almo, S.C.",
+                    "initials": null
+                }
+            ],
+            "title": "A Comparative Structural Analysis of Allergen Profilins HEVB8 and BETV2",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": "1acf, 1cf0, 1cjf, 1cqa, 1prq, 2acg",
+            "doi": null
+        },
+        {
+            "journal_info": {
+                "volume": "121",
+                "pdb_abbreviation": "Int. Arch. Allergy Immunol.",
+                "ISO_abbreviation": null,
+                "year": 2000,
+                "issue": null,
+                "pages": "98-107"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Niggemann, B.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Breiteneder, H.",
+                    "initials": null
+                }
+            ],
+            "title": "Latex Allergy in Children",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": "1acf, 1cf0, 1cjf, 1cqa, 1prq, 2acg",
+            "doi": "10.1159/000024304"
+        },
+        {
+            "journal_info": {
+                "volume": "91",
+                "pdb_abbreviation": "Proc Natl Acad Sci U S A",
+                "ISO_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "year": 1994,
+                "issue": "18",
+                "pages": "8636-40"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Fedorov",
+                    "full_name": "Fedorov AA",
+                    "initials": "AA"
+                },
+                {
+                    "last_name": "Magnus",
+                    "full_name": "Magnus KA",
+                    "initials": "KA"
+                },
+                {
+                    "last_name": "Graupe",
+                    "full_name": "Graupe MH",
+                    "initials": "MH"
+                },
+                {
+                    "last_name": "Lattman",
+                    "full_name": "Lattman EE",
+                    "initials": "EE"
+                },
+                {
+                    "last_name": "Pollard",
+                    "full_name": "Pollard TD",
+                    "initials": "TD"
+                },
+                {
+                    "last_name": "Almo",
+                    "full_name": "Almo SC",
+                    "initials": "SC"
+                }
+            ],
+            "title": "X-ray structures of isoforms of the actin-binding protein profilin that differ in their affinity for phosphatidylinositol phosphates.",
+            "pubmed_id": "8078936",
+            "type": "J",
+            "associated_entries": "1acf, 1cf0, 1cjf, 1cqa, 1prq, 2acg",
+            "doi": "10.1073/pnas.91.18.8636"
+        },
+        {
+            "journal_info": {
+                "volume": "241",
+                "pdb_abbreviation": "J Mol Biol",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 1994,
+                "issue": "3",
+                "pages": "480-2"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Fedorov",
+                    "full_name": "Fedorov AA",
+                    "initials": "AA"
+                },
+                {
+                    "last_name": "Pollard",
+                    "full_name": "Pollard TD",
+                    "initials": "TD"
+                },
+                {
+                    "last_name": "Almo",
+                    "full_name": "Almo SC",
+                    "initials": "SC"
+                }
+            ],
+            "title": "Purification, characterization and crystallization of human platelet profilin expressed in Escherichia coli.",
+            "pubmed_id": "8064860",
+            "type": "B",
+            "associated_entries": "1acf, 1cf0, 1cjf, 1cqa, 1prq, 2acg",
+            "doi": "10.1006/jmbi.1994.1522"
+        },
+        {
+            "journal_info": {
+                "volume": "5",
+                "pdb_abbreviation": "Structure",
+                "ISO_abbreviation": "Structure",
+                "year": 1997,
+                "issue": "1",
+                "pages": "33-45"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Fedorov",
+                    "full_name": "Fedorov AA",
+                    "initials": "AA"
+                },
+                {
+                    "last_name": "Ball",
+                    "full_name": "Ball T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Mahoney",
+                    "full_name": "Mahoney NM",
+                    "initials": "NM"
+                },
+                {
+                    "last_name": "Valenta",
+                    "full_name": "Valenta R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Almo",
+                    "full_name": "Almo SC",
+                    "initials": "SC"
+                }
+            ],
+            "title": "The molecular basis for allergen cross-reactivity: crystal structure and IgE-epitope mapping of birch pollen profilin.",
+            "pubmed_id": "9016715",
+            "type": "J",
+            "associated_entries": "1acf, 1cf0, 1cjf, 1cqa, 1prq, 2acg",
+            "doi": "10.1016/s0969-2126(97)00164-0"
+        },
+        {
+            "journal_info": {
+                "volume": "123",
+                "pdb_abbreviation": "J Struct Biol",
+                "ISO_abbreviation": "J. Struct. Biol.",
+                "year": 1998,
+                "issue": "1",
+                "pages": "22-9"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Liu",
+                    "full_name": "Liu S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Fedorov",
+                    "full_name": "Fedorov AA",
+                    "initials": "AA"
+                },
+                {
+                    "last_name": "Pollard",
+                    "full_name": "Pollard TD",
+                    "initials": "TD"
+                },
+                {
+                    "last_name": "Lattman",
+                    "full_name": "Lattman EE",
+                    "initials": "EE"
+                },
+                {
+                    "last_name": "Almo",
+                    "full_name": "Almo SC",
+                    "initials": "SC"
+                },
+                {
+                    "last_name": "Magnus",
+                    "full_name": "Magnus KA",
+                    "initials": "KA"
+                }
+            ],
+            "title": "Crystal packing induces a conformational change in profilin-I from Acanthamoeba castellanii.",
+            "pubmed_id": "9774541",
+            "type": "J",
+            "associated_entries": "1acf, 1cf0, 1cjf, 1cqa, 1prq, 2acg",
+            "doi": "10.1006/jsbi.1998.4009"
+        },
+        {
+            "journal_info": {
+                "volume": "6",
+                "pdb_abbreviation": "Nat. Struct. Biol.",
+                "ISO_abbreviation": "Nat. Struct. Biol.",
+                "year": 1999,
+                "issue": "7",
+                "pages": "666-71"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Mahoney",
+                    "full_name": "Mahoney NM",
+                    "initials": "NM"
+                },
+                {
+                    "last_name": "Rozwarski",
+                    "full_name": "Rozwarski DA",
+                    "initials": "DA"
+                },
+                {
+                    "last_name": "Fedorov",
+                    "full_name": "Fedorov E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Fedorov",
+                    "full_name": "Fedorov AA",
+                    "initials": "AA"
+                },
+                {
+                    "last_name": "Almo",
+                    "full_name": "Almo SC",
+                    "initials": "SC"
+                }
+            ],
+            "title": "Profilin binds proline-rich ligands in two distinct amide backbone orientations.",
+            "pubmed_id": "10404225",
+            "type": "J",
+            "associated_entries": "1acf, 1cf0, 1cjf, 1cqa, 1prq, 2acg",
+            "doi": "10.1038/10722"
+        }
+    ]
+}

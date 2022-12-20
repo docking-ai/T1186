@@ -1,0 +1,54 @@
+{
+    "4zbe": [
+        {
+            "journal_info": {
+                "volume": "10",
+                "pdb_abbreviation": "PLoS ONE",
+                "ISO_abbreviation": "PLoS ONE",
+                "year": 2015,
+                "issue": "9",
+                "pages": "e0136813"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Krishnan",
+                    "full_name": "Krishnan NP",
+                    "initials": "NP"
+                },
+                {
+                    "last_name": "Nguyen",
+                    "full_name": "Nguyen NQ",
+                    "initials": "NQ"
+                },
+                {
+                    "last_name": "Papp-Wallace",
+                    "full_name": "Papp-Wallace KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "van den Akker",
+                    "full_name": "van den Akker F",
+                    "initials": "F"
+                }
+            ],
+            "title": "Inhibition of Klebsiella \ufffd\ufffd-Lactamases (SHV-1 and KPC-2) by Avibactam: A Structural Study.",
+            "pubmed_id": "26340563",
+            "type": "J",
+            "associated_entries": "4zam",
+            "doi": "10.1371/journal.pone.0136813"
+        }
+    ]
+}

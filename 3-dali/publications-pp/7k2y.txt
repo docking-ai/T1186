@@ -1,0 +1,64 @@
+{
+    "7k2y": [
+        {
+            "journal_info": {
+                "volume": "295",
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J Biol Chem",
+                "year": 2020,
+                "issue": "52",
+                "pages": "18239-18255"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Soeung",
+                    "full_name": "Soeung V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Lu",
+                    "full_name": "Lu S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Hu",
+                    "full_name": "Hu L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Judge",
+                    "full_name": "Judge A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Sankaran",
+                    "full_name": "Sankaran B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Prasad",
+                    "full_name": "Prasad BVV",
+                    "initials": "BVV"
+                },
+                {
+                    "last_name": "Palzkill",
+                    "full_name": "Palzkill T",
+                    "initials": "T"
+                }
+            ],
+            "title": "A drug-resistant \ufffd\ufffd-lactamase variant changes the conformation of its active-site proton shuttle to alter substrate specificity and inhibitor potency.",
+            "pubmed_id": "33109613",
+            "type": "J",
+            "associated_entries": "7k2w, 7k2x",
+            "doi": "10.1074/jbc.RA120.016103"
+        }
+    ]
+}

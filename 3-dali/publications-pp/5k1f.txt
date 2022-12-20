@@ -1,0 +1,44 @@
+{
+    "5k1f": [
+        {
+            "journal_info": {
+                "volume": "61",
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2017,
+                "issue": "5",
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Na",
+                    "full_name": "Na JH",
+                    "initials": "JH"
+                },
+                {
+                    "last_name": "An",
+                    "full_name": "An YJ",
+                    "initials": "YJ"
+                },
+                {
+                    "last_name": "Cha",
+                    "full_name": "Cha SS",
+                    "initials": "SS"
+                }
+            ],
+            "title": "GMP and IMP Are Competitive Inhibitors of CMY-10, an Extended-Spectrum Class C \ufffd\ufffd-Lactamase.",
+            "pubmed_id": "28242658",
+            "type": "J",
+            "associated_entries": "5k1d",
+            "doi": "10.1128/AAC.00098-17"
+        }
+    ]
+}

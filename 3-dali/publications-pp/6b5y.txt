@@ -1,0 +1,279 @@
+{
+    "6b5y": [
+        {
+            "journal_info": {
+                "volume": "16",
+                "pdb_abbreviation": "BMC Biol.",
+                "ISO_abbreviation": "BMC Biol.",
+                "year": 2018,
+                "issue": "1",
+                "pages": "59"
+            },
+            "doi": "10.1186/s12915-018-0524-5",
+            "associated_entries": "6b5x, 6b68, 6b69, 6b6a, 6b6b, 6b6c, 6b6d, 6b6e, 6b6f",
+            "title": "Enzyme intermediates captured \"on the fly\" by mix-and-inject serial crystallography.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Olmos",
+                    "full_name": "Olmos JL",
+                    "initials": "JL"
+                },
+                {
+                    "last_name": "Pandey",
+                    "full_name": "Pandey S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Martin-Garcia",
+                    "full_name": "Martin-Garcia JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Calvey",
+                    "full_name": "Calvey G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Katz",
+                    "full_name": "Katz A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Knoska",
+                    "full_name": "Knoska J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Kupitz",
+                    "full_name": "Kupitz C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Hunter",
+                    "full_name": "Hunter MS",
+                    "initials": "MS"
+                },
+                {
+                    "last_name": "Liang",
+                    "full_name": "Liang M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Oberthuer",
+                    "full_name": "Oberthuer D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Yefanov",
+                    "full_name": "Yefanov O",
+                    "initials": "O"
+                },
+                {
+                    "last_name": "Wiedorn",
+                    "full_name": "Wiedorn M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Heyman",
+                    "full_name": "Heyman M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Holl",
+                    "full_name": "Holl M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Pande",
+                    "full_name": "Pande K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Barty",
+                    "full_name": "Barty A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Miller",
+                    "full_name": "Miller MD",
+                    "initials": "MD"
+                },
+                {
+                    "last_name": "Stern",
+                    "full_name": "Stern S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Roy-Chowdhury",
+                    "full_name": "Roy-Chowdhury S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Coe",
+                    "full_name": "Coe J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Nagaratnam",
+                    "full_name": "Nagaratnam N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Zook",
+                    "full_name": "Zook J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Verburgt",
+                    "full_name": "Verburgt J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Norwood",
+                    "full_name": "Norwood T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Poudyal",
+                    "full_name": "Poudyal I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "Xu",
+                    "full_name": "Xu D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Koglin",
+                    "full_name": "Koglin J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Seaberg",
+                    "full_name": "Seaberg MH",
+                    "initials": "MH"
+                },
+                {
+                    "last_name": "Zhao",
+                    "full_name": "Zhao Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Bajt",
+                    "full_name": "Bajt S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Grant",
+                    "full_name": "Grant T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Mariani",
+                    "full_name": "Mariani V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Nelson",
+                    "full_name": "Nelson G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Subramanian",
+                    "full_name": "Subramanian G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Bae",
+                    "full_name": "Bae E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Fromme",
+                    "full_name": "Fromme R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Fung",
+                    "full_name": "Fung R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Schwander",
+                    "full_name": "Schwander P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Frank",
+                    "full_name": "Frank M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "White",
+                    "full_name": "White TA",
+                    "initials": "TA"
+                },
+                {
+                    "last_name": "Weierstall",
+                    "full_name": "Weierstall U",
+                    "initials": "U"
+                },
+                {
+                    "last_name": "Zatsepin",
+                    "full_name": "Zatsepin N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Spence",
+                    "full_name": "Spence J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Fromme",
+                    "full_name": "Fromme P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Chapman",
+                    "full_name": "Chapman HN",
+                    "initials": "HN"
+                },
+                {
+                    "last_name": "Pollack",
+                    "full_name": "Pollack L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Tremblay",
+                    "full_name": "Tremblay L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Ourmazd",
+                    "full_name": "Ourmazd A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Phillips",
+                    "full_name": "Phillips GN",
+                    "initials": "GN"
+                },
+                {
+                    "last_name": "Schmidt",
+                    "full_name": "Schmidt M",
+                    "initials": "M"
+                }
+            ],
+            "pubmed_id": "29848358",
+            "type": "J"
+        }
+    ]
+}

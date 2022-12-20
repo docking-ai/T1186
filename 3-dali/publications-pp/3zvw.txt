@@ -1,0 +1,89 @@
+{
+    "3zvw": [
+        {
+            "journal_info": {
+                "volume": "133",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2011,
+                "issue": "28",
+                "pages": "10839-48"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Zervosen",
+                    "full_name": "Zervosen A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Herman",
+                    "full_name": "Herman R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Kerff",
+                    "full_name": "Kerff F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Herman",
+                    "full_name": "Herman A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Bouillez",
+                    "full_name": "Bouillez A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                },
+                {
+                    "last_name": "Fr\u00e8re",
+                    "full_name": "Fr\u00e8re JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Joris",
+                    "full_name": "Joris B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Luxen",
+                    "full_name": "Luxen A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Sauvage",
+                    "full_name": "Sauvage E",
+                    "initials": "E"
+                }
+            ],
+            "title": "Unexpected tricovalent binding mode of boronic acids within the active site of a penicillin-binding protein.",
+            "pubmed_id": "21574608",
+            "type": "J",
+            "associated_entries": "2y4a, 2y55, 2y59, 3zvt",
+            "doi": "10.1021/ja200696y"
+        }
+    ]
+}

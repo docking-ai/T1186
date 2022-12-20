@@ -1,0 +1,114 @@
+{
+    "1mbl": [
+        {
+            "journal_info": {
+                "volume": "6",
+                "pdb_abbreviation": "Protein Eng.",
+                "ISO_abbreviation": "Protein Eng.",
+                "year": 1993,
+                "issue": "1",
+                "pages": "11-8"
+            },
+            "doi": "10.1093/protein/6.1.11",
+            "associated_entries": null,
+            "title": "A catalytically-impaired class A beta-lactamase: 2 A crystal structure and kinetics of the Bacillus licheniformis E166A mutant.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Knox",
+                    "full_name": "Knox JR",
+                    "initials": "JR"
+                },
+                {
+                    "last_name": "Moews",
+                    "full_name": "Moews PC",
+                    "initials": "PC"
+                },
+                {
+                    "last_name": "Escobar",
+                    "full_name": "Escobar WA",
+                    "initials": "WA"
+                },
+                {
+                    "last_name": "Fink",
+                    "full_name": "Fink AL",
+                    "initials": "AL"
+                }
+            ],
+            "pubmed_id": "8433965",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "RECENT ADVANCES IN THE CHEMISTRY OF ANTI-INFECTIVE AGENTS (SPEC.PUBL.R.SOC.CHEM.,NO. 119)",
+                "ISO_abbreviation": null,
+                "year": 1993,
+                "issue": null,
+                "pages": "36-"
+            },
+            "doi": null,
+            "associated_entries": null,
+            "title": "Crystallography of Penicillin-Binding Enzymes",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Knox, J.R.",
+                    "initials": null
+                }
+            ],
+            "pubmed_id": null,
+            "type": "B"
+        },
+        {
+            "journal_info": {
+                "volume": "220",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": null,
+                "year": 1991,
+                "issue": null,
+                "pages": "435-"
+            },
+            "doi": null,
+            "associated_entries": null,
+            "title": "Beta-Lactamase of Bacillus Licheniformis 749C: Refinement at 2 Angstroms Resolution and Analysis of Hydration",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Knox, J.R.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Moews, P.C.",
+                    "initials": null
+                }
+            ],
+            "pubmed_id": null,
+            "type": "J"
+        }
+    ]
+}

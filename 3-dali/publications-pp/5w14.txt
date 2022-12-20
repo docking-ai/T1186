@@ -1,0 +1,84 @@
+{
+    "5w14": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "ACS Infect Dis",
+                "ISO_abbreviation": "ACS Infect Dis",
+                "year": 2017,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Caselli",
+                    "full_name": "Caselli E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Romagnoli",
+                    "full_name": "Romagnoli C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Powers",
+                    "full_name": "Powers RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Taracila",
+                    "full_name": "Taracila MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Bouza",
+                    "full_name": "Bouza AA",
+                    "initials": "AA"
+                },
+                {
+                    "last_name": "Swanson",
+                    "full_name": "Swanson HC",
+                    "initials": "HC"
+                },
+                {
+                    "last_name": "Smolen",
+                    "full_name": "Smolen KA",
+                    "initials": "KA"
+                },
+                {
+                    "last_name": "Fini",
+                    "full_name": "Fini F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Wallar",
+                    "full_name": "Wallar BJ",
+                    "initials": "BJ"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                }
+            ],
+            "title": "Inhibition of Acinetobacter-Derived Cephalosporinase (ADC): Exploring the Carboxylate Recognition Site Using Novel \ufffd\ufffd-Lactamase Inhibitors.",
+            "pubmed_id": "29144725",
+            "type": "J",
+            "associated_entries": "5w12, 5w13",
+            "doi": "10.1021/acsinfecdis.7b00153"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "5l09": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Kim, Y.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Chhor, G.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Jedrzejczak, R.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Winans, S.C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Joachimiak, A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Center for Structural Genomics of Infectious Diseases (CSGID)",
+                    "initials": null
+                }
+            ],
+            "title": "Crystal Structure of Quorum-Sensing Transcriptional Activator from Yersinia enterocolitica",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

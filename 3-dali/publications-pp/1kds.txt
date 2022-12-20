@@ -1,0 +1,39 @@
+{
+    "1kds": [
+        {
+            "journal_info": {
+                "volume": "45",
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2002,
+                "issue": "15",
+                "pages": "3222-34"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Powers",
+                    "full_name": "Powers RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "title": "Structure-based approach for binding site identification on AmpC beta-lactamase.",
+            "pubmed_id": "12109906",
+            "type": "J",
+            "associated_entries": "1kdw, 1ke0, 1ke3, 1ke4",
+            "doi": "10.1021/jm020002p"
+        }
+    ]
+}

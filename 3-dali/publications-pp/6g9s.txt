@@ -1,0 +1,89 @@
+{
+    "6g9s": [
+        {
+            "journal_info": {
+                "volume": "62",
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2019,
+                "issue": "9",
+                "pages": "4742-4754"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Levy",
+                    "full_name": "Levy N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Bruneau",
+                    "full_name": "Bruneau JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Le Rouzic",
+                    "full_name": "Le Rouzic E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Bonnard",
+                    "full_name": "Bonnard D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Le Strat",
+                    "full_name": "Le Strat F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Caravano",
+                    "full_name": "Caravano A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Chevreuil",
+                    "full_name": "Chevreuil F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Barbion",
+                    "full_name": "Barbion J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Chasset",
+                    "full_name": "Chasset S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Ledoussal",
+                    "full_name": "Ledoussal B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Moreau",
+                    "full_name": "Moreau F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Ruff",
+                    "full_name": "Ruff M",
+                    "initials": "M"
+                }
+            ],
+            "title": "Structural Basis for E. coli Penicillin Binding Protein (PBP) 2 Inhibition, a Platform for Drug Design.",
+            "pubmed_id": "30995398",
+            "type": "J",
+            "associated_entries": "6g9f, 6g9p",
+            "doi": "10.1021/acs.jmedchem.9b00338"
+        }
+    ]
+}

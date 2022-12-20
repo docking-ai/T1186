@@ -1,0 +1,59 @@
+{
+    "3hun": [
+        {
+            "journal_info": {
+                "volume": "192",
+                "pdb_abbreviation": "J. Bacteriol.",
+                "ISO_abbreviation": "J. Bacteriol.",
+                "year": 2010,
+                "issue": "1",
+                "pages": "134-44"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Navratna",
+                    "full_name": "Navratna V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Nadig",
+                    "full_name": "Nadig S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Sood",
+                    "full_name": "Sood V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Prasad",
+                    "full_name": "Prasad K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Arakere",
+                    "full_name": "Arakere G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Gopal",
+                    "full_name": "Gopal B",
+                    "initials": "B"
+                }
+            ],
+            "title": "Molecular basis for the role of Staphylococcus aureus penicillin binding protein 4 in antimicrobial resistance.",
+            "pubmed_id": "19854906",
+            "type": "J",
+            "associated_entries": "3hum",
+            "doi": "10.1128/JB.00822-09"
+        }
+    ]
+}

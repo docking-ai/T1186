@@ -1,0 +1,74 @@
+{
+    "5ujo": [
+        {
+            "journal_info": {
+                "volume": "36",
+                "pdb_abbreviation": "Organometallics",
+                "ISO_abbreviation": "Organometallics",
+                "year": 2017,
+                "issue": "9",
+                "pages": "1673-1676"
+            },
+            "doi": "10.1021/acs.organomet.6b00888",
+            "associated_entries": null,
+            "title": "Antibacterial Properties of Metallocenyl-7-ADCA Derivatives and Structure in Complex with CTX-M <i>\ufffd\ufffd</i>-Lactamase.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Lewandowski",
+                    "full_name": "Lewandowski EM",
+                    "initials": "EM"
+                },
+                {
+                    "last_name": "Szczupak",
+                    "full_name": "Szczupak \u0141",
+                    "initials": "\u0141"
+                },
+                {
+                    "last_name": "Wong",
+                    "full_name": "Wong S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Skiba",
+                    "full_name": "Skiba J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Gu\u015bpiel",
+                    "full_name": "Gu\u015bpiel A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Solecka",
+                    "full_name": "Solecka J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Vr\u010dek",
+                    "full_name": "Vr\u010dek V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Kowalski",
+                    "full_name": "Kowalski K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Y",
+                    "initials": "Y"
+                }
+            ],
+            "pubmed_id": "29051683",
+            "type": "J"
+        }
+    ]
+}

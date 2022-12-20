@@ -1,0 +1,59 @@
+{
+    "7l5v": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Minasov, G.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Shuvalova, L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Rosas-Lemus, M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Brunzelle, J.S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Satchell, K.J.F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Center for Structural Genomics of Infectious Diseases (CSGID)",
+                    "initials": null
+                }
+            ],
+            "title": "Crystal Structure of the Class D Beta-lactamase OXA-935 from Pseudomonas aeruginosa, Monoclinic Crystal Form",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

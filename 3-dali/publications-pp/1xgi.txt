@@ -1,0 +1,54 @@
+{
+    "1xgi": [
+        {
+            "journal_info": {
+                "volume": "127",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2005,
+                "issue": "13",
+                "pages": "4632-9"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Tondi",
+                    "full_name": "Tondi D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Morandi",
+                    "full_name": "Morandi F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Bonnet",
+                    "full_name": "Bonnet R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Costi",
+                    "full_name": "Costi MP",
+                    "initials": "MP"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "title": "Structure-based optimization of a non-beta-lactam lead results in inhibitors that do not up-regulate beta-lactamase expression in cell culture.",
+            "pubmed_id": "15796528",
+            "type": "J",
+            "associated_entries": "1xgj",
+            "doi": "10.1021/ja042984o"
+        }
+    ]
+}

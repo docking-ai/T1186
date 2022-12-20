@@ -1,0 +1,79 @@
+{
+    "5dvy": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "doi": null,
+            "associated_entries": null,
+            "title": "2.95 Angstrom Crystal Structure of the Dimeric Form of Penicillin Binding Protein 2 Prime from Enterococcus faecium.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Minasov, G.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Wawrzak, Z.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Shuvalova, L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Dubrovska, I.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Flores, K.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Filippova, E.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Grimshaw, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kwon, K.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Anderson, W.F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Center for Structural Genomics of Infectious Diseases (CSGID)",
+                    "initials": null
+                }
+            ],
+            "pubmed_id": null,
+            "type": "U"
+        }
+    ]
+}

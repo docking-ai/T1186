@@ -1,0 +1,69 @@
+{
+    "3mxs": [
+        {
+            "journal_info": {
+                "volume": "55",
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2011,
+                "issue": "1",
+                "pages": "174-83"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Ke",
+                    "full_name": "Ke W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Sampson",
+                    "full_name": "Sampson JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Ori",
+                    "full_name": "Ori C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Drawz",
+                    "full_name": "Drawz SM",
+                    "initials": "SM"
+                },
+                {
+                    "last_name": "Bethel",
+                    "full_name": "Bethel CR",
+                    "initials": "CR"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "van den Akker",
+                    "full_name": "van den Akker F",
+                    "initials": "F"
+                }
+            ],
+            "title": "Novel insights into the mode of inhibition of class A SHV-1 beta-lactamases revealed by boronic acid transition state inhibitors.",
+            "pubmed_id": "21041505",
+            "type": "J",
+            "associated_entries": "3mke, 3mkf, 3mxr",
+            "doi": "10.1128/AAC.00930-10"
+        }
+    ]
+}

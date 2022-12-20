@@ -1,0 +1,39 @@
+{
+    "5zzb": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Nature",
+                "ISO_abbreviation": "Nature",
+                "year": 2018,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Ak\u0131l",
+                    "full_name": "Ak\u0131l C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Robinson",
+                    "full_name": "Robinson RC",
+                    "initials": "RC"
+                }
+            ],
+            "title": "Genomes of Asgard archaea encode profilins that regulate actin.",
+            "pubmed_id": "30283132",
+            "type": "J",
+            "associated_entries": "5yed, 5yee, 5zza",
+            "doi": "10.1038/s41586-018-0548-6"
+        }
+    ]
+}

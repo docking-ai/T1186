@@ -1,0 +1,54 @@
+{
+    "4n92": [
+        {
+            "journal_info": {
+                "volume": "53",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2014,
+                "issue": "33",
+                "pages": "5414-23"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Pan",
+                    "full_name": "Pan X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Wong",
+                    "full_name": "Wong WT",
+                    "initials": "WT"
+                },
+                {
+                    "last_name": "He",
+                    "full_name": "He Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Jiang",
+                    "full_name": "Jiang Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Zhao",
+                    "full_name": "Zhao Y",
+                    "initials": "Y"
+                }
+            ],
+            "title": "Perturbing the general base residue Glu166 in the active site of class A \ufffd\ufffd-lactamase leads to enhanced carbapenem binding and acylation.",
+            "pubmed_id": "25020031",
+            "type": "J",
+            "associated_entries": "4n9k, 4n9l",
+            "doi": "10.1021/bi401609h"
+        }
+    ]
+}

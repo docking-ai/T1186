@@ -1,0 +1,169 @@
+{
+    "1dja": [
+        {
+            "journal_info": {
+                "volume": "35",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 1996,
+                "issue": "38",
+                "pages": "12251-8"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen CC",
+                    "initials": "CC"
+                },
+                {
+                    "last_name": "Smith",
+                    "full_name": "Smith TJ",
+                    "initials": "TJ"
+                },
+                {
+                    "last_name": "Kapadia",
+                    "full_name": "Kapadia G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "W\u00e4sch",
+                    "full_name": "W\u00e4sch S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Zawadzke",
+                    "full_name": "Zawadzke LE",
+                    "initials": "LE"
+                },
+                {
+                    "last_name": "Coulson",
+                    "full_name": "Coulson A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Herzberg",
+                    "full_name": "Herzberg O",
+                    "initials": "O"
+                }
+            ],
+            "title": "Structure and kinetics of the beta-lactamase mutants S70A and K73H from Staphylococcus aureus PC1.",
+            "pubmed_id": "8823158",
+            "type": "J",
+            "associated_entries": "1djb, 1djc, 1pio",
+            "doi": "10.1021/bi961153v"
+        },
+        {
+            "journal_info": {
+                "volume": "8",
+                "pdb_abbreviation": "Protein Eng",
+                "ISO_abbreviation": "Protein Eng.",
+                "year": 1995,
+                "issue": "12",
+                "pages": "1275-85"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Zawadzke",
+                    "full_name": "Zawadzke LE",
+                    "initials": "LE"
+                },
+                {
+                    "last_name": "Smith",
+                    "full_name": "Smith TJ",
+                    "initials": "TJ"
+                },
+                {
+                    "last_name": "Herzberg",
+                    "full_name": "Herzberg O",
+                    "initials": "O"
+                }
+            ],
+            "title": "An engineered Staphylococcus aureus PC1 beta-lactamase that hydrolyses third-generation cephalosporins.",
+            "pubmed_id": "8869640",
+            "type": "J",
+            "associated_entries": "1djb, 1djc, 1pio",
+            "doi": "10.1093/protein/8.12.1275"
+        },
+        {
+            "journal_info": {
+                "volume": "217",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": null,
+                "year": 1991,
+                "issue": null,
+                "pages": "701-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Herzberg, O.",
+                    "initials": null
+                }
+            ],
+            "title": "Refined Crystal Structure of Beta-Lactamase from Staphylococcus Aureus Pc1 at 2.0",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": "1djb, 1djc, 1pio",
+            "doi": null
+        },
+        {
+            "journal_info": {
+                "volume": "236",
+                "pdb_abbreviation": "Science",
+                "ISO_abbreviation": null,
+                "year": 1987,
+                "issue": null,
+                "pages": "694-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Herzberg, O.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Moult, J.",
+                    "initials": null
+                }
+            ],
+            "title": "Bacterial Resistance to Beta-Lactam Antibiotics. Crystal Structure of Beta-Lactamase from Staphylococcus Aureus Pc1 at 2.5 A Resolution",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": "1djb, 1djc, 1pio",
+            "doi": null
+        }
+    ]
+}

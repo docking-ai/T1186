@@ -1,0 +1,59 @@
+{
+    "4ebl": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Mire, J.A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Pai, P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Siddiqi, N.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Russell, D.H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Rubin, E.J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Sacchettini, J.C.",
+                    "initials": null
+                }
+            ],
+            "title": "Faropenem is Effective Against Mycobacterium tuberculosis in vitro and in vivo",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "2zq9": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Nitanai, Y.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Shimamura, T.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Uchiyama, T.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ishii, Y.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Takehira, M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Yutani, K.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Matsuzawa, H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Miyano, M.",
+                    "initials": null
+                }
+            ],
+            "title": "Structural Basis of Extend Spectrum Beta-Lactamase in Correlation of Enzymatic Kinetics and Thermal Stability of Acyl-Intermediates",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

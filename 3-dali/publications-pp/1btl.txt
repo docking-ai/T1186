@@ -1,0 +1,184 @@
+{
+    "1btl": [
+        {
+            "journal_info": {
+                "volume": "16",
+                "pdb_abbreviation": "Proteins",
+                "ISO_abbreviation": "Proteins",
+                "year": 1993,
+                "issue": "4",
+                "pages": "364-83"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Jelsch",
+                    "full_name": "Jelsch C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Mourey",
+                    "full_name": "Mourey L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Masson",
+                    "full_name": "Masson JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Samama",
+                    "full_name": "Samama JP",
+                    "initials": "JP"
+                }
+            ],
+            "title": "Crystal structure of Escherichia coli TEM1 beta-lactamase at 1.8 A resolution.",
+            "pubmed_id": "8356032",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1002/prot.340160406"
+        },
+        {
+            "journal_info": {
+                "volume": "16",
+                "pdb_abbreviation": "Proteins",
+                "ISO_abbreviation": null,
+                "year": 1993,
+                "issue": null,
+                "pages": "364-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Jelsch, C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Mourey, L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Masson, J.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Samama, J.P.",
+                    "initials": null
+                }
+            ],
+            "title": "Crystal Structure of Escherichia Coli Tem1 Beta-Lactamase at 1.8 Resolution",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": null,
+            "doi": null
+        },
+        {
+            "journal_info": {
+                "volume": "223",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": null,
+                "year": 1992,
+                "issue": null,
+                "pages": "377-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Jelsch, C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Lenfant, F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Masson, J.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Samama, J.P.",
+                    "initials": null
+                }
+            ],
+            "title": "Crystallization and Preliminary Crystallographic Data on E. Coli Tem1 Beta-Lactamase",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": null,
+            "doi": null
+        },
+        {
+            "journal_info": {
+                "volume": "299",
+                "pdb_abbreviation": "FEBS Lett.",
+                "ISO_abbreviation": null,
+                "year": 1992,
+                "issue": null,
+                "pages": "135-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Jelsch, C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Lenfant, F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Masson, J.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Samama, J.P.",
+                    "initials": null
+                }
+            ],
+            "title": "Beta-Lactamase Tem1 of E. Coli: Crystal Structure Determination at 2.5 Angstroms Resolution",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

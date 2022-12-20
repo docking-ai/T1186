@@ -1,0 +1,114 @@
+{
+    "2q9m": [
+        {
+            "journal_info": {
+                "volume": "50",
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2007,
+                "issue": "17",
+                "pages": "4113-21"
+            },
+            "doi": "10.1021/jm0703237",
+            "associated_entries": "2q9n",
+            "title": "4-Substituted trinems as broad spectrum beta-lactamase inhibitors: structure-based design, synthesis, and biological activity.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Plantan",
+                    "full_name": "Plantan I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "Selic",
+                    "full_name": "Selic L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Mesar",
+                    "full_name": "Mesar T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Anderluh",
+                    "full_name": "Anderluh PS",
+                    "initials": "PS"
+                },
+                {
+                    "last_name": "Oblak",
+                    "full_name": "Oblak M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Prezelj",
+                    "full_name": "Prezelj A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Hesse",
+                    "full_name": "Hesse L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Andrejasic",
+                    "full_name": "Andrejasic M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Vilar",
+                    "full_name": "Vilar M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Turk",
+                    "full_name": "Turk D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Kocijan",
+                    "full_name": "Kocijan A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Prevec",
+                    "full_name": "Prevec T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Vilfan",
+                    "full_name": "Vilfan G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Kocjan",
+                    "full_name": "Kocjan D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Copar",
+                    "full_name": "Copar A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Urleb",
+                    "full_name": "Urleb U",
+                    "initials": "U"
+                },
+                {
+                    "last_name": "Solmajer",
+                    "full_name": "Solmajer T",
+                    "initials": "T"
+                }
+            ],
+            "pubmed_id": "17665896",
+            "type": "J"
+        }
+    ]
+}

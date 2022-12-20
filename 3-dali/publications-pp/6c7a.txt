@@ -1,0 +1,64 @@
+{
+    "6c7a": [
+        {
+            "journal_info": {
+                "volume": "8",
+                "pdb_abbreviation": "ACS Catalysis",
+                "ISO_abbreviation": null,
+                "year": 2018,
+                "issue": null,
+                "pages": "2428-2437"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Langan, P.S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Vandavasi, V.G.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Cooper, S.J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Weiss, K.L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ginell, S.L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Parks, J.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Coates, L.",
+                    "initials": null
+                }
+            ],
+            "title": "Substrate Binding Induces Conformational Changes in a Class A Beta-lactamase That Prime It for Catalysis",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/acscatal.7b04114"
+        }
+    ]
+}

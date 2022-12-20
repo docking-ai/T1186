@@ -1,0 +1,54 @@
+{
+    "6k8x": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2019,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Bae",
+                    "full_name": "Bae DW",
+                    "initials": "DW"
+                },
+                {
+                    "last_name": "Jung",
+                    "full_name": "Jung YE",
+                    "initials": "YE"
+                },
+                {
+                    "last_name": "An",
+                    "full_name": "An YJ",
+                    "initials": "YJ"
+                },
+                {
+                    "last_name": "Na",
+                    "full_name": "Na JH",
+                    "initials": "JH"
+                },
+                {
+                    "last_name": "Cha",
+                    "full_name": "Cha SS",
+                    "initials": "SS"
+                }
+            ],
+            "title": "Structural insights into catalytic relevances of substrates' poses in ACC-1.",
+            "pubmed_id": "31451494",
+            "type": "J",
+            "associated_entries": "6k9t, 6ka5, 6kby",
+            "doi": "10.1128/AAC.01411-19"
+        }
+    ]
+}

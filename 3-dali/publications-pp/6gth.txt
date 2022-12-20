@@ -1,0 +1,659 @@
+{
+    "6gth": [
+        {
+            "journal_info": {
+                "volume": "9",
+                "pdb_abbreviation": "Nat Commun",
+                "ISO_abbreviation": "Nat Commun",
+                "year": 2018,
+                "issue": "1",
+                "pages": "4025"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Wiedorn",
+                    "full_name": "Wiedorn MO",
+                    "initials": "MO"
+                },
+                {
+                    "last_name": "Oberth\u00fcr",
+                    "full_name": "Oberth\u00fcr D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Bean",
+                    "full_name": "Bean R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Schubert",
+                    "full_name": "Schubert R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Werner",
+                    "full_name": "Werner N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Abbey",
+                    "full_name": "Abbey B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Aepfelbacher",
+                    "full_name": "Aepfelbacher M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Adriano",
+                    "full_name": "Adriano L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Allahgholi",
+                    "full_name": "Allahgholi A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Al-Qudami",
+                    "full_name": "Al-Qudami N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Andreasson",
+                    "full_name": "Andreasson J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Aplin",
+                    "full_name": "Aplin S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Awel",
+                    "full_name": "Awel S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Ayyer",
+                    "full_name": "Ayyer K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Bajt",
+                    "full_name": "Bajt S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Bar\u00e1k",
+                    "full_name": "Bar\u00e1k I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "Bari",
+                    "full_name": "Bari S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Bielecki",
+                    "full_name": "Bielecki J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Botha",
+                    "full_name": "Botha S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Boukhelef",
+                    "full_name": "Boukhelef D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Brehm",
+                    "full_name": "Brehm W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Brockhauser",
+                    "full_name": "Brockhauser S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Cheviakov",
+                    "full_name": "Cheviakov I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "Coleman",
+                    "full_name": "Coleman MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Cruz-Mazo",
+                    "full_name": "Cruz-Mazo F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Danilevski",
+                    "full_name": "Danilevski C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Darmanin",
+                    "full_name": "Darmanin C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Doak",
+                    "full_name": "Doak RB",
+                    "initials": "RB"
+                },
+                {
+                    "last_name": "Domaracky",
+                    "full_name": "Domaracky M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "D\u00f6rner",
+                    "full_name": "D\u00f6rner K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Du",
+                    "full_name": "Du Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Fangohr",
+                    "full_name": "Fangohr H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Fleckenstein",
+                    "full_name": "Fleckenstein H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Frank",
+                    "full_name": "Frank M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Fromme",
+                    "full_name": "Fromme P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Ga\u00f1\u00e1n-Calvo",
+                    "full_name": "Ga\u00f1\u00e1n-Calvo AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Gevorkov",
+                    "full_name": "Gevorkov Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Giewekemeyer",
+                    "full_name": "Giewekemeyer K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Ginn",
+                    "full_name": "Ginn HM",
+                    "initials": "HM"
+                },
+                {
+                    "last_name": "Graafsma",
+                    "full_name": "Graafsma H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Graceffa",
+                    "full_name": "Graceffa R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Greiffenberg",
+                    "full_name": "Greiffenberg D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Gumprecht",
+                    "full_name": "Gumprecht L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "G\u00f6ttlicher",
+                    "full_name": "G\u00f6ttlicher P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Hajdu",
+                    "full_name": "Hajdu J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Hauf",
+                    "full_name": "Hauf S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Heymann",
+                    "full_name": "Heymann M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Holmes",
+                    "full_name": "Holmes S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Horke",
+                    "full_name": "Horke DA",
+                    "initials": "DA"
+                },
+                {
+                    "last_name": "Hunter",
+                    "full_name": "Hunter MS",
+                    "initials": "MS"
+                },
+                {
+                    "last_name": "Imlau",
+                    "full_name": "Imlau S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Kaukher",
+                    "full_name": "Kaukher A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Kim",
+                    "full_name": "Kim Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Klyuev",
+                    "full_name": "Klyuev A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Kno\u0161ka",
+                    "full_name": "Kno\u0161ka J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Kobe",
+                    "full_name": "Kobe B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Kuhn",
+                    "full_name": "Kuhn M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Kupitz",
+                    "full_name": "Kupitz C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "K\u00fcpper",
+                    "full_name": "K\u00fcpper J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Lahey-Rudolph",
+                    "full_name": "Lahey-Rudolph JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Laurus",
+                    "full_name": "Laurus T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Le Cong",
+                    "full_name": "Le Cong K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Letrun",
+                    "full_name": "Letrun R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Xavier",
+                    "full_name": "Xavier PL",
+                    "initials": "PL"
+                },
+                {
+                    "last_name": "Maia",
+                    "full_name": "Maia L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Maia",
+                    "full_name": "Maia FRNC",
+                    "initials": "FRNC"
+                },
+                {
+                    "last_name": "Mariani",
+                    "full_name": "Mariani V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Messerschmidt",
+                    "full_name": "Messerschmidt M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Metz",
+                    "full_name": "Metz M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Mezza",
+                    "full_name": "Mezza D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Michelat",
+                    "full_name": "Michelat T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Mills",
+                    "full_name": "Mills G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Monteiro",
+                    "full_name": "Monteiro DCF",
+                    "initials": "DCF"
+                },
+                {
+                    "last_name": "Morgan",
+                    "full_name": "Morgan A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "M\u00fchlig",
+                    "full_name": "M\u00fchlig K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Munke",
+                    "full_name": "Munke A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "M\u00fcnnich",
+                    "full_name": "M\u00fcnnich A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Nette",
+                    "full_name": "Nette J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Nugent",
+                    "full_name": "Nugent KA",
+                    "initials": "KA"
+                },
+                {
+                    "last_name": "Nuguid",
+                    "full_name": "Nuguid T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Orville",
+                    "full_name": "Orville AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Pandey",
+                    "full_name": "Pandey S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Pena",
+                    "full_name": "Pena G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Villanueva-Perez",
+                    "full_name": "Villanueva-Perez P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Poehlsen",
+                    "full_name": "Poehlsen J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Previtali",
+                    "full_name": "Previtali G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Redecke",
+                    "full_name": "Redecke L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Riekehr",
+                    "full_name": "Riekehr WM",
+                    "initials": "WM"
+                },
+                {
+                    "last_name": "Rohde",
+                    "full_name": "Rohde H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Round",
+                    "full_name": "Round A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Safenreiter",
+                    "full_name": "Safenreiter T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Sarrou",
+                    "full_name": "Sarrou I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "Sato",
+                    "full_name": "Sato T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Schmidt",
+                    "full_name": "Schmidt M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Schmitt",
+                    "full_name": "Schmitt B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Sch\u00f6nherr",
+                    "full_name": "Sch\u00f6nherr R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Schulz",
+                    "full_name": "Schulz J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Sellberg",
+                    "full_name": "Sellberg JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Seibert",
+                    "full_name": "Seibert MM",
+                    "initials": "MM"
+                },
+                {
+                    "last_name": "Seuring",
+                    "full_name": "Seuring C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Shelby",
+                    "full_name": "Shelby ML",
+                    "initials": "ML"
+                },
+                {
+                    "last_name": "Shoeman",
+                    "full_name": "Shoeman RL",
+                    "initials": "RL"
+                },
+                {
+                    "last_name": "Sikorski",
+                    "full_name": "Sikorski M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Silenzi",
+                    "full_name": "Silenzi A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Stan",
+                    "full_name": "Stan CA",
+                    "initials": "CA"
+                },
+                {
+                    "last_name": "Shi",
+                    "full_name": "Shi X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Stern",
+                    "full_name": "Stern S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Sztuk-Dambietz",
+                    "full_name": "Sztuk-Dambietz J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Szuba",
+                    "full_name": "Szuba J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Tolstikova",
+                    "full_name": "Tolstikova A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Trebbin",
+                    "full_name": "Trebbin M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Trunk",
+                    "full_name": "Trunk U",
+                    "initials": "U"
+                },
+                {
+                    "last_name": "Vagovic",
+                    "full_name": "Vagovic P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Ve",
+                    "full_name": "Ve T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Weinhausen",
+                    "full_name": "Weinhausen B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "White",
+                    "full_name": "White TA",
+                    "initials": "TA"
+                },
+                {
+                    "last_name": "Wrona",
+                    "full_name": "Wrona K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Xu",
+                    "full_name": "Xu C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Yefanov",
+                    "full_name": "Yefanov O",
+                    "initials": "O"
+                },
+                {
+                    "last_name": "Zatsepin",
+                    "full_name": "Zatsepin N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Zhang",
+                    "full_name": "Zhang J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Perbandt",
+                    "full_name": "Perbandt M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Mancuso",
+                    "full_name": "Mancuso AP",
+                    "initials": "AP"
+                },
+                {
+                    "last_name": "Betzel",
+                    "full_name": "Betzel C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Chapman",
+                    "full_name": "Chapman H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Barty",
+                    "full_name": "Barty A",
+                    "initials": "A"
+                }
+            ],
+            "title": "Megahertz serial crystallography.",
+            "pubmed_id": "30279492",
+            "type": "J",
+            "associated_entries": "6ftr",
+            "doi": "10.1038/s41467-018-06156-7"
+        }
+    ]
+}

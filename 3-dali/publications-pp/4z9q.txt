@@ -1,0 +1,49 @@
+{
+    "4z9q": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Pratap, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Gill, P.K.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Golemi-Kotra, D.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kumar, P.",
+                    "initials": null
+                }
+            ],
+            "title": "Crystal structure of OXA-58 with disordered active site",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

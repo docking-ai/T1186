@@ -1,0 +1,39 @@
+{
+    "5gmx": [
+        {
+            "journal_info": {
+                "volume": "478",
+                "pdb_abbreviation": "Biochem. Biophys. Res. Commun.",
+                "ISO_abbreviation": "Biochem. Biophys. Res. Commun.",
+                "year": 2016,
+                "issue": "2",
+                "pages": "818-24"
+            },
+            "doi": "10.1016/j.bbrc.2016.08.031",
+            "associated_entries": null,
+            "title": "Crystal structure of EstSRT1, a family VIII carboxylesterase displaying hydrolytic activity toward oxyimino cephalosporins.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Cha",
+                    "full_name": "Cha SS",
+                    "initials": "SS"
+                },
+                {
+                    "last_name": "An",
+                    "full_name": "An YJ",
+                    "initials": "YJ"
+                }
+            ],
+            "pubmed_id": "27501751",
+            "type": "J"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "4mll": [
+        {
+            "journal_info": {
+                "volume": "58",
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2014,
+                "issue": "1",
+                "pages": "333-41"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "June",
+                    "full_name": "June CM",
+                    "initials": "CM"
+                },
+                {
+                    "last_name": "Vallier",
+                    "full_name": "Vallier BC",
+                    "initials": "BC"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Leonard",
+                    "full_name": "Leonard DA",
+                    "initials": "DA"
+                },
+                {
+                    "last_name": "Powers",
+                    "full_name": "Powers RA",
+                    "initials": "RA"
+                }
+            ],
+            "title": "Structural Origins of Oxacillinase Specificity in Class D \ufffd\ufffd-Lactamases.",
+            "pubmed_id": "24165180",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1128/aac.01483-13"
+        }
+    ]
+}

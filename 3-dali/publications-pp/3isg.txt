@@ -1,0 +1,54 @@
+{
+    "3isg": [
+        {
+            "journal_info": {
+                "volume": "48",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2009,
+                "issue": "50",
+                "pages": "11840-7"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Schneider",
+                    "full_name": "Schneider KD",
+                    "initials": "KD"
+                },
+                {
+                    "last_name": "Karpen",
+                    "full_name": "Karpen ME",
+                    "initials": "ME"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Leonard",
+                    "full_name": "Leonard DA",
+                    "initials": "DA"
+                },
+                {
+                    "last_name": "Powers",
+                    "full_name": "Powers RA",
+                    "initials": "RA"
+                }
+            ],
+            "title": "The 1.4 A crystal structure of the class D beta-lactamase OXA-1 complexed with doripenem.",
+            "pubmed_id": "19919101",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/bi901690r"
+        }
+    ]
+}

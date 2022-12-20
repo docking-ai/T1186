@@ -1,0 +1,194 @@
+{
+    "1es2": [
+        {
+            "journal_info": {
+                "volume": "42",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2003,
+                "issue": "10",
+                "pages": "2895-906"
+            },
+            "doi": "10.1021/bi027256x",
+            "associated_entries": "1es3, 1es4, 1j9m, 1skf",
+            "title": "Catalytic mechanism of the Streptomyces K15 DD-transpeptidase/penicillin-binding protein probed by site-directed mutagenesis and structural analysis.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Rhazi",
+                    "full_name": "Rhazi N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Dehareng",
+                    "full_name": "Dehareng D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Engher",
+                    "full_name": "Engher D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Vermeire",
+                    "full_name": "Vermeire M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Fr\u00e8re",
+                    "full_name": "Fr\u00e8re JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Nguyen-Dist\u00e8che",
+                    "full_name": "Nguyen-Dist\u00e8che M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Fonz\u00e9",
+                    "full_name": "Fonz\u00e9 E",
+                    "initials": "E"
+                }
+            ],
+            "pubmed_id": "12627955",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "274",
+                "pdb_abbreviation": "J Biol Chem",
+                "ISO_abbreviation": "J. Biol. Chem.",
+                "year": 1999,
+                "issue": "31",
+                "pages": "21853-60"
+            },
+            "doi": "10.1074/jbc.274.31.21853",
+            "associated_entries": "1es3, 1es4, 1j9m, 1skf",
+            "title": "The crystal structure of a penicilloyl-serine transferase of intermediate penicillin sensitivity. The DD-transpeptidase of streptomyces K15.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Fonz\u00e9",
+                    "full_name": "Fonz\u00e9 E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Vermeire",
+                    "full_name": "Vermeire M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Nguyen-Dist\u00e8che",
+                    "full_name": "Nguyen-Dist\u00e8che M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Brasseur",
+                    "full_name": "Brasseur R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                }
+            ],
+            "pubmed_id": "10419503",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "241",
+                "pdb_abbreviation": "J Mol Biol",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 1994,
+                "issue": "2",
+                "pages": "295-7"
+            },
+            "doi": "10.1006/jmbi.1994.1504",
+            "associated_entries": "1es3, 1es4, 1j9m, 1skf",
+            "title": "Crystallization and X-ray diffraction study of the Streptomyces K15 penicillin-binding DD-transpeptidase.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Englebert",
+                    "full_name": "Englebert S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Fonz\u00e9",
+                    "full_name": "Fonz\u00e9 E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "To'th",
+                    "full_name": "To'th Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Vermeire",
+                    "full_name": "Vermeire M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Van Beeumen",
+                    "full_name": "Van Beeumen J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Grandchamps",
+                    "full_name": "Grandchamps J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Hoffmann",
+                    "full_name": "Hoffmann K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Leyh-Bouille",
+                    "full_name": "Leyh-Bouille M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Nguyen-Dist\u00e8che",
+                    "full_name": "Nguyen-Dist\u00e8che M",
+                    "initials": "M"
+                }
+            ],
+            "pubmed_id": "8057373",
+            "type": "J"
+        }
+    ]
+}

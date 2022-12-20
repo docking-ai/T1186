@@ -1,0 +1,59 @@
+{
+    "4r3j": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Filippova, E.V.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Minasov, G.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kiryukhina, O.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Clancy, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Joachimiak, A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Anderson, W.F.",
+                    "initials": null
+                }
+            ],
+            "title": "Structure of a putative peptidoglycan glycosyltransferase from Atopobium parvulum in complex with cefapirin",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "6dz8": [
+        {
+            "journal_info": {
+                "volume": "9",
+                "pdb_abbreviation": "Front Microbiol",
+                "ISO_abbreviation": "Front Microbiol",
+                "year": 2018,
+                "issue": null,
+                "pages": "3223"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Maya-Martinez",
+                    "full_name": "Maya-Martinez R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Alexander",
+                    "full_name": "Alexander JAN",
+                    "initials": "JAN"
+                },
+                {
+                    "last_name": "Otten",
+                    "full_name": "Otten CF",
+                    "initials": "CF"
+                },
+                {
+                    "last_name": "Ayala",
+                    "full_name": "Ayala I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "Vollmer",
+                    "full_name": "Vollmer D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Gray",
+                    "full_name": "Gray J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Bougault",
+                    "full_name": "Bougault CM",
+                    "initials": "CM"
+                },
+                {
+                    "last_name": "Burt",
+                    "full_name": "Burt A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Laguri",
+                    "full_name": "Laguri C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Fonvielle",
+                    "full_name": "Fonvielle M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Arthur",
+                    "full_name": "Arthur M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Strynadka",
+                    "full_name": "Strynadka NCJ",
+                    "initials": "NCJ"
+                },
+                {
+                    "last_name": "Vollmer",
+                    "full_name": "Vollmer W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Simorre",
+                    "full_name": "Simorre JP",
+                    "initials": "JP"
+                }
+            ],
+            "title": "Recognition of Peptidoglycan Fragments by the Transpeptidase PBP4 From <i>Staphylococcus aureus</i>.",
+            "pubmed_id": "30713527",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.3389/fmicb.2018.03223"
+        }
+    ]
+}

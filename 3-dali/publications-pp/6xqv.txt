@@ -1,0 +1,59 @@
+{
+    "6xqv": [
+        {
+            "journal_info": {
+                "volume": "297",
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J Biol Chem",
+                "year": 2021,
+                "issue": "4",
+                "pages": "101188"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Fenton",
+                    "full_name": "Fenton BA",
+                    "initials": "BA"
+                },
+                {
+                    "last_name": "Tomberg",
+                    "full_name": "Tomberg J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Sciandra",
+                    "full_name": "Sciandra CA",
+                    "initials": "CA"
+                },
+                {
+                    "last_name": "Nicholas",
+                    "full_name": "Nicholas RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Davies",
+                    "full_name": "Davies C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Zhou",
+                    "full_name": "Zhou P",
+                    "initials": "P"
+                }
+            ],
+            "title": "Mutations in PBP2 from ceftriaxone-resistant Neisseria gonorrhoeae alter the dynamics of the \ufffd\ufffd3-\ufffd\ufffd4 loop to favor a low-affinity drug-binding state.",
+            "pubmed_id": "34529975",
+            "type": "J",
+            "associated_entries": "6xqx, 6xqy, 6xqz",
+            "doi": "10.1016/j.jbc.2021.101188"
+        }
+    ]
+}

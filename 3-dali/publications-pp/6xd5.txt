@@ -1,0 +1,59 @@
+{
+    "6xd5": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J Biol Chem",
+                "year": 2020,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Mehta",
+                    "full_name": "Mehta SC",
+                    "initials": "SC"
+                },
+                {
+                    "last_name": "Furey",
+                    "full_name": "Furey IM",
+                    "initials": "IM"
+                },
+                {
+                    "last_name": "Pemberton",
+                    "full_name": "Pemberton OA",
+                    "initials": "OA"
+                },
+                {
+                    "last_name": "Boragine",
+                    "full_name": "Boragine DM",
+                    "initials": "DM"
+                },
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Palzkill",
+                    "full_name": "Palzkill T",
+                    "initials": "T"
+                }
+            ],
+            "title": "KPC-2 \ufffd\ufffd-lactamase Enables Carbapenem Antibiotic Resistance Through Fast Deacylation of the Covalent Intermediate.",
+            "pubmed_id": "33273017",
+            "type": "J",
+            "associated_entries": "6xd7, 6xj8",
+            "doi": "10.1074/jbc.RA120.015050"
+        }
+    ]
+}

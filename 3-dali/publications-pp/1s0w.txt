@@ -1,0 +1,59 @@
+{
+    "1s0w": [
+        {
+            "journal_info": {
+                "volume": "102",
+                "pdb_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "ISO_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "year": 2005,
+                "issue": "1",
+                "pages": "57-62"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Reichmann",
+                    "full_name": "Reichmann D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Rahat",
+                    "full_name": "Rahat O",
+                    "initials": "O"
+                },
+                {
+                    "last_name": "Albeck",
+                    "full_name": "Albeck S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Meged",
+                    "full_name": "Meged R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Dym",
+                    "full_name": "Dym O",
+                    "initials": "O"
+                },
+                {
+                    "last_name": "Schreiber",
+                    "full_name": "Schreiber G",
+                    "initials": "G"
+                }
+            ],
+            "title": "The modular architecture of protein-protein binding interfaces.",
+            "pubmed_id": "15618400",
+            "type": "J",
+            "associated_entries": "1xxm",
+            "doi": "10.1073/pnas.0407280102"
+        }
+    ]
+}

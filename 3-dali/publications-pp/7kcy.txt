@@ -1,0 +1,64 @@
+{
+    "7kcy": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Antimicrob. Chemother.",
+                "ISO_abbreviation": "J Antimicrob Chemother",
+                "year": 2021,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Satishkumar",
+                    "full_name": "Satishkumar N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Alexander",
+                    "full_name": "Alexander JAN",
+                    "initials": "JAN"
+                },
+                {
+                    "last_name": "Poon",
+                    "full_name": "Poon R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Buggeln",
+                    "full_name": "Buggeln E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Argud\u00edn",
+                    "full_name": "Argud\u00edn MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Strynadka",
+                    "full_name": "Strynadka NCJ",
+                    "initials": "NCJ"
+                },
+                {
+                    "last_name": "Chatterjee",
+                    "full_name": "Chatterjee SS",
+                    "initials": "SS"
+                }
+            ],
+            "title": "PBP4-mediated \ufffd\ufffd-lactam resistance among clinical strains of Staphylococcus aureus.",
+            "pubmed_id": "34151961",
+            "type": "J",
+            "associated_entries": "7kcv, 7kcw, 7kcx",
+            "doi": "10.1093/jac/dkab201"
+        }
+    ]
+}

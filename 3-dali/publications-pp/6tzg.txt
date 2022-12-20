@@ -1,0 +1,89 @@
+{
+    "6tzg": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "ACS Infect Dis",
+                "ISO_abbreviation": "ACS Infect Dis",
+                "year": 2020,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Caselli",
+                    "full_name": "Caselli E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Fini",
+                    "full_name": "Fini F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Introvigne",
+                    "full_name": "Introvigne ML",
+                    "initials": "ML"
+                },
+                {
+                    "last_name": "Stucchi",
+                    "full_name": "Stucchi M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Taracila",
+                    "full_name": "Taracila MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Fish",
+                    "full_name": "Fish ER",
+                    "initials": "ER"
+                },
+                {
+                    "last_name": "Smolen",
+                    "full_name": "Smolen KA",
+                    "initials": "KA"
+                },
+                {
+                    "last_name": "Rather",
+                    "full_name": "Rather PN",
+                    "initials": "PN"
+                },
+                {
+                    "last_name": "Powers",
+                    "full_name": "Powers RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Wallar",
+                    "full_name": "Wallar BJ",
+                    "initials": "BJ"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                }
+            ],
+            "title": "1,2,3-Triazolylmethaneboronate: a Structure Activity Relationship Study of a New Class of \ufffd\ufffd-Lactamase Inhibitors against Acinetobacter baumannii Cephalosporinase (ADC-7).",
+            "pubmed_id": "32502340",
+            "type": "J",
+            "associated_entries": "6tzf, 6tzh, 6tzi, 6tzj",
+            "doi": "10.1021/acsinfecdis.0c00254"
+        }
+    ]
+}

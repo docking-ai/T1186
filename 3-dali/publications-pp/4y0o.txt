@@ -1,0 +1,54 @@
+{
+    "4y0o": [
+        {
+            "journal_info": {
+                "volume": "60",
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2015,
+                "issue": "1",
+                "pages": "75-86"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Pratap",
+                    "full_name": "Pratap S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Katiki",
+                    "full_name": "Katiki M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Gill",
+                    "full_name": "Gill P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Kumar",
+                    "full_name": "Kumar P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Golemi-Kotra",
+                    "full_name": "Golemi-Kotra D",
+                    "initials": "D"
+                }
+            ],
+            "title": "Active-Site Plasticity Is Essential to Carbapenem Hydrolysis by OXA-58 Class D \ufffd\ufffd-Lactamase of Acinetobacter baumannii.",
+            "pubmed_id": "26459904",
+            "type": "J",
+            "associated_entries": "4y0t, 4y0u",
+            "doi": "10.1128/AAC.01393-15"
+        }
+    ]
+}

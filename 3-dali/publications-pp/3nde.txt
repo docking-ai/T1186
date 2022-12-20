@@ -1,0 +1,39 @@
+{
+    "3nde": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Tremblay, L.W.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Blanchard, J.S.",
+                    "initials": null
+                }
+            ],
+            "title": "BlaC-E166A covalently bound with cephalosporins and penicillins",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

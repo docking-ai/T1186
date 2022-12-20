@@ -1,0 +1,64 @@
+{
+    "3ita": [
+        {
+            "journal_info": {
+                "volume": "131",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2009,
+                "issue": "40",
+                "pages": "14345-54"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Zhang",
+                    "full_name": "Zhang W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Shi",
+                    "full_name": "Shi Q",
+                    "initials": "Q"
+                },
+                {
+                    "last_name": "Hesek",
+                    "full_name": "Hesek D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Lee",
+                    "full_name": "Lee M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Mobashery",
+                    "full_name": "Mobashery S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "title": "Crystal structures of penicillin-binding protein 6 from Escherichia coli.",
+            "pubmed_id": "19807181",
+            "type": "J",
+            "associated_entries": "3it9, 3itb",
+            "doi": "10.1021/ja903773f"
+        }
+    ]
+}

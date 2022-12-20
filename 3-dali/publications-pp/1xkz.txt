@@ -1,0 +1,69 @@
+{
+    "1xkz": [
+        {
+            "journal_info": {
+                "volume": "126",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2004,
+                "issue": "43",
+                "pages": "13945-7"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Birck",
+                    "full_name": "Birck C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Cha",
+                    "full_name": "Cha JY",
+                    "initials": "JY"
+                },
+                {
+                    "last_name": "Cross",
+                    "full_name": "Cross J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Schulze-Briese",
+                    "full_name": "Schulze-Briese C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Meroueh",
+                    "full_name": "Meroueh SO",
+                    "initials": "SO"
+                },
+                {
+                    "last_name": "Schlegel",
+                    "full_name": "Schlegel HB",
+                    "initials": "HB"
+                },
+                {
+                    "last_name": "Mobashery",
+                    "full_name": "Mobashery S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Samama",
+                    "full_name": "Samama JP",
+                    "initials": "JP"
+                }
+            ],
+            "title": "X-ray crystal structure of the acylated beta-lactam sensor domain of BlaR1 from Staphylococcus aureus and the mechanism of receptor activation for signal transduction.",
+            "pubmed_id": "15506754",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/ja044742u"
+        }
+    ]
+}

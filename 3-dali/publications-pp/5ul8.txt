@@ -1,0 +1,44 @@
+{
+    "5ul8": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2017,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Pemberton",
+                    "full_name": "Pemberton OA",
+                    "initials": "OA"
+                },
+                {
+                    "last_name": "Zhang",
+                    "full_name": "Zhang X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Y",
+                    "initials": "Y"
+                }
+            ],
+            "title": "Molecular Basis of Substrate Recognition and Product Release by the Klebsiella pneumoniae Carbapenemase (KPC-2).",
+            "pubmed_id": "28388065",
+            "type": "J",
+            "associated_entries": "5uj3, 5uj4",
+            "doi": "10.1021/acs.jmedchem.7b00158"
+        }
+    ]
+}

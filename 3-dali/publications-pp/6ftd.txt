@@ -1,0 +1,74 @@
+{
+    "6ftd": [
+        {
+            "journal_info": {
+                "volume": "20",
+                "pdb_abbreviation": "Phys Chem Chem Phys",
+                "ISO_abbreviation": "Phys Chem Chem Phys",
+                "year": 2018,
+                "issue": "27",
+                "pages": "18216-18225"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Lenngren",
+                    "full_name": "Lenngren N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Edlund",
+                    "full_name": "Edlund P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Takala",
+                    "full_name": "Takala H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Stucki-Buchli",
+                    "full_name": "Stucki-Buchli B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Rumfeldt",
+                    "full_name": "Rumfeldt J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Peshev",
+                    "full_name": "Peshev I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "H\ufffd\ufffdkk\ufffd\ufffdnen",
+                    "full_name": "H\ufffd\ufffdkk\ufffd\ufffdnen H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Westenhoff",
+                    "full_name": "Westenhoff S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Ihalainen",
+                    "full_name": "Ihalainen JA",
+                    "initials": "JA"
+                }
+            ],
+            "title": "Coordination of the biliverdin D-ring in bacteriophytochromes.",
+            "pubmed_id": "29938729",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1039/c8cp01696h"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "2p9v": [
+        {
+            "journal_info": {
+                "volume": "129",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2007,
+                "issue": "31",
+                "pages": "9548-9"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Wyrembak",
+                    "full_name": "Wyrembak PN",
+                    "initials": "PN"
+                },
+                {
+                    "last_name": "Babaoglu",
+                    "full_name": "Babaoglu K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Pelto",
+                    "full_name": "Pelto RB",
+                    "initials": "RB"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                }
+            ],
+            "title": "O-aryloxycarbonyl hydroxamates: new beta-lactamase inhibitors that cross-link the active site.",
+            "pubmed_id": "17628063",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/ja072370u"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "6o9s": [
+        {
+            "journal_info": {
+                "volume": "295",
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J. Biol. Chem.",
+                "year": 2020,
+                "issue": "32",
+                "pages": "10870-10884"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Alexander",
+                    "full_name": "Alexander JAN",
+                    "initials": "JAN"
+                },
+                {
+                    "last_name": "Radaeva",
+                    "full_name": "Radaeva M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "King",
+                    "full_name": "King DT",
+                    "initials": "DT"
+                },
+                {
+                    "last_name": "Chambers",
+                    "full_name": "Chambers HF",
+                    "initials": "HF"
+                },
+                {
+                    "last_name": "Cherkasov",
+                    "full_name": "Cherkasov A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Chatterjee",
+                    "full_name": "Chatterjee SS",
+                    "initials": "SS"
+                },
+                {
+                    "last_name": "Strynadka",
+                    "full_name": "Strynadka NCJ",
+                    "initials": "NCJ"
+                }
+            ],
+            "title": "Structural analysis of avibactam-mediated activation of the bla and mec divergons in methicillin-resistant <i>Staphylococcus aureus</i>.",
+            "pubmed_id": "32518158",
+            "type": "J",
+            "associated_entries": "6o9w",
+            "doi": "10.1074/jbc.ra120.013029"
+        }
+    ]
+}

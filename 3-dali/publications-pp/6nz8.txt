@@ -1,0 +1,79 @@
+{
+    "6nz8": [
+        {
+            "journal_info": {
+                "volume": "58",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2019,
+                "issue": "34",
+                "pages": "3604-3616"
+            },
+            "doi": "10.1021/acs.biochem.9b00365",
+            "associated_entries": null,
+            "title": "Importance of the \ufffd\ufffd5-\ufffd\ufffd6 Loop for the Structure, Catalytic Efficiency, and Stability of Carbapenem-Hydrolyzing Class D \ufffd\ufffd-Lactamase Subfamily OXA-143.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Antunes",
+                    "full_name": "Antunes VU",
+                    "initials": "VU"
+                },
+                {
+                    "last_name": "Llontop",
+                    "full_name": "Llontop EE",
+                    "initials": "EE"
+                },
+                {
+                    "last_name": "Vasconcelos",
+                    "full_name": "Vasconcelos FNDC",
+                    "initials": "FNDC"
+                },
+                {
+                    "last_name": "L\ufffd\ufffdpez de Los Santos",
+                    "full_name": "L\ufffd\ufffdpez de Los Santos Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Oliveira",
+                    "full_name": "Oliveira RJ",
+                    "initials": "RJ"
+                },
+                {
+                    "last_name": "Lincopan",
+                    "full_name": "Lincopan N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Farah",
+                    "full_name": "Farah CS",
+                    "initials": "CS"
+                },
+                {
+                    "last_name": "Doucet",
+                    "full_name": "Doucet N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Mittermaier",
+                    "full_name": "Mittermaier A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Favaro",
+                    "full_name": "Favaro DC",
+                    "initials": "DC"
+                }
+            ],
+            "pubmed_id": "31355630",
+            "type": "J"
+        }
+    ]
+}

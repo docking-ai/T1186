@@ -1,0 +1,199 @@
+{
+    "3hbr": [
+        {
+            "journal_info": {
+                "volume": "16",
+                "pdb_abbreviation": "Chem. Biol.",
+                "ISO_abbreviation": "Chem. Biol.",
+                "year": 2009,
+                "issue": "5",
+                "pages": "540-7"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Docquier",
+                    "full_name": "Docquier JD",
+                    "initials": "JD"
+                },
+                {
+                    "last_name": "Calderone",
+                    "full_name": "Calderone V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "De Luca",
+                    "full_name": "De Luca F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Benvenuti",
+                    "full_name": "Benvenuti M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Giuliani",
+                    "full_name": "Giuliani F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Bellucci",
+                    "full_name": "Bellucci L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Tafi",
+                    "full_name": "Tafi A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Nordmann",
+                    "full_name": "Nordmann P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Botta",
+                    "full_name": "Botta M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Rossolini",
+                    "full_name": "Rossolini GM",
+                    "initials": "GM"
+                },
+                {
+                    "last_name": "Mangani",
+                    "full_name": "Mangani S",
+                    "initials": "S"
+                }
+            ],
+            "title": "Crystal structure of the OXA-48 beta-lactamase reveals mechanistic diversity among class D carbapenemases.",
+            "pubmed_id": "19477418",
+            "type": "J",
+            "associated_entries": "1k54, 1k55, 1k56, 1k57",
+            "doi": "10.1016/j.chembiol.2009.04.010"
+        },
+        {
+            "journal_info": {
+                "volume": "122",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": null,
+                "year": 2000,
+                "issue": null,
+                "pages": "6132-6133"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Golemi, D.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Maveyraud, L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Vakulenko, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Tranier, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ishiwata, A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kotra, L.P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Samama, J.P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Mobashery, S.",
+                    "initials": null
+                }
+            ],
+            "title": "The first structural and mechanistic insights for class D beta-lactamases: evidence for a novel catalytic process for turnover of beta-lactam antibiotics",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": "1k54, 1k55, 1k56, 1k57",
+            "doi": "10.1021/ja0013881"
+        },
+        {
+            "journal_info": {
+                "volume": "98",
+                "pdb_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "ISO_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "year": 2001,
+                "issue": "25",
+                "pages": "14280-5"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Golemi",
+                    "full_name": "Golemi D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Maveyraud",
+                    "full_name": "Maveyraud L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Vakulenko",
+                    "full_name": "Vakulenko S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Samama",
+                    "full_name": "Samama JP",
+                    "initials": "JP"
+                },
+                {
+                    "last_name": "Mobashery",
+                    "full_name": "Mobashery S",
+                    "initials": "S"
+                }
+            ],
+            "title": "Critical involvement of a carbamylated lysine in catalytic function of class D beta-lactamases.",
+            "pubmed_id": "11724923",
+            "type": "J",
+            "associated_entries": "1k54, 1k55, 1k56, 1k57",
+            "doi": "10.1073/pnas.241442898"
+        }
+    ]
+}

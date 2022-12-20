@@ -1,0 +1,59 @@
+{
+    "1e25": [
+        {
+            "journal_info": {
+                "volume": "275",
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J. Biol. Chem.",
+                "year": 2000,
+                "issue": "36",
+                "pages": "28075-82"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Tranier",
+                    "full_name": "Tranier S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Bouthors",
+                    "full_name": "Bouthors AT",
+                    "initials": "AT"
+                },
+                {
+                    "last_name": "Maveyraud",
+                    "full_name": "Maveyraud L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Guillet",
+                    "full_name": "Guillet V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Sougakoff",
+                    "full_name": "Sougakoff W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Samama",
+                    "full_name": "Samama JP",
+                    "initials": "JP"
+                }
+            ],
+            "title": "The high resolution crystal structure for class A beta-lactamase PER-1 reveals the bases for its increase in breadth of activity.",
+            "pubmed_id": "10825176",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1074/jbc.M003802200"
+        }
+    ]
+}

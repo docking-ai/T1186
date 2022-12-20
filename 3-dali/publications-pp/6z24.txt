@@ -1,0 +1,59 @@
+{
+    "6z24": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J Biol Chem",
+                "year": 2020,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Tooke",
+                    "full_name": "Tooke CL",
+                    "initials": "CL"
+                },
+                {
+                    "last_name": "Hinchliffe",
+                    "full_name": "Hinchliffe P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Schofield",
+                    "full_name": "Schofield CJ",
+                    "initials": "CJ"
+                },
+                {
+                    "last_name": "Mulholland",
+                    "full_name": "Mulholland AJ",
+                    "initials": "AJ"
+                },
+                {
+                    "last_name": "Spencer",
+                    "full_name": "Spencer J",
+                    "initials": "J"
+                }
+            ],
+            "title": "Natural variants modify Klebsiella pneumoniae carbapenemase (KPC) acyl-enzyme conformational dynamics to extend antibiotic resistance.",
+            "pubmed_id": "33257320",
+            "type": "J",
+            "associated_entries": "6z21, 6z22, 6z23, 6z25",
+            "doi": "10.1074/jbc.RA120.016461"
+        }
+    ]
+}

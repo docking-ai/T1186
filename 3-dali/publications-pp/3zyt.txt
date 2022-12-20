@@ -1,0 +1,49 @@
+{
+    "3zyt": [
+        {
+            "journal_info": {
+                "volume": "588",
+                "pdb_abbreviation": "FEBS Lett.",
+                "ISO_abbreviation": "FEBS Lett.",
+                "year": 2014,
+                "issue": "7",
+                "pages": "1154-60"
+            },
+            "doi": "10.1016/j.febslet.2014.02.045",
+            "associated_entries": null,
+            "title": "Crystal structure analysis of EstA from Arthrobacter sp. Rue61a--an insight into catalytic promiscuity.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Wagner",
+                    "full_name": "Wagner UG",
+                    "initials": "UG"
+                },
+                {
+                    "last_name": "DiMaio",
+                    "full_name": "DiMaio F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Kolkenbrock",
+                    "full_name": "Kolkenbrock S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Fetzner",
+                    "full_name": "Fetzner S",
+                    "initials": "S"
+                }
+            ],
+            "pubmed_id": "24613918",
+            "type": "J"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "1z6f": [
+        {
+            "journal_info": {
+                "volume": "44",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2005,
+                "issue": "23",
+                "pages": "8207-17"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Nicola",
+                    "full_name": "Nicola G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Peddi",
+                    "full_name": "Peddi S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Stefanova",
+                    "full_name": "Stefanova M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Nicholas",
+                    "full_name": "Nicholas RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Gutheil",
+                    "full_name": "Gutheil WG",
+                    "initials": "WG"
+                },
+                {
+                    "last_name": "Davies",
+                    "full_name": "Davies C",
+                    "initials": "C"
+                }
+            ],
+            "title": "Crystal structure of Escherichia coli penicillin-binding protein 5 bound to a tripeptide boronic acid inhibitor: a role for Ser-110 in deacylation.",
+            "pubmed_id": "15938610",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/bi0473004"
+        }
+    ]
+}

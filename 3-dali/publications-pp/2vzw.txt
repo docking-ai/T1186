@@ -1,0 +1,44 @@
+{
+    "2vzw": [
+        {
+            "journal_info": {
+                "volume": "47",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2008,
+                "issue": "47",
+                "pages": "12523-31"
+            },
+            "doi": "10.1021/bi8012356",
+            "associated_entries": null,
+            "title": "2.3 A X-ray structure of the heme-bound GAF domain of sensory histidine kinase DosT of Mycobacterium tuberculosis.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Podust",
+                    "full_name": "Podust LM",
+                    "initials": "LM"
+                },
+                {
+                    "last_name": "Ioanoviciu",
+                    "full_name": "Ioanoviciu A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Ortiz de Montellano",
+                    "full_name": "Ortiz de Montellano PR",
+                    "initials": "PR"
+                }
+            ],
+            "pubmed_id": "18980385",
+            "type": "J"
+        }
+    ]
+}

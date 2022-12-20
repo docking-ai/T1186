@@ -1,0 +1,54 @@
+{
+    "6n14": [
+        {
+            "journal_info": {
+                "volume": "20",
+                "pdb_abbreviation": "Int J Mol Sci",
+                "ISO_abbreviation": "Int J Mol Sci",
+                "year": 2019,
+                "issue": "13",
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Moural",
+                    "full_name": "Moural TW",
+                    "initials": "TW"
+                },
+                {
+                    "last_name": "White",
+                    "full_name": "White DS",
+                    "initials": "DS"
+                },
+                {
+                    "last_name": "Choy",
+                    "full_name": "Choy CJ",
+                    "initials": "CJ"
+                },
+                {
+                    "last_name": "Kang",
+                    "full_name": "Kang C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Berkman",
+                    "full_name": "Berkman CE",
+                    "initials": "CE"
+                }
+            ],
+            "title": "Crystal Structure of Phosphoserine BlaC from <i>Mycobacterium tuberculosis</i> Inactivated by Bis(Benzoyl) Phosphate.",
+            "pubmed_id": "31269656",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.3390/ijms20133247"
+        }
+    ]
+}

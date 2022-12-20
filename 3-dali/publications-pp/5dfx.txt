@@ -1,0 +1,59 @@
+{
+    "5dfx": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "ISO_abbreviation": null,
+                "year": 2020,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Xu, X.-L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Hoeppner, A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Wiebeler, C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Zhao, K.-H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Schapiro, I.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Gaertner, W.",
+                    "initials": null
+                }
+            ],
+            "title": "Structural elements regulating the photochromicity in a cyanobacteriochrome",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1073/pnas.1910208117"
+        }
+    ]
+}

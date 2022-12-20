@@ -1,0 +1,59 @@
+{
+    "5twd": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2017,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Patel",
+                    "full_name": "Patel MP",
+                    "initials": "MP"
+                },
+                {
+                    "last_name": "Hu",
+                    "full_name": "Hu L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Stojanoski",
+                    "full_name": "Stojanoski V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Sankaran",
+                    "full_name": "Sankaran B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Prasad",
+                    "full_name": "Prasad BVV",
+                    "initials": "BVV"
+                },
+                {
+                    "last_name": "Palzkill",
+                    "full_name": "Palzkill T",
+                    "initials": "T"
+                }
+            ],
+            "title": "The Drug-Resistant Variant P167S Expands the Substrate Profile of CTX-M \ufffd\ufffd-lactamases for Oxyimino-Cephalosporin Antibiotics by Enlarging the Active Site upon Acylation.",
+            "pubmed_id": "28613873",
+            "type": "J",
+            "associated_entries": "5tw6, 5twe, 5u53, 5vth",
+            "doi": "10.1021/acs.biochem.7b00176"
+        }
+    ]
+}

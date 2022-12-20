@@ -1,0 +1,94 @@
+{
+    "7o4b": [
+        {
+            "journal_info": {
+                "volume": "19",
+                "pdb_abbreviation": "Comput Struct Biotechnol J",
+                "ISO_abbreviation": "Comput Struct Biotechnol J",
+                "year": 2021,
+                "issue": null,
+                "pages": "5392-5405"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Mart\u00ednez-Caballero",
+                    "full_name": "Mart\u00ednez-Caballero S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Mahasenan",
+                    "full_name": "Mahasenan KV",
+                    "initials": "KV"
+                },
+                {
+                    "last_name": "Kim",
+                    "full_name": "Kim C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Molina",
+                    "full_name": "Molina R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Feltzer",
+                    "full_name": "Feltzer R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Lee",
+                    "full_name": "Lee M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Bouley",
+                    "full_name": "Bouley R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Hesek",
+                    "full_name": "Hesek D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Fisher",
+                    "full_name": "Fisher JF",
+                    "initials": "JF"
+                },
+                {
+                    "last_name": "Mu\u00f1oz",
+                    "full_name": "Mu\u00f1oz IG",
+                    "initials": "IG"
+                },
+                {
+                    "last_name": "Chang",
+                    "full_name": "Chang M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Mobashery",
+                    "full_name": "Mobashery S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Hermoso",
+                    "full_name": "Hermoso JA",
+                    "initials": "JA"
+                }
+            ],
+            "title": "Integrative structural biology of the penicillin-binding protein-1 from <i>Staphylococcus aureus</i>, an essential component of the divisome machinery.",
+            "pubmed_id": "34667534",
+            "type": "J",
+            "associated_entries": "7o49, 7o4a, 7o4c, 7ok9",
+            "doi": "10.1016/j.csbj.2021.09.018"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "4blm": [
+        {
+            "journal_info": {
+                "volume": "220",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 1991,
+                "issue": "2",
+                "pages": "435-55"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Knox",
+                    "full_name": "Knox JR",
+                    "initials": "JR"
+                },
+                {
+                    "last_name": "Moews",
+                    "full_name": "Moews PC",
+                    "initials": "PC"
+                }
+            ],
+            "title": "Beta-lactamase of Bacillus licheniformis 749/C. Refinement at 2 A resolution and analysis of hydration.",
+            "pubmed_id": "1856867",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1016/0022-2836(91)90023-y"
+        },
+        {
+            "journal_info": {
+                "volume": "7",
+                "pdb_abbreviation": "Proteins",
+                "ISO_abbreviation": null,
+                "year": 1990,
+                "issue": null,
+                "pages": "156-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Moews, P.C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Knox, J.R.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Dideberg, O.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Charlier, P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Frere, J.-M.",
+                    "initials": null
+                }
+            ],
+            "title": "Beta-Lactamase of Bacillus Licheniformis 749(Slash)C at 2 Angstroms Resolution",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

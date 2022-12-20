@@ -1,0 +1,69 @@
+{
+    "3t1s": [
+        {
+            "journal_info": {
+                "volume": "30",
+                "pdb_abbreviation": "EMBO J.",
+                "ISO_abbreviation": "EMBO J.",
+                "year": 2011,
+                "issue": "20",
+                "pages": "4185-97"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Miertzschke",
+                    "full_name": "Miertzschke M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Koerner",
+                    "full_name": "Koerner C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Vetter",
+                    "full_name": "Vetter IR",
+                    "initials": "IR"
+                },
+                {
+                    "last_name": "Keilberg",
+                    "full_name": "Keilberg D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Hot",
+                    "full_name": "Hot E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Leonardy",
+                    "full_name": "Leonardy S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "S\u00f8gaard-Andersen",
+                    "full_name": "S\u00f8gaard-Andersen L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Wittinghofer",
+                    "full_name": "Wittinghofer A",
+                    "initials": "A"
+                }
+            ],
+            "title": "Structural analysis of the Ras-like G protein MglA and its cognate GAP MglB and implications for bacterial polarity.",
+            "pubmed_id": "21847100",
+            "type": "J",
+            "associated_entries": "3t12, 3t1o, 3t1q, 3t1r, 3t1t, 3t1v, 3t1x",
+            "doi": "10.1038/emboj.2011.291"
+        }
+    ]
+}

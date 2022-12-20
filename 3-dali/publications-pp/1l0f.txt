@@ -1,0 +1,39 @@
+{
+    "1l0f": [
+        {
+            "journal_info": {
+                "volume": "321",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2002,
+                "issue": "2",
+                "pages": "285-96"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Beadle",
+                    "full_name": "Beadle BM",
+                    "initials": "BM"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "title": "Structural bases of stability-function tradeoffs in enzymes.",
+            "pubmed_id": "12144785",
+            "type": "J",
+            "associated_entries": "1l0d, 1l0e, 1l0g",
+            "doi": "10.1016/s0022-2836(02)00599-5"
+        }
+    ]
+}

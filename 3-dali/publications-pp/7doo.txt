@@ -1,0 +1,194 @@
+{
+    "7doo": [
+        {
+            "journal_info": {
+                "volume": "3",
+                "pdb_abbreviation": "ACS Infect Dis",
+                "ISO_abbreviation": "ACS Infect Dis",
+                "year": 2017,
+                "issue": "7",
+                "pages": "502-511"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Papp-Wallace",
+                    "full_name": "Papp-Wallace KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Becka",
+                    "full_name": "Becka SA",
+                    "initials": "SA"
+                },
+                {
+                    "last_name": "Zeiser",
+                    "full_name": "Zeiser ET",
+                    "initials": "ET"
+                },
+                {
+                    "last_name": "Ohuchi",
+                    "full_name": "Ohuchi N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Mojica",
+                    "full_name": "Mojica MF",
+                    "initials": "MF"
+                },
+                {
+                    "last_name": "Gatta",
+                    "full_name": "Gatta JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Falleni",
+                    "full_name": "Falleni M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Tosi",
+                    "full_name": "Tosi D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Borghi",
+                    "full_name": "Borghi E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Winkler",
+                    "full_name": "Winkler ML",
+                    "initials": "ML"
+                },
+                {
+                    "last_name": "Wilson",
+                    "full_name": "Wilson BM",
+                    "initials": "BM"
+                },
+                {
+                    "last_name": "LiPuma",
+                    "full_name": "LiPuma JJ",
+                    "initials": "JJ"
+                },
+                {
+                    "last_name": "Nukaga",
+                    "full_name": "Nukaga M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                }
+            ],
+            "title": "Overcoming an Extremely Drug Resistant (XDR) Pathogen: Avibactam Restores Susceptibility to Ceftazidime for Burkholderia cepacia Complex Isolates from Cystic Fibrosis Patients.",
+            "pubmed_id": "28264560",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/acsinfecdis.7b00020"
+        },
+        {
+            "journal_info": {
+                "volume": "3",
+                "pdb_abbreviation": "ACS Infect Dis",
+                "ISO_abbreviation": null,
+                "year": 2017,
+                "issue": null,
+                "pages": "502-511"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Papp-Wallace, K.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Becka, S.A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Zeiser, E.T.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ohuchi, N.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Mojica, M.F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Gatta, J.A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Falleni, M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Tosi, D.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Borghi, E.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Winkler, M.L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Wilson, B.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "LiPuma, J.J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Nukaga, M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Bonomo, R.A.",
+                    "initials": null
+                }
+            ],
+            "title": "Overcoming an Extremely Drug Resistant (XDR) Pathogen: Avibactam Restores Susceptibility to Ceftazidime for Burkholderia cepacia Complex Isolates from Cystic Fibrosis Patients.",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/acsinfecdis.7b00020."
+        }
+    ]
+}

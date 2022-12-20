@@ -1,0 +1,39 @@
+{
+    "1mws": [
+        {
+            "journal_info": {
+                "volume": "9",
+                "pdb_abbreviation": "Nat. Struct. Biol.",
+                "ISO_abbreviation": "Nat. Struct. Biol.",
+                "year": 2002,
+                "issue": "11",
+                "pages": "870-6"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Lim",
+                    "full_name": "Lim D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Strynadka",
+                    "full_name": "Strynadka NC",
+                    "initials": "NC"
+                }
+            ],
+            "title": "Structural basis for the beta lactam resistance of PBP2a from methicillin-resistant Staphylococcus aureus.",
+            "pubmed_id": "12389036",
+            "type": "J",
+            "associated_entries": "1mwr, 1mwt, 1mwu, 1vqq",
+            "doi": "10.1038/nsb858"
+        }
+    ]
+}

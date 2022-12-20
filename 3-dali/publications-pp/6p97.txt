@@ -1,0 +1,49 @@
+{
+    "6p97": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2019,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Smith",
+                    "full_name": "Smith CA",
+                    "initials": "CA"
+                },
+                {
+                    "last_name": "Stewart",
+                    "full_name": "Stewart NK",
+                    "initials": "NK"
+                },
+                {
+                    "last_name": "Toth",
+                    "full_name": "Toth M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Vakulenko",
+                    "full_name": "Vakulenko SB",
+                    "initials": "SB"
+                }
+            ],
+            "title": "Structural Insights into the Mechanism of Carbapenemase Activity of the OXA-48 \ufffd\ufffd-Lactamase.",
+            "pubmed_id": "31358584",
+            "type": "J",
+            "associated_entries": "6p96, 6p98, 6p99, 6p9c",
+            "doi": "10.1128/AAC.01202-19"
+        }
+    ]
+}

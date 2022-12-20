@@ -1,0 +1,64 @@
+{
+    "3v39": [
+        {
+            "journal_info": {
+                "volume": "8",
+                "pdb_abbreviation": "PLoS Pathog.",
+                "ISO_abbreviation": "PLoS Pathog.",
+                "year": 2012,
+                "issue": "2",
+                "pages": "e1002524"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Lerner",
+                    "full_name": "Lerner TR",
+                    "initials": "TR"
+                },
+                {
+                    "last_name": "Lovering",
+                    "full_name": "Lovering AL",
+                    "initials": "AL"
+                },
+                {
+                    "last_name": "Bui",
+                    "full_name": "Bui NK",
+                    "initials": "NK"
+                },
+                {
+                    "last_name": "Uchida",
+                    "full_name": "Uchida K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Aizawa",
+                    "full_name": "Aizawa S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Vollmer",
+                    "full_name": "Vollmer W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Sockett",
+                    "full_name": "Sockett RE",
+                    "initials": "RE"
+                }
+            ],
+            "title": "Specialized peptidoglycan hydrolases sculpt the intra-bacterial niche of predatory Bdellovibrio and increase population fitness.",
+            "pubmed_id": "22346754",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1371/journal.ppat.1002524"
+        }
+    ]
+}

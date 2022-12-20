@@ -1,0 +1,64 @@
+{
+    "5ldd": [
+        {
+            "journal_info": {
+                "volume": "8",
+                "pdb_abbreviation": "Nat Commun",
+                "ISO_abbreviation": "Nat Commun",
+                "year": 2017,
+                "issue": null,
+                "pages": "14034"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Kiontke",
+                    "full_name": "Kiontke S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Langemeyer",
+                    "full_name": "Langemeyer L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Kuhlee",
+                    "full_name": "Kuhlee A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Schuback",
+                    "full_name": "Schuback S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Raunser",
+                    "full_name": "Raunser S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Ungermann",
+                    "full_name": "Ungermann C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "K\ufffd\ufffdmmel",
+                    "full_name": "K\ufffd\ufffdmmel D",
+                    "initials": "D"
+                }
+            ],
+            "title": "Architecture and mechanism of the late endosomal Rab7-like Ypt7 guanine nucleotide exchange factor complex Mon1-Ccz1.",
+            "pubmed_id": "28051187",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1038/ncomms14034"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "6dpx": [
+        {
+            "journal_info": {
+                "volume": "566",
+                "pdb_abbreviation": "Nature",
+                "ISO_abbreviation": "Nature",
+                "year": 2019,
+                "issue": "7743",
+                "pages": "224-229"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Lyu",
+                    "full_name": "Lyu J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Wang",
+                    "full_name": "Wang S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Balius",
+                    "full_name": "Balius TE",
+                    "initials": "TE"
+                },
+                {
+                    "last_name": "Singh",
+                    "full_name": "Singh I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "Levit",
+                    "full_name": "Levit A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Moroz",
+                    "full_name": "Moroz YS",
+                    "initials": "YS"
+                },
+                {
+                    "last_name": "O'Meara",
+                    "full_name": "O'Meara MJ",
+                    "initials": "MJ"
+                },
+                {
+                    "last_name": "Che",
+                    "full_name": "Che T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Algaa",
+                    "full_name": "Algaa E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Tolmachova",
+                    "full_name": "Tolmachova K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Tolmachev",
+                    "full_name": "Tolmachev AA",
+                    "initials": "AA"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                },
+                {
+                    "last_name": "Roth",
+                    "full_name": "Roth BL",
+                    "initials": "BL"
+                },
+                {
+                    "last_name": "Irwin",
+                    "full_name": "Irwin JJ",
+                    "initials": "JJ"
+                }
+            ],
+            "title": "Ultra-large library docking for discovering new chemotypes.",
+            "pubmed_id": "30728502",
+            "type": "J",
+            "associated_entries": "6dpt, 6dpy, 6dpz",
+            "doi": "10.1038/s41586-019-0917-9"
+        }
+    ]
+}

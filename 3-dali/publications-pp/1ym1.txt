@@ -1,0 +1,44 @@
+{
+    "1ym1": [
+        {
+            "journal_info": {
+                "volume": "127",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2005,
+                "issue": "15",
+                "pages": "5423-34"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Bonnet",
+                    "full_name": "Bonnet R",
+                    "initials": "R"
+                }
+            ],
+            "title": "Structure, function, and inhibition along the reaction coordinate of CTX-M beta-lactamases.",
+            "pubmed_id": "15826180",
+            "type": "J",
+            "associated_entries": "1yly, 1ylz, 1yms, 1ymx",
+            "doi": "10.1021/ja042850a"
+        }
+    ]
+}

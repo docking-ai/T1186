@@ -1,0 +1,119 @@
+{
+    "1h8y": [
+        {
+            "journal_info": {
+                "volume": "310",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2001,
+                "issue": "4",
+                "pages": "859-74"
+            },
+            "doi": "10.1006/jmbi.2001.4805",
+            "associated_entries": "1h8z",
+            "title": "Crystal structures of the class D beta-lactamase OXA-13 in the native form and in complex with meropenem.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Pernot",
+                    "full_name": "Pernot L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Fr\ufffd\ufffdnois",
+                    "full_name": "Fr\ufffd\ufffdnois F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Rybkine",
+                    "full_name": "Rybkine T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "L'Hermite",
+                    "full_name": "L'Hermite G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Petrella",
+                    "full_name": "Petrella S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Delettr\ufffd\ufffd",
+                    "full_name": "Delettr\ufffd\ufffd J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Jarlier",
+                    "full_name": "Jarlier V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Collatz",
+                    "full_name": "Collatz E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Sougakoff",
+                    "full_name": "Sougakoff W",
+                    "initials": "W"
+                }
+            ],
+            "pubmed_id": "11453693",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "144 ( Pt 4)",
+                "pdb_abbreviation": "Microbiology",
+                "ISO_abbreviation": "Microbiology (Reading, Engl.)",
+                "year": 1998,
+                "issue": null,
+                "pages": "1021-31"
+            },
+            "doi": "10.1099/00221287-144-4-1021",
+            "associated_entries": "1h8z",
+            "title": "Carbapenems as inhibitors of OXA-13, a novel, integron-encoded beta-lactamase in Pseudomonas aeruginosa.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Mugnier",
+                    "full_name": "Mugnier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Podglajen",
+                    "full_name": "Podglajen I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "Goldstein",
+                    "full_name": "Goldstein FW",
+                    "initials": "FW"
+                },
+                {
+                    "last_name": "Collatz",
+                    "full_name": "Collatz E",
+                    "initials": "E"
+                }
+            ],
+            "pubmed_id": "9579076",
+            "type": "J"
+        }
+    ]
+}

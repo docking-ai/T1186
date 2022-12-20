@@ -1,0 +1,69 @@
+{
+    "2qmi": [
+        {
+            "journal_info": {
+                "volume": "4",
+                "pdb_abbreviation": "PLoS ONE",
+                "ISO_abbreviation": "PLoS ONE",
+                "year": 2009,
+                "issue": "3",
+                "pages": "e4712"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Delfosse",
+                    "full_name": "Delfosse V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Girard",
+                    "full_name": "Girard E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Birck",
+                    "full_name": "Birck C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Delmarcelle",
+                    "full_name": "Delmarcelle M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Delarue",
+                    "full_name": "Delarue M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Poch",
+                    "full_name": "Poch O",
+                    "initials": "O"
+                },
+                {
+                    "last_name": "Schultz",
+                    "full_name": "Schultz P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Mayer",
+                    "full_name": "Mayer C",
+                    "initials": "C"
+                }
+            ],
+            "title": "Structure of the archaeal pab87 peptidase reveals a novel self-compartmentalizing protease family.",
+            "pubmed_id": "19266066",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1371/journal.pone.0004712"
+        }
+    ]
+}

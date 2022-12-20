@@ -1,0 +1,79 @@
+{
+    "3q82": [
+        {
+            "journal_info": {
+                "volume": "286",
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J. Biol. Chem.",
+                "year": 2011,
+                "issue": "36",
+                "pages": "31466-72"
+            },
+            "doi": "10.1074/jbc.m111.252189",
+            "associated_entries": "3q7v, 3q7z, 3q81",
+            "title": "Lysine Nzeta-decarboxylation switch and activation of the beta-lactam sensor domain of BlaR1 protein of methicillin-resistant Staphylococcus aureus.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Borbulevych",
+                    "full_name": "Borbulevych O",
+                    "initials": "O"
+                },
+                {
+                    "last_name": "Kumarasiri",
+                    "full_name": "Kumarasiri M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Wilson",
+                    "full_name": "Wilson B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Llarrull",
+                    "full_name": "Llarrull LI",
+                    "initials": "LI"
+                },
+                {
+                    "last_name": "Lee",
+                    "full_name": "Lee M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Hesek",
+                    "full_name": "Hesek D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Shi",
+                    "full_name": "Shi Q",
+                    "initials": "Q"
+                },
+                {
+                    "last_name": "Peng",
+                    "full_name": "Peng J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Baker",
+                    "full_name": "Baker BM",
+                    "initials": "BM"
+                },
+                {
+                    "last_name": "Mobashery",
+                    "full_name": "Mobashery S",
+                    "initials": "S"
+                }
+            ],
+            "pubmed_id": "21775440",
+            "type": "J"
+        }
+    ]
+}

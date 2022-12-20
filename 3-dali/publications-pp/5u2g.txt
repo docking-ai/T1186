@@ -1,0 +1,74 @@
+{
+    "5u2g": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Minasov, G.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Wawrzak, Z.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Shuvalova, L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kiryukhina, O.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Dubrovska, I.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Grimshaw, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kwon, K.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Anderson, W.F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Center for Structural Genomics of Infectious Diseases (CSGID)",
+                    "initials": null
+                }
+            ],
+            "title": "2.6 Angstrom Resolution Crystal Structure of Penicillin-Binding Protein 1A from Haemophilus influenzae.",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

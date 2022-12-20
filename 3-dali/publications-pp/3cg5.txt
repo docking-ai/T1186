@@ -1,0 +1,44 @@
+{
+    "3cg5": [
+        {
+            "journal_info": {
+                "volume": "47",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2008,
+                "issue": "19",
+                "pages": "5312-6"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Tremblay",
+                    "full_name": "Tremblay LW",
+                    "initials": "LW"
+                },
+                {
+                    "last_name": "Hugonnet",
+                    "full_name": "Hugonnet JE",
+                    "initials": "JE"
+                },
+                {
+                    "last_name": "Blanchard",
+                    "full_name": "Blanchard JS",
+                    "initials": "JS"
+                }
+            ],
+            "title": "Structure of the covalent adduct formed between Mycobacterium tuberculosis beta-lactamase and clavulanate.",
+            "pubmed_id": "18422342",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/bi8001055"
+        }
+    ]
+}

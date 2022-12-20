@@ -1,0 +1,89 @@
+{
+    "5fqq": [
+        {
+            "journal_info": {
+                "volume": "8",
+                "pdb_abbreviation": "Nat Commun",
+                "ISO_abbreviation": "Nat Commun",
+                "year": 2017,
+                "issue": null,
+                "pages": "16113"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Risso",
+                    "full_name": "Risso VA",
+                    "initials": "VA"
+                },
+                {
+                    "last_name": "Martinez-Rodriguez",
+                    "full_name": "Martinez-Rodriguez S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Candel",
+                    "full_name": "Candel AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Kr\u00fcger",
+                    "full_name": "Kr\u00fcger DM",
+                    "initials": "DM"
+                },
+                {
+                    "last_name": "Pantoja-Uceda",
+                    "full_name": "Pantoja-Uceda D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Ortega-Mu\u00f1oz",
+                    "full_name": "Ortega-Mu\u00f1oz M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Santoyo-Gonzalez",
+                    "full_name": "Santoyo-Gonzalez F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Gaucher",
+                    "full_name": "Gaucher EA",
+                    "initials": "EA"
+                },
+                {
+                    "last_name": "Kamerlin",
+                    "full_name": "Kamerlin SCL",
+                    "initials": "SCL"
+                },
+                {
+                    "last_name": "Bruix",
+                    "full_name": "Bruix M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Gavira",
+                    "full_name": "Gavira JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Sanchez-Ruiz",
+                    "full_name": "Sanchez-Ruiz JM",
+                    "initials": "JM"
+                }
+            ],
+            "title": "De novo active sites for resurrected Precambrian enzymes.",
+            "pubmed_id": "28719578",
+            "type": "J",
+            "associated_entries": "4uhu, 5fqi, 5fqj, 5fqk, 5fqm",
+            "doi": "10.1038/ncomms16113"
+        }
+    ]
+}

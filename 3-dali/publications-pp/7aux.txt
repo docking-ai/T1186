@@ -1,0 +1,99 @@
+{
+    "7aux": [
+        {
+            "journal_info": {
+                "volume": "14",
+                "pdb_abbreviation": "Pharmaceuticals",
+                "ISO_abbreviation": "Pharmaceuticals (Basel)",
+                "year": 2021,
+                "issue": "7",
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Garofalo",
+                    "full_name": "Garofalo B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Buonfiglio",
+                    "full_name": "Buonfiglio R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Coletta",
+                    "full_name": "Coletta I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "D'Atanasio",
+                    "full_name": "D'Atanasio N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Molteni",
+                    "full_name": "Molteni A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Carettoni",
+                    "full_name": "Carettoni D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Wanke",
+                    "full_name": "Wanke V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Pochetti",
+                    "full_name": "Pochetti G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Montanari",
+                    "full_name": "Montanari R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Capelli",
+                    "full_name": "Capelli D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Milanese",
+                    "full_name": "Milanese C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Di Giorgio",
+                    "full_name": "Di Giorgio FP",
+                    "initials": "FP"
+                },
+                {
+                    "last_name": "Ombrato",
+                    "full_name": "Ombrato R",
+                    "initials": "R"
+                }
+            ],
+            "title": "Discovery of Novel Chemical Series of OXA-48 \ufffd\ufffd-Lactamase Inhibitors by High-Throughput Screening.",
+            "pubmed_id": "34202402",
+            "type": "J",
+            "associated_entries": "7aw5",
+            "doi": "10.3390/ph14070612"
+        }
+    ]
+}

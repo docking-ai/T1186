@@ -1,0 +1,44 @@
+{
+    "3m2j": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Zhao, Y.X.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Leung, Y.C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Wong, W.T.",
+                    "initials": null
+                }
+            ],
+            "title": "Crystal Structure of fluorescein-labeled Class A -lactamase PenP",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

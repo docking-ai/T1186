@@ -1,0 +1,144 @@
+{
+    "6vot": [
+        {
+            "journal_info": {
+                "volume": "63",
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2020,
+                "issue": "11",
+                "pages": "5990-6002"
+            },
+            "doi": "10.1021/acs.jmedchem.0c00255",
+            "associated_entries": null,
+            "title": "A \ufffd\ufffd-Lactam Siderophore Antibiotic Effective against Multidrug-Resistant Gram-Negative Bacilli.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Goldberg",
+                    "full_name": "Goldberg JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Nguyen",
+                    "full_name": "Nguyen H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Kumar",
+                    "full_name": "Kumar V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Spencer",
+                    "full_name": "Spencer EJ",
+                    "initials": "EJ"
+                },
+                {
+                    "last_name": "Hoyer",
+                    "full_name": "Hoyer D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Marshall",
+                    "full_name": "Marshall EK",
+                    "initials": "EK"
+                },
+                {
+                    "last_name": "Cmolik",
+                    "full_name": "Cmolik A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "O'Shea",
+                    "full_name": "O'Shea M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Marshall",
+                    "full_name": "Marshall SH",
+                    "initials": "SH"
+                },
+                {
+                    "last_name": "Hujer",
+                    "full_name": "Hujer AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Hujer",
+                    "full_name": "Hujer KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Rudin",
+                    "full_name": "Rudin SD",
+                    "initials": "SD"
+                },
+                {
+                    "last_name": "Domitrovic",
+                    "full_name": "Domitrovic TN",
+                    "initials": "TN"
+                },
+                {
+                    "last_name": "Bethel",
+                    "full_name": "Bethel CR",
+                    "initials": "CR"
+                },
+                {
+                    "last_name": "Papp-Wallace",
+                    "full_name": "Papp-Wallace KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Logan",
+                    "full_name": "Logan LK",
+                    "initials": "LK"
+                },
+                {
+                    "last_name": "Perez",
+                    "full_name": "Perez F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Jacobs",
+                    "full_name": "Jacobs MR",
+                    "initials": "MR"
+                },
+                {
+                    "last_name": "van Duin",
+                    "full_name": "van Duin D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Kreiswirth",
+                    "full_name": "Kreiswirth BM",
+                    "initials": "BM"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Plummer",
+                    "full_name": "Plummer MS",
+                    "initials": "MS"
+                },
+                {
+                    "last_name": "van den Akker",
+                    "full_name": "van den Akker F",
+                    "initials": "F"
+                }
+            ],
+            "pubmed_id": "32420736",
+            "type": "J"
+        }
+    ]
+}

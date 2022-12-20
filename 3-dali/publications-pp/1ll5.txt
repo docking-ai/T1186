@@ -1,0 +1,39 @@
+{
+    "1ll5": [
+        {
+            "journal_info": {
+                "volume": "46",
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2002,
+                "issue": "12",
+                "pages": "3978-80"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Beadle",
+                    "full_name": "Beadle BM",
+                    "initials": "BM"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "title": "Structural basis for imipenem inhibition of class C beta-lactamases.",
+            "pubmed_id": "12435704",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1128/AAC.46.12.3978-3980.2002"
+        }
+    ]
+}

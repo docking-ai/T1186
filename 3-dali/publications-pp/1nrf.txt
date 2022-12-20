@@ -1,0 +1,134 @@
+{
+    "1nrf": [
+        {
+            "journal_info": {
+                "volume": "42",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2003,
+                "issue": "44",
+                "pages": "12835-43"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Kerff",
+                    "full_name": "Kerff F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Colombo",
+                    "full_name": "Colombo ML",
+                    "initials": "ML"
+                },
+                {
+                    "last_name": "Sauvage",
+                    "full_name": "Sauvage E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Brans",
+                    "full_name": "Brans A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Fr\u00e8re",
+                    "full_name": "Fr\u00e8re JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Joris",
+                    "full_name": "Joris B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Fonz\u00e9",
+                    "full_name": "Fonz\u00e9 E",
+                    "initials": "E"
+                }
+            ],
+            "title": "Crystal structure of the sensor domain of the BlaR penicillin receptor from Bacillus licheniformis.",
+            "pubmed_id": "14596597",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/bi034976a"
+        },
+        {
+            "journal_info": {
+                "volume": "23",
+                "pdb_abbreviation": "Mol. Microbiol.",
+                "ISO_abbreviation": "Mol. Microbiol.",
+                "year": 1997,
+                "issue": "5",
+                "pages": "935-44"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Hardt",
+                    "full_name": "Hardt K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Joris",
+                    "full_name": "Joris B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Lepage",
+                    "full_name": "Lepage S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Brasseur",
+                    "full_name": "Brasseur R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Lampen",
+                    "full_name": "Lampen JO",
+                    "initials": "JO"
+                },
+                {
+                    "last_name": "Fr\ufffd\ufffdre",
+                    "full_name": "Fr\ufffd\ufffdre JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Fink",
+                    "full_name": "Fink AL",
+                    "initials": "AL"
+                },
+                {
+                    "last_name": "Ghuysen",
+                    "full_name": "Ghuysen JM",
+                    "initials": "JM"
+                }
+            ],
+            "title": "The penicillin sensory transducer, BlaR, involved in the inducibility of beta-lactamase synthesis in Bacillus licheniformis is embedded in the plasma membrane via a four-alpha-helix bundle.",
+            "pubmed_id": "9076730",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1046/j.1365-2958.1997.2761642.x"
+        }
+    ]
+}

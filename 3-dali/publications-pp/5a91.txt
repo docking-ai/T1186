@@ -1,0 +1,74 @@
+{
+    "5a91": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2015,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Vandavasi",
+                    "full_name": "Vandavasi VG",
+                    "initials": "VG"
+                },
+                {
+                    "last_name": "Weiss",
+                    "full_name": "Weiss KL",
+                    "initials": "KL"
+                },
+                {
+                    "last_name": "Cooper",
+                    "full_name": "Cooper JB",
+                    "initials": "JB"
+                },
+                {
+                    "last_name": "Erskine",
+                    "full_name": "Erskine PT",
+                    "initials": "PT"
+                },
+                {
+                    "last_name": "Tomanicek",
+                    "full_name": "Tomanicek SJ",
+                    "initials": "SJ"
+                },
+                {
+                    "last_name": "Ostermann",
+                    "full_name": "Ostermann A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Schrader",
+                    "full_name": "Schrader TE",
+                    "initials": "TE"
+                },
+                {
+                    "last_name": "Ginell",
+                    "full_name": "Ginell SL",
+                    "initials": "SL"
+                },
+                {
+                    "last_name": "Coates",
+                    "full_name": "Coates L",
+                    "initials": "L"
+                }
+            ],
+            "title": "Exploring the Mechanism of \ufffd\ufffd-Lactam Ring Protonation in the Class A \ufffd\ufffd-lactamase Acylation Mechanism Using Neutron and X-ray Crystallography.",
+            "pubmed_id": "26630115",
+            "type": "J",
+            "associated_entries": "5a90, 5a92, 5a93",
+            "doi": "10.1021/acs.jmedchem.5b01215"
+        }
+    ]
+}

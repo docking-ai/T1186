@@ -1,0 +1,144 @@
+{
+    "3g4p": [
+        {
+            "journal_info": {
+                "volume": "132",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2010,
+                "issue": "38",
+                "pages": "13320-31"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Bou",
+                    "full_name": "Bou G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Santillana",
+                    "full_name": "Santillana E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Sheri",
+                    "full_name": "Sheri A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Beceiro",
+                    "full_name": "Beceiro A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Sampson",
+                    "full_name": "Sampson JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Kalp",
+                    "full_name": "Kalp M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Bethel",
+                    "full_name": "Bethel CR",
+                    "initials": "CR"
+                },
+                {
+                    "last_name": "Distler",
+                    "full_name": "Distler AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Drawz",
+                    "full_name": "Drawz SM",
+                    "initials": "SM"
+                },
+                {
+                    "last_name": "Pagadala",
+                    "full_name": "Pagadala SR",
+                    "initials": "SR"
+                },
+                {
+                    "last_name": "van den Akker",
+                    "full_name": "van den Akker F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Romero",
+                    "full_name": "Romero A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Buynak",
+                    "full_name": "Buynak JD",
+                    "initials": "JD"
+                }
+            ],
+            "title": "Design, synthesis, and crystal structures of 6-alkylidene-2'-substituted penicillanic acid sulfones as potent inhibitors of Acinetobacter baumannii OXA-24 carbapenemase.",
+            "pubmed_id": "20822105",
+            "type": "J",
+            "associated_entries": "2jc7, 3fv7, 3fyz, 3fzc, 3mbz",
+            "doi": "10.1021/ja104092z"
+        },
+        {
+            "journal_info": {
+                "volume": "104",
+                "pdb_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "ISO_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "year": 2007,
+                "issue": "13",
+                "pages": "5354-9"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Santillana",
+                    "full_name": "Santillana E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Beceiro",
+                    "full_name": "Beceiro A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Bou",
+                    "full_name": "Bou G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Romero",
+                    "full_name": "Romero A",
+                    "initials": "A"
+                }
+            ],
+            "title": "Crystal structure of the carbapenemase OXA-24 reveals insights into the mechanism of carbapenem hydrolysis.",
+            "pubmed_id": "17374723",
+            "type": "J",
+            "associated_entries": "2jc7, 3fv7, 3fyz, 3fzc, 3mbz",
+            "doi": "10.1073/pnas.0607557104"
+        }
+    ]
+}

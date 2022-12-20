@@ -1,0 +1,44 @@
+{
+    "6pt1": [
+        {
+            "journal_info": {
+                "volume": "6",
+                "pdb_abbreviation": "ACS Infect Dis",
+                "ISO_abbreviation": "ACS Infect Dis",
+                "year": 2020,
+                "issue": "2",
+                "pages": "261-271"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Akhtar",
+                    "full_name": "Akhtar A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Pemberton",
+                    "full_name": "Pemberton OA",
+                    "initials": "OA"
+                },
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Y",
+                    "initials": "Y"
+                }
+            ],
+            "title": "Structural Basis for Substrate Specificity and Carbapenemase Activity of OXA-48 Class D \ufffd\ufffd-Lactamase.",
+            "pubmed_id": "31872762",
+            "type": "J",
+            "associated_entries": "6pk0, 6pqi, 6psg, 6pt5, 6ptu",
+            "doi": "10.1021/acsinfecdis.9b00304"
+        }
+    ]
+}

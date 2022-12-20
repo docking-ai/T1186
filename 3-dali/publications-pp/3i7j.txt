@@ -1,0 +1,99 @@
+{
+    "3i7j": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Forouhar, F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Lew, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Seetharaman, J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Sahdev, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Xiao, R.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ciccosanti, C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Wang, H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Everett, J.K.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Nair, R.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Acton, T.B.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Rost, B.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Montelione, G.T.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Hunt, J.F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Tong, L.",
+                    "initials": null
+                }
+            ],
+            "title": "Northeast Structural Genomics Consortium Target MbR246",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

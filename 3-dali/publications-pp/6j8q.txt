@@ -1,0 +1,109 @@
+{
+    "6j8q": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2019,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Wang",
+                    "full_name": "Wang YL",
+                    "initials": "YL"
+                },
+                {
+                    "last_name": "Liu",
+                    "full_name": "Liu S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Yu",
+                    "full_name": "Yu ZJ",
+                    "initials": "ZJ"
+                },
+                {
+                    "last_name": "Lei",
+                    "full_name": "Lei Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Huang",
+                    "full_name": "Huang MY",
+                    "initials": "MY"
+                },
+                {
+                    "last_name": "Yan",
+                    "full_name": "Yan YH",
+                    "initials": "YH"
+                },
+                {
+                    "last_name": "Ma",
+                    "full_name": "Ma Q",
+                    "initials": "Q"
+                },
+                {
+                    "last_name": "Zheng",
+                    "full_name": "Zheng Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Deng",
+                    "full_name": "Deng H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Sun",
+                    "full_name": "Sun Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Wu",
+                    "full_name": "Wu C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Yu",
+                    "full_name": "Yu Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Q",
+                    "initials": "Q"
+                },
+                {
+                    "last_name": "Wang",
+                    "full_name": "Wang Z",
+                    "initials": "Z"
+                },
+                {
+                    "last_name": "Wu",
+                    "full_name": "Wu Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Li",
+                    "full_name": "Li GB",
+                    "initials": "GB"
+                }
+            ],
+            "title": "Structure-Based Development of (1-(3'-Mercaptopropanamido)methyl)boronic Acid Derived Broad-Spectrum, Dual-Action Inhibitors of Metallo- and Serine-\ufffd\ufffd-Lactamases.",
+            "pubmed_id": "31269398",
+            "type": "J",
+            "associated_entries": "6j8r, 6jn3, 6jn4, 6jn5, 6jn6",
+            "doi": "10.1021/acs.jmedchem.9b00735"
+        }
+    ]
+}

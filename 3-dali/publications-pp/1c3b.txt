@@ -1,0 +1,59 @@
+{
+    "1c3b": [
+        {
+            "journal_info": {
+                "volume": "8",
+                "pdb_abbreviation": "Protein Sci.",
+                "ISO_abbreviation": "Protein Sci.",
+                "year": 1999,
+                "issue": "11",
+                "pages": "2330-7"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Powers",
+                    "full_name": "Powers RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Bl\ufffd\ufffdzquez",
+                    "full_name": "Bl\ufffd\ufffdzquez J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Weston",
+                    "full_name": "Weston GS",
+                    "initials": "GS"
+                },
+                {
+                    "last_name": "Morosini",
+                    "full_name": "Morosini MI",
+                    "initials": "MI"
+                },
+                {
+                    "last_name": "Baquero",
+                    "full_name": "Baquero F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "title": "The complexed structure and antimicrobial activity of a non-beta-lactam inhibitor of AmpC beta-lactamase.",
+            "pubmed_id": "10595535",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1110/ps.8.11.2330"
+        }
+    ]
+}

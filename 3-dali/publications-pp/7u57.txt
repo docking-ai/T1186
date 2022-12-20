@@ -1,0 +1,54 @@
+{
+    "7u57": [
+        {
+            "journal_info": {
+                "volume": "23",
+                "pdb_abbreviation": "Int J Mol Sci",
+                "ISO_abbreviation": null,
+                "year": 2022,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Ahmadvand, P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Avillan, J.J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Lewis, J.A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Call, D.R.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kang, C.",
+                    "initials": null
+                }
+            ],
+            "title": "Characterization of Interactions between CTX-M-15 and Clavulanic Acid, Desfuroylceftiofur, Ceftiofur, Ampicillin, and Nitrocefin.",
+            "pubmed_id": "35563620",
+            "type": "J",
+            "associated_entries": "7u48, 7u49, 7u4b",
+            "doi": "10.3390/ijms23095229"
+        }
+    ]
+}

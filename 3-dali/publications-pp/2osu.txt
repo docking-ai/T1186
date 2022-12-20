@@ -1,0 +1,54 @@
+{
+    "2osu": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Kim, Y.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Dementieva, I.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Vinokour, E.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Collart, F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Joachimiak, A.",
+                    "initials": null
+                }
+            ],
+            "title": "The structure of probable glutaminase from B. subtilis complexed with its inhibitor 6-diazo-5-oxo-L-norleucine",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

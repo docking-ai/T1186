@@ -1,0 +1,64 @@
+{
+    "4hbt": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2013,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Lahiri",
+                    "full_name": "Lahiri SD",
+                    "initials": "SD"
+                },
+                {
+                    "last_name": "Mangani",
+                    "full_name": "Mangani S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Durand-Reville",
+                    "full_name": "Durand-Reville T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Benvenuti",
+                    "full_name": "Benvenuti M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "De Luca",
+                    "full_name": "De Luca F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Sanyal",
+                    "full_name": "Sanyal G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Docquier",
+                    "full_name": "Docquier JD",
+                    "initials": "JD"
+                }
+            ],
+            "title": "Structural Insight into Potent Broad-spectrum Inhibition with Reversible Recyclization Mechanism: Avibactam in Complex with CTX-M-15 and Pseudomonas aeruginosa AmpC \ufffd\ufffd-lactamases.",
+            "pubmed_id": "23439634",
+            "type": "J",
+            "associated_entries": "4gzb, 4hbu, 4hef",
+            "doi": "10.1128/aac.02247-12"
+        }
+    ]
+}

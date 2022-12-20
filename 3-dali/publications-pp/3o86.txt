@@ -1,0 +1,74 @@
+{
+    "3o86": [
+        {
+            "journal_info": {
+                "volume": "53",
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2010,
+                "issue": "21",
+                "pages": "7852-63"
+            },
+            "doi": "10.1021/jm101015z",
+            "associated_entries": "3o87, 3o88",
+            "title": "Design, synthesis, crystal structures, and antimicrobial activity of sulfonamide boronic acids as \ufffd\ufffd-lactamase inhibitors.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Eidam",
+                    "full_name": "Eidam O",
+                    "initials": "O"
+                },
+                {
+                    "last_name": "Romagnoli",
+                    "full_name": "Romagnoli C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Caselli",
+                    "full_name": "Caselli E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Babaoglu",
+                    "full_name": "Babaoglu K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Pohlhaus",
+                    "full_name": "Pohlhaus DT",
+                    "initials": "DT"
+                },
+                {
+                    "last_name": "Karpiak",
+                    "full_name": "Karpiak J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Bonnet",
+                    "full_name": "Bonnet R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                }
+            ],
+            "pubmed_id": "20945905",
+            "type": "J"
+        }
+    ]
+}

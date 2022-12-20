@@ -1,0 +1,49 @@
+{
+    "4qy6": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Park, J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Gobeil, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Pelletier, J.N.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Berghuis, A.M.",
+                    "initials": null
+                }
+            ],
+            "title": "Crystal structures of chimeric beta-lactamase cTEM-19m showing different conformations",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

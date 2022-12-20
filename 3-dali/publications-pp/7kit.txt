@@ -1,0 +1,94 @@
+{
+    "7kit": [
+        {
+            "journal_info": {
+                "volume": "12",
+                "pdb_abbreviation": "MBio",
+                "ISO_abbreviation": "mBio",
+                "year": 2021,
+                "issue": "1",
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Rajavel",
+                    "full_name": "Rajavel M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Kumar",
+                    "full_name": "Kumar V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Nguyen",
+                    "full_name": "Nguyen H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Wyatt",
+                    "full_name": "Wyatt J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Marshall",
+                    "full_name": "Marshall SH",
+                    "initials": "SH"
+                },
+                {
+                    "last_name": "Papp-Wallace",
+                    "full_name": "Papp-Wallace KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Deshpande",
+                    "full_name": "Deshpande P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Bhavsar",
+                    "full_name": "Bhavsar S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Yeole",
+                    "full_name": "Yeole R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Bhagwat",
+                    "full_name": "Bhagwat S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Patel",
+                    "full_name": "Patel M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "van den Akker",
+                    "full_name": "van den Akker F",
+                    "initials": "F"
+                }
+            ],
+            "title": "Structural Characterization of Diazabicyclooctane \ufffd\ufffd-Lactam \"Enhancers\" in Complex with Penicillin-Binding Proteins PBP2 and PBP3 of Pseudomonas aeruginosa.",
+            "pubmed_id": "33593978",
+            "type": "J",
+            "associated_entries": "7kis, 7kiv, 7kiw",
+            "doi": "10.1128/mBio.03058-20"
+        }
+    ]
+}

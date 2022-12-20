@@ -1,0 +1,69 @@
+{
+    "5haq": [
+        {
+            "journal_info": {
+                "volume": "55",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2016,
+                "issue": "17",
+                "pages": "2479-90"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Stojanoski",
+                    "full_name": "Stojanoski V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Adamski",
+                    "full_name": "Adamski CJ",
+                    "initials": "CJ"
+                },
+                {
+                    "last_name": "Hu",
+                    "full_name": "Hu L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Mehta",
+                    "full_name": "Mehta SC",
+                    "initials": "SC"
+                },
+                {
+                    "last_name": "Sankaran",
+                    "full_name": "Sankaran B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Zwart",
+                    "full_name": "Zwart P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Prasad",
+                    "full_name": "Prasad BV",
+                    "initials": "BV"
+                },
+                {
+                    "last_name": "Palzkill",
+                    "full_name": "Palzkill T",
+                    "initials": "T"
+                }
+            ],
+            "title": "Removal of the Side Chain at the Active-Site Serine by a Glycine Substitution Increases the Stability of a Wide Range of Serine \ufffd\ufffd-Lactamases by Relieving Steric Strain.",
+            "pubmed_id": "27073009",
+            "type": "J",
+            "associated_entries": "5hai, 5hap, 5har",
+            "doi": "10.1021/acs.biochem.6b00056"
+        }
+    ]
+}

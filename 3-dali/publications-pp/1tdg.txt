@@ -1,0 +1,49 @@
+{
+    "1tdg": [
+        {
+            "journal_info": {
+                "volume": "43",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2004,
+                "issue": "44",
+                "pages": "14111-7"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Sun",
+                    "full_name": "Sun T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Bethel",
+                    "full_name": "Bethel CR",
+                    "initials": "CR"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Knox",
+                    "full_name": "Knox JR",
+                    "initials": "JR"
+                }
+            ],
+            "title": "Inhibitor-resistant class A beta-lactamases: consequences of the Ser130-to-Gly mutation seen in Apo and tazobactam structures of the SHV-1 variant.",
+            "pubmed_id": "15518561",
+            "type": "J",
+            "associated_entries": "1tdl",
+            "doi": "10.1021/bi0487903"
+        }
+    ]
+}

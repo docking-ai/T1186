@@ -1,0 +1,59 @@
+{
+    "6ity": [
+        {
+            "journal_info": {
+                "volume": "6",
+                "pdb_abbreviation": "ACS Infect Dis",
+                "ISO_abbreviation": "ACS Infect Dis",
+                "year": 2020,
+                "issue": "4",
+                "pages": "577-587"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Cheng",
+                    "full_name": "Cheng Q",
+                    "initials": "Q"
+                },
+                {
+                    "last_name": "Xu",
+                    "full_name": "Xu C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Chai",
+                    "full_name": "Chai J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Zhang",
+                    "full_name": "Zhang R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Wai Chi Chan",
+                    "full_name": "Wai Chi Chan E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen S",
+                    "initials": "S"
+                }
+            ],
+            "title": "Structural Insight into the Mechanism of Inhibitor Resistance in CTX-M-199, a CTX-M-64 Variant Carrying the S<sub>130</sub>T Substitution.",
+            "pubmed_id": "31709791",
+            "type": "J",
+            "associated_entries": "5zb7, 6j25, 6j2b, 6j2k, 6j2o",
+            "doi": "10.1021/acsinfecdis.9b00345"
+        }
+    ]
+}

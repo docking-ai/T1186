@@ -1,0 +1,54 @@
+{
+    "2ov5": [
+        {
+            "journal_info": {
+                "volume": "46",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2007,
+                "issue": "19",
+                "pages": "5732-40"
+            },
+            "doi": "10.1021/bi700300u",
+            "associated_entries": null,
+            "title": "Crystal structure of KPC-2: insights into carbapenemase activity in class A beta-lactamases.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Ke",
+                    "full_name": "Ke W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Bethel",
+                    "full_name": "Bethel CR",
+                    "initials": "CR"
+                },
+                {
+                    "last_name": "Thomson",
+                    "full_name": "Thomson JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "van den Akker",
+                    "full_name": "van den Akker F",
+                    "initials": "F"
+                }
+            ],
+            "pubmed_id": "17441734",
+            "type": "J"
+        }
+    ]
+}

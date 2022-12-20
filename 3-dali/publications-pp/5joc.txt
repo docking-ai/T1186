@@ -1,0 +1,39 @@
+{
+    "5joc": [
+        {
+            "journal_info": {
+                "volume": "72",
+                "pdb_abbreviation": "Acta Crystallogr D Struct Biol",
+                "ISO_abbreviation": "Acta Crystallogr D Struct Biol",
+                "year": 2016,
+                "issue": "Pt 8",
+                "pages": "976-85"
+            },
+            "doi": "10.1107/s2059798316011311",
+            "associated_entries": "5ggw",
+            "title": "Structural basis for the extended substrate spectrum of AmpC BER and structure-guided discovery of the inhibition activity of citrate against the class C \ufffd\ufffd-lactamases AmpC BER and CMY-10.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Na",
+                    "full_name": "Na JH",
+                    "initials": "JH"
+                },
+                {
+                    "last_name": "Cha",
+                    "full_name": "Cha SS",
+                    "initials": "SS"
+                }
+            ],
+            "pubmed_id": "27487828",
+            "type": "J"
+        }
+    ]
+}

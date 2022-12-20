@@ -1,0 +1,104 @@
+{
+    "3ws0": [
+        {
+            "journal_info": {
+                "volume": "71",
+                "pdb_abbreviation": "Acta Crystallogr. D Biol. Crystallogr.",
+                "ISO_abbreviation": "Acta Crystallogr. D Biol. Crystallogr.",
+                "year": 2015,
+                "issue": "Pt 3",
+                "pages": "541-54"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Arai",
+                    "full_name": "Arai S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Yonezawa",
+                    "full_name": "Yonezawa Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Okazaki",
+                    "full_name": "Okazaki N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Matsumoto",
+                    "full_name": "Matsumoto F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Shibazaki",
+                    "full_name": "Shibazaki C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Shimizu",
+                    "full_name": "Shimizu R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Yamada",
+                    "full_name": "Yamada M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Adachi",
+                    "full_name": "Adachi M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Tamada",
+                    "full_name": "Tamada T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Kawamoto",
+                    "full_name": "Kawamoto M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Tokunaga",
+                    "full_name": "Tokunaga H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Ishibashi",
+                    "full_name": "Ishibashi M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Blaber",
+                    "full_name": "Blaber M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Tokunaga",
+                    "full_name": "Tokunaga M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Kuroki",
+                    "full_name": "Kuroki R",
+                    "initials": "R"
+                }
+            ],
+            "title": "Structure of a highly acidic \ufffd\ufffd-lactamase from the moderate halophile Chromohalobacter sp. 560 and the discovery of a Cs(+)-selective binding site.",
+            "pubmed_id": "25760604",
+            "type": "J",
+            "associated_entries": "3wrt, 3wrz, 3ws1, 3ws2, 3ws4, 3ws5",
+            "doi": "10.1107/S1399004714027734"
+        }
+    ]
+}

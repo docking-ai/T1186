@@ -1,0 +1,39 @@
+{
+    "1pzp": [
+        {
+            "journal_info": {
+                "volume": "336",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2004,
+                "issue": "5",
+                "pages": "1283-91"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Horn",
+                    "full_name": "Horn JR",
+                    "initials": "JR"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "title": "Allosteric inhibition through core disruption.",
+            "pubmed_id": "15037085",
+            "type": "J",
+            "associated_entries": "1pzo",
+            "doi": "10.1016/j.jmb.2003.12.068"
+        }
+    ]
+}

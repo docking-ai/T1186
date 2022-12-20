@@ -1,0 +1,69 @@
+{
+    "4e3i": [
+        {
+            "journal_info": {
+                "volume": "109",
+                "pdb_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "ISO_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "year": 2012,
+                "issue": "43",
+                "pages": "17448-53"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Eidam",
+                    "full_name": "Eidam O",
+                    "initials": "O"
+                },
+                {
+                    "last_name": "Romagnoli",
+                    "full_name": "Romagnoli C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Dalmasso",
+                    "full_name": "Dalmasso G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Barelier",
+                    "full_name": "Barelier S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Caselli",
+                    "full_name": "Caselli E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Bonnet",
+                    "full_name": "Bonnet R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                }
+            ],
+            "title": "Fragment-guided design of subnanomolar \ufffd\ufffd-lactamase inhibitors active in vivo.",
+            "pubmed_id": "23043117",
+            "type": "J",
+            "associated_entries": "4e3j, 4e3k, 4e3l, 4e3m, 4e3n, 4e3o",
+            "doi": "10.1073/pnas.1208337109"
+        }
+    ]
+}

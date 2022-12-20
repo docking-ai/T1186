@@ -1,0 +1,99 @@
+{
+    "5fi7": [
+        {
+            "journal_info": {
+                "volume": "24",
+                "pdb_abbreviation": "Bioorg. Med. Chem.",
+                "ISO_abbreviation": "Bioorg. Med. Chem.",
+                "year": 2016,
+                "issue": "8",
+                "pages": "1819-39"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "McDermott",
+                    "full_name": "McDermott LA",
+                    "initials": "LA"
+                },
+                {
+                    "last_name": "Iyer",
+                    "full_name": "Iyer P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Vernetti",
+                    "full_name": "Vernetti L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Rimer",
+                    "full_name": "Rimer S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Sun",
+                    "full_name": "Sun J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Boby",
+                    "full_name": "Boby M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Yang",
+                    "full_name": "Yang T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Fioravanti",
+                    "full_name": "Fioravanti M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "O'Neill",
+                    "full_name": "O'Neill J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Wang",
+                    "full_name": "Wang L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Drakes",
+                    "full_name": "Drakes D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Katt",
+                    "full_name": "Katt W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Huang",
+                    "full_name": "Huang Q",
+                    "initials": "Q"
+                },
+                {
+                    "last_name": "Cerione",
+                    "full_name": "Cerione R",
+                    "initials": "R"
+                }
+            ],
+            "title": "Design and evaluation of novel glutaminase inhibitors.",
+            "pubmed_id": "26988803",
+            "type": "J",
+            "associated_entries": "5fi2, 5fi6, 5i94",
+            "doi": "10.1016/j.bmc.2016.03.009"
+        }
+    ]
+}

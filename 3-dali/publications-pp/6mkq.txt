@@ -1,0 +1,69 @@
+{
+    "6mkq": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2019,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Mangat",
+                    "full_name": "Mangat CS",
+                    "initials": "CS"
+                },
+                {
+                    "last_name": "Vadlamani",
+                    "full_name": "Vadlamani G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Holicek",
+                    "full_name": "Holicek V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Chu",
+                    "full_name": "Chu M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Larmour",
+                    "full_name": "Larmour V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Vocadlo",
+                    "full_name": "Vocadlo DJ",
+                    "initials": "DJ"
+                },
+                {
+                    "last_name": "Mulvey",
+                    "full_name": "Mulvey MR",
+                    "initials": "MR"
+                },
+                {
+                    "last_name": "Mark",
+                    "full_name": "Mark BL",
+                    "initials": "BL"
+                }
+            ],
+            "title": "Molecular basis for the potent inhibition of the emerging carbapenemase VCC-1 by avibactam.",
+            "pubmed_id": "30782990",
+            "type": "J",
+            "associated_entries": "6mk6",
+            "doi": "10.1128/aac.02112-18"
+        }
+    ]
+}

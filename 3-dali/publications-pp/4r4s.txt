@@ -1,0 +1,69 @@
+{
+    "4r4s": [
+        {
+            "journal_info": {
+                "volume": "9",
+                "pdb_abbreviation": "Sci Rep",
+                "ISO_abbreviation": "Sci Rep",
+                "year": 2019,
+                "issue": "1",
+                "pages": "6656"
+            },
+            "doi": "10.1038/s41598-019-42866-8",
+            "associated_entries": "4mez, 4r4r",
+            "title": "The Structural Dynamics of Engineered \ufffd\ufffd-Lactamases Vary Broadly on Three Timescales yet Sustain Native Function.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Gobeil",
+                    "full_name": "Gobeil SMC",
+                    "initials": "SMC"
+                },
+                {
+                    "last_name": "Ebert",
+                    "full_name": "Ebert MCCJC",
+                    "initials": "MCCJC"
+                },
+                {
+                    "last_name": "Park",
+                    "full_name": "Park J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Gagn\u00e9",
+                    "full_name": "Gagn\u00e9 D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Doucet",
+                    "full_name": "Doucet N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Berghuis",
+                    "full_name": "Berghuis AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Pleiss",
+                    "full_name": "Pleiss J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Pelletier",
+                    "full_name": "Pelletier JN",
+                    "initials": "JN"
+                }
+            ],
+            "pubmed_id": "31040324",
+            "type": "J"
+        }
+    ]
+}

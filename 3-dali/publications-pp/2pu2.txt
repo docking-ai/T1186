@@ -1,0 +1,94 @@
+{
+    "2pu2": [
+        {
+            "journal_info": {
+                "volume": "51",
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2008,
+                "issue": "8",
+                "pages": "2502-11"
+            },
+            "doi": "10.1021/jm701500e",
+            "associated_entries": "2pu4, 2r9w, 2r9x",
+            "title": "Comprehensive mechanistic analysis of hits from high-throughput and docking screens against beta-lactamase.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Babaoglu",
+                    "full_name": "Babaoglu K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Simeonov",
+                    "full_name": "Simeonov A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Irwin",
+                    "full_name": "Irwin JJ",
+                    "initials": "JJ"
+                },
+                {
+                    "last_name": "Nelson",
+                    "full_name": "Nelson ME",
+                    "initials": "ME"
+                },
+                {
+                    "last_name": "Feng",
+                    "full_name": "Feng B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Thomas",
+                    "full_name": "Thomas CJ",
+                    "initials": "CJ"
+                },
+                {
+                    "last_name": "Cancian",
+                    "full_name": "Cancian L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Costi",
+                    "full_name": "Costi MP",
+                    "initials": "MP"
+                },
+                {
+                    "last_name": "Maltby",
+                    "full_name": "Maltby DA",
+                    "initials": "DA"
+                },
+                {
+                    "last_name": "Jadhav",
+                    "full_name": "Jadhav A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Inglese",
+                    "full_name": "Inglese J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Austin",
+                    "full_name": "Austin CP",
+                    "initials": "CP"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "pubmed_id": "18333608",
+            "type": "J"
+        }
+    ]
+}

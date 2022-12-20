@@ -1,0 +1,64 @@
+{
+    "7bn9": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Sassine, J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Rao, V.A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Goldsmith, G.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Breukink, E.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Lewis, R.J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Daniel, R.A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Vollmer, W.",
+                    "initials": null
+                }
+            ],
+            "title": "Cooperation between peptidoglycan transpeptidases and SEDS proteins in Bacillus subtilis cell division",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

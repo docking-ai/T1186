@@ -1,0 +1,49 @@
+{
+    "2jc7": [
+        {
+            "journal_info": {
+                "volume": "104",
+                "pdb_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "ISO_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "year": 2007,
+                "issue": "13",
+                "pages": "5354-9"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Santillana",
+                    "full_name": "Santillana E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Beceiro",
+                    "full_name": "Beceiro A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Bou",
+                    "full_name": "Bou G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Romero",
+                    "full_name": "Romero A",
+                    "initials": "A"
+                }
+            ],
+            "title": "Crystal structure of the carbapenemase OXA-24 reveals insights into the mechanism of carbapenem hydrolysis.",
+            "pubmed_id": "17374723",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1073/pnas.0607557104"
+        }
+    ]
+}

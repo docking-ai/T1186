@@ -1,0 +1,59 @@
+{
+    "6t1h": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Takebayashi, Y.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Chirgadze, D.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Henderson, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Warburton, P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Warburton, P.J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Evans, B.E.",
+                    "initials": null
+                }
+            ],
+            "title": "Structure of the OXA-51-like beta-lactamase OXA-66",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

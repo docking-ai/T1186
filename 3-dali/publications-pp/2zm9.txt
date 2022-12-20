@@ -1,0 +1,64 @@
+{
+    "2zm9": [
+        {
+            "journal_info": {
+                "volume": "18",
+                "pdb_abbreviation": "Protein Sci.",
+                "ISO_abbreviation": "Protein Sci.",
+                "year": 2009,
+                "issue": "8",
+                "pages": "1662-73"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Ohki",
+                    "full_name": "Ohki T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Shibata",
+                    "full_name": "Shibata N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Higuchi",
+                    "full_name": "Higuchi Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Kawashima",
+                    "full_name": "Kawashima Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Takeo",
+                    "full_name": "Takeo M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Kato",
+                    "full_name": "Kato D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Negoro",
+                    "full_name": "Negoro S",
+                    "initials": "S"
+                }
+            ],
+            "title": "Two alternative modes for optimizing nylon-6 byproduct hydrolytic activity from a carboxylesterase with a beta-lactamase fold: X-ray crystallographic analysis of directly evolved 6-aminohexanoate-dimer hydrolase.",
+            "pubmed_id": "19521995",
+            "type": "J",
+            "associated_entries": "2zly, 2zm2, 2zm8",
+            "doi": "10.1002/pro.185"
+        }
+    ]
+}

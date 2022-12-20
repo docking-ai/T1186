@@ -1,0 +1,69 @@
+{
+    "5qak": [
+        {
+            "journal_info": {
+                "volume": "145",
+                "pdb_abbreviation": "Eur J Med Chem",
+                "ISO_abbreviation": "Eur J Med Chem",
+                "year": 2018,
+                "issue": null,
+                "pages": "634-648"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Akhter",
+                    "full_name": "Akhter S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Lund",
+                    "full_name": "Lund BA",
+                    "initials": "BA"
+                },
+                {
+                    "last_name": "Ismael",
+                    "full_name": "Ismael A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Langer",
+                    "full_name": "Langer M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Isaksson",
+                    "full_name": "Isaksson J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Christopeit",
+                    "full_name": "Christopeit T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Leiros",
+                    "full_name": "Leiros HS",
+                    "initials": "HS"
+                },
+                {
+                    "last_name": "Bayer",
+                    "full_name": "Bayer A",
+                    "initials": "A"
+                }
+            ],
+            "title": "A focused fragment library targeting the antibiotic resistance enzyme - Oxacillinase-48: Synthesis, structural evaluation and inhibitor design.",
+            "pubmed_id": "29348071",
+            "type": "J",
+            "associated_entries": "5qa4, 5qa5, 5qa6, 5qa7, 5qa8, 5qa9, 5qaa, 5qab, 5qac, 5qad, 5qae, 5qaf, 5qag, 5qah, 5qai, 5qaj, 5qal, 5qam, 5qan, 5qao, 5qap, 5qaq, 5qar, 5qas, 5qat, 5qau, 5qav, 5qaw, 5qax, 5qay, 5qaz, 5qb0, 5qb1, 5qb2, 5qb3, 5qb4",
+            "doi": "10.1016/j.ejmech.2017.12.085"
+        }
+    ]
+}

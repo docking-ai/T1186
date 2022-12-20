@@ -1,0 +1,44 @@
+{
+    "3ixh": [
+        {
+            "journal_info": {
+                "volume": "396",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2010,
+                "issue": "1",
+                "pages": "47-59"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Thomas",
+                    "full_name": "Thomas VL",
+                    "initials": "VL"
+                },
+                {
+                    "last_name": "McReynolds",
+                    "full_name": "McReynolds AC",
+                    "initials": "AC"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "title": "Structural bases for stability-function tradeoffs in antibiotic resistance.",
+            "pubmed_id": "19913034",
+            "type": "J",
+            "associated_entries": "3iwi, 3iwo, 3iwq, 3ixb, 3ixd, 3ixg",
+            "doi": "10.1016/j.jmb.2009.11.005"
+        }
+    ]
+}

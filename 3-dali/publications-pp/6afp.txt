@@ -1,0 +1,74 @@
+{
+    "6afp": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Front Mol Biosci",
+                "ISO_abbreviation": null,
+                "year": 2020,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Cao, T.-P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Yi, H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Dhanasingh, I.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ghosh, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Choi, J.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Lee, K.H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ryu, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kim, H.S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Lee, S.H.",
+                    "initials": null
+                }
+            ],
+            "title": "Non-catalytic-Region Mutations Conferring Transition of Class A beta-Lactamases Into ESBLs.",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.3389/fmolb.2020.598998"
+        }
+    ]
+}

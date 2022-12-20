@@ -1,0 +1,59 @@
+{
+    "4euz": [
+        {
+            "journal_info": {
+                "volume": "134",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2012,
+                "issue": "44",
+                "pages": "18275-85"
+            },
+            "doi": "10.1021/ja304460j",
+            "associated_entries": "4eqi, 4ev4",
+            "title": "The basis for carbapenem hydrolysis by class A \ufffd\ufffd-lactamases: a combined investigation using crystallography and simulations.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Fonseca",
+                    "full_name": "Fonseca F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Chudyk",
+                    "full_name": "Chudyk EI",
+                    "initials": "EI"
+                },
+                {
+                    "last_name": "van der Kamp",
+                    "full_name": "van der Kamp MW",
+                    "initials": "MW"
+                },
+                {
+                    "last_name": "Correia",
+                    "full_name": "Correia A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Mulholland",
+                    "full_name": "Mulholland AJ",
+                    "initials": "AJ"
+                },
+                {
+                    "last_name": "Spencer",
+                    "full_name": "Spencer J",
+                    "initials": "J"
+                }
+            ],
+            "pubmed_id": "23030300",
+            "type": "J"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "4jf6": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Chem. Biol.",
+                "ISO_abbreviation": "Chem. Biol.",
+                "year": 2013,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Smith",
+                    "full_name": "Smith CA",
+                    "initials": "CA"
+                },
+                {
+                    "last_name": "Antunes",
+                    "full_name": "Antunes NT",
+                    "initials": "NT"
+                },
+                {
+                    "last_name": "Stewart",
+                    "full_name": "Stewart NK",
+                    "initials": "NK"
+                },
+                {
+                    "last_name": "Toth",
+                    "full_name": "Toth M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Kumarasiri",
+                    "full_name": "Kumarasiri M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Chang",
+                    "full_name": "Chang M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Mobashery",
+                    "full_name": "Mobashery S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Vakulenko",
+                    "full_name": "Vakulenko SB",
+                    "initials": "SB"
+                }
+            ],
+            "title": "Structural Basis for Carbapenemase Activity of the OXA-23 \ufffd\ufffd-Lactamase from Acinetobacter baumannii.",
+            "pubmed_id": "24012371",
+            "type": "J",
+            "associated_entries": "4jf4, 4jf5",
+            "doi": "10.1016/j.chembiol.2013.07.015"
+        }
+    ]
+}

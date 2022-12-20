@@ -1,0 +1,84 @@
+{
+    "4ua9": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2015,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Nichols",
+                    "full_name": "Nichols DA",
+                    "initials": "DA"
+                },
+                {
+                    "last_name": "Hargis",
+                    "full_name": "Hargis JC",
+                    "initials": "JC"
+                },
+                {
+                    "last_name": "Sanishvili",
+                    "full_name": "Sanishvili R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Jaishankar",
+                    "full_name": "Jaishankar P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Defrees",
+                    "full_name": "Defrees K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Smith",
+                    "full_name": "Smith EW",
+                    "initials": "EW"
+                },
+                {
+                    "last_name": "Wang",
+                    "full_name": "Wang KK",
+                    "initials": "KK"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Renslo",
+                    "full_name": "Renslo AR",
+                    "initials": "AR"
+                },
+                {
+                    "last_name": "Woodcock",
+                    "full_name": "Woodcock HL",
+                    "initials": "HL"
+                },
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Y",
+                    "initials": "Y"
+                }
+            ],
+            "title": "Ligand-induced proton transfer and low-barrier hydrogen bond revealed by X-ray crystallography.",
+            "pubmed_id": "26057252",
+            "type": "J",
+            "associated_entries": "4ua6, 4ua7, 4uaa",
+            "doi": "10.1021/jacs.5b00749"
+        }
+    ]
+}

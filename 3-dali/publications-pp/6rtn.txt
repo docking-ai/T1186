@@ -1,0 +1,94 @@
+{
+    "6rtn": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2019,
+                "issue": null,
+                "pages": null
+            },
+            "doi": "10.1021/acs.jmedchem.9b00911",
+            "associated_entries": "6rmf",
+            "title": "Bicyclic Boronate VNRX-5133 Inhibits Metallo- and Serine-\ufffd\ufffd-Lactamases.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Krajnc",
+                    "full_name": "Krajnc A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Brem",
+                    "full_name": "Brem J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Hinchliffe",
+                    "full_name": "Hinchliffe P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Calvopi\u00f1a",
+                    "full_name": "Calvopi\u00f1a K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Panduwawala",
+                    "full_name": "Panduwawala TD",
+                    "initials": "TD"
+                },
+                {
+                    "last_name": "Lang",
+                    "full_name": "Lang PA",
+                    "initials": "PA"
+                },
+                {
+                    "last_name": "Kamps",
+                    "full_name": "Kamps JJAG",
+                    "initials": "JJAG"
+                },
+                {
+                    "last_name": "Tyrrell",
+                    "full_name": "Tyrrell JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Widlake",
+                    "full_name": "Widlake E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Saward",
+                    "full_name": "Saward BG",
+                    "initials": "BG"
+                },
+                {
+                    "last_name": "Walsh",
+                    "full_name": "Walsh TR",
+                    "initials": "TR"
+                },
+                {
+                    "last_name": "Spencer",
+                    "full_name": "Spencer J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Schofield",
+                    "full_name": "Schofield CJ",
+                    "initials": "CJ"
+                }
+            ],
+            "pubmed_id": "31454231",
+            "type": "J"
+        }
+    ]
+}

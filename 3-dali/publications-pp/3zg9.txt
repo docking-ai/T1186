@@ -1,0 +1,39 @@
+{
+    "3zg9": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Jeong, J.H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kim, Y.G.",
+                    "initials": null
+                }
+            ],
+            "title": "Crystal Structures of Penicillin-Binding Protein 4 from Listeria Monocytogenes",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

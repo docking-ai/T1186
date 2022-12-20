@@ -1,0 +1,44 @@
+{
+    "1l2s": [
+        {
+            "journal_info": {
+                "volume": "10",
+                "pdb_abbreviation": "Structure",
+                "ISO_abbreviation": "Structure",
+                "year": 2002,
+                "issue": "7",
+                "pages": "1013-23"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Powers",
+                    "full_name": "Powers RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Morandi",
+                    "full_name": "Morandi F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "title": "Structure-based discovery of a novel, noncovalent inhibitor of AmpC beta-lactamase.",
+            "pubmed_id": "12121656",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1016/s0969-2126(02)00799-2"
+        }
+    ]
+}

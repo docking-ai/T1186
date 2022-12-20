@@ -1,0 +1,59 @@
+{
+    "5iy2": [
+        {
+            "journal_info": {
+                "volume": "73",
+                "pdb_abbreviation": "Acta Crystallogr D Struct Biol",
+                "ISO_abbreviation": "Acta Crystallogr D Struct Biol",
+                "year": 2017,
+                "issue": "Pt 8",
+                "pages": "692-701"
+            },
+            "doi": "10.1107/s2059798317008671",
+            "associated_entries": null,
+            "title": "The role of conserved surface hydrophobic residues in the carbapenemase activity of the class D \ufffd\ufffd-lactamases.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Toth",
+                    "full_name": "Toth M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Smith",
+                    "full_name": "Smith CA",
+                    "initials": "CA"
+                },
+                {
+                    "last_name": "Antunes",
+                    "full_name": "Antunes NT",
+                    "initials": "NT"
+                },
+                {
+                    "last_name": "Stewart",
+                    "full_name": "Stewart NK",
+                    "initials": "NK"
+                },
+                {
+                    "last_name": "Maltz",
+                    "full_name": "Maltz L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Vakulenko",
+                    "full_name": "Vakulenko SB",
+                    "initials": "SB"
+                }
+            ],
+            "pubmed_id": "28777084",
+            "type": "J"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "3hlc": [
+        {
+            "journal_info": {
+                "volume": "16",
+                "pdb_abbreviation": "Chem. Biol.",
+                "ISO_abbreviation": "Chem. Biol.",
+                "year": 2009,
+                "issue": "10",
+                "pages": "1064-74"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Gao",
+                    "full_name": "Gao X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Xie",
+                    "full_name": "Xie X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Pashkov",
+                    "full_name": "Pashkov I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "Sawaya",
+                    "full_name": "Sawaya MR",
+                    "initials": "MR"
+                },
+                {
+                    "last_name": "Laidman",
+                    "full_name": "Laidman J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Zhang",
+                    "full_name": "Zhang W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Cacho",
+                    "full_name": "Cacho R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Yeates",
+                    "full_name": "Yeates TO",
+                    "initials": "TO"
+                },
+                {
+                    "last_name": "Tang",
+                    "full_name": "Tang Y",
+                    "initials": "Y"
+                }
+            ],
+            "title": "Directed evolution and structural characterization of a simvastatin synthase.",
+            "pubmed_id": "19875080",
+            "type": "J",
+            "associated_entries": "3hl9, 3hlb, 3hld, 3hle, 3hlf, 3hlg",
+            "doi": "10.1016/j.chembiol.2009.09.017"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "5wib": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Biochem. J.",
+                "ISO_abbreviation": "Biochem. J.",
+                "year": 2017,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Harper",
+                    "full_name": "Harper TM",
+                    "initials": "TM"
+                },
+                {
+                    "last_name": "June",
+                    "full_name": "June CM",
+                    "initials": "CM"
+                },
+                {
+                    "last_name": "Taracila",
+                    "full_name": "Taracila MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Powers",
+                    "full_name": "Powers RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Leonard",
+                    "full_name": "Leonard DA",
+                    "initials": "DA"
+                }
+            ],
+            "title": "Multiple substitutions lead to increased loop flexibility and expanded specificity in Acinetobacter baumannii carbapenemase OXA-239.",
+            "pubmed_id": "29229762",
+            "type": "J",
+            "associated_entries": "5wi3, 5wi7",
+            "doi": "10.1042/BCJ20170702"
+        }
+    ]
+}

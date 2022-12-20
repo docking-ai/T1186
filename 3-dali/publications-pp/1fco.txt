@@ -1,0 +1,44 @@
+{
+    "1fco": [
+        {
+            "journal_info": {
+                "volume": "122",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": null,
+                "year": 2000,
+                "issue": null,
+                "pages": "10504-10512"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Patera, A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Blaszczak, L.C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Shoichet, B.K.",
+                    "initials": null
+                }
+            ],
+            "title": "Crystal Structures of Substrate and Inhibitor Complexes with AmpC -Lactamase: Possible Implications for Substrate-Assisted Catalysis",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/ja001676x"
+        }
+    ]
+}

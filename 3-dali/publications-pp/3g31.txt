@@ -1,0 +1,39 @@
+{
+    "3g31": [
+        {
+            "journal_info": {
+                "volume": "5",
+                "pdb_abbreviation": "Nat. Chem. Biol.",
+                "ISO_abbreviation": "Nat. Chem. Biol.",
+                "year": 2009,
+                "issue": "5",
+                "pages": "358-64"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "title": "Molecular docking and ligand specificity in fragment-based inhibitor discovery.",
+            "pubmed_id": "19305397",
+            "type": "J",
+            "associated_entries": "3g2y, 3g2z, 3g30, 3g32, 3g34, 3g35",
+            "doi": "10.1038/nchembio.155"
+        }
+    ]
+}

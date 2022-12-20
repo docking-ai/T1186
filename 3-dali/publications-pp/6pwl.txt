@@ -1,0 +1,74 @@
+{
+    "6pwl": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob Agents Chemother",
+                "year": 2020,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Curtis",
+                    "full_name": "Curtis BN",
+                    "initials": "BN"
+                },
+                {
+                    "last_name": "Smolen",
+                    "full_name": "Smolen KA",
+                    "initials": "KA"
+                },
+                {
+                    "last_name": "Barlow",
+                    "full_name": "Barlow SJ",
+                    "initials": "SJ"
+                },
+                {
+                    "last_name": "Caselli",
+                    "full_name": "Caselli E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Taracila",
+                    "full_name": "Taracila MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Wallar",
+                    "full_name": "Wallar BJ",
+                    "initials": "BJ"
+                },
+                {
+                    "last_name": "Powers",
+                    "full_name": "Powers RA",
+                    "initials": "RA"
+                }
+            ],
+            "title": "Structural insights into inhibition of the <i>Acinetobacter</i> derived cephalosporinase ADC-7 by ceftazidime and its boronic acid transition state analog.",
+            "pubmed_id": "32988830",
+            "type": "J",
+            "associated_entries": "6pwm",
+            "doi": "10.1128/AAC.01183-20"
+        }
+    ]
+}

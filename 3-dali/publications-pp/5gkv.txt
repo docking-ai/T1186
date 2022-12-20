@@ -1,0 +1,69 @@
+{
+    "5gkv": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Ryu, B.H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ngo, T.D.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kim, B.Y.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Yoo, W.K.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Lee, E.J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Lee, S.J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kim, K.K.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Kim, T.D.",
+                    "initials": null
+                }
+            ],
+            "title": "Biochemical and Structural Analysis of a Novel Penicillin-Binding Protein (PBP) Homolog from Caulobacter crescentus",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

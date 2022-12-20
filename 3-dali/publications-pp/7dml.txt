@@ -1,0 +1,84 @@
+{
+    "7dml": [
+        {
+            "journal_info": {
+                "volume": "57",
+                "pdb_abbreviation": "Chem. Commun. (Camb.)",
+                "ISO_abbreviation": null,
+                "year": 2021,
+                "issue": null,
+                "pages": "7709-7712"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Xiao, Y.C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Chen, X.P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Deng, J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Yan, Y.H.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Zhu, K.R.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Li, G.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Yu, J.L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Brem, J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Chen, F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Schofield, C.J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Li, G.B.",
+                    "initials": null
+                }
+            ],
+            "title": "Design and enantioselective synthesis of 3-(alpha-acrylic acid) benzoxaboroles to combat carbapenemase resistance",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1039/D1CC03026D"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "1gce": [
+        {
+            "journal_info": {
+                "volume": "38",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 1999,
+                "issue": "32",
+                "pages": "10256-61"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Crichlow",
+                    "full_name": "Crichlow GV",
+                    "initials": "GV"
+                },
+                {
+                    "last_name": "Kuzin",
+                    "full_name": "Kuzin AP",
+                    "initials": "AP"
+                },
+                {
+                    "last_name": "Nukaga",
+                    "full_name": "Nukaga M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Mayama",
+                    "full_name": "Mayama K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Sawai",
+                    "full_name": "Sawai T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Knox",
+                    "full_name": "Knox JR",
+                    "initials": "JR"
+                }
+            ],
+            "title": "Structure of the extended-spectrum class C beta-lactamase of Enterobacter cloacae GC1, a natural mutant with a tandem tripeptide insertion.",
+            "pubmed_id": "10441119",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/bi9908787"
+        }
+    ]
+}

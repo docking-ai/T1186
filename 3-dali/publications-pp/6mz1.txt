@@ -1,0 +1,74 @@
+{
+    "6mz1": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "ISO_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "year": 2020,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Pemberton",
+                    "full_name": "Pemberton OA",
+                    "initials": "OA"
+                },
+                {
+                    "last_name": "Noor",
+                    "full_name": "Noor RE",
+                    "initials": "RE"
+                },
+                {
+                    "last_name": "Kumar M V",
+                    "full_name": "Kumar M V V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Sanishvili",
+                    "full_name": "Sanishvili R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Kemp",
+                    "full_name": "Kemp MT",
+                    "initials": "MT"
+                },
+                {
+                    "last_name": "Kearns",
+                    "full_name": "Kearns FL",
+                    "initials": "FL"
+                },
+                {
+                    "last_name": "Woodcock",
+                    "full_name": "Woodcock HL",
+                    "initials": "HL"
+                },
+                {
+                    "last_name": "Gelis",
+                    "full_name": "Gelis I",
+                    "initials": "I"
+                },
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Y",
+                    "initials": "Y"
+                }
+            ],
+            "title": "Mechanism of proton transfer in class A \ufffd\ufffd-lactamase catalysis and inhibition by avibactam.",
+            "pubmed_id": "32123084",
+            "type": "J",
+            "associated_entries": "6mz2",
+            "doi": "10.1073/pnas.1922203117"
+        }
+    ]
+}

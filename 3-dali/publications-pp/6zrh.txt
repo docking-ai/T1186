@@ -1,0 +1,64 @@
+{
+    "6zrh": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Tassone, G.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Di Pisa, F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Benvenuti, M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "De Luca, F.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Pozzi, C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Mangani, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Docquier, J.D.",
+                    "initials": null
+                }
+            ],
+            "title": "Mechanistic insights into carbapenem hydrolysis by OXA-48 and the OXA10-derived hybrids OXA-10 loop24 and loop48",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

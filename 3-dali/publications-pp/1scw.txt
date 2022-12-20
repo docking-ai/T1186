@@ -1,0 +1,194 @@
+{
+    "1scw": [
+        {
+            "journal_info": {
+                "volume": "43",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2004,
+                "issue": "22",
+                "pages": "7046-53"
+            },
+            "doi": "10.1021/bi049612c",
+            "associated_entries": "1ikg, 1iki, 1mpl, 1sde, 3pte",
+            "title": "Toward better antibiotics: crystallographic studies of a novel class of DD-peptidase/beta-lactamase inhibitors.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Silvaggi",
+                    "full_name": "Silvaggi NR",
+                    "initials": "NR"
+                },
+                {
+                    "last_name": "Kaur",
+                    "full_name": "Kaur K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Adediran",
+                    "full_name": "Adediran SA",
+                    "initials": "SA"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                },
+                {
+                    "last_name": "Kelly",
+                    "full_name": "Kelly JA",
+                    "initials": "JA"
+                }
+            ],
+            "pubmed_id": "15170342",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "42",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2003,
+                "issue": "5",
+                "pages": "1199-208"
+            },
+            "doi": "10.1021/bi0268955",
+            "associated_entries": "1ikg, 1iki, 1mpl, 1sde, 3pte",
+            "title": "The crystal structure of phosphonate-inhibited D-Ala-D-Ala peptidase reveals an analogue of a tetrahedral transition state.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Silvaggi",
+                    "full_name": "Silvaggi NR",
+                    "initials": "NR"
+                },
+                {
+                    "last_name": "Anderson",
+                    "full_name": "Anderson JW",
+                    "initials": "JW"
+                },
+                {
+                    "last_name": "Brinsmade",
+                    "full_name": "Brinsmade SR",
+                    "initials": "SR"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                },
+                {
+                    "last_name": "Kelly",
+                    "full_name": "Kelly JA",
+                    "initials": "JA"
+                }
+            ],
+            "pubmed_id": "12564922",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "322",
+                "pdb_abbreviation": "J Mol Biol",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2002,
+                "issue": "1",
+                "pages": "111-22"
+            },
+            "doi": "10.1016/s0022-2836(02)00742-8",
+            "associated_entries": "1ikg, 1iki, 1mpl, 1sde, 3pte",
+            "title": "Structures of two kinetic intermediates reveal species specificity of penicillin-binding proteins.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "McDonough",
+                    "full_name": "McDonough MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Anderson",
+                    "full_name": "Anderson JW",
+                    "initials": "JW"
+                },
+                {
+                    "last_name": "Silvaggi",
+                    "full_name": "Silvaggi NR",
+                    "initials": "NR"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                },
+                {
+                    "last_name": "Knox",
+                    "full_name": "Knox JR",
+                    "initials": "JR"
+                },
+                {
+                    "last_name": "Kelly",
+                    "full_name": "Kelly JA",
+                    "initials": "JA"
+                }
+            ],
+            "pubmed_id": "12215418",
+            "type": "J"
+        },
+        {
+            "journal_info": {
+                "volume": "254",
+                "pdb_abbreviation": "J Mol Biol",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 1995,
+                "issue": "2",
+                "pages": "223-36"
+            },
+            "doi": "10.1006/jmbi.1995.0613",
+            "associated_entries": "1ikg, 1iki, 1mpl, 1sde, 3pte",
+            "title": "The refined crystallographic structure of a DD-peptidase penicillin-target enzyme at 1.6 A resolution.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Kelly",
+                    "full_name": "Kelly JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Kuzin",
+                    "full_name": "Kuzin AP",
+                    "initials": "AP"
+                }
+            ],
+            "pubmed_id": "7490745",
+            "type": "J"
+        }
+    ]
+}

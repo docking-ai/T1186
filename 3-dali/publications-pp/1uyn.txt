@@ -1,0 +1,59 @@
+{
+    "1uyn": [
+        {
+            "journal_info": {
+                "volume": "23",
+                "pdb_abbreviation": "EMBO J.",
+                "ISO_abbreviation": "EMBO J.",
+                "year": 2004,
+                "issue": "6",
+                "pages": "1257-66"
+            },
+            "doi": "10.1038/sj.emboj.7600148",
+            "associated_entries": "1uyo",
+            "title": "Structure of the translocator domain of a bacterial autotransporter.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Oomen",
+                    "full_name": "Oomen CJ",
+                    "initials": "CJ"
+                },
+                {
+                    "last_name": "van Ulsen",
+                    "full_name": "van Ulsen P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "van Gelder",
+                    "full_name": "van Gelder P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Feijen",
+                    "full_name": "Feijen M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Tommassen",
+                    "full_name": "Tommassen J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Gros",
+                    "full_name": "Gros P",
+                    "initials": "P"
+                }
+            ],
+            "pubmed_id": "15014442",
+            "type": "J"
+        }
+    ]
+}

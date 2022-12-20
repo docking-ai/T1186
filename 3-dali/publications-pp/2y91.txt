@@ -1,0 +1,74 @@
+{
+    "2y91": [
+        {
+            "journal_info": {
+                "volume": "67",
+                "pdb_abbreviation": "J. Antimicrob. Chemother.",
+                "ISO_abbreviation": "J. Antimicrob. Chemother.",
+                "year": 2012,
+                "issue": "10",
+                "pages": "2379-87"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Power",
+                    "full_name": "Power P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Mercuri",
+                    "full_name": "Mercuri P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Herman",
+                    "full_name": "Herman R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Kerff",
+                    "full_name": "Kerff F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Gutkind",
+                    "full_name": "Gutkind G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Dive",
+                    "full_name": "Dive G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Galleni",
+                    "full_name": "Galleni M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Sauvage",
+                    "full_name": "Sauvage E",
+                    "initials": "E"
+                }
+            ],
+            "title": "Novel fragments of clavulanate observed in the structure of the class A \ufffd\ufffd-lactamase from Bacillus licheniformis BS3.",
+            "pubmed_id": "22773738",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1093/jac/dks231"
+        }
+    ]
+}

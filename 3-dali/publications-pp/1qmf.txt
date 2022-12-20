@@ -1,0 +1,159 @@
+{
+    "1qmf": [
+        {
+            "journal_info": {
+                "volume": "299",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2000,
+                "issue": "2",
+                "pages": "477-85"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Gordon",
+                    "full_name": "Gordon E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Mouz",
+                    "full_name": "Mouz N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Du\u00e9e",
+                    "full_name": "Du\u00e9e E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Dideberg",
+                    "full_name": "Dideberg O",
+                    "initials": "O"
+                }
+            ],
+            "title": "The crystal structure of the penicillin-binding protein 2x from Streptococcus pneumoniae and its acyl-enzyme form: implication in drug resistance.",
+            "pubmed_id": "10860753",
+            "type": "J",
+            "associated_entries": "1pmd, 1qme",
+            "doi": "10.1006/jmbi.2000.3740"
+        },
+        {
+            "journal_info": {
+                "volume": "3",
+                "pdb_abbreviation": "Nat. Struct. Biol.",
+                "ISO_abbreviation": "Nat. Struct. Biol.",
+                "year": 1996,
+                "issue": "3",
+                "pages": "284-9"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Pares",
+                    "full_name": "Pares S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Mouz",
+                    "full_name": "Mouz N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "P\u00e9tillot",
+                    "full_name": "P\u00e9tillot Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Hakenbeck",
+                    "full_name": "Hakenbeck R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Dideberg",
+                    "full_name": "Dideberg O",
+                    "initials": "O"
+                }
+            ],
+            "title": "X-ray structure of Streptococcus pneumoniae PBP2x, a primary penicillin target enzyme.",
+            "pubmed_id": "8605631",
+            "type": "J",
+            "associated_entries": "1pmd, 1qme",
+            "doi": "10.1038/nsb0396-284"
+        },
+        {
+            "journal_info": {
+                "volume": "232",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 1993,
+                "issue": "3",
+                "pages": "1007-9"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Buisson",
+                    "full_name": "Buisson G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Dideberg",
+                    "full_name": "Dideberg O",
+                    "initials": "O"
+                },
+                {
+                    "last_name": "Wierenga",
+                    "full_name": "Wierenga J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Keck",
+                    "full_name": "Keck W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Laible",
+                    "full_name": "Laible G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Hakenbeck",
+                    "full_name": "Hakenbeck R",
+                    "initials": "R"
+                }
+            ],
+            "title": "Crystallization of a genetically engineered water-soluble primary penicillin target enzyme. The high molecular mass PBP2x of Streptococcus pneumoniae.",
+            "pubmed_id": "8355266",
+            "type": "J",
+            "associated_entries": "1pmd, 1qme",
+            "doi": "10.1006/jmbi.1993.1452"
+        }
+    ]
+}

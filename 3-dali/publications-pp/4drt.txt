@@ -1,0 +1,94 @@
+{
+    "4drt": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Nat. Chem. Biol.",
+                "ISO_abbreviation": "Nat. Chem. Biol.",
+                "year": 2014,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Rajagopalan",
+                    "full_name": "Rajagopalan S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Wang",
+                    "full_name": "Wang C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Yu",
+                    "full_name": "Yu K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Kuzin",
+                    "full_name": "Kuzin AP",
+                    "initials": "AP"
+                },
+                {
+                    "last_name": "Richter",
+                    "full_name": "Richter F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Lew",
+                    "full_name": "Lew S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Miklos",
+                    "full_name": "Miklos AE",
+                    "initials": "AE"
+                },
+                {
+                    "last_name": "Matthews",
+                    "full_name": "Matthews ML",
+                    "initials": "ML"
+                },
+                {
+                    "last_name": "Seetharaman",
+                    "full_name": "Seetharaman J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Su",
+                    "full_name": "Su M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Hunt",
+                    "full_name": "Hunt JF",
+                    "initials": "JF"
+                },
+                {
+                    "last_name": "Cravatt",
+                    "full_name": "Cravatt BF",
+                    "initials": "BF"
+                },
+                {
+                    "last_name": "Baker",
+                    "full_name": "Baker D",
+                    "initials": "D"
+                }
+            ],
+            "title": "Design of activated serine-containing catalytic triads with atomic-level accuracy.",
+            "pubmed_id": "24705591",
+            "type": "J",
+            "associated_entries": "3tp4, 3v45, 4ess, 4etj, 4etk, 4f2v, 4jca, 4jll, 4jvv",
+            "doi": "10.1038/nchembio.1498"
+        }
+    ]
+}

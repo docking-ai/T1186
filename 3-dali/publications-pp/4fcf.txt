@@ -1,0 +1,99 @@
+{
+    "4fcf": [
+        {
+            "journal_info": {
+                "volume": "56",
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2013,
+                "issue": "3",
+                "pages": "1084-97"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Winkler",
+                    "full_name": "Winkler ML",
+                    "initials": "ML"
+                },
+                {
+                    "last_name": "Rodkey",
+                    "full_name": "Rodkey EA",
+                    "initials": "EA"
+                },
+                {
+                    "last_name": "Taracila",
+                    "full_name": "Taracila MA",
+                    "initials": "MA"
+                },
+                {
+                    "last_name": "Drawz",
+                    "full_name": "Drawz SM",
+                    "initials": "SM"
+                },
+                {
+                    "last_name": "Bethel",
+                    "full_name": "Bethel CR",
+                    "initials": "CR"
+                },
+                {
+                    "last_name": "Papp-Wallace",
+                    "full_name": "Papp-Wallace KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Smith",
+                    "full_name": "Smith KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Xu",
+                    "full_name": "Xu Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Dwulit-Smith",
+                    "full_name": "Dwulit-Smith JR",
+                    "initials": "JR"
+                },
+                {
+                    "last_name": "Romagnoli",
+                    "full_name": "Romagnoli C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Caselli",
+                    "full_name": "Caselli E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "van den Akker",
+                    "full_name": "van den Akker F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                }
+            ],
+            "title": "Design and exploration of novel boronic acid inhibitors reveals important interactions with a clavulanic acid-resistant sulfhydryl-variable (SHV) \ufffd\ufffd-lactamase.",
+            "pubmed_id": "23252553",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/jm301490d"
+        }
+    ]
+}

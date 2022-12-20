@@ -1,0 +1,54 @@
+{
+    "5aq7": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2016,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Batyuk",
+                    "full_name": "Batyuk A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Wu",
+                    "full_name": "Wu Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Honegger",
+                    "full_name": "Honegger A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Heberling",
+                    "full_name": "Heberling MM",
+                    "initials": "MM"
+                },
+                {
+                    "last_name": "Pl\u00fcckthun",
+                    "full_name": "Pl\u00fcckthun A",
+                    "initials": "A"
+                }
+            ],
+            "title": "DARPin-Based Crystallization Chaperones Exploit Molecular Geometry as a Screening Dimension in Protein Crystallography.",
+            "pubmed_id": "26975886",
+            "type": "J",
+            "associated_entries": "5aq8, 5aq9, 5aqa, 5aqb",
+            "doi": "10.1016/j.jmb.2016.03.002"
+        }
+    ]
+}

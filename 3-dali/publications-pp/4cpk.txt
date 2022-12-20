@@ -1,0 +1,69 @@
+{
+    "4cpk": [
+        {
+            "journal_info": {
+                "volume": "136",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2014,
+                "issue": "28",
+                "pages": "9814-7"
+            },
+            "doi": "10.1021/ja5030657",
+            "associated_entries": "4bl2, 4bl3",
+            "title": "Disruption of allosteric response as an unprecedented mechanism of resistance to antibiotics.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Fishovitz",
+                    "full_name": "Fishovitz J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Rojas-Altuve",
+                    "full_name": "Rojas-Altuve A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Otero",
+                    "full_name": "Otero LH",
+                    "initials": "LH"
+                },
+                {
+                    "last_name": "Dawley",
+                    "full_name": "Dawley M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Carrasco-L\u00f3pez",
+                    "full_name": "Carrasco-L\u00f3pez C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Chang",
+                    "full_name": "Chang M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Hermoso",
+                    "full_name": "Hermoso JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Mobashery",
+                    "full_name": "Mobashery S",
+                    "initials": "S"
+                }
+            ],
+            "pubmed_id": "24955778",
+            "type": "J"
+        }
+    ]
+}

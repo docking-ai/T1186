@@ -1,0 +1,74 @@
+{
+    "6q35": [
+        {
+            "journal_info": {
+                "volume": "10",
+                "pdb_abbreviation": "ACS Med Chem Lett",
+                "ISO_abbreviation": "ACS Med Chem Lett",
+                "year": 2019,
+                "issue": "4",
+                "pages": "650-655"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Cendron",
+                    "full_name": "Cendron L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Quotadamo",
+                    "full_name": "Quotadamo A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Maso",
+                    "full_name": "Maso L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Bellio",
+                    "full_name": "Bellio P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Montanari",
+                    "full_name": "Montanari M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Celenza",
+                    "full_name": "Celenza G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Venturelli",
+                    "full_name": "Venturelli A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Costi",
+                    "full_name": "Costi MP",
+                    "initials": "MP"
+                },
+                {
+                    "last_name": "Tondi",
+                    "full_name": "Tondi D",
+                    "initials": "D"
+                }
+            ],
+            "title": "X-ray Crystallography Deciphers the Activity of Broad-Spectrum Boronic Acid \ufffd\ufffd-Lactamase Inhibitors.",
+            "pubmed_id": "30996812",
+            "type": "J",
+            "associated_entries": "6ibs, 6ibv, 6q2y, 6q30",
+            "doi": "10.1021/acsmedchemlett.8b00607"
+        }
+    ]
+}

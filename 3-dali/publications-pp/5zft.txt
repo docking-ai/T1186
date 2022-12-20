@@ -1,0 +1,54 @@
+{
+    "5zft": [
+        {
+            "journal_info": {
+                "volume": "10",
+                "pdb_abbreviation": "Sci Rep",
+                "ISO_abbreviation": "Sci Rep",
+                "year": 2020,
+                "issue": "1",
+                "pages": "10205"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "He",
+                    "full_name": "He Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Lei",
+                    "full_name": "Lei J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Pan",
+                    "full_name": "Pan X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Huang",
+                    "full_name": "Huang X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Zhao",
+                    "full_name": "Zhao Y",
+                    "initials": "Y"
+                }
+            ],
+            "title": "The hydrolytic water molecule of Class A \ufffd\ufffd-lactamase relies on the acyl-enzyme intermediate ES* for proper coordination and catalysis.",
+            "pubmed_id": "32576842",
+            "type": "J",
+            "associated_entries": "5zfl, 5zg6",
+            "doi": "10.1038/s41598-020-66431-w"
+        }
+    ]
+}

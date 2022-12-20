@@ -1,0 +1,49 @@
+{
+    "6v4w": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Tan, K.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Welk, L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Endres, M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Joachimiak, A.",
+                    "initials": null
+                }
+            ],
+            "title": "The crystal structure of a beta-lactamase from Chitinophaga pinensis DSM 2588",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

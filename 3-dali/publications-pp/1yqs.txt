@@ -1,0 +1,74 @@
+{
+    "1yqs": [
+        {
+            "journal_info": {
+                "volume": "44",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2005,
+                "issue": "21",
+                "pages": "7738-46"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Llin\u00e1s",
+                    "full_name": "Llin\u00e1s A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Ahmed",
+                    "full_name": "Ahmed N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Cordaro",
+                    "full_name": "Cordaro M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Laws",
+                    "full_name": "Laws AP",
+                    "initials": "AP"
+                },
+                {
+                    "last_name": "Fr\u00e8re",
+                    "full_name": "Fr\u00e8re JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Delmarcelle",
+                    "full_name": "Delmarcelle M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Silvaggi",
+                    "full_name": "Silvaggi NR",
+                    "initials": "NR"
+                },
+                {
+                    "last_name": "Kelly",
+                    "full_name": "Kelly JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Page",
+                    "full_name": "Page MI",
+                    "initials": "MI"
+                }
+            ],
+            "title": "Inactivation of bacterial DD-peptidase by beta-sultams.",
+            "pubmed_id": "15909988",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1021/bi050110o"
+        }
+    ]
+}

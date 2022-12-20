@@ -1,0 +1,84 @@
+{
+    "2wki": [
+        {
+            "journal_info": {
+                "volume": "432",
+                "pdb_abbreviation": "Biochem. J.",
+                "ISO_abbreviation": "Biochem. J.",
+                "year": 2010,
+                "issue": "3",
+                "pages": "495-504"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Vercheval",
+                    "full_name": "Vercheval L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Bauvois",
+                    "full_name": "Bauvois C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "di Paolo",
+                    "full_name": "di Paolo A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Borel",
+                    "full_name": "Borel F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Ferrer",
+                    "full_name": "Ferrer JL",
+                    "initials": "JL"
+                },
+                {
+                    "last_name": "Sauvage",
+                    "full_name": "Sauvage E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Matagne",
+                    "full_name": "Matagne A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Fr\u00e8re",
+                    "full_name": "Fr\u00e8re JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Galleni",
+                    "full_name": "Galleni M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Kerff",
+                    "full_name": "Kerff F",
+                    "initials": "F"
+                }
+            ],
+            "title": "Three factors that modulate the activity of class D \ufffd\ufffd-lactamases and interfere with the post-translational carboxylation of Lys70.",
+            "pubmed_id": "21108605",
+            "type": "J",
+            "associated_entries": "2wgv, 2wgw, 2wkh",
+            "doi": "10.1042/BJ20101122"
+        }
+    ]
+}

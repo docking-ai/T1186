@@ -1,0 +1,94 @@
+{
+    "2y2o": [
+        {
+            "journal_info": {
+                "volume": "6",
+                "pdb_abbreviation": "ACS Chem. Biol.",
+                "ISO_abbreviation": "ACS Chem. Biol.",
+                "year": 2011,
+                "issue": "9",
+                "pages": "943-51"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Contreras-Martel",
+                    "full_name": "Contreras-Martel C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Amoroso",
+                    "full_name": "Amoroso A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Woon",
+                    "full_name": "Woon EC",
+                    "initials": "EC"
+                },
+                {
+                    "last_name": "Zervosen",
+                    "full_name": "Zervosen A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Inglis",
+                    "full_name": "Inglis S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Martins",
+                    "full_name": "Martins A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Verlaine",
+                    "full_name": "Verlaine O",
+                    "initials": "O"
+                },
+                {
+                    "last_name": "Rydzik",
+                    "full_name": "Rydzik AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Job",
+                    "full_name": "Job V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Luxen",
+                    "full_name": "Luxen A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Joris",
+                    "full_name": "Joris B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Schofield",
+                    "full_name": "Schofield CJ",
+                    "initials": "CJ"
+                },
+                {
+                    "last_name": "Dessen",
+                    "full_name": "Dessen A",
+                    "initials": "A"
+                }
+            ],
+            "title": "Structure-guided design of cell wall biosynthesis inhibitors that overcome \ufffd\ufffd-lactam resistance in Staphylococcus aureus (MRSA).",
+            "pubmed_id": "21732689",
+            "type": "J",
+            "associated_entries": "2y2g, 2y2h, 2y2i, 2y2j, 2y2k, 2y2l, 2y2m, 2y2n, 2y2p, 2y2q",
+            "doi": "10.1021/cb2001846"
+        }
+    ]
+}

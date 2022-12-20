@@ -1,0 +1,74 @@
+{
+    "4okp": [
+        {
+            "journal_info": {
+                "volume": "136",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2014,
+                "issue": "20",
+                "pages": "7374-82"
+            },
+            "doi": "10.1021/ja501354q",
+            "associated_entries": "4old, 4olg",
+            "title": "Substrate deconstruction and the nonadditivity of enzyme recognition.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Barelier",
+                    "full_name": "Barelier S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Cummings",
+                    "full_name": "Cummings JA",
+                    "initials": "JA"
+                },
+                {
+                    "last_name": "Rauwerdink",
+                    "full_name": "Rauwerdink AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Hitchcock",
+                    "full_name": "Hitchcock DS",
+                    "initials": "DS"
+                },
+                {
+                    "last_name": "Farelli",
+                    "full_name": "Farelli JD",
+                    "initials": "JD"
+                },
+                {
+                    "last_name": "Almo",
+                    "full_name": "Almo SC",
+                    "initials": "SC"
+                },
+                {
+                    "last_name": "Raushel",
+                    "full_name": "Raushel FM",
+                    "initials": "FM"
+                },
+                {
+                    "last_name": "Allen",
+                    "full_name": "Allen KN",
+                    "initials": "KN"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "pubmed_id": "24791931",
+            "type": "J"
+        }
+    ]
+}

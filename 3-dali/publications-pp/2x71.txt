@@ -1,0 +1,54 @@
+{
+    "2x71": [
+        {
+            "journal_info": {
+                "volume": "53",
+                "pdb_abbreviation": "J. Med. Chem.",
+                "ISO_abbreviation": "J. Med. Chem.",
+                "year": 2010,
+                "issue": "15",
+                "pages": "5890-4"
+            },
+            "doi": "10.1021/jm100437u",
+            "associated_entries": null,
+            "title": "Structural basis for the interaction of lactivicins with serine beta-lactamases.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Brown",
+                    "full_name": "Brown T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Herman",
+                    "full_name": "Herman R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Schofield",
+                    "full_name": "Schofield CJ",
+                    "initials": "CJ"
+                },
+                {
+                    "last_name": "Sauvage",
+                    "full_name": "Sauvage E",
+                    "initials": "E"
+                }
+            ],
+            "pubmed_id": "20593835",
+            "type": "J"
+        }
+    ]
+}

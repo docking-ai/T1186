@@ -1,0 +1,94 @@
+{
+    "3d4f": [
+        {
+            "journal_info": {
+                "volume": "284",
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J. Biol. Chem.",
+                "year": 2009,
+                "issue": "2",
+                "pages": "945-53"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Pattanaik",
+                    "full_name": "Pattanaik P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Bethel",
+                    "full_name": "Bethel CR",
+                    "initials": "CR"
+                },
+                {
+                    "last_name": "Hujer",
+                    "full_name": "Hujer AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Hujer",
+                    "full_name": "Hujer KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Distler",
+                    "full_name": "Distler AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Taracila",
+                    "full_name": "Taracila M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Anderson",
+                    "full_name": "Anderson VE",
+                    "initials": "VE"
+                },
+                {
+                    "last_name": "Fritsche",
+                    "full_name": "Fritsche TR",
+                    "initials": "TR"
+                },
+                {
+                    "last_name": "Jones",
+                    "full_name": "Jones RN",
+                    "initials": "RN"
+                },
+                {
+                    "last_name": "Pagadala",
+                    "full_name": "Pagadala SR",
+                    "initials": "SR"
+                },
+                {
+                    "last_name": "van den Akker",
+                    "full_name": "van den Akker F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Buynak",
+                    "full_name": "Buynak JD",
+                    "initials": "JD"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                }
+            ],
+            "title": "Strategic design of an effective beta-lactamase inhibitor: LN-1-255, a 6-alkylidene-2'-substituted penicillin sulfone.",
+            "pubmed_id": "18955486",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1074/jbc.M806833200"
+        }
+    ]
+}

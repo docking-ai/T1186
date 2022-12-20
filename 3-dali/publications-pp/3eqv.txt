@@ -1,0 +1,54 @@
+{
+    "3eqv": [
+        {
+            "journal_info": {
+                "volume": "284",
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J. Biol. Chem.",
+                "year": 2009,
+                "issue": "2",
+                "pages": "1202-12"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Powell",
+                    "full_name": "Powell AJ",
+                    "initials": "AJ"
+                },
+                {
+                    "last_name": "Tomberg",
+                    "full_name": "Tomberg J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Deacon",
+                    "full_name": "Deacon AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Nicholas",
+                    "full_name": "Nicholas RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "Davies",
+                    "full_name": "Davies C",
+                    "initials": "C"
+                }
+            ],
+            "title": "Crystal structures of penicillin-binding protein 2 from penicillin-susceptible and -resistant strains of Neisseria gonorrhoeae reveal an unexpectedly subtle mechanism for antibiotic resistance.",
+            "pubmed_id": "18986991",
+            "type": "J",
+            "associated_entries": "3equ",
+            "doi": "10.1074/jbc.M805761200"
+        }
+    ]
+}

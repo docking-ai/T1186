@@ -1,0 +1,44 @@
+{
+    "1jwp": [
+        {
+            "journal_info": {
+                "volume": "320",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2002,
+                "issue": "1",
+                "pages": "85-95"
+            },
+            "doi": "10.1016/S0022-2836(02)00400-X",
+            "associated_entries": "1jwv, 1jwz",
+            "title": "Evolution of an antibiotic resistance enzyme constrained by stability and activity trade-offs.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Wang",
+                    "full_name": "Wang X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Minasov",
+                    "full_name": "Minasov G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Shoichet",
+                    "full_name": "Shoichet BK",
+                    "initials": "BK"
+                }
+            ],
+            "pubmed_id": "12079336",
+            "type": "J"
+        }
+    ]
+}

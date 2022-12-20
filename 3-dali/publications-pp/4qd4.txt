@@ -1,0 +1,84 @@
+{
+    "4qd4": [
+        {
+            "journal_info": {
+                "volume": "70",
+                "pdb_abbreviation": "Acta Crystallogr. D Biol. Crystallogr.",
+                "ISO_abbreviation": "Acta Crystallogr. D Biol. Crystallogr.",
+                "year": 2014,
+                "issue": "Pt 11",
+                "pages": "2924-36"
+            },
+            "doi": "10.1107/s1399004714019543",
+            "associated_entries": null,
+            "title": "Structure of ADC-68, a novel carbapenem-hydrolyzing class C extended-spectrum \ufffd\ufffd-lactamase isolated from Acinetobacter baumannii.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Jeon",
+                    "full_name": "Jeon JH",
+                    "initials": "JH"
+                },
+                {
+                    "last_name": "Hong",
+                    "full_name": "Hong MK",
+                    "initials": "MK"
+                },
+                {
+                    "last_name": "Lee",
+                    "full_name": "Lee JH",
+                    "initials": "JH"
+                },
+                {
+                    "last_name": "Lee",
+                    "full_name": "Lee JJ",
+                    "initials": "JJ"
+                },
+                {
+                    "last_name": "Park",
+                    "full_name": "Park KS",
+                    "initials": "KS"
+                },
+                {
+                    "last_name": "Karim",
+                    "full_name": "Karim AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Jo",
+                    "full_name": "Jo JY",
+                    "initials": "JY"
+                },
+                {
+                    "last_name": "Kim",
+                    "full_name": "Kim JH",
+                    "initials": "JH"
+                },
+                {
+                    "last_name": "Ko",
+                    "full_name": "Ko KS",
+                    "initials": "KS"
+                },
+                {
+                    "last_name": "Kang",
+                    "full_name": "Kang LW",
+                    "initials": "LW"
+                },
+                {
+                    "last_name": "Lee",
+                    "full_name": "Lee SH",
+                    "initials": "SH"
+                }
+            ],
+            "pubmed_id": "25372683",
+            "type": "J"
+        }
+    ]
+}

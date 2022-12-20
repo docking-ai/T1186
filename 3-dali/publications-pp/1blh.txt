@@ -1,0 +1,299 @@
+{
+    "1blh": [
+        {
+            "journal_info": {
+                "volume": "234",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 1993,
+                "issue": "1",
+                "pages": "165-78"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen CC",
+                    "initials": "CC"
+                },
+                {
+                    "last_name": "Rahil",
+                    "full_name": "Rahil J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                },
+                {
+                    "last_name": "Herzberg",
+                    "full_name": "Herzberg O",
+                    "initials": "O"
+                }
+            ],
+            "title": "Structure of a phosphonate-inhibited beta-lactamase. An analog of the tetrahedral transition state/intermediate of beta-lactam hydrolysis.",
+            "pubmed_id": "8230196",
+            "type": "J",
+            "associated_entries": "1blc, 1blp",
+            "doi": "10.1006/jmbi.1993.1571"
+        },
+        {
+            "journal_info": {
+                "volume": "224",
+                "pdb_abbreviation": "J Mol Biol",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 1992,
+                "issue": "4",
+                "pages": "1103-13"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen CC",
+                    "initials": "CC"
+                },
+                {
+                    "last_name": "Herzberg",
+                    "full_name": "Herzberg O",
+                    "initials": "O"
+                }
+            ],
+            "title": "Inhibition of beta-lactamase by clavulanate. Trapped intermediates in cryocrystallographic studies.",
+            "pubmed_id": "1569569",
+            "type": "J",
+            "associated_entries": "1blc, 1blp",
+            "doi": "10.1016/0022-2836(92)90472-v"
+        },
+        {
+            "journal_info": {
+                "volume": "217",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": null,
+                "year": 1991,
+                "issue": null,
+                "pages": "701-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Herzberg, O.",
+                    "initials": null
+                }
+            ],
+            "title": "Refined Crystal Structure of Beta-Lactamase from Staphylococcus Aureus Pc1 at 2.0 Angstroms Resolution",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": "1blc, 1blp",
+            "doi": null
+        },
+        {
+            "journal_info": {
+                "volume": "30",
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 1991,
+                "issue": "39",
+                "pages": "9503-9"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Herzberg",
+                    "full_name": "Herzberg O",
+                    "initials": "O"
+                },
+                {
+                    "last_name": "Kapadia",
+                    "full_name": "Kapadia G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Blanco",
+                    "full_name": "Blanco B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Smith",
+                    "full_name": "Smith TS",
+                    "initials": "TS"
+                },
+                {
+                    "last_name": "Coulson",
+                    "full_name": "Coulson A",
+                    "initials": "A"
+                }
+            ],
+            "title": "Structural basis for the inactivation of the P54 mutant of beta-lactamase from Staphylococcus aureus PC1.",
+            "pubmed_id": "1892849",
+            "type": "J",
+            "associated_entries": "1blc, 1blp",
+            "doi": "10.1021/bi00103a017"
+        },
+        {
+            "journal_info": {
+                "volume": "1",
+                "pdb_abbreviation": "Curr. Opin. Struct. Biol.",
+                "ISO_abbreviation": null,
+                "year": 1991,
+                "issue": null,
+                "pages": "946-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Herzberg, O.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Moult, J.",
+                    "initials": null
+                }
+            ],
+            "title": "Penicillin-Binding and Degrading Enzymes",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": "1blc, 1blp",
+            "doi": null
+        },
+        {
+            "journal_info": {
+                "volume": "236",
+                "pdb_abbreviation": "Science",
+                "ISO_abbreviation": null,
+                "year": 1987,
+                "issue": null,
+                "pages": "694-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Herzberg, O.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Moult, J.",
+                    "initials": null
+                }
+            ],
+            "title": "Bacterial Resistance to Beta-Lactam Antibiotics. Crystal Structure of Beta-Lactamase from Staphylococcus Aureus Pc1 at 2.5 Angstroms Resolution",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": "1blc, 1blp",
+            "doi": null
+        },
+        {
+            "journal_info": {
+                "volume": "225",
+                "pdb_abbreviation": "Biochem. J.",
+                "ISO_abbreviation": null,
+                "year": 1985,
+                "issue": null,
+                "pages": "167-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Moult, J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Sawyer, L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Herzberg, O.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Jones, C.L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Coulson, A.F.W.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Green, D.W.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Harding, M.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ambler, R.P.",
+                    "initials": null
+                }
+            ],
+            "title": "The Crystal Structure of Beta-Lactamase from Staphylococcus Aureus at 0.5Nm Resolution",
+            "pubmed_id": null,
+            "type": "J",
+            "associated_entries": "1blc, 1blp",
+            "doi": null
+        }
+    ]
+}

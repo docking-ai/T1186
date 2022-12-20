@@ -1,0 +1,64 @@
+{
+    "6bpf": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "To be published",
+                "ISO_abbreviation": null,
+                "year": null,
+                "issue": null,
+                "pages": "-"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Power, P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ghiglione, B.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Rodriguez, M.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Gutkind, G.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Ishii, Y.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Bonomo, R.A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Klinke, S.",
+                    "initials": null
+                }
+            ],
+            "title": "NCTX-M-1 (formerly CTX-M-151) class A extended-spectrum beta-lactamase crystal structure in complex with avibactam at 1.32 Angstrom resolution",
+            "pubmed_id": null,
+            "type": "U",
+            "associated_entries": null,
+            "doi": null
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "6kjq": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2020,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Xiao",
+                    "full_name": "Xiao F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Dong",
+                    "full_name": "Dong S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Liu",
+                    "full_name": "Liu Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Feng",
+                    "full_name": "Feng Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Li",
+                    "full_name": "Li H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Yun",
+                    "full_name": "Yun CH",
+                    "initials": "CH"
+                },
+                {
+                    "last_name": "Cui",
+                    "full_name": "Cui Q",
+                    "initials": "Q"
+                },
+                {
+                    "last_name": "Li",
+                    "full_name": "Li W",
+                    "initials": "W"
+                }
+            ],
+            "title": "Structural Basis of Specificity for Carboxyl-terminated Acyl Donors in A Bacterial Acyltransferase.",
+            "pubmed_id": "32803979",
+            "type": "J",
+            "associated_entries": "6kjh, 6kjj, 6kjp, 6kjr, 6kjt",
+            "doi": "10.1021/jacs.0c07331"
+        }
+    ]
+}

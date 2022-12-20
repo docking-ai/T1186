@@ -1,0 +1,69 @@
+{
+    "2zj9": [
+        {
+            "journal_info": {
+                "volume": "65",
+                "pdb_abbreviation": "Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun.",
+                "ISO_abbreviation": "Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun.",
+                "year": 2009,
+                "issue": "Pt 6",
+                "pages": "540-3"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Yamaguchi",
+                    "full_name": "Yamaguchi Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Sato",
+                    "full_name": "Sato G",
+                    "initials": "G"
+                },
+                {
+                    "last_name": "Yamagata",
+                    "full_name": "Yamagata Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Doi",
+                    "full_name": "Doi Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Wachino",
+                    "full_name": "Wachino J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Arakawa",
+                    "full_name": "Arakawa Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Matsuda",
+                    "full_name": "Matsuda K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Kurosaki",
+                    "full_name": "Kurosaki H",
+                    "initials": "H"
+                }
+            ],
+            "title": "Structure of AmpC beta-lactamase (AmpCD) from an Escherichia coli clinical isolate with a tripeptide deletion (Gly286-Ser287-Asp288) in the H10 helix.",
+            "pubmed_id": "19478427",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1107/s1744309109014249"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "7a74": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob Agents Chemother",
+                "year": 2021,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Elings",
+                    "full_name": "Elings W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Chikunova",
+                    "full_name": "Chikunova A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "van Zanten",
+                    "full_name": "van Zanten DB",
+                    "initials": "DB"
+                },
+                {
+                    "last_name": "Drenth",
+                    "full_name": "Drenth R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Ahmad",
+                    "full_name": "Ahmad MUD",
+                    "initials": "MUD"
+                },
+                {
+                    "last_name": "Blok",
+                    "full_name": "Blok AJ",
+                    "initials": "AJ"
+                },
+                {
+                    "last_name": "Timmer",
+                    "full_name": "Timmer M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Perrakis",
+                    "full_name": "Perrakis A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Ubbink",
+                    "full_name": "Ubbink M",
+                    "initials": "M"
+                }
+            ],
+            "title": "Two \ufffd\ufffd-lactamase variants with reduced clavulanic acid inhibition display different millisecond dynamics.",
+            "pubmed_id": "34031049",
+            "type": "J",
+            "associated_entries": null,
+            "doi": "10.1128/AAC.02628-20"
+        }
+    ]
+}

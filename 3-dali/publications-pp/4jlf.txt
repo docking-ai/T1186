@@ -1,0 +1,84 @@
+{
+    "4jlf": [
+        {
+            "journal_info": {
+                "volume": "57",
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2013,
+                "issue": "12",
+                "pages": "6085-96"
+            },
+            "doi": "10.1128/aac.01253-13",
+            "associated_entries": null,
+            "title": "Can inhibitor-resistant substitutions in the Mycobacterium tuberculosis \ufffd\ufffd-Lactamase BlaC lead to clavulanate resistance?: a biochemical rationale for the use of \ufffd\ufffd-lactam-\ufffd\ufffd-lactamase inhibitor combinations.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Kurz",
+                    "full_name": "Kurz SG",
+                    "initials": "SG"
+                },
+                {
+                    "last_name": "Wolff",
+                    "full_name": "Wolff KA",
+                    "initials": "KA"
+                },
+                {
+                    "last_name": "Hazra",
+                    "full_name": "Hazra S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Bethel",
+                    "full_name": "Bethel CR",
+                    "initials": "CR"
+                },
+                {
+                    "last_name": "Hujer",
+                    "full_name": "Hujer AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Smith",
+                    "full_name": "Smith KM",
+                    "initials": "KM"
+                },
+                {
+                    "last_name": "Xu",
+                    "full_name": "Xu Y",
+                    "initials": "Y"
+                },
+                {
+                    "last_name": "Tremblay",
+                    "full_name": "Tremblay LW",
+                    "initials": "LW"
+                },
+                {
+                    "last_name": "Blanchard",
+                    "full_name": "Blanchard JS",
+                    "initials": "JS"
+                },
+                {
+                    "last_name": "Nguyen",
+                    "full_name": "Nguyen L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                }
+            ],
+            "pubmed_id": "24060876",
+            "type": "J"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "6lc8": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Antimicrob. Agents Chemother.",
+                "ISO_abbreviation": "Antimicrob. Agents Chemother.",
+                "year": 2020,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Kawai",
+                    "full_name": "Kawai A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "McElheny",
+                    "full_name": "McElheny CL",
+                    "initials": "CL"
+                },
+                {
+                    "last_name": "Iovleva",
+                    "full_name": "Iovleva A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Kline",
+                    "full_name": "Kline EG",
+                    "initials": "EG"
+                },
+                {
+                    "last_name": "Sluis-Cremer",
+                    "full_name": "Sluis-Cremer N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Shields",
+                    "full_name": "Shields RK",
+                    "initials": "RK"
+                },
+                {
+                    "last_name": "Doi",
+                    "full_name": "Doi Y",
+                    "initials": "Y"
+                }
+            ],
+            "title": "Structural basis of reduced susceptibility to ceftazidime-avibactam and cefiderocol in <i>Enterobacter cloacae</i> due to AmpC R2 loop deletion.",
+            "pubmed_id": "32284381",
+            "type": "J",
+            "associated_entries": "6lc7, 6lc9",
+            "doi": "10.1128/AAC.00198-20"
+        }
+    ]
+}

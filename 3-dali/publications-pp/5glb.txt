@@ -1,0 +1,64 @@
+{
+    "5glb": [
+        {
+            "journal_info": {
+                "volume": "6",
+                "pdb_abbreviation": "Sci Rep",
+                "ISO_abbreviation": "Sci Rep",
+                "year": 2016,
+                "issue": null,
+                "pages": "36527"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Yi",
+                    "full_name": "Yi H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Choi",
+                    "full_name": "Choi JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Hwang",
+                    "full_name": "Hwang J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Prati",
+                    "full_name": "Prati F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Cao",
+                    "full_name": "Cao TP",
+                    "initials": "TP"
+                },
+                {
+                    "last_name": "Lee",
+                    "full_name": "Lee SH",
+                    "initials": "SH"
+                },
+                {
+                    "last_name": "Kim",
+                    "full_name": "Kim HS",
+                    "initials": "HS"
+                }
+            ],
+            "title": "High adaptability of the omega loop underlies the substrate-spectrum-extension evolution of a class A \ufffd\ufffd-lactamase, PenL.",
+            "pubmed_id": "27827433",
+            "type": "J",
+            "associated_entries": "5gl9, 5gla, 5glc, 5gld",
+            "doi": "10.1038/srep36527"
+        }
+    ]
+}

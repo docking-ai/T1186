@@ -1,0 +1,54 @@
+{
+    "6oap": [
+        {
+            "journal_info": {
+                "volume": "116",
+                "pdb_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "ISO_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "year": 2019,
+                "issue": "40",
+                "pages": "19973-19982"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Shin",
+                    "full_name": "Shin H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Ren",
+                    "full_name": "Ren Z",
+                    "initials": "Z"
+                },
+                {
+                    "last_name": "Zeng",
+                    "full_name": "Zeng X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Bandara",
+                    "full_name": "Bandara S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Yang",
+                    "full_name": "Yang X",
+                    "initials": "X"
+                }
+            ],
+            "title": "Structural basis of molecular logic OR in a dual-sensor histidine kinase.",
+            "pubmed_id": "31527275",
+            "type": "J",
+            "associated_entries": "6oaq, 6ob8",
+            "doi": "10.1073/pnas.1910855116"
+        }
+    ]
+}

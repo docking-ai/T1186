@@ -1,0 +1,64 @@
+{
+    "3vsl": [
+        {
+            "journal_info": {
+                "volume": "423",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2012,
+                "issue": "3",
+                "pages": "351-64"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Yoshida",
+                    "full_name": "Yoshida H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Kawai",
+                    "full_name": "Kawai F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Obayashi",
+                    "full_name": "Obayashi E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Akashi",
+                    "full_name": "Akashi S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Roper",
+                    "full_name": "Roper DI",
+                    "initials": "DI"
+                },
+                {
+                    "last_name": "Tame",
+                    "full_name": "Tame JR",
+                    "initials": "JR"
+                },
+                {
+                    "last_name": "Park",
+                    "full_name": "Park SY",
+                    "initials": "SY"
+                }
+            ],
+            "title": "Crystal Structures of Penicillin-Binding Protein 3 (PBP3) from Methicillin-Resistant Staphylococcus aureus in the Apo and Cefotaxime-Bound Forms.",
+            "pubmed_id": "22846910",
+            "type": "J",
+            "associated_entries": "3vsk",
+            "doi": "10.1016/j.jmb.2012.07.012"
+        }
+    ]
+}

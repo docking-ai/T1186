@@ -1,0 +1,79 @@
+{
+    "1wyc": [
+        {
+            "journal_info": {
+                "volume": "370",
+                "pdb_abbreviation": "J. Mol. Biol.",
+                "ISO_abbreviation": "J. Mol. Biol.",
+                "year": 2007,
+                "issue": "1",
+                "pages": "142-56"
+            },
+            "doi": "10.1016/j.jmb.2007.04.043",
+            "associated_entries": "2dcf",
+            "title": "Nylon-oligomer degrading enzyme/substrate complex: catalytic mechanism of 6-aminohexanoate-dimer hydrolase.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Negoro",
+                    "full_name": "Negoro S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Ohki",
+                    "full_name": "Ohki T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Shibata",
+                    "full_name": "Shibata N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Sasa",
+                    "full_name": "Sasa K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Hayashi",
+                    "full_name": "Hayashi H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Nakano",
+                    "full_name": "Nakano H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Yasuhira",
+                    "full_name": "Yasuhira K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Kato",
+                    "full_name": "Kato D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Takeo",
+                    "full_name": "Takeo M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Higuchi",
+                    "full_name": "Higuchi Y",
+                    "initials": "Y"
+                }
+            ],
+            "pubmed_id": "17512009",
+            "type": "J"
+        }
+    ]
+}

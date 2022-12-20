@@ -1,0 +1,69 @@
+{
+    "3pbr": [
+        {
+            "journal_info": {
+                "volume": "107",
+                "pdb_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "ISO_abbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+                "year": 2010,
+                "issue": "51",
+                "pages": "22002-7"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Han",
+                    "full_name": "Han S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Zaniewski",
+                    "full_name": "Zaniewski RP",
+                    "initials": "RP"
+                },
+                {
+                    "last_name": "Marr",
+                    "full_name": "Marr ES",
+                    "initials": "ES"
+                },
+                {
+                    "last_name": "Lacey",
+                    "full_name": "Lacey BM",
+                    "initials": "BM"
+                },
+                {
+                    "last_name": "Tomaras",
+                    "full_name": "Tomaras AP",
+                    "initials": "AP"
+                },
+                {
+                    "last_name": "Evdokimov",
+                    "full_name": "Evdokimov A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Miller",
+                    "full_name": "Miller JR",
+                    "initials": "JR"
+                },
+                {
+                    "last_name": "Shanmugasundaram",
+                    "full_name": "Shanmugasundaram V",
+                    "initials": "V"
+                }
+            ],
+            "title": "Structural basis for effectiveness of siderophore-conjugated monocarbams against clinically relevant strains of Pseudomonas aeruginosa.",
+            "pubmed_id": "21135211",
+            "type": "J",
+            "associated_entries": "3pbn, 3pbo, 3pbq, 3pbs, 3pbt",
+            "doi": "10.1073/pnas.1013092107"
+        }
+    ]
+}

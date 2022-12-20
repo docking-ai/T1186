@@ -1,0 +1,74 @@
+{
+    "1ei5": [
+        {
+            "journal_info": {
+                "volume": "8",
+                "pdb_abbreviation": "Structure",
+                "ISO_abbreviation": "Structure",
+                "year": 2000,
+                "issue": "9",
+                "pages": "971-80"
+            },
+            "doi": "10.1016/s0969-2126(00)00188-x",
+            "associated_entries": null,
+            "title": "Crystal structure of a D-aminopeptidase from Ochrobactrum anthropi, a new member of the 'penicillin-recognizing enzyme' family.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Bompard-Gilles",
+                    "full_name": "Bompard-Gilles C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Remaut",
+                    "full_name": "Remaut H",
+                    "initials": "H"
+                },
+                {
+                    "last_name": "Villeret",
+                    "full_name": "Villeret V",
+                    "initials": "V"
+                },
+                {
+                    "last_name": "Prang\ufffd\ufffd",
+                    "full_name": "Prang\ufffd\ufffd T",
+                    "initials": "T"
+                },
+                {
+                    "last_name": "Fanuel",
+                    "full_name": "Fanuel L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Delmarcelle",
+                    "full_name": "Delmarcelle M",
+                    "initials": "M"
+                },
+                {
+                    "last_name": "Joris",
+                    "full_name": "Joris B",
+                    "initials": "B"
+                },
+                {
+                    "last_name": "Fr\ufffd\ufffdre",
+                    "full_name": "Fr\ufffd\ufffdre J",
+                    "initials": "J"
+                },
+                {
+                    "last_name": "Van Beeumen",
+                    "full_name": "Van Beeumen J",
+                    "initials": "J"
+                }
+            ],
+            "pubmed_id": "10986464",
+            "type": "J"
+        }
+    ]
+}

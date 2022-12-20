@@ -1,0 +1,69 @@
+{
+    "3zcz": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "Biochemistry",
+                "ISO_abbreviation": "Biochemistry",
+                "year": 2013,
+                "issue": null,
+                "pages": null
+            },
+            "doi": "10.1021/bi400048s",
+            "associated_entries": null,
+            "title": "Inhibition of dd-Peptidases by a Specific Trifluoroketone: Crystal Structure of a Complex with the Actinomadura R39 dd-Peptidase.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Dzhekieva",
+                    "full_name": "Dzhekieva L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Adediran",
+                    "full_name": "Adediran SA",
+                    "initials": "SA"
+                },
+                {
+                    "last_name": "Herman",
+                    "full_name": "Herman R",
+                    "initials": "R"
+                },
+                {
+                    "last_name": "Kerff",
+                    "full_name": "Kerff F",
+                    "initials": "F"
+                },
+                {
+                    "last_name": "Duez",
+                    "full_name": "Duez C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Charlier",
+                    "full_name": "Charlier P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Sauvage",
+                    "full_name": "Sauvage E",
+                    "initials": "E"
+                },
+                {
+                    "last_name": "Pratt",
+                    "full_name": "Pratt RF",
+                    "initials": "RF"
+                }
+            ],
+            "pubmed_id": "23484909",
+            "type": "J"
+        }
+    ]
+}

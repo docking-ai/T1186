@@ -1,0 +1,79 @@
+{
+    "3v5m": [
+        {
+            "journal_info": {
+                "volume": "7",
+                "pdb_abbreviation": "ChemMedChem",
+                "ISO_abbreviation": "ChemMedChem",
+                "year": 2012,
+                "issue": "6",
+                "pages": "1002-8"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Ke",
+                    "full_name": "Ke W",
+                    "initials": "W"
+                },
+                {
+                    "last_name": "Rodkey",
+                    "full_name": "Rodkey EA",
+                    "initials": "EA"
+                },
+                {
+                    "last_name": "Sampson",
+                    "full_name": "Sampson JM",
+                    "initials": "JM"
+                },
+                {
+                    "last_name": "Skalweit",
+                    "full_name": "Skalweit MJ",
+                    "initials": "MJ"
+                },
+                {
+                    "last_name": "Sheri",
+                    "full_name": "Sheri A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Pagadala",
+                    "full_name": "Pagadala SR",
+                    "initials": "SR"
+                },
+                {
+                    "last_name": "Nottingham",
+                    "full_name": "Nottingham MD",
+                    "initials": "MD"
+                },
+                {
+                    "last_name": "Buynak",
+                    "full_name": "Buynak JD",
+                    "initials": "JD"
+                },
+                {
+                    "last_name": "Bonomo",
+                    "full_name": "Bonomo RA",
+                    "initials": "RA"
+                },
+                {
+                    "last_name": "van den Akker",
+                    "full_name": "van den Akker F",
+                    "initials": "F"
+                }
+            ],
+            "title": "The importance of the trans-enamine intermediate as a \ufffd\ufffd-lactamase inhibition strategy probed in inhibitor-resistant SHV \ufffd\ufffd-lactamase variants.",
+            "pubmed_id": "22438274",
+            "type": "J",
+            "associated_entries": "3v50",
+            "doi": "10.1002/cmdc.201200006"
+        }
+    ]
+}

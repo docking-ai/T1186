@@ -1,0 +1,69 @@
+{
+    "3udf": [
+        {
+            "journal_info": {
+                "volume": "133",
+                "pdb_abbreviation": "J. Am. Chem. Soc.",
+                "ISO_abbreviation": "J. Am. Chem. Soc.",
+                "year": 2011,
+                "issue": "50",
+                "pages": "20536-45"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Han",
+                    "full_name": "Han S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Caspers",
+                    "full_name": "Caspers N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Zaniewski",
+                    "full_name": "Zaniewski RP",
+                    "initials": "RP"
+                },
+                {
+                    "last_name": "Lacey",
+                    "full_name": "Lacey BM",
+                    "initials": "BM"
+                },
+                {
+                    "last_name": "Tomaras",
+                    "full_name": "Tomaras AP",
+                    "initials": "AP"
+                },
+                {
+                    "last_name": "Feng",
+                    "full_name": "Feng X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Geoghegan",
+                    "full_name": "Geoghegan KF",
+                    "initials": "KF"
+                },
+                {
+                    "last_name": "Shanmugasundaram",
+                    "full_name": "Shanmugasundaram V",
+                    "initials": "V"
+                }
+            ],
+            "title": "Distinctive attributes of \ufffd\ufffd-lactam target proteins in Acinetobacter baumannii relevant to development of new antibiotics.",
+            "pubmed_id": "22050378",
+            "type": "J",
+            "associated_entries": "3udi, 3udx, 3ue0, 3ue1, 3ue3",
+            "doi": "10.1021/ja208835z"
+        }
+    ]
+}

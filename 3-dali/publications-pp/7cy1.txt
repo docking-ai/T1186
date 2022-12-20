@@ -1,0 +1,49 @@
+{
+    "7cy1": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "J. Biol. Chem.",
+                "ISO_abbreviation": "J Biol Chem",
+                "year": 2021,
+                "issue": null,
+                "pages": "100308"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Kapoor",
+                    "full_name": "Kapoor S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Kodesia",
+                    "full_name": "Kodesia A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "Kalidas",
+                    "full_name": "Kalidas N",
+                    "initials": "N"
+                },
+                {
+                    "last_name": "Thakur",
+                    "full_name": "Thakur KG",
+                    "initials": "KG"
+                }
+            ],
+            "title": "Structural characterization of Myxococcus xanthus MglC, a component of the polarity control system, and its interactions with its paralog MglB.",
+            "pubmed_id": "33493516",
+            "type": "J",
+            "associated_entries": "7ct3",
+            "doi": "10.1016/j.jbc.2021.100308"
+        }
+    ]
+}

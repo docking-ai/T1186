@@ -1,0 +1,74 @@
+{
+    "6md8": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "ACS Infect Dis",
+                "ISO_abbreviation": "ACS Infect Dis",
+                "year": 2019,
+                "issue": null,
+                "pages": null
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Torelli",
+                    "full_name": "Torelli NJ",
+                    "initials": "NJ"
+                },
+                {
+                    "last_name": "Akhtar",
+                    "full_name": "Akhtar A",
+                    "initials": "A"
+                },
+                {
+                    "last_name": "DeFrees",
+                    "full_name": "DeFrees K",
+                    "initials": "K"
+                },
+                {
+                    "last_name": "Jaishankar",
+                    "full_name": "Jaishankar P",
+                    "initials": "P"
+                },
+                {
+                    "last_name": "Pemberton",
+                    "full_name": "Pemberton OA",
+                    "initials": "OA"
+                },
+                {
+                    "last_name": "Zhang",
+                    "full_name": "Zhang X",
+                    "initials": "X"
+                },
+                {
+                    "last_name": "Johnson",
+                    "full_name": "Johnson C",
+                    "initials": "C"
+                },
+                {
+                    "last_name": "Renslo",
+                    "full_name": "Renslo AR",
+                    "initials": "AR"
+                },
+                {
+                    "last_name": "Chen",
+                    "full_name": "Chen Y",
+                    "initials": "Y"
+                }
+            ],
+            "title": "Active-site druggability of carbapenemases and broad-spectrum inhibitor discovery.",
+            "pubmed_id": "30942078",
+            "type": "J",
+            "associated_entries": "6efj, 6m7i, 6mdu, 6mey, 6mia, 6mll, 6mnp",
+            "doi": "10.1021/acsinfecdis.9b00052"
+        }
+    ]
+}

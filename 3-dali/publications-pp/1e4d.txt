@@ -1,0 +1,64 @@
+{
+    "1e4d": [
+        {
+            "journal_info": {
+                "volume": "8",
+                "pdb_abbreviation": "Structure",
+                "ISO_abbreviation": "Structure",
+                "year": 2000,
+                "issue": "12",
+                "pages": "1289-98"
+            },
+            "doi": "10.1016/s0969-2126(00)00534-7",
+            "associated_entries": "1e3u",
+            "title": "Insights into class D beta-lactamases are revealed by the crystal structure of the OXA10 enzyme from Pseudomonas aeruginosa.",
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Maveyraud",
+                    "full_name": "Maveyraud L",
+                    "initials": "L"
+                },
+                {
+                    "last_name": "Golemi",
+                    "full_name": "Golemi D",
+                    "initials": "D"
+                },
+                {
+                    "last_name": "Kotra",
+                    "full_name": "Kotra LP",
+                    "initials": "LP"
+                },
+                {
+                    "last_name": "Tranier",
+                    "full_name": "Tranier S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Vakulenko",
+                    "full_name": "Vakulenko S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Mobashery",
+                    "full_name": "Mobashery S",
+                    "initials": "S"
+                },
+                {
+                    "last_name": "Samama",
+                    "full_name": "Samama JP",
+                    "initials": "JP"
+                }
+            ],
+            "pubmed_id": "11188693",
+            "type": "J"
+        }
+    ]
+}

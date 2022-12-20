@@ -1,0 +1,49 @@
+{
+    "5oe2": [
+        {
+            "journal_info": {
+                "volume": "73",
+                "pdb_abbreviation": "Acta Crystallogr F Struct Biol Commun",
+                "ISO_abbreviation": "Acta Crystallogr F Struct Biol Commun",
+                "year": 2017,
+                "issue": "Pt 10",
+                "pages": "579-587"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": "Lund",
+                    "full_name": "Lund BA",
+                    "initials": "BA"
+                },
+                {
+                    "last_name": "Thomassen",
+                    "full_name": "Thomassen AM",
+                    "initials": "AM"
+                },
+                {
+                    "last_name": "Carlsen",
+                    "full_name": "Carlsen TJO",
+                    "initials": "TJO"
+                },
+                {
+                    "last_name": "Leiros",
+                    "full_name": "Leiros HKS",
+                    "initials": "HKS"
+                }
+            ],
+            "title": "Structure, activity and thermostability investigations of OXA-163, OXA-181 and OXA-245 using biochemical analysis, crystal structures and differential scanning calorimetry analysis.",
+            "pubmed_id": "28994407",
+            "type": "J",
+            "associated_entries": "5odz, 5oe0",
+            "doi": "10.1107/s2053230x17013838"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "6z7h": [
+        {
+            "journal_info": {
+                "volume": null,
+                "pdb_abbreviation": "MBio",
+                "ISO_abbreviation": null,
+                "year": 2022,
+                "issue": null,
+                "pages": "e0179321-e0179321"
+            },
+            "abstract": {
+                "methods": null,
+                "conclusions": null,
+                "results": null,
+                "unassigned": null,
+                "background": null,
+                "objective": null
+            },
+            "author_list": [
+                {
+                    "last_name": null,
+                    "full_name": "Hinchliffe, P.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Tooke, C.L.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Bethel, C.R.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Wang, B.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Arthur, C.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Heesom, K.J.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Shapiro, S.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Schlatzer, D.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Papp-Wallace, K.M.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Bonomo, R.A.",
+                    "initials": null
+                },
+                {
+                    "last_name": null,
+                    "full_name": "Spencer, J.",
+                    "initials": null
+                }
+            ],
+            "title": "Penicillanic Acid Sulfones Inactivate the Extended-Spectrum beta-Lactamase CTX-M-15 through Formation of a Serine-Lysine Cross-Link: an Alternative Mechanism of beta-Lactamase Inhibition.",
+            "pubmed_id": "35612361",
+            "type": "J",
+            "associated_entries": "6z7i, 6z7j, 6z7k, 7bdr, 7bds, 7qq5, 7qqc, 7r3q, 7r3r",
+            "doi": "10.1128/mbio.01793-21"
+        }
+    ]
+}
